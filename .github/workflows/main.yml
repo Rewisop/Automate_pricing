@@ -38,7 +38,7 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
             git commit -m "chore(auto): deeptech daily refresh"
-            git push https://x-access-token:${{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 }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
+            git push https://x-access-token:${{secrets.REPO_PAT}}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
           else
             echo "No changes."
           fi
