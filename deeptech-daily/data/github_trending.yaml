@@ -1,6 +1,118 @@
-error: 'HTTPSConnectionPool(host=''api.github.com'', port=443): Max retries exceeded
-  with url: /search/repositories?q=%28LLM+OR+%22large+language+model%22+OR+genai%29+created%3A%3E2025-10-09&sort=stars&order=desc&per_page=20
-  (Caused by NewConnectionError(''<urllib3.connection.HTTPSConnection object at 0xXXXX>:
-  Failed to establish a new connection: [Errno 101] Network is unreachable''))'
-generated_at: '2025-10-16T22:09:42Z'
-items: []
+generated_at: '2025-10-16T23:30:21Z'
+items:
+- created_at: '2025-10-12T07:33:04Z'
+  description: LLM tuto, PDF Q&A System, etc.
+  full_name: njadNissi/NLP_tuto
+  html_url: https://github.com/njadNissi/NLP_tuto
+  stargazers_count: 38
+- created_at: '2025-10-12T08:21:29Z'
+  description: A modified Codex CLI application built to support local LLMs
+  full_name: 0xSero/codex-local
+  html_url: https://github.com/0xSero/codex-local
+  stargazers_count: 24
+- created_at: '2025-10-11T07:17:06Z'
+  description: 'Awesome Long-Form Factuality: A Curated List of Papers and Resources
+    on Enhancing Factuality in Long-Form LLM Generations'
+  full_name: ki-ljl/Awesome-Long-Form-Factuality
+  html_url: https://github.com/ki-ljl/Awesome-Long-Form-Factuality
+  stargazers_count: 19
+- created_at: '2025-10-11T04:37:27Z'
+  description: this is the repository for the paper ‘A Survey of Inductive Reasoning
+    for Large Language Models’
+  full_name: BDML-lab/llm-inductive-reasoning-survey
+  html_url: https://github.com/BDML-lab/llm-inductive-reasoning-survey
+  stargazers_count: 18
+- created_at: '2025-10-14T15:53:13Z'
+  description: 'Quantization Meets dLLMs: A Systematic Study of Post-training Quantization
+    for Diffusion LLMs'
+  full_name: FelixMessi/QDLM
+  html_url: https://github.com/FelixMessi/QDLM
+  stargazers_count: 16
+- created_at: '2025-10-13T15:35:12Z'
+  description: Enabling Efficient Reasoning in LLMs via Black-box Adversarial Prompting
+  full_name: hemingkx/AdvPrompt
+  html_url: https://github.com/hemingkx/AdvPrompt
+  stargazers_count: 14
+- created_at: '2025-10-13T21:27:38Z'
+  description: Self-improving LLM system using Generator-Reflector-Curator pattern
+    for online learning from execution feedback
+  full_name: jmanhype/ace-playbook
+  html_url: https://github.com/jmanhype/ace-playbook
+  stargazers_count: 10
+- created_at: '2025-10-16T01:36:14Z'
+  description: A Survey on Large Language Models for Personalized Alignment
+  full_name: Tomsawyerhu/Awesome-Personalized-Alignment
+  html_url: https://github.com/Tomsawyerhu/Awesome-Personalized-Alignment
+  stargazers_count: 9
+- created_at: '2025-10-12T20:19:46Z'
+  description: A Model Context Protocol (MCP) proxy server that translates tool calls
+    into TypeScript code generation. Instead of making multiple tool calls back and
+    forth, L…
+  full_name: zbowling/mcpcodeserver
+  html_url: https://github.com/zbowling/mcpcodeserver
+  stargazers_count: 8
+- created_at: '2025-10-14T03:28:07Z'
+  description: 'Official code for "LLM-ERM: Sample-Efficient Program Learning via
+    LLM-Guided Search", Arxiv 2025'
+  full_name: DLFundamentals/LLM_ERM
+  html_url: https://github.com/DLFundamentals/LLM_ERM
+  stargazers_count: 7
+- created_at: '2025-10-10T11:55:15Z'
+  description: '[ArXiv 2025] A curated list of papers on on-device large language
+    models, focusing on model compression and system optimization techniques from
+    the survey "On-…'
+  full_name: LumosJiang/Awesome-On-Device-LLMs
+  html_url: https://github.com/LumosJiang/Awesome-On-Device-LLMs
+  stargazers_count: 7
+- created_at: '2025-10-12T17:10:35Z'
+  description: AI-powered Docker log analysis CLI — Analyze container logs using LLMs
+    (Ollama or OpenAI).
+  full_name: ahmetatakan/dockai
+  html_url: https://github.com/ahmetatakan/dockai
+  stargazers_count: 7
+- created_at: '2025-10-15T11:38:03Z'
+  description: 'LangGraph Mastery Playbook: guided, code-first lessons for building
+    memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.'
+  full_name: leslieo2/LangGraph-Mastery-Playbook
+  html_url: https://github.com/leslieo2/LangGraph-Mastery-Playbook
+  stargazers_count: 7
+- created_at: '2025-10-15T08:08:02Z'
+  description: pocketbase LLM docs scraper
+  full_name: magooney-loon/pb-llm
+  html_url: https://github.com/magooney-loon/pb-llm
+  stargazers_count: 7
+- created_at: '2025-10-11T02:39:39Z'
+  description: papers for token compression in mllms.
+  full_name: qianweijiujiu/Awesome-Token-Pruning-and-Merging-for-Multimodal-Large-Language-Models
+  html_url: https://github.com/qianweijiujiu/Awesome-Token-Pruning-and-Merging-for-Multimodal-Large-Language-Models
+  stargazers_count: 7
+- created_at: '2025-10-14T20:05:57Z'
+  description: A large language model style agent based modeling that simulate misinformation
+    spreading in a network
+  full_name: TianzhuQin/LLM-ABM-Information-Network
+  html_url: https://github.com/TianzhuQin/LLM-ABM-Information-Network
+  stargazers_count: 6
+- created_at: '2025-10-10T18:06:50Z'
+  description: 'This is the official repository for the paper "MLLM-Fabric: Multimodal
+    Large Language Model-Driven Robotic Framework for Fabric Sorting and Selection".'
+  full_name: limanwang/MLLM-Fabric
+  html_url: https://github.com/limanwang/MLLM-Fabric
+  stargazers_count: 6
+- created_at: '2025-10-13T20:16:10Z'
+  description: The first benchmark to evaluate LLM performance on heterogeneous CTI
+    under knowledge-augmented settings.
+  full_name: peng-gao-lab/CTIArena
+  html_url: https://github.com/peng-gao-lab/CTIArena
+  stargazers_count: 6
+- created_at: '2025-10-12T08:01:30Z'
+  description: A Hierarchical Framework for Measuring Scientific Paper Innovation
+    via Large Language Models
+  full_name: Jasaxion/HSPIM
+  html_url: https://github.com/Jasaxion/HSPIM
+  stargazers_count: 5
+- created_at: '2025-10-11T10:32:12Z'
+  description: Boundary-Guided Policy Optimization for Memory-Efficient RL of Diffusion
+    Large Language Models
+  full_name: THU-KEG/BGPO
+  html_url: https://github.com/THU-KEG/BGPO
+  stargazers_count: 5

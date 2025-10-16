@@ -1,8 +1,8 @@
 {
   "errors": [
-    "Vast.ai: HTTPSConnectionPool(host='vast.ai', port=443): Max retries exceeded with url: /api/v0/bundles/public?limit=200&skip=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0xXXXX>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"
+    "Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai/api/v0/bundles/public/?limit=200&skip=0"
   ],
-  "generated_at": "2025-10-16T22:09:42Z",
+  "generated_at": "2025-10-16T23:30:21Z",
   "gpus": [],
   "sources": [
     {

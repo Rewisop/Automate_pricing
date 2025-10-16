@@ -1,6 +1,43 @@
-error: 'HTTPSConnectionPool(host=''cve.circl.lu'', port=443): Max retries exceeded
-  with url: /api/last (Caused by NewConnectionError(''<urllib3.connection.HTTPSConnection
-  object at 0xXXXX>: Failed to establish a new connection: [Errno 101] Network is
-  unreachable''))'
-generated_at: '2025-10-16T22:09:42Z'
-items: []
+generated_at: '2025-10-16T23:30:21Z'
+items:
+- cvss: 0.0
+  id: GHSA-xmcw-mv9p-7pq2
+  published: '2025-09-05T21:32:38Z'
+  summary: 'Duplicate Advisory: Keycloak error_description injection on error pages
+    that can trigger phishing attacks'
+- cvss: 0.0
+  id: null
+  published: '2025-10-16T23:30:21Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-16T23:30:21Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-16T23:30:21Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-16T23:30:21Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-16T23:30:21Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-16T23:30:21Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-16T23:30:21Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-16T23:30:21Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-16T23:30:21Z'
+  summary: ''
