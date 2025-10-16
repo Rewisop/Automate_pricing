@@ -1,0 +1,5 @@
+requests
+pyyaml
+feedparser
+huggingface_hub
+tabulate

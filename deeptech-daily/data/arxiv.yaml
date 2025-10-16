@@ -1,0 +1,112 @@
+generated_at: '2025-10-16T22:08:47Z'
+items:
+- id: oai:arXiv.org:2510.12864v1
+  link: https://arxiv.org/abs/2510.12864
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.12864v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) are increasingly being deployed as the reasoning engines for agentic AI
+    systems,…'
+  title: 'From Literal to Liberal: A Meta-Prompting Framework for Eliciting Human-Aligned
+    Exception Handling in Large Language Models'
+- id: oai:arXiv.org:2510.12979v1
+  link: https://arxiv.org/abs/2510.12979
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.12979v1 Announce Type: new  Abstract: Large language models
+    (LLMs) augmented with multi-step reasoning and action generation abilities have
+    shown pr…'
+  title: 'DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage
+    Shaping'
+- id: oai:arXiv.org:2510.12985v1
+  link: https://arxiv.org/abs/2510.12985
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.12985v1 Announce Type: new  Abstract: We present Sentinel,
+    the first framework for formally evaluating the physical safety of Large Language
+    Model(L…'
+  title: 'SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of LLM-based
+    Embodied Agents'
+- id: oai:arXiv.org:2510.13002v1
+  link: https://arxiv.org/abs/2510.13002
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.13002v1 Announce Type: new  Abstract: Vehicle crashes involve
+    complex interactions between road users, split-second decisions, and challenging
+    envir…'
+  title: 'From Narratives to Probabilistic Reasoning: Predicting and Interpreting
+    Drivers'' Hazardous Actions in Crashes Using Large Language Model'
+- id: oai:arXiv.org:2510.13029v1
+  link: https://arxiv.org/abs/2510.13029
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.13029v1 Announce Type: new  Abstract: Traditional time series
+    analysis has long relied on pattern recognition, trained on static and well-establishe…'
+  title: Toward Reasoning-Centric Time-Series Analysis
+- id: oai:arXiv.org:2510.13036v1
+  link: https://arxiv.org/abs/2510.13036
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.13036v1 Announce Type: new  Abstract: Human-designed reward
+    functions for reinforcement learning (RL) agents are frequently misaligned with
+    the huma…'
+  title: Repairing Reward Functions with Human Feedback to Mitigate Reward Hacking
+- id: oai:arXiv.org:2510.13195v1
+  link: https://arxiv.org/abs/2510.13195
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.13195v1 Announce Type: new  Abstract: The advent of large language
+    models (LLMs) has enabled agents to represent virtual humans in societal simulati…'
+  title: Emotional Cognitive Modeling Framework with Desire-Driven Objective Optimization
+    for LLM-empowered Agent in Social Simulation
+- id: oai:arXiv.org:2510.13214v1
+  link: https://arxiv.org/abs/2510.13214
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.13214v1 Announce Type: new  Abstract: Recent advances in Large
+    Language Models (LLMs) demonstrate that chain-of-thought prompting and deep reasoning…'
+  title: 'Adaptive Reasoning Executor: A Collaborative Agent System for Efficient
+    Reasoning'
+- id: oai:arXiv.org:2510.13215v1
+  link: https://arxiv.org/abs/2510.13215
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.13215v1 Announce Type: new  Abstract: Personalized Learning
+    Path Planning (PLPP) aims to design adaptive learning paths that align with individual
+    g…'
+  title: Personalized Learning Path Planning with Goal-Driven Learner State Modeling
+- id: oai:arXiv.org:2510.13220v1
+  link: https://arxiv.org/abs/2510.13220
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.13220v1 Announce Type: new  Abstract: A fundamental limitation
+    of current AI agents is their inability to learn complex skills on the fly at
+    test ti…'
+  title: 'EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems'
+- id: oai:arXiv.org:2510.13230v1
+  link: https://arxiv.org/abs/2510.13230
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.13230v1 Announce Type: new  Abstract: The driving environment
+    perception has a vital role for autonomous driving and nowadays has been actively
+    expl…'
+  title: An Analytical Framework to Enhance Autonomous Vehicle Perception for Smart
+    Cities
+- id: oai:arXiv.org:2510.13262v1
+  link: https://arxiv.org/abs/2510.13262
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.13262v1 Announce Type: new  Abstract: Multi-Agent Deep Reinforcement
+    Learning (MADRL) has shown potential for cooperative and competitive tasks such…'
+  title: 'SAJA: A State-Action Joint Attack Framework on Multi-Agent Deep Reinforcement
+    Learning'
+- id: oai:arXiv.org:2510.13393v1
+  link: https://arxiv.org/abs/2510.13393
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.13393v1 Announce Type: new  Abstract: Rationalization, a data-centric
+    framework, aims to build self-explanatory models to explain the prediction out…'
+  title: Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation
+    Rationalization
+- id: oai:arXiv.org:2510.13417v1
+  link: https://arxiv.org/abs/2510.13417
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.13417v1 Announce Type: new  Abstract: How does a cause lead
+    to an effect, and which intermediate causal steps explain their connection? This
+    work sc…'
+  title: Assessing LLM Reasoning Through Implicit Causal Chain Discovery in Climate
+    Discourse
+- id: oai:arXiv.org:2510.13459v1
+  link: https://arxiv.org/abs/2510.13459
+  published: '2025-10-16T04:00:00Z'
+  summary: 'arXiv:2510.13459v1 Announce Type: new  Abstract: Effective assessment
+    of mobile network coverage and the precise identification of service weak spots
+    are param…'
+  title: Mobile Coverage Analysis using Crowdsourced Data

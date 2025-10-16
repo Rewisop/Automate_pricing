@@ -1,0 +1,27 @@
+{
+  "errors": [
+    "Vast.ai: HTTPSConnectionPool(host='vast.ai', port=443): Max retries exceeded with url: /api/v0/bundles/public?limit=200&skip=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0xXXXX>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"
+  ],
+  "generated_at": "2025-10-16T22:09:42Z",
+  "gpus": [],
+  "sources": [
+    {
+      "base_url": "https://vast.ai/api/v0/bundles/public",
+      "enabled": true,
+      "name": "Vast.ai",
+      "parser": "parse_vastai"
+    },
+    {
+      "base_url": "https://api.runpod.io",
+      "enabled": false,
+      "name": "RunPod",
+      "parser": "parse_runpod"
+    },
+    {
+      "base_url": "https://modal.com/api",
+      "enabled": false,
+      "name": "Modal",
+      "parser": "parse_modal"
+    }
+  ]
+}
