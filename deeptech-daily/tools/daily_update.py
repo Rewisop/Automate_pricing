@@ -246,24 +246,46 @@ def collect_arxiv() -> SectionResult:
     return SectionResult(sorted_items, section)
 
 
-def hf_api_client() -> HfApi:
-    token = os.getenv("HUGGINGFACE_HUB_TOKEN")
+def hf_api_client(token: Optional[str] = None) -> HfApi:
+    if token is None:
+        token = os.getenv("HUGGINGFACE_HUB_TOKEN")
     return HfApi(token=token)
 
 
 def collect_hf_models() -> SectionResult:
-    api = hf_api_client()
+    token = os.getenv("HUGGINGFACE_HUB_TOKEN")
+
+    def fetch(current_token: Optional[str]):
+        api_client = hf_api_client(current_token)
+        return list(api_client.list_models(sort="downloads", direction=-1, limit=15))
+
     try:
-        models = api.list_models(sort="downloads", direction=-1, limit=15)
+        models = fetch(token)
     except Exception as exc:  # noqa: BLE001
-        payload = {
-            "generated_at": isoformat(NOW),
-            "items": [],
-            "error": format_exception(exc),
-        }
-        write_yaml_if_changed(DATA_DIR / "hf_trending.yaml", payload)
-        message = format_exception(exc)
-        return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+        if token:
+            try:
+                models = fetch(None)
+            except Exception as fallback_exc:  # noqa: BLE001
+                payload = {
+                    "generated_at": isoformat(NOW),
+                    "items": [],
+                    "error": format_exception(fallback_exc),
+                }
+                write_yaml_if_changed(DATA_DIR / "hf_trending.yaml", payload)
+                message = format_exception(fallback_exc)
+                return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+        else:
+            payload = {
+                "generated_at": isoformat(NOW),
+                "items": [],
+                "error": format_exception(exc),
+            }
+            write_yaml_if_changed(DATA_DIR / "hf_trending.yaml", payload)
+            message = format_exception(exc)
+            return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+
+    if not isinstance(models, list):
+        models = list(models)
     items: List[Dict[str, Any]] = []
     for model in models:
         model_id = getattr(model, "modelId", None) or getattr(model, "id", None)
@@ -497,18 +519,39 @@ def collect_cves() -> SectionResult:
 
 
 def collect_hf_datasets() -> SectionResult:
-    api = hf_api_client()
+    token = os.getenv("HUGGINGFACE_HUB_TOKEN")
+
+    def fetch(current_token: Optional[str]):
+        api_client = hf_api_client(current_token)
+        return list(api_client.list_datasets(sort="downloads", direction=-1, limit=15))
+
     try:
-        datasets = api.list_datasets(sort="downloads", direction=-1, limit=15)
+        datasets = fetch(token)
     except Exception as exc:  # noqa: BLE001
-        payload = {
-            "generated_at": isoformat(NOW),
-            "items": [],
-            "error": format_exception(exc),
-        }
-        write_yaml_if_changed(DATA_DIR / "hf_datasets.yaml", payload)
-        message = format_exception(exc)
-        return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+        if token:
+            try:
+                datasets = fetch(None)
+            except Exception as fallback_exc:  # noqa: BLE001
+                payload = {
+                    "generated_at": isoformat(NOW),
+                    "items": [],
+                    "error": format_exception(fallback_exc),
+                }
+                write_yaml_if_changed(DATA_DIR / "hf_datasets.yaml", payload)
+                message = format_exception(fallback_exc)
+                return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+        else:
+            payload = {
+                "generated_at": isoformat(NOW),
+                "items": [],
+                "error": format_exception(exc),
+            }
+            write_yaml_if_changed(DATA_DIR / "hf_datasets.yaml", payload)
+            message = format_exception(exc)
+            return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+
+    if not isinstance(datasets, list):
+        datasets = list(datasets)
     items: List[Dict[str, Any]] = []
     for dataset in datasets:
         last_modified = getattr(dataset, "lastModified", None) or getattr(dataset, "last_modified", None)
