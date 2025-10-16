@@ -1,3 +1,17 @@
+"""End-to-end automation for the DeepTech Daily report.
+
+This module provides a single entry point that orchestrates fetching data from a
+handful of public APIs (GPU pricing, arXiv, Hugging Face, GitHub, Papers with
+Code, Hacker News, CVEs). Each `collect_*` function is responsible for a single
+data source and returns both the machine readable payload and a Markdown
+rendering. The `main()` function aggregates the results, writes structured files
+to :mod:`deeptech-daily/data` and refreshes the Markdown sections in
+``deeptech-daily/README.md``.
+
+The script is intentionally dependency-light so that it can run inside scheduled
+CI jobs as well as on local developer machines.
+"""
+
 from __future__ import annotations
 
 import json
@@ -35,12 +49,26 @@ HEX_PTR = re.compile(r"0x[0-9a-fA-F]+")
 
 @dataclass
 class SectionResult:
+    """Container returned by each section collector.
+
+    Attributes
+    ----------
+    items:
+        Machine-readable objects ready to be serialised to JSON/YAML.
+    readme:
+        Markdown representation injected between README markers.
+    error:
+        Optional description used to surface partial failures to the user.
+    """
+
     items: List[Dict[str, Any]]
     readme: str
     error: Optional[str] = None
 
 
 def truncate(text: str, limit: int = MAX_TEXT_LENGTH) -> str:
+    """Collapse whitespace and shorten long text blocks for table output."""
+
     text = (text or "").strip().replace("\n", " ")
     if len(text) <= limit:
         return text
@@ -48,6 +76,8 @@ def truncate(text: str, limit: int = MAX_TEXT_LENGTH) -> str:
 
 
 def isoformat(dt: datetime) -> str:
+    """Normalise datetimes to a Z-suffixed ISO 8601 string."""
+
     return dt.astimezone(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
 
