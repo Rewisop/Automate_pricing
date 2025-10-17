@@ -40,6 +40,8 @@ REPO_ROOT = BASE_DIR.parent
 DATA_DIR = BASE_DIR / "data"
 README_PATH = BASE_DIR / "README.md"
 GPU_PROVIDERS_PATH = BASE_DIR / "providers" / "gpu_sources.yaml"
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
 UTC = timezone.utc
 NOW = datetime.now(UTC)
 HEADERS = {
@@ -383,7 +385,7 @@ def collect_gpu_prices() -> SectionResult:
         write_json_if_changed(cache_path, payload, source_urls or None)
     return SectionResult(sorted_items, table, error_text)
 
-from .metrics import (
+from deeptech_daily.tools.metrics import (
     compute_min_prices_by_gpu,
     compute_dpi,
     load_history,
@@ -396,7 +398,7 @@ from .metrics import (
 )
 
 DPI_HISTORY_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "dpi_history.json")
-README_PATH = os.path.join(os.path.dirname(__file__), "..", "README.md")
+README_PATH = Path(os.path.join(os.path.dirname(__file__), "..", "README.md"))
 
 
 def _safe_read_json(path: str):
@@ -1352,7 +1354,7 @@ SECTION_BUILDERS = {
     "HFDATA": collect_hf_datasets,
 }
 
-from .anomaly import (
+from deeptech_daily.tools.anomaly import (
     assess_anomalies,
     collect_today_metrics,
     render_radar_md,
@@ -1445,5 +1447,22 @@ def main() -> int:
     return 0
 
 
+def _run_import_test() -> None:
+    """Run a lightweight smoke test to validate module imports."""
+
+    try:
+        for marker, builder in SECTION_BUILDERS.items():
+            if not callable(builder):
+                raise TypeError(f"Section builder for {marker} is not callable")
+    except Exception:  # noqa: BLE001
+        LOGGER.exception("Daily update script import test failed")
+        raise
+    LOGGER.info("✅ Daily update script import test passed")
+
+
 if __name__ == "__main__":
+    try:
+        _run_import_test()
+    except Exception:  # noqa: BLE001
+        sys.exit(1)
     sys.exit(main())
