@@ -14,14 +14,20 @@ CI jobs as well as on local developer machines.
 
 from __future__ import annotations
 
+import functools
+import hashlib
 import json
+import logging
 import os
 import re
+import subprocess
 import sys
+import time
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
+from html import escape
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 import feedparser
 import requests
@@ -30,6 +36,7 @@ from huggingface_hub import HfApi
 from tabulate import tabulate
 
 BASE_DIR = Path(__file__).resolve().parents[1]
+REPO_ROOT = BASE_DIR.parent
 DATA_DIR = BASE_DIR / "data"
 README_PATH = BASE_DIR / "README.md"
 GPU_PROVIDERS_PATH = BASE_DIR / "providers" / "gpu_sources.yaml"
@@ -44,7 +51,67 @@ MAX_TEXT_LENGTH = 160
 REQUEST_TIMEOUT = (5, 15)
 SESSION = requests.Session()
 SESSION.trust_env = False
+LOG_LEVEL = os.getenv("DEEPTECH_LOG_LEVEL", "INFO").upper()
+logging.basicConfig(
+    level=getattr(logging, LOG_LEVEL, logging.INFO),
+    format="%(asctime)s %(levelname)s %(name)s - %(message)s",
+)
+LOGGER = logging.getLogger("deeptech_daily")
 HEX_PTR = re.compile(r"0x[0-9a-fA-F]+")
+
+
+def instrumented(name: Optional[str] = None):
+    """Log entry and exit for the wrapped callable."""
+
+    def decorator(func):
+        label = name or func.__name__
+
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            start = time.perf_counter()
+            LOGGER.info("Starting %s", label)
+            try:
+                result = func(*args, **kwargs)
+            except Exception as exc:  # noqa: BLE001
+                LOGGER.exception("Failed %s: %s", label, exc)
+                raise
+            duration = time.perf_counter() - start
+            LOGGER.info("Finished %s in %.2fs", label, duration)
+            return result
+
+        return wrapper
+
+    return decorator
+
+
+def retryable(*, attempts: int = 3, delay: float = 1.0, backoff: float = 2.0, exceptions: Tuple[type[Exception], ...] = (requests.RequestException, RuntimeError, ValueError)):
+    """Retry the wrapped callable with exponential backoff."""
+
+    def decorator(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            wait = delay
+            for attempt in range(1, attempts + 1):
+                try:
+                    return func(*args, **kwargs)
+                except exceptions as exc:  # noqa: BLE001
+                    if attempt == attempts:
+                        LOGGER.error("Giving up after %s attempts calling %s", attempts, func.__name__)
+                        raise
+                    LOGGER.warning(
+                        "Attempt %s/%s for %s failed (%s); retrying in %.1fs",
+                        attempt,
+                        attempts,
+                        func.__name__,
+                        format_exception(exc),
+                        wait,
+                    )
+                    time.sleep(wait)
+                    wait *= backoff
+
+        return wrapper
+
+    return decorator
 
 
 @dataclass
@@ -91,21 +158,56 @@ def write_text_if_changed(path: Path, content: str) -> bool:
     return True
 
 
-def write_json_if_changed(path: Path, payload: Dict[str, Any]) -> bool:
+def canonical_hashable(value: Any) -> Any:
+    if isinstance(value, dict):
+        return {k: canonical_hashable(v) for k, v in sorted(value.items()) if k not in {"generated_at", "fetched_at", "hash"}}
+    if isinstance(value, list):
+        return [canonical_hashable(v) for v in value]
+    if isinstance(value, tuple):
+        return tuple(canonical_hashable(v) for v in value)
+    return value
+
+
+def compute_payload_hash(payload: Dict[str, Any]) -> str:
+    canonical = canonical_hashable(payload)
+    serialised = json.dumps(canonical, sort_keys=True, ensure_ascii=False, default=str)
+    return hashlib.sha256(serialised.encode("utf-8")).hexdigest()
+
+
+def enrich_with_provenance(payload: Dict[str, Any], source_url: Optional[Any]) -> Dict[str, Any]:
+    enriched = dict(payload)
+    enriched_hash = compute_payload_hash(enriched)
+    if source_url is not None:
+        enriched["source_url"] = source_url
+    enriched["fetched_at"] = isoformat(NOW)
+    enriched["hash"] = enriched_hash
+    return enriched
+
+
+def write_json_if_changed(path: Path, payload: Dict[str, Any], source_url: Optional[Any] = None) -> bool:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    payload = preserve_generated_at(path, payload, json.loads)
+    payload = enrich_with_provenance(payload, source_url)
+    payload = preserve_metadata(path, payload, json.loads)
     serialised = json.dumps(payload, indent=2, sort_keys=True, ensure_ascii=False)
     return write_text_if_changed(path, serialised)
 
 
-def write_yaml_if_changed(path: Path, payload: Dict[str, Any]) -> bool:
+def write_yaml_if_changed(path: Path, payload: Dict[str, Any], source_url: Optional[Any] = None) -> bool:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    payload = preserve_generated_at(path, payload, yaml.safe_load)
+    payload = enrich_with_provenance(payload, source_url)
+    payload = preserve_metadata(path, payload, yaml.safe_load)
     serialised = yaml.safe_dump(payload, sort_keys=True, allow_unicode=True)
     return write_text_if_changed(path, serialised)
 
 
-def preserve_generated_at(path: Path, payload: Dict[str, Any], loader) -> Dict[str, Any]:
+@retryable()
+def fetch_json(url: str, *, params: Optional[Dict[str, Any]] = None, headers: Optional[Dict[str, str]] = None, timeout: Tuple[int, int] = REQUEST_TIMEOUT) -> Any:
+    response = SESSION.get(url, params=params, headers=headers or HEADERS, timeout=timeout)
+    response.raise_for_status()
+    return response.json()
+
+
+def preserve_metadata(path: Path, payload: Dict[str, Any], loader) -> Dict[str, Any]:
     if not path.exists():
         return payload
     try:
@@ -113,18 +215,22 @@ def preserve_generated_at(path: Path, payload: Dict[str, Any], loader) -> Dict[s
     except Exception:  # noqa: BLE001
         return payload
 
-    def strip_generated_at(data: Any) -> Any:
+    def strip_metadata(data: Any) -> Any:
         if isinstance(data, dict):
-            return {k: strip_generated_at(v) for k, v in data.items() if k != "generated_at"}
+            return {
+                k: strip_metadata(v)
+                for k, v in data.items()
+                if k not in {"generated_at", "fetched_at", "hash"}
+            }
         if isinstance(data, list):
-            return [strip_generated_at(item) for item in data]
+            return [strip_metadata(item) for item in data]
         return data
 
-    if strip_generated_at(existing) == strip_generated_at(payload):
-        existing_ts = existing.get("generated_at")
-        if existing_ts:
-            payload = dict(payload)
-            payload["generated_at"] = existing_ts
+    if strip_metadata(existing) == strip_metadata(payload):
+        payload = dict(payload)
+        for key in ("generated_at", "fetched_at"):
+            if key in existing:
+                payload[key] = existing[key]
     return payload
 
 
@@ -164,9 +270,7 @@ def load_gpu_sources() -> List[Dict[str, Any]]:
 def parse_vastai(source: Dict[str, Any]) -> List[Dict[str, Any]]:
     url = source.get("base_url")
     params = {"limit": 200, "skip": 0}
-    response = SESSION.get(url, params=params, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-    response.raise_for_status()
-    data = response.json()
+    data = fetch_json(url, params=params, headers=HEADERS, timeout=REQUEST_TIMEOUT)
     offers = data.get("offers", [])
     parsed: List[Dict[str, Any]] = []
     for offer in offers:
@@ -186,10 +290,12 @@ def parse_vastai(source: Dict[str, Any]) -> List[Dict[str, Any]]:
     return parsed
 
 
+@instrumented("GPU pricing")
 def collect_gpu_prices() -> SectionResult:
     entries: List[Dict[str, Any]] = []
     errors: List[str] = []
-    for source in load_gpu_sources():
+    sources = load_gpu_sources()
+    for source in sources:
         if not source.get("enabled"):
             continue
         parser_name = source.get("parser")
@@ -218,11 +324,12 @@ def collect_gpu_prices() -> SectionResult:
     error_text = "; ".join(errors) if errors else None
     payload = {
         "generated_at": isoformat(NOW),
-        "sources": [src for src in load_gpu_sources()],
+        "sources": [src for src in sources],
         "gpus": sorted_items,
         "errors": errors,
     }
-    write_json_if_changed(DATA_DIR / "gpu_prices.json", payload)
+    source_urls: List[str] = [src.get("base_url") for src in sources if src.get("base_url")]
+    write_json_if_changed(DATA_DIR / "gpu_prices.json", payload, source_urls or None)
     if error_text and not sorted_items:
         table = f"Source unavailable ({truncate(error_text, 120)})."
     elif error_text:
@@ -239,6 +346,7 @@ def parse_feed_entry(entry: Any) -> Tuple[str, datetime]:
     return entry.get("id") or entry.get("link"), dt
 
 
+@instrumented("arXiv digest")
 def collect_arxiv() -> SectionResult:
     feeds = [
         "https://export.arxiv.org/rss/cs.AI",
@@ -272,7 +380,7 @@ def collect_arxiv() -> SectionResult:
         "generated_at": isoformat(NOW),
         "items": sorted_items,
     }
-    write_yaml_if_changed(DATA_DIR / "arxiv.yaml", payload)
+    write_yaml_if_changed(DATA_DIR / "arxiv.yaml", payload, feeds)
     return SectionResult(sorted_items, section)
 
 
@@ -282,9 +390,11 @@ def hf_api_client(token: Optional[str] = None) -> HfApi:
     return HfApi(token=token)
 
 
+@instrumented("HF trending models")
 def collect_hf_models() -> SectionResult:
     token = os.getenv("HUGGINGFACE_HUB_TOKEN")
 
+    @retryable()
     def fetch(current_token: Optional[str]):
         api_client = hf_api_client(current_token)
         return list(api_client.list_models(sort="downloads", direction=-1, limit=15))
@@ -301,7 +411,7 @@ def collect_hf_models() -> SectionResult:
                     "items": [],
                     "error": format_exception(fallback_exc),
                 }
-                write_yaml_if_changed(DATA_DIR / "hf_trending.yaml", payload)
+                write_yaml_if_changed(DATA_DIR / "hf_trending.yaml", payload, "https://huggingface.co/api/models")
                 message = format_exception(fallback_exc)
                 return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
         else:
@@ -310,7 +420,7 @@ def collect_hf_models() -> SectionResult:
                 "items": [],
                 "error": format_exception(exc),
             }
-            write_yaml_if_changed(DATA_DIR / "hf_trending.yaml", payload)
+            write_yaml_if_changed(DATA_DIR / "hf_trending.yaml", payload, "https://huggingface.co/api/models")
             message = format_exception(exc)
             return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
 
@@ -343,7 +453,7 @@ def collect_hf_models() -> SectionResult:
         "generated_at": isoformat(NOW),
         "items": items,
     }
-    write_yaml_if_changed(DATA_DIR / "hf_trending.yaml", payload)
+    write_yaml_if_changed(DATA_DIR / "hf_trending.yaml", payload, "https://huggingface.co/api/models")
     return SectionResult(items, table)
 
 
@@ -356,6 +466,7 @@ def github_headers() -> Dict[str, str]:
     return headers
 
 
+@instrumented("GitHub trending repos")
 def collect_github_trending() -> SectionResult:
     since = (NOW - timedelta(days=7)).date().isoformat()
     query = "(LLM OR \"large language model\" OR genai) created:>" + since
@@ -365,19 +476,32 @@ def collect_github_trending() -> SectionResult:
         "order": "desc",
         "per_page": 20,
     }
-    try:
-        response = SESSION.get("https://api.github.com/search/repositories", params=params, headers=github_headers(), timeout=REQUEST_TIMEOUT)
+    @retryable()
+    def fetch() -> Dict[str, Any]:
+        response = SESSION.get(
+            "https://api.github.com/search/repositories",
+            params=params,
+            headers=github_headers(),
+            timeout=REQUEST_TIMEOUT,
+        )
         if response.status_code in {403, 429}:
             raise RuntimeError(f"GitHub API limit {response.status_code}")
         response.raise_for_status()
-        data = response.json()
+        return response.json()
+
+    try:
+        data = fetch()
     except Exception as exc:  # noqa: BLE001
         payload = {
             "generated_at": isoformat(NOW),
             "items": [],
             "error": format_exception(exc),
         }
-        write_yaml_if_changed(DATA_DIR / "github_trending.yaml", payload)
+        write_yaml_if_changed(
+            DATA_DIR / "github_trending.yaml",
+            payload,
+            "https://api.github.com/search/repositories",
+        )
         message = format_exception(exc)
         return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
     repos = data.get("items", [])
@@ -398,10 +522,15 @@ def collect_github_trending() -> SectionResult:
         "generated_at": isoformat(NOW),
         "items": top_items,
     }
-    write_yaml_if_changed(DATA_DIR / "github_trending.yaml", payload)
+    write_yaml_if_changed(
+        DATA_DIR / "github_trending.yaml",
+        payload,
+        "https://api.github.com/search/repositories",
+    )
     return SectionResult(top_items, table)
 
 
+@instrumented("Papers with Code feed")
 def collect_papers_with_code() -> SectionResult:
     url = "https://paperswithcode.com/api/v1/papers/"
     params = {
@@ -410,16 +539,18 @@ def collect_papers_with_code() -> SectionResult:
         "items_per_page": 20,
     }
     try:
-        response = SESSION.get(url, params=params, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-        response.raise_for_status()
-        data = response.json()
+        data = fetch_json(url, params=params, headers=HEADERS, timeout=REQUEST_TIMEOUT)
     except Exception as exc:  # noqa: BLE001
         payload = {
             "generated_at": isoformat(NOW),
             "items": [],
             "error": format_exception(exc),
         }
-        write_yaml_if_changed(DATA_DIR / "pwc_llm.yaml", payload)
+        write_yaml_if_changed(
+            DATA_DIR / "pwc_llm.yaml",
+            payload,
+            "https://paperswithcode.com/api/v1/papers/",
+        )
         message = format_exception(exc)
         return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
     now_minus_7 = NOW - timedelta(days=7)
@@ -447,20 +578,33 @@ def collect_papers_with_code() -> SectionResult:
         "generated_at": isoformat(NOW),
         "items": items,
     }
-    write_yaml_if_changed(DATA_DIR / "pwc_llm.yaml", payload)
+    write_yaml_if_changed(
+        DATA_DIR / "pwc_llm.yaml",
+        payload,
+        "https://paperswithcode.com/api/v1/papers/",
+    )
     return SectionResult(items, section)
 
 
+@instrumented("Hacker News highlights")
 def collect_hn_ai() -> SectionResult:
     try:
-        top_ids = SESSION.get("https://hacker-news.firebaseio.com/v0/topstories.json", headers=HEADERS, timeout=REQUEST_TIMEOUT).json()
+        top_ids = fetch_json(
+            "https://hacker-news.firebaseio.com/v0/topstories.json",
+            headers=HEADERS,
+            timeout=REQUEST_TIMEOUT,
+        )
     except Exception as exc:  # noqa: BLE001
         payload = {
             "generated_at": isoformat(NOW),
             "items": [],
             "error": format_exception(exc),
         }
-        write_yaml_if_changed(DATA_DIR / "hn_ai.yaml", payload)
+        write_yaml_if_changed(
+            DATA_DIR / "hn_ai.yaml",
+            payload,
+            "https://hacker-news.firebaseio.com/",
+        )
         message = format_exception(exc)
         return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
     if not isinstance(top_ids, list):
@@ -469,7 +613,11 @@ def collect_hn_ai() -> SectionResult:
     items: List[Dict[str, Any]] = []
     for story_id in top_ids[:200]:
         try:
-            item = SESSION.get(f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json", headers=HEADERS, timeout=REQUEST_TIMEOUT).json()
+            item = fetch_json(
+                f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json",
+                headers=HEADERS,
+                timeout=REQUEST_TIMEOUT,
+            )
         except Exception:
             continue
         if not item or item.get("type") != "story":
@@ -499,22 +647,33 @@ def collect_hn_ai() -> SectionResult:
         "generated_at": isoformat(NOW),
         "items": items,
     }
-    write_yaml_if_changed(DATA_DIR / "hn_ai.yaml", payload)
+    write_yaml_if_changed(
+        DATA_DIR / "hn_ai.yaml",
+        payload,
+        "https://hacker-news.firebaseio.com/",
+    )
     return SectionResult(items, section)
 
 
+@instrumented("CVE feed")
 def collect_cves() -> SectionResult:
     try:
-        response = SESSION.get("https://cve.circl.lu/api/last", headers=HEADERS, timeout=REQUEST_TIMEOUT)
-        response.raise_for_status()
-        data = response.json()
+        data = fetch_json(
+            "https://cve.circl.lu/api/last",
+            headers=HEADERS,
+            timeout=REQUEST_TIMEOUT,
+        )
     except Exception as exc:  # noqa: BLE001
         payload = {
             "generated_at": isoformat(NOW),
             "items": [],
             "error": format_exception(exc),
         }
-        write_yaml_if_changed(DATA_DIR / "cves.yaml", payload)
+        write_yaml_if_changed(
+            DATA_DIR / "cves.yaml",
+            payload,
+            "https://cve.circl.lu/api/last",
+        )
         message = format_exception(exc)
         return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
     items: List[Dict[str, Any]] = []
@@ -544,13 +703,19 @@ def collect_cves() -> SectionResult:
         "generated_at": isoformat(NOW),
         "items": top_items,
     }
-    write_yaml_if_changed(DATA_DIR / "cves.yaml", payload)
+    write_yaml_if_changed(
+        DATA_DIR / "cves.yaml",
+        payload,
+        "https://cve.circl.lu/api/last",
+    )
     return SectionResult(top_items, table)
 
 
+@instrumented("HF trending datasets")
 def collect_hf_datasets() -> SectionResult:
     token = os.getenv("HUGGINGFACE_HUB_TOKEN")
 
+    @retryable()
     def fetch(current_token: Optional[str]):
         api_client = hf_api_client(current_token)
         return list(api_client.list_datasets(sort="downloads", direction=-1, limit=15))
@@ -567,7 +732,7 @@ def collect_hf_datasets() -> SectionResult:
                     "items": [],
                     "error": format_exception(fallback_exc),
                 }
-                write_yaml_if_changed(DATA_DIR / "hf_datasets.yaml", payload)
+                write_yaml_if_changed(DATA_DIR / "hf_datasets.yaml", payload, "https://huggingface.co/api/datasets")
                 message = format_exception(fallback_exc)
                 return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
         else:
@@ -576,7 +741,7 @@ def collect_hf_datasets() -> SectionResult:
                 "items": [],
                 "error": format_exception(exc),
             }
-            write_yaml_if_changed(DATA_DIR / "hf_datasets.yaml", payload)
+            write_yaml_if_changed(DATA_DIR / "hf_datasets.yaml", payload, "https://huggingface.co/api/datasets")
             message = format_exception(exc)
             return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
 
@@ -608,8 +773,283 @@ def collect_hf_datasets() -> SectionResult:
         "generated_at": isoformat(NOW),
         "items": items,
     }
-    write_yaml_if_changed(DATA_DIR / "hf_datasets.yaml", payload)
+    write_yaml_if_changed(DATA_DIR / "hf_datasets.yaml", payload, "https://huggingface.co/api/datasets")
     return SectionResult(items, table)
+
+
+def render_dashboard(results: Dict[str, SectionResult]) -> bool:
+    docs_dir = REPO_ROOT / "docs"
+    docs_dir.mkdir(parents=True, exist_ok=True)
+
+    dataset_paths = {
+        "GPU": DATA_DIR / "gpu_prices.json",
+        "ARXIV": DATA_DIR / "arxiv.yaml",
+        "HF": DATA_DIR / "hf_trending.yaml",
+        "GHTREND": DATA_DIR / "github_trending.yaml",
+        "PWC": DATA_DIR / "pwc_llm.yaml",
+        "HN": DATA_DIR / "hn_ai.yaml",
+        "CVE": DATA_DIR / "cves.yaml",
+        "HFDATA": DATA_DIR / "hf_datasets.yaml",
+    }
+
+    def load_metadata(marker: str) -> Dict[str, Any]:
+        path = dataset_paths.get(marker)
+        if not path or not path.exists():
+            return {}
+        try:
+            if path.suffix == ".json":
+                return json.loads(path.read_text())
+            return yaml.safe_load(path.read_text()) or {}
+        except Exception:  # noqa: BLE001
+            return {}
+
+    def render_metadata(marker: str) -> str:
+        meta = load_metadata(marker)
+        if not meta:
+            return ""
+        parts: List[str] = []
+        fetched_at = meta.get("fetched_at")
+        if fetched_at:
+            parts.append(f"Fetched at {escape(str(fetched_at))}")
+        source = meta.get("source_url")
+        links: List[str] = []
+        if isinstance(source, str):
+            links = [source]
+        elif isinstance(source, Iterable) and not isinstance(source, (str, bytes)):
+            links = [str(item) for item in source if item]
+        if links:
+            link_html = ", ".join(
+                f'<a href="{escape(url)}" target="_blank" rel="noopener">{escape(url)}</a>'
+                for url in links
+            )
+            parts.append(f"Source: {link_html}")
+        digest = meta.get("hash")
+        if digest:
+            parts.append(f"Hash: <code>{escape(str(digest))}</code>")
+        if not parts:
+            return ""
+        return "<p class=\"metadata\">" + " • ".join(parts) + "</p>"
+
+    def make_link(text: Optional[str], url: Optional[str]) -> str:
+        text = text or "Unknown"
+        if not url:
+            return escape(text)
+        return f'<a href="{escape(url)}" target="_blank" rel="noopener">{escape(text)}</a>'
+
+    def indent_block(text: str, spaces: int = 2) -> str:
+        prefix = " " * spaces
+        return "\n".join(prefix + line if line else line for line in text.splitlines())
+
+    def render_table(headers: List[str], rows: List[List[str]]) -> str:
+        if not rows:
+            return '<p class="empty">No data available.</p>'
+        header_cells = "".join(f"<th>{escape(str(h))}</th>" for h in headers)
+        header_line = f"    <tr>{header_cells}</tr>"
+        body_lines = [
+            "    <tr>" + "".join(f"<td>{cell}</td>" for cell in row) + "</tr>"
+            for row in rows
+        ]
+        table_lines = [
+            "<table>",
+            "  <thead>",
+            header_line,
+            "  </thead>",
+            "  <tbody>",
+            *body_lines,
+            "  </tbody>",
+            "</table>",
+        ]
+        return "\n".join(table_lines)
+
+    def gpu_rows(result: SectionResult) -> Tuple[List[str], List[List[str]]]:
+        rows: List[List[str]] = []
+        for item in result.items:
+            price = item.get("usd_per_hour")
+            price_str = f"${price:.4f}" if isinstance(price, (int, float)) else "—"
+            rows.append(
+                [
+                    escape(item.get("gpu", "Unknown")),
+                    price_str,
+                    escape(item.get("source", "")),
+                ]
+            )
+        return ["GPU", "Min USD/hr", "Source"], rows
+
+    def arxiv_rows(result: SectionResult) -> Tuple[List[str], List[List[str]]]:
+        rows: List[List[str]] = []
+        for item in result.items:
+            rows.append(
+                [
+                    make_link(item.get("title"), item.get("link")),
+                    escape(item.get("summary", "")),
+                    escape(item.get("published", "")),
+                ]
+            )
+        return ["Title", "Summary", "Published"], rows
+
+    def hf_model_rows(result: SectionResult) -> Tuple[List[str], List[List[str]]]:
+        rows: List[List[str]] = []
+        for item in result.items:
+            model_id = item.get("model_id") or ""
+            rows.append(
+                [
+                    make_link(model_id, f"https://huggingface.co/{model_id}" if model_id else None),
+                    escape(str(item.get("downloads", 0))),
+                    escape(str(item.get("likes", 0))),
+                ]
+            )
+        return ["Model", "Downloads", "Likes"], rows
+
+    def github_rows(result: SectionResult) -> Tuple[List[str], List[List[str]]]:
+        rows: List[List[str]] = []
+        for item in result.items:
+            rows.append(
+                [
+                    make_link(item.get("full_name"), item.get("html_url")),
+                    escape(str(item.get("stargazers_count", 0))),
+                    escape(item.get("description", "")),
+                ]
+            )
+        return ["Repository", "Stars", "Description"], rows
+
+    def pwc_rows(result: SectionResult) -> Tuple[List[str], List[List[str]]]:
+        rows: List[List[str]] = []
+        for item in result.items:
+            rows.append(
+                [
+                    make_link(item.get("title"), item.get("paper_url")),
+                    escape(item.get("published", "")),
+                    escape(", ".join(item.get("authors", []) or [])[:120]),
+                ]
+            )
+        return ["Title", "Published", "Authors"], rows
+
+    def hn_rows(result: SectionResult) -> Tuple[List[str], List[List[str]]]:
+        rows: List[List[str]] = []
+        for item in result.items:
+            rows.append(
+                [
+                    make_link(item.get("title"), item.get("url")),
+                    escape(str(item.get("score", 0))),
+                    escape(item.get("time", "")),
+                ]
+            )
+        return ["Story", "Score", "Published"], rows
+
+    def cve_rows(result: SectionResult) -> Tuple[List[str], List[List[str]]]:
+        rows: List[List[str]] = []
+        for item in result.items:
+            cve_id = item.get("id")
+            link = f"https://www.cve.org/CVERecord?id={cve_id}" if cve_id else None
+            rows.append(
+                [
+                    make_link(cve_id or "N/A", link),
+                    escape(f"{item.get('cvss', 0):.1f}" if item.get("cvss") is not None else "0"),
+                    escape(item.get("summary", "")),
+                ]
+            )
+        return ["CVE", "CVSS", "Summary"], rows
+
+    def hf_dataset_rows(result: SectionResult) -> Tuple[List[str], List[List[str]]]:
+        rows: List[List[str]] = []
+        for item in result.items:
+            dataset_id = item.get("dataset_id") or ""
+            rows.append(
+                [
+                    make_link(dataset_id, f"https://huggingface.co/datasets/{dataset_id}" if dataset_id else None),
+                    escape(str(item.get("downloads", 0))),
+                    escape(str(item.get("likes", 0))),
+                ]
+            )
+        return ["Dataset", "Downloads", "Likes"], rows
+
+    section_builders = [
+        ("GPU", "GPU Pricing Snapshot", gpu_rows),
+        ("ARXIV", "arXiv Digest", arxiv_rows),
+        ("HF", "Hugging Face Trending Models", hf_model_rows),
+        ("GHTREND", "GitHub Trending Repositories", github_rows),
+        ("PWC", "Papers with Code", pwc_rows),
+        ("HN", "Hacker News Highlights", hn_rows),
+        ("CVE", "Latest CVEs", cve_rows),
+        ("HFDATA", "Hugging Face Trending Datasets", hf_dataset_rows),
+    ]
+
+    sections_html: List[str] = []
+    for marker, title, row_builder in section_builders:
+        result = results.get(marker) or SectionResult([], "", None)
+        headers, rows = row_builder(result)
+        table_html = render_table(headers, rows)
+        metadata_html = render_metadata(marker)
+        warning_html = (
+            f'<p class="warning">{escape(result.error)}</p>' if result.error else ""
+        )
+        table_block = indent_block(table_html)
+        section_lines = [f"<section>", f"  <h2>{escape(title)}</h2>"]
+        if metadata_html:
+            section_lines.append("  " + metadata_html)
+        if warning_html:
+            section_lines.append("  " + warning_html)
+        section_lines.append(table_block)
+        section_lines.append("</section>")
+        sections_html.append("\n".join(section_lines))
+
+    data_links = "".join(
+        f'<li><a href="{escape(os.path.relpath(path, docs_dir))}">{escape(path.name)}</a></li>'
+        for path in dataset_paths.values()
+        if path.exists()
+    )
+
+    style = """
+body { font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif; margin: 0; padding: 0; background: #0f172a; color: #e2e8f0; }
+header { padding: 2.5rem 1.5rem; text-align: center; background: #1e293b; }
+header h1 { margin: 0 0 0.5rem; font-size: 2.5rem; }
+header p { margin: 0; color: #94a3b8; font-size: 1rem; }
+main { max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+section { background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(148, 163, 184, 0.2); border-radius: 12px; padding: 1.5rem; margin-bottom: 2rem; box-shadow: 0 12px 24px rgba(15, 23, 42, 0.4); }
+section h2 { margin-top: 0; color: #f8fafc; font-size: 1.5rem; }
+table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+th, td { text-align: left; padding: 0.65rem 0.75rem; border-bottom: 1px solid rgba(148, 163, 184, 0.2); }
+th { background: rgba(148, 163, 184, 0.1); color: #e2e8f0; font-weight: 600; }
+tr:hover td { background: rgba(59, 130, 246, 0.08); }
+a { color: #38bdf8; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.warning { margin: 0.75rem 0; color: #fbbf24; }
+.empty { margin: 1rem 0 0; color: #94a3b8; font-style: italic; }
+.metadata { margin: 0.35rem 0 0; color: #94a3b8; font-size: 0.9rem; }
+footer { text-align: center; padding: 2rem 1.5rem 3rem; color: #64748b; font-size: 0.9rem; }
+footer ul { list-style: none; padding: 0; margin: 1rem 0 0; display: flex; flex-wrap: wrap; gap: 0.75rem; justify-content: center; }
+footer li { background: rgba(148, 163, 184, 0.1); border-radius: 6px; padding: 0.4rem 0.75rem; }
+"""
+
+    last_updated = isoformat(NOW)
+    sections_rendered = "".join(sections_html)
+    footer_html = (
+        f"<footer><p>Datasets updated as part of the DeepTech Daily automation run.</p>"
+        f"<p>Last refreshed at {escape(last_updated)}.</p>"
+        f"<ul>{data_links}</ul></footer>"
+    )
+    html_doc = f"""<!DOCTYPE html>
+<html lang=\"en\">
+<head>
+  <meta charset=\"utf-8\" />
+  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
+  <title>DeepTech Daily Dashboard</title>
+  <style>{style}</style>
+</head>
+<body>
+  <header>
+    <h1>DeepTech Daily Dashboard</h1>
+    <p>A curated snapshot of GPUs, research, software, and security intel powered by the DeepTech Daily datasets.</p>
+  </header>
+  <main>
+    {sections_rendered}
+  </main>
+  {footer_html}
+</body>
+</html>
+"""
+
+    return write_text_if_changed(docs_dir / "index.html", html_doc)
 
 
 SECTION_BUILDERS = {
@@ -627,20 +1067,37 @@ SECTION_BUILDERS = {
 def main() -> int:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     readme_updates: Dict[str, str] = {}
+    section_results: Dict[str, SectionResult] = {}
     for marker, builder in SECTION_BUILDERS.items():
         result = builder()
+        section_results[marker] = result
         readme_updates[marker] = result.readme
     readme_changed = update_readme_sections(readme_updates)
+    dashboard_changed = render_dashboard(section_results)
     try:
-        import subprocess
-
-        result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, cwd=str(BASE_DIR))
-        changed = bool(result.stdout.strip())
+        status = subprocess.run(
+            ["git", "status", "--porcelain"],
+            capture_output=True,
+            text=True,
+            cwd=str(REPO_ROOT),
+        )
+        changed = bool(status.stdout.strip())
     except Exception:
-        changed = readme_changed
-    if not changed and readme_changed:
+        changed = readme_changed or dashboard_changed
+    if not changed and (readme_changed or dashboard_changed):
         changed = True
     print(f"changed: {str(changed)}")
+    auto_commit_enabled = os.getenv("DEEPTECH_AUTO_COMMIT", "1").lower() not in {"0", "false", "no"}
+    if auto_commit_enabled:
+        command = os.getenv(
+            "DEEPTECH_AUTO_COMMIT_CMD",
+            'git diff --quiet || git commit -am "daily refresh" && git push',
+        )
+        try:
+            subprocess.run(command, shell=True, check=True, cwd=str(REPO_ROOT))
+            LOGGER.info("Auto-commit command executed: %s", command)
+        except subprocess.CalledProcessError as exc:
+            LOGGER.error("Auto-commit command failed with exit code %s", exc.returncode)
     return 0
 
 
