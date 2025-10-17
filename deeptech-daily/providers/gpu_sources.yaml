@@ -11,3 +11,19 @@ sources:
     enabled: false
     parser: parse_modal
     base_url: https://modal.com/api
+providers:
+  - id: azure
+    enabled: true
+    parser: parse_azure_gpu_pricing
+  - id: aws
+    enabled: true
+    parser: parse_aws_gpu_pricing
+  - id: gcp
+    enabled: true
+    parser: parse_gcp_gpu_pricing
+  - id: vast_ai
+    enabled: true
+    parser: parse_vast_ai_offers
+  - id: hyperstack
+    enabled: true
+    parser: parse_hyperstack_pricing
