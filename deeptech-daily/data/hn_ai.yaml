@@ -1,32 +1,27 @@
-fetched_at: '2025-10-17T05:30:39Z'
-generated_at: '2025-10-17T05:30:39Z'
-hash: 0f00b7caf0c2014c691e0d4c3fdff942fc293625db9af4ea5046a72d04d57d89
+fetched_at: '2025-10-17T09:29:01Z'
+generated_at: '2025-10-17T09:29:01Z'
+hash: 6175a0f8856330aba0594ce171473def386c1fe6a45d068165c8cdb697ec7d46
 items:
 - id: 45605842
-  score: 324
+  score: 326
   time: '2025-10-16T14:33:10Z'
   title: Tor browser removing various Firefox AI features
   url: https://blog.torproject.org/new-alpha-release-tor-browser-150a4/
 - id: 45611912
-  score: 43
+  score: 50
   time: '2025-10-16T23:30:36Z'
   title: Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO
     1.0
   url: https://blog.exolabs.net/nvidia-dgx-spark/
+- id: 45612023
+  score: 12
+  time: '2025-10-16T23:48:17Z'
+  title: 'Let''s Build the GPT Tokenizer: A Complete Guide to Tokenization in LLMs'
+  url: https://www.fast.ai/posts/2025-10-16-karpathy-tokenizers
 - id: 45610415
-  score: 8
+  score: 11
   time: '2025-10-16T20:40:16Z'
   title: 'Google Coral NPU: ML accelerator core designed for energy-efficient edge
     AI'
   url: https://github.com/google-coral/coralnpu
-- id: 45610443
-  score: 7
-  time: '2025-10-16T20:43:17Z'
-  title: Viral GPT wrappers are now training their own LLMs
-  url: https://twitter.com/0xSamHogan/status/1978533352731779260
-- id: 45611672
-  score: 6
-  time: '2025-10-16T22:54:53Z'
-  title: What GPU pricing can tell us about how the AI bubble will pop
-  url: https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9
 source_url: https://hacker-news.firebaseio.com/

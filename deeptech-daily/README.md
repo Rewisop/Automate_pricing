@@ -9,6 +9,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -20,6 +21,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -118,26 +120,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error
 <!--GHTREND:START-->
 | Repository                                                                           |   Stars | Description                                                                                                                                                      |
 |--------------------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| njadNissi/NLP_tuto                                                                   |      38 | LLM tuto, PDF Q&A System, etc.                                                                                                                                   |
+| njadNissi/NLP_tuto                                                                   |      39 | LLM tuto, PDF Q&A System, etc.                                                                                                                                   |
 | 0xSero/codex-local                                                                   |      24 | A modified Codex CLI application built to support local LLMs                                                                                                     |
+| BDML-lab/llm-inductive-reasoning-survey                                              |      19 | this is the repository for the paper ‘A Survey of Inductive Reasoning for Large Language Models’                                                                 |
 | ki-ljl/Awesome-Long-Form-Factuality                                                  |      19 | Awesome Long-Form Factuality: A Curated List of Papers and Resources on Enhancing Factuality in Long-Form LLM Generations                                        |
-| BDML-lab/llm-inductive-reasoning-survey                                              |      18 | this is the repository for the paper ‘A Survey of Inductive Reasoning for Large Language Models’                                                                 |
-| FelixMessi/QDLM                                                                      |      16 | Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs                                                                    |
+| FelixMessi/QDLM                                                                      |      17 | Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs                                                                    |
+| ellydee/acceptance-bench                                                             |      16 | A robust LLM evaluation framework measuring acceptance vs refusal across difficulty levels. Features multi-prompt variation testing, temperature sweeping, and…  |
 | hemingkx/AdvPrompt                                                                   |      14 | Enabling Efficient Reasoning in LLMs via Black-box Adversarial Prompting                                                                                         |
 | jmanhype/ace-playbook                                                                |      11 | Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback                                                  |
-| EnVision-Research/MTI                                                                |       9 | Official implementation of "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention"                                                           |
-| Tomsawyerhu/Awesome-Personalized-Alignment                                           |       9 | A Survey on Large Language Models for Personalized Alignment                                                                                                     |
-| peng-gao-lab/CTIArena                                                                |       9 | The first benchmark to evaluate LLM performance on heterogeneous CTI under knowledge-augmented settings.                                                         |
+| EnVision-Research/MTI                                                                |      10 | Official implementation of "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention"                                                           |
+| Tomsawyerhu/Awesome-Personalized-Alignment                                           |      10 | A Survey on Large Language Models for Personalized Alignment                                                                                                     |
+| peng-gao-lab/CTIArena                                                                |      10 | The first benchmark to evaluate LLM performance on heterogeneous CTI under knowledge-augmented settings.                                                         |
+| leslieo2/LangGraph-Mastery-Playbook                                                  |       9 | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.              |
 | ahmetatakan/dockai                                                                   |       8 | AI-powered Docker log analysis CLI — Analyze container logs using LLMs (Ollama or OpenAI).                                                                       |
-| leslieo2/LangGraph-Mastery-Playbook                                                  |       8 | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.              |
+| qianweijiujiu/Awesome-Token-Pruning-and-Merging-for-Multimodal-Large-Language-Models |       8 | papers for token compression in mllms.                                                                                                                           |
 | zbowling/mcpcodeserver                                                               |       8 | A Model Context Protocol (MCP) proxy server that translates tool calls into TypeScript code generation. Instead of making multiple tool calls back and forth, L… |
 | DLFundamentals/LLM_ERM                                                               |       7 | Official code for "LLM-ERM: Sample-Efficient Program Learning via LLM-Guided Search", Arxiv 2025                                                                 |
 | magooney-loon/pb-llm                                                                 |       7 | pocketbase LLM docs scraper                                                                                                                                      |
-| qianweijiujiu/Awesome-Token-Pruning-and-Merging-for-Multimodal-Large-Language-Models |       7 | papers for token compression in mllms.                                                                                                                           |
+| THU-KEG/BGPO                                                                         |       6 | Boundary-Guided Policy Optimization for Memory-Efficient RL of Diffusion Large Language Models                                                                   |
 | TianzhuQin/LLM-ABM-Information-Network                                               |       6 | A large language model style agent based modeling that simulate misinformation spreading in a network                                                            |
 | sanxing-chen/meta-bandit-llm                                                         |       6 | Multiturn Meta-Bandit LLM RL Training                                                                                                                            |
-| Jasaxion/HSPIM                                                                       |       5 | A Hierarchical Framework for Measuring Scientific Paper Innovation via Large Language Models                                                                     |
-| THU-KEG/BGPO                                                                         |       5 | Boundary-Guided Policy Optimization for Memory-Efficient RL of Diffusion Large Language Models                                                                   |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -147,27 +149,26 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/) — 324 points
-- [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/) — 43 points
-- [Google Coral NPU: ML accelerator core designed for energy-efficient edge AI](https://github.com/google-coral/coralnpu) — 8 points
-- [Viral GPT wrappers are now training their own LLMs](https://twitter.com/0xSamHogan/status/1978533352731779260) — 7 points
-- [What GPU pricing can tell us about how the AI bubble will pop](https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9) — 6 points
+- [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/) — 326 points
+- [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/) — 50 points
+- [Let's Build the GPT Tokenizer: A Complete Guide to Tokenization in LLMs](https://www.fast.ai/posts/2025-10-16-karpathy-tokenizers) — 12 points
+- [Google Coral NPU: ML accelerator core designed for energy-efficient edge AI](https://github.com/google-coral/coralnpu) — 11 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE   |   CVSS | Summary   |
-|-------|--------|-----------|
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| CVE-2025-55087      |      0 |           |
+| CVE-2025-55094      |      0 |           |
+| CVE-2025-55096      |      0 |           |
+| CVE-2025-55097      |      0 |           |
+| CVE-2025-55098      |      0 |           |
+| CVE-2025-55099      |      0 |           |
+| CVE-2025-55100      |      0 |           |
+| GHSA-56fc-7xxq-mcfp |      0 |           |
+| GHSA-29jf-57xj-hxj2 |      0 |           |
+| GHSA-9hmp-7p86-546r |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
