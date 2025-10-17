@@ -1,49 +1,9 @@
-generated_at: '2025-10-16T23:30:21Z'
-items:
-- id: 45605842
-  score: 324
-  time: '2025-10-16T14:33:10Z'
-  title: Tor browser removing various Firefox AI features
-  url: https://blog.torproject.org/new-alpha-release-tor-browser-150a4/
-- id: 45599727
-  score: 242
-  time: '2025-10-15T23:42:12Z'
-  title: Writing an LLM from scratch, part 22 – training our LLM
-  url: https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm
-- id: 45600263
-  score: 78
-  time: '2025-10-16T00:50:56Z'
-  title: Who's Submitting AI-Tainted Filings in Court?
-  url: https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/
-- id: 45600470
-  score: 25
-  time: '2025-10-16T01:25:28Z'
-  title: 'Coral NPU: A full-stack platform for Edge AI'
-  url: https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/
-- id: 45609835
-  score: 14
-  time: '2025-10-16T19:43:31Z'
-  title: OpenAI board member is violating export control, selling Claude API to HongKong
-  url: https://news.ycombinator.com/item?id=45609835
-- id: 45607874
-  score: 10
-  time: '2025-10-16T17:03:13Z'
-  title: Open source GZDoom community splinters after creator inserts AI-generated
-    code
-  url: https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/
-- id: 45608487
-  score: 7
-  time: '2025-10-16T17:49:34Z'
-  title: The AI that we'll have after AI
-  url: https://pluralistic.net/2025/10/16/post-ai-ai/#productive-residue
-- id: 45610443
-  score: 7
-  time: '2025-10-16T20:43:17Z'
-  title: Viral GPT wrappers are now training their own LLMs
-  url: https://twitter.com/0xSamHogan/status/1978533352731779260
-- id: 45610415
-  score: 4
-  time: '2025-10-16T20:40:16Z'
-  title: 'Google Coral NPU: ML accelerator core designed for energy-efficient edge
-    AI'
-  url: https://github.com/google-coral/coralnpu
+error: 'HTTPSConnectionPool(host=''hacker-news.firebaseio.com'', port=443): Max retries
+  exceeded with url: /v0/topstories.json (Caused by NewConnectionError(''<urllib3.connection.HTTPSConnection
+  object at 0xXXXX>: Failed to establish a new connection: [Errno 101] Network is
+  unreachable''))'
+fetched_at: '2025-10-16T23:53:44Z'
+generated_at: '2025-10-16T23:53:44Z'
+hash: eaec58f243093001ee9ade1cbec887ffcebb3e98ae7f06db9d8de9ccd5540280
+items: []
+source_url: https://hacker-news.firebaseio.com/

@@ -1,9 +1,16 @@
 {
   "errors": [
-    "Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai/api/v0/bundles/public/?limit=200&skip=0"
+    "Vast.ai: HTTPSConnectionPool(host='vast.ai', port=443): Max retries exceeded with url: /api/v0/bundles/public?limit=200&skip=0 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0xXXXX>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"
   ],
-  "generated_at": "2025-10-16T23:30:21Z",
+  "fetched_at": "2025-10-16T23:53:44Z",
+  "generated_at": "2025-10-16T23:53:44Z",
   "gpus": [],
+  "hash": "68f7f02248b7e0a85d3274d6faf3f4e4281e46be929e4df363fa700b061e40fe",
+  "source_url": [
+    "https://vast.ai/api/v0/bundles/public",
+    "https://api.runpod.io",
+    "https://modal.com/api"
+  ],
   "sources": [
     {
       "base_url": "https://vast.ai/api/v0/bundles/public",

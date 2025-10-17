@@ -11,6 +11,8 @@ refreshes Markdown sections inside `deeptech-daily/README.md`.
 The repository is intentionally lightweight—the automation is a single Python
 script and a few configuration files—so having clear documentation makes it
 easy to adapt the project to a different publication cadence or data sources.
+Runs now emit structured logs (configurable via `DEEPTECH_LOG_LEVEL`) so that
+scheduled executions are easy to observe and debug.
 
 ## Repository layout
 
@@ -53,7 +55,14 @@ Automate_pricing/
    ```
 
    The command prints whether any files changed. Updated datasets live in
-   `deeptech-daily/data/` and the Markdown report is rewritten in place.
+   `deeptech-daily/data/`, the Markdown report is rewritten in place, and a
+   static dashboard is published to `docs/index.html` for GitHub Pages.
+
+   By default the tool also executes `git diff --quiet || git commit -am
+   "daily refresh" && git push` from the repository root so that fresh data is
+   automatically committed. Disable this behaviour by setting
+   `DEEPTECH_AUTO_COMMIT=0` or override the command with
+   `DEEPTECH_AUTO_COMMIT_CMD`.
 
 4. **Automate the run** by wiring the script into a scheduled workflow. The
    project includes a reusable GitHub Actions workflow in the original upstream
@@ -86,6 +95,16 @@ visualisation.
 | `hn_ai.yaml` | YAML | High-scoring AI-related posts from Hacker News. |
 | `cves.yaml` | YAML | Notable CVEs touching AI/ML systems. |
 | `hf_datasets.yaml` | YAML | Trending Hugging Face datasets. |
+
+Each export now includes provenance metadata—`generated_at`, `fetched_at`,
+`source_url`, and a deterministic content `hash`—so downstream consumers can
+track refresh cadence and verify integrity.
+
+## DeepTech Daily Dashboard
+
+A static “DeepTech Daily Dashboard” is generated at `docs/index.html` using the
+datasets above. Push the `docs/` directory to GitHub and enable GitHub Pages to
+publish a live snapshot of the intel feed.
 
 ## Contributing
 

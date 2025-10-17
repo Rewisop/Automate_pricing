@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DeepTech Daily Dashboard</title>
+  <style>
+body { font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif; margin: 0; padding: 0; background: #0f172a; color: #e2e8f0; }
+header { padding: 2.5rem 1.5rem; text-align: center; background: #1e293b; }
+header h1 { margin: 0 0 0.5rem; font-size: 2.5rem; }
+header p { margin: 0; color: #94a3b8; font-size: 1rem; }
+main { max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+section { background: rgba(15, 23, 42, 0.75); border: 1px solid rgba(148, 163, 184, 0.2); border-radius: 12px; padding: 1.5rem; margin-bottom: 2rem; box-shadow: 0 12px 24px rgba(15, 23, 42, 0.4); }
+section h2 { margin-top: 0; color: #f8fafc; font-size: 1.5rem; }
+table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+th, td { text-align: left; padding: 0.65rem 0.75rem; border-bottom: 1px solid rgba(148, 163, 184, 0.2); }
+th { background: rgba(148, 163, 184, 0.1); color: #e2e8f0; font-weight: 600; }
+tr:hover td { background: rgba(59, 130, 246, 0.08); }
+a { color: #38bdf8; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.warning { margin: 0.75rem 0; color: #fbbf24; }
+.empty { margin: 1rem 0 0; color: #94a3b8; font-style: italic; }
+.metadata { margin: 0.35rem 0 0; color: #94a3b8; font-size: 0.9rem; }
+footer { text-align: center; padding: 2rem 1.5rem 3rem; color: #64748b; font-size: 0.9rem; }
+footer ul { list-style: none; padding: 0; margin: 1rem 0 0; display: flex; flex-wrap: wrap; gap: 0.75rem; justify-content: center; }
+footer li { background: rgba(148, 163, 184, 0.1); border-radius: 6px; padding: 0.4rem 0.75rem; }
+</style>
+</head>
+<body>
+  <header>
+    <h1>DeepTech Daily Dashboard</h1>
+    <p>A curated snapshot of GPUs, research, software, and security intel powered by the DeepTech Daily datasets.</p>
+  </header>
+  <main>
+    <section>
+  <h2>GPU Pricing Snapshot</h2>
+  <p class="metadata">Fetched at 2025-10-16T23:53:44Z • Source: <a href="https://vast.ai/api/v0/bundles/public" target="_blank" rel="noopener">https://vast.ai/api/v0/bundles/public</a>, <a href="https://api.runpod.io" target="_blank" rel="noopener">https://api.runpod.io</a>, <a href="https://modal.com/api" target="_blank" rel="noopener">https://modal.com/api</a> • Hash: <code>68f7f02248b7e0a85d3274d6faf3f4e4281e46be929e4df363fa700b061e40fe</code></p>
+  <p class="warning">Vast.ai: HTTPSConnectionPool(host=&#x27;vast.ai&#x27;, port=443): Max retries exceeded with url: /api/v0/bundles/public?limit=200&amp;skip=0 (Caused by NewConnectionError(&#x27;&lt;urllib3.connection.HTTPSConnection object at 0xXXXX&gt;: Failed to establish a new connection: [Errno 101] Network is unreachable&#x27;))</p>
+  <p class="empty">No data available.</p>
+</section><section>
+  <h2>arXiv Digest</h2>
+  <p class="metadata">Fetched at 2025-10-16T23:53:44Z • Source: <a href="https://export.arxiv.org/rss/cs.AI" target="_blank" rel="noopener">https://export.arxiv.org/rss/cs.AI</a>, <a href="https://export.arxiv.org/rss/cs.CL" target="_blank" rel="noopener">https://export.arxiv.org/rss/cs.CL</a>, <a href="https://export.arxiv.org/rss/cs.LG" target="_blank" rel="noopener">https://export.arxiv.org/rss/cs.LG</a> • Hash: <code>b9e9be76a472b6a343a75ddbb05d6b6207fd0d57c92091678eb91b8f8eced27c</code></p>
+  <table>
+    <thead>
+      <tr><th>Title</th><th>Summary</th><th>Published</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><a href="https://arxiv.org/abs/2510.12864" target="_blank" rel="noopener">From Literal to Liberal: A Meta-Prompting Framework for Eliciting Human-Aligned Exception Handling in Large Language Models</a></td><td>arXiv:2510.12864v1 Announce Type: new  Abstract: Large Language Models (LLMs) are increasingly being deployed as the reasoning engines for agentic AI systems,…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.12979" target="_blank" rel="noopener">DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping</a></td><td>arXiv:2510.12979v1 Announce Type: new  Abstract: Large language models (LLMs) augmented with multi-step reasoning and action generation abilities have shown pr…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.12985" target="_blank" rel="noopener">SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of LLM-based Embodied Agents</a></td><td>arXiv:2510.12985v1 Announce Type: new  Abstract: We present Sentinel, the first framework for formally evaluating the physical safety of Large Language Model(L…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.13002" target="_blank" rel="noopener">From Narratives to Probabilistic Reasoning: Predicting and Interpreting Drivers&#x27; Hazardous Actions in Crashes Using Large Language Model</a></td><td>arXiv:2510.13002v1 Announce Type: new  Abstract: Vehicle crashes involve complex interactions between road users, split-second decisions, and challenging envir…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.13029" target="_blank" rel="noopener">Toward Reasoning-Centric Time-Series Analysis</a></td><td>arXiv:2510.13029v1 Announce Type: new  Abstract: Traditional time series analysis has long relied on pattern recognition, trained on static and well-establishe…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.13036" target="_blank" rel="noopener">Repairing Reward Functions with Human Feedback to Mitigate Reward Hacking</a></td><td>arXiv:2510.13036v1 Announce Type: new  Abstract: Human-designed reward functions for reinforcement learning (RL) agents are frequently misaligned with the huma…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.13195" target="_blank" rel="noopener">Emotional Cognitive Modeling Framework with Desire-Driven Objective Optimization for LLM-empowered Agent in Social Simulation</a></td><td>arXiv:2510.13195v1 Announce Type: new  Abstract: The advent of large language models (LLMs) has enabled agents to represent virtual humans in societal simulati…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.13214" target="_blank" rel="noopener">Adaptive Reasoning Executor: A Collaborative Agent System for Efficient Reasoning</a></td><td>arXiv:2510.13214v1 Announce Type: new  Abstract: Recent advances in Large Language Models (LLMs) demonstrate that chain-of-thought prompting and deep reasoning…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.13215" target="_blank" rel="noopener">Personalized Learning Path Planning with Goal-Driven Learner State Modeling</a></td><td>arXiv:2510.13215v1 Announce Type: new  Abstract: Personalized Learning Path Planning (PLPP) aims to design adaptive learning paths that align with individual g…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.13220" target="_blank" rel="noopener">EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems</a></td><td>arXiv:2510.13220v1 Announce Type: new  Abstract: A fundamental limitation of current AI agents is their inability to learn complex skills on the fly at test ti…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.13230" target="_blank" rel="noopener">An Analytical Framework to Enhance Autonomous Vehicle Perception for Smart Cities</a></td><td>arXiv:2510.13230v1 Announce Type: new  Abstract: The driving environment perception has a vital role for autonomous driving and nowadays has been actively expl…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.13262" target="_blank" rel="noopener">SAJA: A State-Action Joint Attack Framework on Multi-Agent Deep Reinforcement Learning</a></td><td>arXiv:2510.13262v1 Announce Type: new  Abstract: Multi-Agent Deep Reinforcement Learning (MADRL) has shown potential for cooperative and competitive tasks such…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.13393" target="_blank" rel="noopener">Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization</a></td><td>arXiv:2510.13393v1 Announce Type: new  Abstract: Rationalization, a data-centric framework, aims to build self-explanatory models to explain the prediction out…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.13417" target="_blank" rel="noopener">Assessing LLM Reasoning Through Implicit Causal Chain Discovery in Climate Discourse</a></td><td>arXiv:2510.13417v1 Announce Type: new  Abstract: How does a cause lead to an effect, and which intermediate causal steps explain their connection? This work sc…</td><td>2025-10-16T04:00:00Z</td></tr>
+      <tr><td><a href="https://arxiv.org/abs/2510.13459" target="_blank" rel="noopener">Mobile Coverage Analysis using Crowdsourced Data</a></td><td>arXiv:2510.13459v1 Announce Type: new  Abstract: Effective assessment of mobile network coverage and the precise identification of service weak spots are param…</td><td>2025-10-16T04:00:00Z</td></tr>
+    </tbody>
+  </table>
+</section><section>
+  <h2>Hugging Face Trending Models</h2>
+  <p class="metadata">Fetched at 2025-10-16T23:53:44Z • Source: <a href="https://huggingface.co/api/models" target="_blank" rel="noopener">https://huggingface.co/api/models</a> • Hash: <code>edb3d86947c5f8d876d9c4481cb4419a0d2e7876af7b8f691870930c02d571fc</code></p>
+  <table>
+    <thead>
+      <tr><th>Model</th><th>Downloads</th><th>Likes</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><a href="https://huggingface.co/Falconsai/nsfw_image_detection" target="_blank" rel="noopener">Falconsai/nsfw_image_detection</a></td><td>122866637</td><td>847</td></tr>
+      <tr><td><a href="https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2" target="_blank" rel="noopener">sentence-transformers/all-MiniLM-L6-v2</a></td><td>118061338</td><td>4004</td></tr>
+      <tr><td><a href="https://huggingface.co/dima806/fairface_age_image_detection" target="_blank" rel="noopener">dima806/fairface_age_image_detection</a></td><td>81641974</td><td>44</td></tr>
+      <tr><td><a href="https://huggingface.co/google/electra-base-discriminator" target="_blank" rel="noopener">google/electra-base-discriminator</a></td><td>58549625</td><td>66</td></tr>
+      <tr><td><a href="https://huggingface.co/google-bert/bert-base-uncased" target="_blank" rel="noopener">google-bert/bert-base-uncased</a></td><td>53275807</td><td>2441</td></tr>
+      <tr><td><a href="https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k" target="_blank" rel="noopener">timm/mobilenetv3_small_100.lamb_in1k</a></td><td>43762365</td><td>39</td></tr>
+      <tr><td><a href="https://huggingface.co/FacebookAI/roberta-large" target="_blank" rel="noopener">FacebookAI/roberta-large</a></td><td>20426777</td><td>250</td></tr>
+      <tr><td><a href="https://huggingface.co/sentence-transformers/all-mpnet-base-v2" target="_blank" rel="noopener">sentence-transformers/all-mpnet-base-v2</a></td><td>17830892</td><td>1170</td></tr>
+      <tr><td><a href="https://huggingface.co/openai/clip-vit-base-patch32" target="_blank" rel="noopener">openai/clip-vit-base-patch32</a></td><td>17638896</td><td>782</td></tr>
+      <tr><td><a href="https://huggingface.co/pyannote/segmentation-3.0" target="_blank" rel="noopener">pyannote/segmentation-3.0</a></td><td>17234148</td><td>626</td></tr>
+      <tr><td><a href="https://huggingface.co/tech4humans/yolov8s-signature-detector" target="_blank" rel="noopener">tech4humans/yolov8s-signature-detector</a></td><td>16874538</td><td>48</td></tr>
+      <tr><td><a href="https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM" target="_blank" rel="noopener">pyannote/wespeaker-voxceleb-resnet34-LM</a></td><td>14933122</td><td>80</td></tr>
+      <tr><td><a href="https://huggingface.co/Bingsu/adetailer" target="_blank" rel="noopener">Bingsu/adetailer</a></td><td>14489181</td><td>620</td></tr>
+      <tr><td><a href="https://huggingface.co/FacebookAI/roberta-base" target="_blank" rel="noopener">FacebookAI/roberta-base</a></td><td>14321545</td><td>529</td></tr>
+      <tr><td><a href="https://huggingface.co/pyannote/speaker-diarization-3.1" target="_blank" rel="noopener">pyannote/speaker-diarization-3.1</a></td><td>14186095</td><td>1228</td></tr>
+    </tbody>
+  </table>
+</section><section>
+  <h2>GitHub Trending Repositories</h2>
+  <p class="metadata">Fetched at 2025-10-16T23:53:44Z • Source: <a href="https://api.github.com/search/repositories" target="_blank" rel="noopener">https://api.github.com/search/repositories</a> • Hash: <code>fe7c57deab91ce5699006bf3b8a89c42ea99fe087dd846481de690c25df8fb70</code></p>
+  <p class="warning">HTTPSConnectionPool(host=&#x27;api.github.com&#x27;, port=443): Max retries exceeded with url: /search/repositories?q=%28LLM+OR+%22large+language+model%22+OR+genai%29+created%3A%3E2025-10-09&amp;sort=stars&amp;order=desc&amp;per_page=20 (Caused by NewConnectionError(&#x27;&lt;urllib3.connection.HTTPSConnection object at 0xXXXX&gt;: Failed to establish a new connection: [Errno 101] Network is unreachable&#x27;))</p>
+  <p class="empty">No data available.</p>
+</section><section>
+  <h2>Papers with Code</h2>
+  <p class="metadata">Fetched at 2025-10-16T23:53:44Z • Source: <a href="https://paperswithcode.com/api/v1/papers/" target="_blank" rel="noopener">https://paperswithcode.com/api/v1/papers/</a> • Hash: <code>f3cd18142e4d7bc7164f3c7f0a8e2b81fa8f0ed7bd7959c29d8280ad08e10ce8</code></p>
+  <p class="warning">HTTPSConnectionPool(host=&#x27;paperswithcode.com&#x27;, port=443): Max retries exceeded with url: /api/v1/papers/?q=LLM+OR+%22large+language+model%22&amp;ordering=-published&amp;items_per_page=20 (Caused by NewConnectionError(&#x27;&lt;urllib3.connection.HTTPSConnection object at 0xXXXX&gt;: Failed to establish a new connection: [Errno 101] Network is unreachable&#x27;))</p>
+  <p class="empty">No data available.</p>
+</section><section>
+  <h2>Hacker News Highlights</h2>
+  <p class="metadata">Fetched at 2025-10-16T23:53:44Z • Source: <a href="https://hacker-news.firebaseio.com/" target="_blank" rel="noopener">https://hacker-news.firebaseio.com/</a> • Hash: <code>eaec58f243093001ee9ade1cbec887ffcebb3e98ae7f06db9d8de9ccd5540280</code></p>
+  <p class="warning">HTTPSConnectionPool(host=&#x27;hacker-news.firebaseio.com&#x27;, port=443): Max retries exceeded with url: /v0/topstories.json (Caused by NewConnectionError(&#x27;&lt;urllib3.connection.HTTPSConnection object at 0xXXXX&gt;: Failed to establish a new connection: [Errno 101] Network is unreachable&#x27;))</p>
+  <p class="empty">No data available.</p>
+</section><section>
+  <h2>Latest CVEs</h2>
+  <p class="metadata">Fetched at 2025-10-16T23:53:44Z • Source: <a href="https://cve.circl.lu/api/last" target="_blank" rel="noopener">https://cve.circl.lu/api/last</a> • Hash: <code>f3f8475cf7c5bb94a2cc14051e976c934436e6eb748d1ac57a60001d5aec5701</code></p>
+  <p class="warning">HTTPSConnectionPool(host=&#x27;cve.circl.lu&#x27;, port=443): Max retries exceeded with url: /api/last (Caused by NewConnectionError(&#x27;&lt;urllib3.connection.HTTPSConnection object at 0xXXXX&gt;: Failed to establish a new connection: [Errno 101] Network is unreachable&#x27;))</p>
+  <p class="empty">No data available.</p>
+</section><section>
+  <h2>Hugging Face Trending Datasets</h2>
+  <p class="metadata">Fetched at 2025-10-16T23:53:44Z • Source: <a href="https://huggingface.co/api/datasets" target="_blank" rel="noopener">https://huggingface.co/api/datasets</a> • Hash: <code>4b4cc33871c4b3cd497c500155aa79f37885aa24df2d895e1d18c0c80ab6ae9c</code></p>
+  <table>
+    <thead>
+      <tr><th>Dataset</th><th>Downloads</th><th>Likes</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><a href="https://huggingface.co/datasets/nebius/SWE-rebench" target="_blank" rel="noopener">nebius/SWE-rebench</a></td><td>3717252</td><td>35</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/SWE-Gym/SWE-Gym" target="_blank" rel="noopener">SWE-Gym/SWE-Gym</a></td><td>2041687</td><td>20</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/huggingface/documentation-images" target="_blank" rel="noopener">huggingface/documentation-images</a></td><td>2014781</td><td>86</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/chcorbi/helvipad" target="_blank" rel="noopener">chcorbi/helvipad</a></td><td>1478443</td><td>10</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/AquaV/genshin-voices-separated" target="_blank" rel="noopener">AquaV/genshin-voices-separated</a></td><td>1461805</td><td>8</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/banned-historical-archives/banned-historical-archives" target="_blank" rel="noopener">banned-historical-archives/banned-historical-archives</a></td><td>1411450</td><td>5</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim" target="_blank" rel="noopener">nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim</a></td><td>1339503</td><td>155</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/princeton-nlp/SWE-bench_Verified" target="_blank" rel="noopener">princeton-nlp/SWE-bench_Verified</a></td><td>1282494</td><td>218</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy" target="_blank" rel="noopener">lavita/medical-qa-shared-task-v1-toy</a></td><td>878541</td><td>21</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/Salesforce/wikitext" target="_blank" rel="noopener">Salesforce/wikitext</a></td><td>867174</td><td>505</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot" target="_blank" rel="noopener">IPEC-COMMUNITY/language_table_lerobot</a></td><td>786287</td><td>0</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/IPEC-COMMUNITY/droid_lerobot" target="_blank" rel="noopener">IPEC-COMMUNITY/droid_lerobot</a></td><td>737114</td><td>6</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/hf-doc-build/doc-build" target="_blank" rel="noopener">hf-doc-build/doc-build</a></td><td>671848</td><td>12</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/applied-ai-018/pretraining_v1-omega_books" target="_blank" rel="noopener">applied-ai-018/pretraining_v1-omega_books</a></td><td>614296</td><td>2</td></tr>
+      <tr><td><a href="https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu" target="_blank" rel="noopener">HuggingFaceFW/fineweb-edu</a></td><td>597646</td><td>775</td></tr>
+    </tbody>
+  </table>
+</section>
+  </main>
+  <footer><p>Datasets updated as part of the DeepTech Daily automation run.</p><p>Last refreshed at 2025-10-16T23:55:08Z.</p><ul><li><a href="../deeptech-daily/data/gpu_prices.json">gpu_prices.json</a></li><li><a href="../deeptech-daily/data/arxiv.yaml">arxiv.yaml</a></li><li><a href="../deeptech-daily/data/hf_trending.yaml">hf_trending.yaml</a></li><li><a href="../deeptech-daily/data/github_trending.yaml">github_trending.yaml</a></li><li><a href="../deeptech-daily/data/pwc_llm.yaml">pwc_llm.yaml</a></li><li><a href="../deeptech-daily/data/hn_ai.yaml">hn_ai.yaml</a></li><li><a href="../deeptech-daily/data/cves.yaml">cves.yaml</a></li><li><a href="../deeptech-daily/data/hf_datasets.yaml">hf_datasets.yaml</a></li></ul></footer>
+</body>
+</html>
