@@ -1,39 +1,28 @@
-fetched_at: '2025-10-17T00:47:37Z'
-generated_at: '2025-10-17T00:47:37Z'
-hash: b2a91f5380891fca050938713909408d626df0e1ef76b86f49ea358d0502f0e7
+fetched_at: '2025-10-17T01:22:25Z'
+generated_at: '2025-10-17T01:22:25Z'
+hash: 3cab25a7c62df6c34cf8f955879b4ea16dfbf1b85c60d527eb9d77cc0213f0b7
 items:
 - id: 45605842
   score: 324
   time: '2025-10-16T14:33:10Z'
   title: Tor browser removing various Firefox AI features
   url: https://blog.torproject.org/new-alpha-release-tor-browser-150a4/
-- id: 45600263
-  score: 79
-  time: '2025-10-16T00:50:56Z'
-  title: Who's Submitting AI-Tainted Filings in Court?
-  url: https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/
 - id: 45600470
   score: 25
   time: '2025-10-16T01:25:28Z'
   title: 'Coral NPU: A full-stack platform for Edge AI'
   url: https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/
 - id: 45609835
-  score: 19
+  score: 20
   time: '2025-10-16T19:43:31Z'
   title: OpenAI board member is violating export control, selling Claude API to HongKong
   url: https://news.ycombinator.com/item?id=45609835
 - id: 45611912
-  score: 14
+  score: 17
   time: '2025-10-16T23:30:36Z'
   title: Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO
     1.0
   url: https://blog.exolabs.net/nvidia-dgx-spark/
-- id: 45607874
-  score: 10
-  time: '2025-10-16T17:03:13Z'
-  title: Open source GZDoom community splinters after creator inserts AI-generated
-    code
-  url: https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/
 - id: 45608487
   score: 7
   time: '2025-10-16T17:49:34Z'
@@ -51,7 +40,7 @@ items:
     AI'
   url: https://github.com/google-coral/coralnpu
 - id: 45611988
-  score: 3
+  score: 4
   time: '2025-10-16T23:42:18Z'
   title: Internal Amazon Documents Warned AI Startups Are Delaying AWS Spending
   url: https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10

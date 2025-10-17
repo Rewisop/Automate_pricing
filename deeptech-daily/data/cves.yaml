@@ -1,46 +1,45 @@
-fetched_at: '2025-10-17T00:47:37Z'
-generated_at: '2025-10-17T00:47:37Z'
-hash: 43169fc0ea054c1eadd1a82bd8fa05e31405c4683c0fa47cd33148d48bfca26b
+fetched_at: '2025-10-17T01:22:25Z'
+generated_at: '2025-10-17T01:22:25Z'
+hash: 8177da9302ec86bc1f3840bfcee70af5ca204bf110f2086b322b368aad7b3a79
 items:
 - cvss: 0.0
-  id: CVE-2025-23073
-  published: '2025-01-14T19:15:45Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-xmcw-mv9p-7pq2
-  published: '2025-09-05T21:32:38Z'
-  summary: 'Duplicate Advisory: Keycloak error_description injection on error pages
-    that can trigger phishing attacks'
-- cvss: 0.0
-  id: null
-  published: '2025-10-17T00:47:37Z'
+  id: GHSA-j566-7876-3m7f
+  published: '2025-10-17T00:31:12Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-10-17T00:47:37Z'
+  published: '2025-10-17T01:22:25Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-10-17T00:47:37Z'
+  published: '2025-10-17T01:22:25Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-10-17T00:47:37Z'
+  published: '2025-10-17T01:22:25Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-10-17T00:47:37Z'
+  published: '2025-10-17T01:22:25Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-10-17T00:47:37Z'
+  published: '2025-10-17T01:22:25Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-10-17T00:47:37Z'
+  published: '2025-10-17T01:22:25Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-10-17T00:47:37Z'
+  published: '2025-10-17T01:22:25Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-17T01:22:25Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-17T01:22:25Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

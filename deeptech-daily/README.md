@@ -7,6 +7,7 @@ _No significant anomalies today._
 <!-- RADAR:END -->
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -18,6 +19,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 ![Daily Update](https://github.com/${GITHUB_REPOSITORY:-deeptech-daily}/actions/workflows/daily-update.yml/badge.svg)
@@ -134,41 +136,41 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error
 | Jasaxion/HSPIM                                                                       |       5 | A Hierarchical Framework for Measuring Scientific Paper Innovation via Large Language Models                                                                     |
 | THU-KEG/BGPO                                                                         |       5 | Boundary-Guided Policy Optimization for Memory-Efficient RL of Diffusion Large Language Models                                                                   |
 | Mouratid/llm.nexus                                                                   |       4 | A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. LLM.Nexus simplifies integration with OpenAI, Anthropic, Google, and other…  |
+
+_Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: GitHub API limit 403._
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
 <!--PWC:START-->
-_Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Expecting value: line 1 column 1 (char 0)._
+_Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value: line 1 column 1 (char 0)._
 <!--PWC:END-->
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
 - [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/) — 324 points
-- [Who's Submitting AI-Tainted Filings in Court?](https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/) — 79 points
 - [Coral NPU: A full-stack platform for Edge AI](https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/) — 25 points
-- [OpenAI board member is violating export control, selling Claude API to HongKong](https://news.ycombinator.com/item?id=45609835) — 19 points
-- [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/) — 14 points
-- [Open source GZDoom community splinters after creator inserts AI-generated code](https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/) — 10 points
+- [OpenAI board member is violating export control, selling Claude API to HongKong](https://news.ycombinator.com/item?id=45609835) — 20 points
+- [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/) — 17 points
 - [The AI that we'll have after AI](https://pluralistic.net/2025/10/16/post-ai-ai/#productive-residue) — 7 points
 - [Viral GPT wrappers are now training their own LLMs](https://twitter.com/0xSamHogan/status/1978533352731779260) — 7 points
 - [Google Coral NPU: ML accelerator core designed for energy-efficient edge AI](https://github.com/google-coral/coralnpu) — 5 points
-- [Internal Amazon Documents Warned AI Startups Are Delaying AWS Spending](https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10) — 3 points
+- [Internal Amazon Documents Warned AI Startups Are Delaying AWS Spending](https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10) — 4 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                                                                                                   |
-|---------------------|--------|-----------------------------------------------------------------------------------------------------------|
-| CVE-2025-23073      |      0 |                                                                                                           |
-| GHSA-xmcw-mv9p-7pq2 |      0 | Duplicate Advisory: Keycloak error_description injection on error pages that can trigger phishing attacks |
-|                     |      0 |                                                                                                           |
-|                     |      0 |                                                                                                           |
-|                     |      0 |                                                                                                           |
-|                     |      0 |                                                                                                           |
-|                     |      0 |                                                                                                           |
-|                     |      0 |                                                                                                           |
-|                     |      0 |                                                                                                           |
-|                     |      0 |                                                                                                           |
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| GHSA-j566-7876-3m7f |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
