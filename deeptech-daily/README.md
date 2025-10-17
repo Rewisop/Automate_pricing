@@ -1,5 +1,13 @@
 # DeepTech Daily Intel
 
+<!-- RADAR:START -->
+## Anomaly & Regime-Shift Radar
+
+_No significant anomalies today._
+
+<sub>Robust z-scores via median/MAD over ~180 days. 🧨=regime-shift candidate (|z|≥4), 🔴=alert (|z|≥3), 🟡=watch (2≤|z|<3).</sub>
+<!-- RADAR:END -->
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 

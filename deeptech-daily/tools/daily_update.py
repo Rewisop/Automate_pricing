@@ -1154,6 +1154,59 @@ SECTION_BUILDERS = {
     "HFDATA": collect_hf_datasets,
 }
 
+from .anomaly import (
+    assess_anomalies,
+    collect_today_metrics,
+    render_radar_md,
+    update_timeseries,
+    utc_date as anomaly_utc_date,
+)
+
+ANOMALY_BASE_DIR = os.path.join(os.path.dirname(__file__), "..")
+ANOMALY_TS_PATH = os.path.join(ANOMALY_BASE_DIR, "data", "metrics_timeseries.json")
+ANOMALY_README_PATH = os.path.join(ANOMALY_BASE_DIR, "README.md")
+
+
+def _inject_radar_section() -> None:
+    today = anomaly_utc_date()
+    metrics = collect_today_metrics(ANOMALY_BASE_DIR)
+    ts = update_timeseries(ANOMALY_TS_PATH, today, metrics)
+    alerts = assess_anomalies(ts)
+    fragment = render_radar_md(alerts, today)
+
+    try:
+        with open(ANOMALY_README_PATH, "r", encoding="utf-8") as f:
+            readme = f.read()
+    except FileNotFoundError:
+        readme = ""
+
+    start_tag = "<!-- RADAR:START -->"
+    end_tag = "<!-- RADAR:END -->"
+    if start_tag in readme and end_tag in readme:
+        pre, rest = readme.split(start_tag, 1)
+        _, post = rest.split(end_tag, 1)
+        new_readme = pre + fragment + post
+    else:
+        if "# " in readme:
+            parts = readme.split("\n", 2)
+            if len(parts) >= 2:
+                new_readme = (
+                    parts[0]
+                    + "\n"
+                    + parts[1]
+                    + "\n\n"
+                    + fragment
+                    + (parts[2] if len(parts) == 3 else "")
+                )
+            else:
+                new_readme = readme + "\n\n" + fragment
+        else:
+            new_readme = fragment + "\n" + readme
+
+    if new_readme != readme:
+        with open(ANOMALY_README_PATH, "w", encoding="utf-8") as f:
+            f.write(new_readme)
+
 
 def main() -> int:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -1190,6 +1243,7 @@ def main() -> int:
         except subprocess.CalledProcessError as exc:
             LOGGER.error("Auto-commit command failed with exit code %s", exc.returncode)
     update_dpi_section()
+    _inject_radar_section()
     return 0
 
 
