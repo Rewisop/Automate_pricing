@@ -2,17 +2,35 @@
 
 Automate_pricing contains a small automation stack for publishing a daily
 snapshot of the GPU market together with a handful of other AI/ML intelligence
-signals. The core workflow lives in the [`deeptech-daily`](deeptech-daily)
-subdirectory and is designed to run in CI (for example via GitHub Actions) or
-on a local cron job. When executed, the bot fetches pricing and trend data from
-several public APIs, writes the canonical datasets to `deeptech-daily/data/` and
-refreshes Markdown sections inside `deeptech-daily/README.md`.
+signals. Think of it as an autonomous research assistant: every execution pulls
+fresh pricing data, trending repositories, noteworthy papers, security updates,
+and community chatter, then compiles the results into Markdown and structured
+data that can be consumed by humans or downstream tooling.
 
-The repository is intentionally lightweight—the automation is a single Python
-script and a few configuration files—so having clear documentation makes it
-easy to adapt the project to a different publication cadence or data sources.
-Runs now emit structured logs (configurable via `DEEPTECH_LOG_LEVEL`) so that
-scheduled executions are easy to observe and debug.
+The core workflow lives in the [`deeptech-daily`](deeptech-daily) subdirectory
+and is designed to run unattended in CI (for example via GitHub Actions) or on
+a local cron job. When executed, the bot orchestrates a set of provider
+parsers, fetches data from public APIs, writes canonical datasets to
+`deeptech-daily/data/`, refreshes Markdown sections inside
+`deeptech-daily/README.md`, and republishes a static dashboard inside `docs/`.
+
+At its heart the project is intentionally lightweight—the automation is a
+single Python script plus configuration—so adapting it to a different
+publication cadence or new data sources only requires editing a few YAML files
+or adding a parser function. Runs emit structured logs (configurable via
+`DEEPTECH_LOG_LEVEL`) so scheduled executions are easy to observe and debug.
+
+## Key capabilities
+
+- **Daily GPU price intelligence:** Consolidates on-demand GPU rental prices
+  from supported providers and tracks historical minimum rates for comparison.
+- **AI/ML research radar:** Surfaces the latest arXiv submissions, trending
+  Hugging Face models and datasets, and notable Papers with Code entries.
+- **Ecosystem pulse checks:** Monitors fast-rising GitHub repositories,
+  high-signal Hacker News discussions, and recent AI-related CVEs.
+- **Shareable outputs:** Generates a public-facing Markdown report, machine
+  readable data exports, and a static dashboard suitable for GitHub Pages or
+  other hosting.
 
 ## Repository layout
 
