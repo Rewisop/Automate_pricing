@@ -1,117 +1,118 @@
-fetched_at: '2025-10-16T23:53:44Z'
-generated_at: '2025-10-16T23:53:44Z'
-hash: b9e9be76a472b6a343a75ddbb05d6b6207fd0d57c92091678eb91b8f8eced27c
+fetched_at: '2025-10-17T05:30:39Z'
+generated_at: '2025-10-17T05:30:39Z'
+hash: edcbb81197bb43e2324c95261547a5a473edcb4ce07e4b64672b006ab2800c9f
 items:
-- id: oai:arXiv.org:2510.12864v1
-  link: https://arxiv.org/abs/2510.12864
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.12864v1 Announce Type: new  Abstract: Large Language Models
-    (LLMs) are increasingly being deployed as the reasoning engines for agentic AI
-    systems,…'
-  title: 'From Literal to Liberal: A Meta-Prompting Framework for Eliciting Human-Aligned
-    Exception Handling in Large Language Models'
-- id: oai:arXiv.org:2510.12979v1
-  link: https://arxiv.org/abs/2510.12979
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.12979v1 Announce Type: new  Abstract: Large language models
-    (LLMs) augmented with multi-step reasoning and action generation abilities have
-    shown pr…'
-  title: 'DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage
-    Shaping'
-- id: oai:arXiv.org:2510.12985v1
-  link: https://arxiv.org/abs/2510.12985
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.12985v1 Announce Type: new  Abstract: We present Sentinel,
-    the first framework for formally evaluating the physical safety of Large Language
-    Model(L…'
-  title: 'SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of LLM-based
-    Embodied Agents'
-- id: oai:arXiv.org:2510.13002v1
-  link: https://arxiv.org/abs/2510.13002
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.13002v1 Announce Type: new  Abstract: Vehicle crashes involve
-    complex interactions between road users, split-second decisions, and challenging
-    envir…'
-  title: 'From Narratives to Probabilistic Reasoning: Predicting and Interpreting
-    Drivers'' Hazardous Actions in Crashes Using Large Language Model'
-- id: oai:arXiv.org:2510.13029v1
-  link: https://arxiv.org/abs/2510.13029
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.13029v1 Announce Type: new  Abstract: Traditional time series
-    analysis has long relied on pattern recognition, trained on static and well-establishe…'
-  title: Toward Reasoning-Centric Time-Series Analysis
-- id: oai:arXiv.org:2510.13036v1
-  link: https://arxiv.org/abs/2510.13036
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.13036v1 Announce Type: new  Abstract: Human-designed reward
-    functions for reinforcement learning (RL) agents are frequently misaligned with
-    the huma…'
-  title: Repairing Reward Functions with Human Feedback to Mitigate Reward Hacking
-- id: oai:arXiv.org:2510.13195v1
-  link: https://arxiv.org/abs/2510.13195
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.13195v1 Announce Type: new  Abstract: The advent of large language
-    models (LLMs) has enabled agents to represent virtual humans in societal simulati…'
-  title: Emotional Cognitive Modeling Framework with Desire-Driven Objective Optimization
-    for LLM-empowered Agent in Social Simulation
-- id: oai:arXiv.org:2510.13214v1
-  link: https://arxiv.org/abs/2510.13214
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.13214v1 Announce Type: new  Abstract: Recent advances in Large
-    Language Models (LLMs) demonstrate that chain-of-thought prompting and deep reasoning…'
-  title: 'Adaptive Reasoning Executor: A Collaborative Agent System for Efficient
-    Reasoning'
-- id: oai:arXiv.org:2510.13215v1
-  link: https://arxiv.org/abs/2510.13215
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.13215v1 Announce Type: new  Abstract: Personalized Learning
-    Path Planning (PLPP) aims to design adaptive learning paths that align with individual
-    g…'
-  title: Personalized Learning Path Planning with Goal-Driven Learner State Modeling
-- id: oai:arXiv.org:2510.13220v1
-  link: https://arxiv.org/abs/2510.13220
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.13220v1 Announce Type: new  Abstract: A fundamental limitation
-    of current AI agents is their inability to learn complex skills on the fly at
-    test ti…'
-  title: 'EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems'
-- id: oai:arXiv.org:2510.13230v1
-  link: https://arxiv.org/abs/2510.13230
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.13230v1 Announce Type: new  Abstract: The driving environment
-    perception has a vital role for autonomous driving and nowadays has been actively
-    expl…'
-  title: An Analytical Framework to Enhance Autonomous Vehicle Perception for Smart
-    Cities
-- id: oai:arXiv.org:2510.13262v1
-  link: https://arxiv.org/abs/2510.13262
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.13262v1 Announce Type: new  Abstract: Multi-Agent Deep Reinforcement
-    Learning (MADRL) has shown potential for cooperative and competitive tasks such…'
-  title: 'SAJA: A State-Action Joint Attack Framework on Multi-Agent Deep Reinforcement
-    Learning'
-- id: oai:arXiv.org:2510.13393v1
-  link: https://arxiv.org/abs/2510.13393
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.13393v1 Announce Type: new  Abstract: Rationalization, a data-centric
-    framework, aims to build self-explanatory models to explain the prediction out…'
-  title: Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation
-    Rationalization
-- id: oai:arXiv.org:2510.13417v1
-  link: https://arxiv.org/abs/2510.13417
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.13417v1 Announce Type: new  Abstract: How does a cause lead
-    to an effect, and which intermediate causal steps explain their connection? This
-    work sc…'
-  title: Assessing LLM Reasoning Through Implicit Causal Chain Discovery in Climate
-    Discourse
-- id: oai:arXiv.org:2510.13459v1
-  link: https://arxiv.org/abs/2510.13459
-  published: '2025-10-16T04:00:00Z'
-  summary: 'arXiv:2510.13459v1 Announce Type: new  Abstract: Effective assessment
-    of mobile network coverage and the precise identification of service weak spots
-    are param…'
-  title: Mobile Coverage Analysis using Crowdsourced Data
+- id: oai:arXiv.org:2510.13858v1
+  link: https://arxiv.org/abs/2510.13858
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.13858v1 Announce Type: new  Abstract: Model validity is as
+    critical as the model itself, especially when guiding decision-making processes.
+    Traditio…'
+  title: 'Decision Oriented Technique (DOTechnique): Finding Model Validity Through
+    Decision-Maker Context'
+- id: oai:arXiv.org:2510.13979v1
+  link: https://arxiv.org/abs/2510.13979
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.13979v1 Announce Type: new  Abstract: State-of-the-art (SOTA)
+    Automatic Speech Recognition (ASR) systems primarily rely on acoustic information
+    whil…'
+  title: Do Slides Help? Multi-modal Context for Automatic Transcription of Conference
+    Talks
+- id: oai:arXiv.org:2510.13985v1
+  link: https://arxiv.org/abs/2510.13985
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.13985v1 Announce Type: new  Abstract: Causal learning is the
+    cognitive process of developing the capability of making causal inferences based
+    on ava…'
+  title: Do Large Language Models Show Biases in Causal Learning? Insights from Contingency
+    Judgment
+- id: oai:arXiv.org:2510.14035v1
+  link: https://arxiv.org/abs/2510.14035
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.14035v1 Announce Type: new  Abstract: We introduce an action-centric
+    graph representation framework for learning to guide planning in Partially Obse…'
+  title: 'GammaZero: Learning To Guide POMDP Belief Space Search With Graph Representations'
+- id: oai:arXiv.org:2510.14053v1
+  link: https://arxiv.org/abs/2510.14053
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.14053v1 Announce Type: new  Abstract: Recent proposals for
+    regulating frontier AI models have sparked concerns about the cost of safety regulation,…'
+  title: 'Position: Require Frontier AI Labs To Release Small "Analog" Models'
+- id: oai:arXiv.org:2510.14106v1
+  link: https://arxiv.org/abs/2510.14106
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.14106v1 Announce Type: new  Abstract: Current frameworks for
+    consensus statement generation with large language models lack the inherent structure
+    n…'
+  title: Generating Fair Consensus Statements with Social Choice on Token-Level MDPs
+- id: oai:arXiv.org:2510.14112v1
+  link: https://arxiv.org/abs/2510.14112
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.14112v1 Announce Type: new  Abstract: Building energy management
+    is essential for achieving carbon reduction goals, improving occupant comfort,
+    and…'
+  title: 'STEMS: Spatial-Temporal Enhanced Safe Multi-Agent Coordination for Building
+    Energy Management'
+- id: oai:arXiv.org:2510.14133v1
+  link: https://arxiv.org/abs/2510.14133
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.14133v1 Announce Type: new  Abstract: Agentic AI systems, which
+    leverage multiple autonomous agents and Large Language Models (LLMs), are increasing…'
+  title: Formalizing the Safety, Security, and Functional Properties of Agentic AI
+    Systems
+- id: oai:arXiv.org:2510.14136v1
+  link: https://arxiv.org/abs/2510.14136
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.14136v1 Announce Type: new  Abstract: Cultural heritage sites
+    face accelerating degradation due to climate change, yet tradi- tional monitoring
+    reli…'
+  title: A Multimodal Approach to Heritage Preservation in the Context of Climate
+    Change
+- id: oai:arXiv.org:2510.14150v1
+  link: https://arxiv.org/abs/2510.14150
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.14150v1 Announce Type: new  Abstract: In this work, we introduce
+    CodeEvolve, an open-source evolutionary coding agent that unites Large Language
+    Mod…'
+  title: 'CodeEvolve: An open source evolutionary coding agent for algorithm discovery
+    and optimization'
+- id: oai:arXiv.org:2510.14154v1
+  link: https://arxiv.org/abs/2510.14154
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.14154v1 Announce Type: new  Abstract: While the rapid advancements
+    in the reinforcement learning (RL) research community have been remarkable, the
+    a…'
+  title: Combining Reinforcement Learning and Behavior Trees for NPCs in Video Games
+    with AMD Schola
+- id: oai:arXiv.org:2510.14169v1
+  link: https://arxiv.org/abs/2510.14169
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.14169v1 Announce Type: new  Abstract: Clinical conversations
+    mix explicit directives (order a chest X-ray) with implicit reasoning (the cough
+    worsen…'
+  title: 'JEDA: Query-Free Clinical Order Search from Ambient Dialogues'
+- id: oai:arXiv.org:2510.14176v1
+  link: https://arxiv.org/abs/2510.14176
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.14176v1 Announce Type: new  Abstract: Reinforcement learning
+    (RL) algorithms are highly sensitive to reward function specification, which remains
+    a…'
+  title: 'ARM-FM: Automated Reward Machines via Foundation Models for Compositional
+    Reinforcement Learning'
+- id: oai:arXiv.org:2510.14194v1
+  link: https://arxiv.org/abs/2510.14194
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.14194v1 Announce Type: new  Abstract: Artificial intelligence
+    (AI) has become increasingly central to precision medicine by enabling the integration…'
+  title: Implementation of AI in Precision Medicine
+- id: oai:arXiv.org:2510.14207v1
+  link: https://arxiv.org/abs/2510.14207
+  published: '2025-10-17T04:00:00Z'
+  summary: 'arXiv:2510.14207v1 Announce Type: new  Abstract: Large Language Model
+    (LLM) agents are powering a growing share of interactive web applications, yet
+    remain vul…'
+  title: 'Echoes of Human Malice in Agents: Benchmarking LLMs for Multi-Turn Online
+    Harassment Attacks'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

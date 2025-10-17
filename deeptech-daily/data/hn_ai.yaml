@@ -1,47 +1,32 @@
-fetched_at: '2025-10-17T01:22:25Z'
-generated_at: '2025-10-17T01:22:25Z'
-hash: 3cab25a7c62df6c34cf8f955879b4ea16dfbf1b85c60d527eb9d77cc0213f0b7
+fetched_at: '2025-10-17T05:30:39Z'
+generated_at: '2025-10-17T05:30:39Z'
+hash: 0f00b7caf0c2014c691e0d4c3fdff942fc293625db9af4ea5046a72d04d57d89
 items:
 - id: 45605842
   score: 324
   time: '2025-10-16T14:33:10Z'
   title: Tor browser removing various Firefox AI features
   url: https://blog.torproject.org/new-alpha-release-tor-browser-150a4/
-- id: 45600470
-  score: 25
-  time: '2025-10-16T01:25:28Z'
-  title: 'Coral NPU: A full-stack platform for Edge AI'
-  url: https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/
-- id: 45609835
-  score: 20
-  time: '2025-10-16T19:43:31Z'
-  title: OpenAI board member is violating export control, selling Claude API to HongKong
-  url: https://news.ycombinator.com/item?id=45609835
 - id: 45611912
-  score: 17
+  score: 43
   time: '2025-10-16T23:30:36Z'
   title: Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO
     1.0
   url: https://blog.exolabs.net/nvidia-dgx-spark/
-- id: 45608487
-  score: 7
-  time: '2025-10-16T17:49:34Z'
-  title: The AI that we'll have after AI
-  url: https://pluralistic.net/2025/10/16/post-ai-ai/#productive-residue
+- id: 45610415
+  score: 8
+  time: '2025-10-16T20:40:16Z'
+  title: 'Google Coral NPU: ML accelerator core designed for energy-efficient edge
+    AI'
+  url: https://github.com/google-coral/coralnpu
 - id: 45610443
   score: 7
   time: '2025-10-16T20:43:17Z'
   title: Viral GPT wrappers are now training their own LLMs
   url: https://twitter.com/0xSamHogan/status/1978533352731779260
-- id: 45610415
-  score: 5
-  time: '2025-10-16T20:40:16Z'
-  title: 'Google Coral NPU: ML accelerator core designed for energy-efficient edge
-    AI'
-  url: https://github.com/google-coral/coralnpu
-- id: 45611988
-  score: 4
-  time: '2025-10-16T23:42:18Z'
-  title: Internal Amazon Documents Warned AI Startups Are Delaying AWS Spending
-  url: https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10
+- id: 45611672
+  score: 6
+  time: '2025-10-16T22:54:53Z'
+  title: What GPU pricing can tell us about how the AI bubble will pop
+  url: https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9
 source_url: https://hacker-news.firebaseio.com/

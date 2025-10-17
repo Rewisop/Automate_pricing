@@ -1,6 +1,6 @@
-fetched_at: '2025-10-17T00:47:37Z'
-generated_at: '2025-10-17T00:47:37Z'
-hash: 9f6ef2e56d2d74a3dea84488178f18f6eddc02b3b236dad821cdb373e7d452c7
+fetched_at: '2025-10-17T05:30:39Z'
+generated_at: '2025-10-17T05:30:39Z'
+hash: 47f6f1d97659243edadd92765410fb0eb538c898b8dd40b4edcb64b84bd4c86f
 items:
 - created_at: '2025-10-12T07:33:04Z'
   description: LLM tuto, PDF Q&A System, etc.
@@ -40,12 +40,36 @@ items:
     for online learning from execution feedback
   full_name: jmanhype/ace-playbook
   html_url: https://github.com/jmanhype/ace-playbook
-  stargazers_count: 10
+  stargazers_count: 11
+- created_at: '2025-10-15T12:48:47Z'
+  description: 'Official implementation of "Less is More: Improving LLM Reasoning
+    with Minimal Test-Time Intervention"'
+  full_name: EnVision-Research/MTI
+  html_url: https://github.com/EnVision-Research/MTI
+  stargazers_count: 9
 - created_at: '2025-10-16T01:36:14Z'
   description: A Survey on Large Language Models for Personalized Alignment
   full_name: Tomsawyerhu/Awesome-Personalized-Alignment
   html_url: https://github.com/Tomsawyerhu/Awesome-Personalized-Alignment
   stargazers_count: 9
+- created_at: '2025-10-13T20:16:10Z'
+  description: The first benchmark to evaluate LLM performance on heterogeneous CTI
+    under knowledge-augmented settings.
+  full_name: peng-gao-lab/CTIArena
+  html_url: https://github.com/peng-gao-lab/CTIArena
+  stargazers_count: 9
+- created_at: '2025-10-12T17:10:35Z'
+  description: AI-powered Docker log analysis CLI — Analyze container logs using LLMs
+    (Ollama or OpenAI).
+  full_name: ahmetatakan/dockai
+  html_url: https://github.com/ahmetatakan/dockai
+  stargazers_count: 8
+- created_at: '2025-10-15T11:38:03Z'
+  description: 'LangGraph Mastery Playbook: guided, code-first lessons for building
+    memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.'
+  full_name: leslieo2/LangGraph-Mastery-Playbook
+  html_url: https://github.com/leslieo2/LangGraph-Mastery-Playbook
+  stargazers_count: 8
 - created_at: '2025-10-12T20:19:46Z'
   description: A Model Context Protocol (MCP) proxy server that translates tool calls
     into TypeScript code generation. Instead of making multiple tool calls back and
@@ -58,18 +82,6 @@ items:
     LLM-Guided Search", Arxiv 2025'
   full_name: DLFundamentals/LLM_ERM
   html_url: https://github.com/DLFundamentals/LLM_ERM
-  stargazers_count: 7
-- created_at: '2025-10-12T17:10:35Z'
-  description: AI-powered Docker log analysis CLI — Analyze container logs using LLMs
-    (Ollama or OpenAI).
-  full_name: ahmetatakan/dockai
-  html_url: https://github.com/ahmetatakan/dockai
-  stargazers_count: 7
-- created_at: '2025-10-15T11:38:03Z'
-  description: 'LangGraph Mastery Playbook: guided, code-first lessons for building
-    memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.'
-  full_name: leslieo2/LangGraph-Mastery-Playbook
-  html_url: https://github.com/leslieo2/LangGraph-Mastery-Playbook
   stargazers_count: 7
 - created_at: '2025-10-15T08:08:02Z'
   description: pocketbase LLM docs scraper
@@ -86,12 +98,6 @@ items:
     spreading in a network
   full_name: TianzhuQin/LLM-ABM-Information-Network
   html_url: https://github.com/TianzhuQin/LLM-ABM-Information-Network
-  stargazers_count: 6
-- created_at: '2025-10-13T20:16:10Z'
-  description: The first benchmark to evaluate LLM performance on heterogeneous CTI
-    under knowledge-augmented settings.
-  full_name: peng-gao-lab/CTIArena
-  html_url: https://github.com/peng-gao-lab/CTIArena
   stargazers_count: 6
 - created_at: '2025-10-14T00:27:52Z'
   description: Multiturn Meta-Bandit LLM RL Training
@@ -110,11 +116,4 @@ items:
   full_name: THU-KEG/BGPO
   html_url: https://github.com/THU-KEG/BGPO
   stargazers_count: 5
-- created_at: '2025-10-12T17:03:12Z'
-  description: A unified .NET abstraction layer for multiple Large Language Model
-    (LLM) providers. LLM.Nexus simplifies integration with OpenAI, Anthropic, Google,
-    and other…
-  full_name: Mouratid/llm.nexus
-  html_url: https://github.com/Mouratid/llm.nexus
-  stargazers_count: 4
 source_url: https://api.github.com/search/repositories

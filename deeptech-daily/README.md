@@ -8,6 +8,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -19,6 +20,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -72,21 +74,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [From Literal to Liberal: A Meta-Prompting Framework for Eliciting Human-Aligned Exception Handling in Large Language Models](https://arxiv.org/abs/2510.12864) — arXiv:2510.12864v1 Announce Type: new  Abstract: Large Language Models (LLMs) are increasingly being deployed as the reasoning engines for agentic AI systems,…
-- [DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping](https://arxiv.org/abs/2510.12979) — arXiv:2510.12979v1 Announce Type: new  Abstract: Large language models (LLMs) augmented with multi-step reasoning and action generation abilities have shown pr…
-- [SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of LLM-based Embodied Agents](https://arxiv.org/abs/2510.12985) — arXiv:2510.12985v1 Announce Type: new  Abstract: We present Sentinel, the first framework for formally evaluating the physical safety of Large Language Model(L…
-- [From Narratives to Probabilistic Reasoning: Predicting and Interpreting Drivers' Hazardous Actions in Crashes Using Large Language Model](https://arxiv.org/abs/2510.13002) — arXiv:2510.13002v1 Announce Type: new  Abstract: Vehicle crashes involve complex interactions between road users, split-second decisions, and challenging envir…
-- [Toward Reasoning-Centric Time-Series Analysis](https://arxiv.org/abs/2510.13029) — arXiv:2510.13029v1 Announce Type: new  Abstract: Traditional time series analysis has long relied on pattern recognition, trained on static and well-establishe…
-- [Repairing Reward Functions with Human Feedback to Mitigate Reward Hacking](https://arxiv.org/abs/2510.13036) — arXiv:2510.13036v1 Announce Type: new  Abstract: Human-designed reward functions for reinforcement learning (RL) agents are frequently misaligned with the huma…
-- [Emotional Cognitive Modeling Framework with Desire-Driven Objective Optimization for LLM-empowered Agent in Social Simulation](https://arxiv.org/abs/2510.13195) — arXiv:2510.13195v1 Announce Type: new  Abstract: The advent of large language models (LLMs) has enabled agents to represent virtual humans in societal simulati…
-- [Adaptive Reasoning Executor: A Collaborative Agent System for Efficient Reasoning](https://arxiv.org/abs/2510.13214) — arXiv:2510.13214v1 Announce Type: new  Abstract: Recent advances in Large Language Models (LLMs) demonstrate that chain-of-thought prompting and deep reasoning…
-- [Personalized Learning Path Planning with Goal-Driven Learner State Modeling](https://arxiv.org/abs/2510.13215) — arXiv:2510.13215v1 Announce Type: new  Abstract: Personalized Learning Path Planning (PLPP) aims to design adaptive learning paths that align with individual g…
-- [EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems](https://arxiv.org/abs/2510.13220) — arXiv:2510.13220v1 Announce Type: new  Abstract: A fundamental limitation of current AI agents is their inability to learn complex skills on the fly at test ti…
-- [An Analytical Framework to Enhance Autonomous Vehicle Perception for Smart Cities](https://arxiv.org/abs/2510.13230) — arXiv:2510.13230v1 Announce Type: new  Abstract: The driving environment perception has a vital role for autonomous driving and nowadays has been actively expl…
-- [SAJA: A State-Action Joint Attack Framework on Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/2510.13262) — arXiv:2510.13262v1 Announce Type: new  Abstract: Multi-Agent Deep Reinforcement Learning (MADRL) has shown potential for cooperative and competitive tasks such…
-- [Learnable Game-theoretic Policy Optimization for Data-centric Self-explanation Rationalization](https://arxiv.org/abs/2510.13393) — arXiv:2510.13393v1 Announce Type: new  Abstract: Rationalization, a data-centric framework, aims to build self-explanatory models to explain the prediction out…
-- [Assessing LLM Reasoning Through Implicit Causal Chain Discovery in Climate Discourse](https://arxiv.org/abs/2510.13417) — arXiv:2510.13417v1 Announce Type: new  Abstract: How does a cause lead to an effect, and which intermediate causal steps explain their connection? This work sc…
-- [Mobile Coverage Analysis using Crowdsourced Data](https://arxiv.org/abs/2510.13459) — arXiv:2510.13459v1 Announce Type: new  Abstract: Effective assessment of mobile network coverage and the precise identification of service weak spots are param…
+- [Decision Oriented Technique (DOTechnique): Finding Model Validity Through Decision-Maker Context](https://arxiv.org/abs/2510.13858) — arXiv:2510.13858v1 Announce Type: new  Abstract: Model validity is as critical as the model itself, especially when guiding decision-making processes. Traditio…
+- [Do Slides Help? Multi-modal Context for Automatic Transcription of Conference Talks](https://arxiv.org/abs/2510.13979) — arXiv:2510.13979v1 Announce Type: new  Abstract: State-of-the-art (SOTA) Automatic Speech Recognition (ASR) systems primarily rely on acoustic information whil…
+- [Do Large Language Models Show Biases in Causal Learning? Insights from Contingency Judgment](https://arxiv.org/abs/2510.13985) — arXiv:2510.13985v1 Announce Type: new  Abstract: Causal learning is the cognitive process of developing the capability of making causal inferences based on ava…
+- [GammaZero: Learning To Guide POMDP Belief Space Search With Graph Representations](https://arxiv.org/abs/2510.14035) — arXiv:2510.14035v1 Announce Type: new  Abstract: We introduce an action-centric graph representation framework for learning to guide planning in Partially Obse…
+- [Position: Require Frontier AI Labs To Release Small "Analog" Models](https://arxiv.org/abs/2510.14053) — arXiv:2510.14053v1 Announce Type: new  Abstract: Recent proposals for regulating frontier AI models have sparked concerns about the cost of safety regulation,…
+- [Generating Fair Consensus Statements with Social Choice on Token-Level MDPs](https://arxiv.org/abs/2510.14106) — arXiv:2510.14106v1 Announce Type: new  Abstract: Current frameworks for consensus statement generation with large language models lack the inherent structure n…
+- [STEMS: Spatial-Temporal Enhanced Safe Multi-Agent Coordination for Building Energy Management](https://arxiv.org/abs/2510.14112) — arXiv:2510.14112v1 Announce Type: new  Abstract: Building energy management is essential for achieving carbon reduction goals, improving occupant comfort, and…
+- [Formalizing the Safety, Security, and Functional Properties of Agentic AI Systems](https://arxiv.org/abs/2510.14133) — arXiv:2510.14133v1 Announce Type: new  Abstract: Agentic AI systems, which leverage multiple autonomous agents and Large Language Models (LLMs), are increasing…
+- [A Multimodal Approach to Heritage Preservation in the Context of Climate Change](https://arxiv.org/abs/2510.14136) — arXiv:2510.14136v1 Announce Type: new  Abstract: Cultural heritage sites face accelerating degradation due to climate change, yet tradi- tional monitoring reli…
+- [CodeEvolve: An open source evolutionary coding agent for algorithm discovery and optimization](https://arxiv.org/abs/2510.14150) — arXiv:2510.14150v1 Announce Type: new  Abstract: In this work, we introduce CodeEvolve, an open-source evolutionary coding agent that unites Large Language Mod…
+- [Combining Reinforcement Learning and Behavior Trees for NPCs in Video Games with AMD Schola](https://arxiv.org/abs/2510.14154) — arXiv:2510.14154v1 Announce Type: new  Abstract: While the rapid advancements in the reinforcement learning (RL) research community have been remarkable, the a…
+- [JEDA: Query-Free Clinical Order Search from Ambient Dialogues](https://arxiv.org/abs/2510.14169) — arXiv:2510.14169v1 Announce Type: new  Abstract: Clinical conversations mix explicit directives (order a chest X-ray) with implicit reasoning (the cough worsen…
+- [ARM-FM: Automated Reward Machines via Foundation Models for Compositional Reinforcement Learning](https://arxiv.org/abs/2510.14176) — arXiv:2510.14176v1 Announce Type: new  Abstract: Reinforcement learning (RL) algorithms are highly sensitive to reward function specification, which remains a…
+- [Implementation of AI in Precision Medicine](https://arxiv.org/abs/2510.14194) — arXiv:2510.14194v1 Announce Type: new  Abstract: Artificial intelligence (AI) has become increasingly central to precision medicine by enabling the integration…
+- [Echoes of Human Malice in Agents: Benchmarking LLMs for Multi-Turn Online Harassment Attacks](https://arxiv.org/abs/2510.14207) — arXiv:2510.14207v1 Announce Type: new  Abstract: Large Language Model (LLM) agents are powering a growing share of interactive web applications, yet remain vul…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -122,22 +124,20 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error
 | BDML-lab/llm-inductive-reasoning-survey                                              |      18 | this is the repository for the paper ‘A Survey of Inductive Reasoning for Large Language Models’                                                                 |
 | FelixMessi/QDLM                                                                      |      16 | Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs                                                                    |
 | hemingkx/AdvPrompt                                                                   |      14 | Enabling Efficient Reasoning in LLMs via Black-box Adversarial Prompting                                                                                         |
-| jmanhype/ace-playbook                                                                |      10 | Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback                                                  |
+| jmanhype/ace-playbook                                                                |      11 | Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback                                                  |
+| EnVision-Research/MTI                                                                |       9 | Official implementation of "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention"                                                           |
 | Tomsawyerhu/Awesome-Personalized-Alignment                                           |       9 | A Survey on Large Language Models for Personalized Alignment                                                                                                     |
+| peng-gao-lab/CTIArena                                                                |       9 | The first benchmark to evaluate LLM performance on heterogeneous CTI under knowledge-augmented settings.                                                         |
+| ahmetatakan/dockai                                                                   |       8 | AI-powered Docker log analysis CLI — Analyze container logs using LLMs (Ollama or OpenAI).                                                                       |
+| leslieo2/LangGraph-Mastery-Playbook                                                  |       8 | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.              |
 | zbowling/mcpcodeserver                                                               |       8 | A Model Context Protocol (MCP) proxy server that translates tool calls into TypeScript code generation. Instead of making multiple tool calls back and forth, L… |
 | DLFundamentals/LLM_ERM                                                               |       7 | Official code for "LLM-ERM: Sample-Efficient Program Learning via LLM-Guided Search", Arxiv 2025                                                                 |
-| ahmetatakan/dockai                                                                   |       7 | AI-powered Docker log analysis CLI — Analyze container logs using LLMs (Ollama or OpenAI).                                                                       |
-| leslieo2/LangGraph-Mastery-Playbook                                                  |       7 | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.              |
 | magooney-loon/pb-llm                                                                 |       7 | pocketbase LLM docs scraper                                                                                                                                      |
 | qianweijiujiu/Awesome-Token-Pruning-and-Merging-for-Multimodal-Large-Language-Models |       7 | papers for token compression in mllms.                                                                                                                           |
 | TianzhuQin/LLM-ABM-Information-Network                                               |       6 | A large language model style agent based modeling that simulate misinformation spreading in a network                                                            |
-| peng-gao-lab/CTIArena                                                                |       6 | The first benchmark to evaluate LLM performance on heterogeneous CTI under knowledge-augmented settings.                                                         |
 | sanxing-chen/meta-bandit-llm                                                         |       6 | Multiturn Meta-Bandit LLM RL Training                                                                                                                            |
 | Jasaxion/HSPIM                                                                       |       5 | A Hierarchical Framework for Measuring Scientific Paper Innovation via Large Language Models                                                                     |
 | THU-KEG/BGPO                                                                         |       5 | Boundary-Guided Policy Optimization for Memory-Efficient RL of Diffusion Large Language Models                                                                   |
-| Mouratid/llm.nexus                                                                   |       4 | A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. LLM.Nexus simplifies integration with OpenAI, Anthropic, Google, and other…  |
-
-_Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: GitHub API limit 403._
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -148,29 +148,26 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 ## Hacker News — AI Highlights
 <!--HN:START-->
 - [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/) — 324 points
-- [Coral NPU: A full-stack platform for Edge AI](https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/) — 25 points
-- [OpenAI board member is violating export control, selling Claude API to HongKong](https://news.ycombinator.com/item?id=45609835) — 20 points
-- [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/) — 17 points
-- [The AI that we'll have after AI](https://pluralistic.net/2025/10/16/post-ai-ai/#productive-residue) — 7 points
+- [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/) — 43 points
+- [Google Coral NPU: ML accelerator core designed for energy-efficient edge AI](https://github.com/google-coral/coralnpu) — 8 points
 - [Viral GPT wrappers are now training their own LLMs](https://twitter.com/0xSamHogan/status/1978533352731779260) — 7 points
-- [Google Coral NPU: ML accelerator core designed for energy-efficient edge AI](https://github.com/google-coral/coralnpu) — 5 points
-- [Internal Amazon Documents Warned AI Startups Are Delaying AWS Spending](https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10) — 4 points
+- [What GPU pricing can tell us about how the AI bubble will pop](https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9) — 6 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary   |
-|---------------------|--------|-----------|
-| GHSA-j566-7876-3m7f |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
+| CVE   |   CVSS | Summary   |
+|-------|--------|-----------|
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
