@@ -4,21 +4,21 @@
 ## Anomaly & Regime-Shift Radar
 
 _No significant anomalies today._
-
-<sub>Robust z-scores via median/MAD over ~180 days. 🧨=regime-shift candidate (|z|≥4), 🔴=alert (|z|≥3), 🟡=watch (2≤|z|<3).</sub>
 <!-- RADAR:END -->
+
 
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁`
 
-**Cheapest now:** **n/a** at `$0.000/hr` via **n/a**.
+**Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 ![Daily Update](https://github.com/${GITHUB_REPOSITORY:-deeptech-daily}/actions/workflows/daily-update.yml/badge.svg)
 
@@ -65,7 +65,7 @@ setup instructions.
 <!--GPU:START-->
 No GPU pricing data available.
 
-_Feed unavailable. Refresh failed: Vast.ai network request was unreachable._
+_Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai/api/v0/bundles/public/?limit=200&skip=0_
 <!--GPU:END-->
 
 ## arXiv Digest
@@ -106,34 +106,69 @@ _Feed unavailable. Refresh failed: Vast.ai network request was unreachable._
 | Bingsu/adetailer                        |    14489181 |     620 |
 | FacebookAI/roberta-base                 |    14321545 |     529 |
 | pyannote/speaker-diarization-3.1        |    14186095 |    1228 |
+
+_Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error: Unauthorized for url: https://huggingface.co/api/models?sort=downloads&direction=-1&limit=15 (Request…._
 <!--HF:END-->
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-No trending repositories.
-
-_Feed unavailable. Refresh failed: api.github.com network request was unreachable._
+| Repository                                                                           |   Stars | Description                                                                                                                                                      |
+|--------------------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| njadNissi/NLP_tuto                                                                   |      38 | LLM tuto, PDF Q&A System, etc.                                                                                                                                   |
+| 0xSero/codex-local                                                                   |      24 | A modified Codex CLI application built to support local LLMs                                                                                                     |
+| ki-ljl/Awesome-Long-Form-Factuality                                                  |      19 | Awesome Long-Form Factuality: A Curated List of Papers and Resources on Enhancing Factuality in Long-Form LLM Generations                                        |
+| BDML-lab/llm-inductive-reasoning-survey                                              |      18 | this is the repository for the paper ‘A Survey of Inductive Reasoning for Large Language Models’                                                                 |
+| FelixMessi/QDLM                                                                      |      16 | Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs                                                                    |
+| hemingkx/AdvPrompt                                                                   |      14 | Enabling Efficient Reasoning in LLMs via Black-box Adversarial Prompting                                                                                         |
+| jmanhype/ace-playbook                                                                |      10 | Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback                                                  |
+| Tomsawyerhu/Awesome-Personalized-Alignment                                           |       9 | A Survey on Large Language Models for Personalized Alignment                                                                                                     |
+| zbowling/mcpcodeserver                                                               |       8 | A Model Context Protocol (MCP) proxy server that translates tool calls into TypeScript code generation. Instead of making multiple tool calls back and forth, L… |
+| DLFundamentals/LLM_ERM                                                               |       7 | Official code for "LLM-ERM: Sample-Efficient Program Learning via LLM-Guided Search", Arxiv 2025                                                                 |
+| ahmetatakan/dockai                                                                   |       7 | AI-powered Docker log analysis CLI — Analyze container logs using LLMs (Ollama or OpenAI).                                                                       |
+| leslieo2/LangGraph-Mastery-Playbook                                                  |       7 | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.              |
+| magooney-loon/pb-llm                                                                 |       7 | pocketbase LLM docs scraper                                                                                                                                      |
+| qianweijiujiu/Awesome-Token-Pruning-and-Merging-for-Multimodal-Large-Language-Models |       7 | papers for token compression in mllms.                                                                                                                           |
+| TianzhuQin/LLM-ABM-Information-Network                                               |       6 | A large language model style agent based modeling that simulate misinformation spreading in a network                                                            |
+| peng-gao-lab/CTIArena                                                                |       6 | The first benchmark to evaluate LLM performance on heterogeneous CTI under knowledge-augmented settings.                                                         |
+| sanxing-chen/meta-bandit-llm                                                         |       6 | Multiturn Meta-Bandit LLM RL Training                                                                                                                            |
+| Jasaxion/HSPIM                                                                       |       5 | A Hierarchical Framework for Measuring Scientific Paper Innovation via Large Language Models                                                                     |
+| THU-KEG/BGPO                                                                         |       5 | Boundary-Guided Policy Optimization for Memory-Efficient RL of Diffusion Large Language Models                                                                   |
+| Mouratid/llm.nexus                                                                   |       4 | A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. LLM.Nexus simplifies integration with OpenAI, Anthropic, Google, and other…  |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
 <!--PWC:START-->
-No recent papers found.
-
-_Feed unavailable. Refresh failed: paperswithcode.com network request was unreachable._
+_Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Expecting value: line 1 column 1 (char 0)._
 <!--PWC:END-->
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-No AI-related stories in the last 24h.
-
-_Feed unavailable. Refresh failed: hacker-news.firebaseio.com network request was unreachable._
+- [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/) — 324 points
+- [Who's Submitting AI-Tainted Filings in Court?](https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/) — 79 points
+- [Coral NPU: A full-stack platform for Edge AI](https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/) — 25 points
+- [OpenAI board member is violating export control, selling Claude API to HongKong](https://news.ycombinator.com/item?id=45609835) — 19 points
+- [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/) — 14 points
+- [Open source GZDoom community splinters after creator inserts AI-generated code](https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/) — 10 points
+- [The AI that we'll have after AI](https://pluralistic.net/2025/10/16/post-ai-ai/#productive-residue) — 7 points
+- [Viral GPT wrappers are now training their own LLMs](https://twitter.com/0xSamHogan/status/1978533352731779260) — 7 points
+- [Google Coral NPU: ML accelerator core designed for energy-efficient edge AI](https://github.com/google-coral/coralnpu) — 5 points
+- [Internal Amazon Documents Warned AI Startups Are Delaying AWS Spending](https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10) — 3 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-No recent CVEs.
-
-_Feed unavailable. Refresh failed: cve.circl.lu network request was unreachable._
+| CVE                 |   CVSS | Summary                                                                                                   |
+|---------------------|--------|-----------------------------------------------------------------------------------------------------------|
+| CVE-2025-23073      |      0 |                                                                                                           |
+| GHSA-xmcw-mv9p-7pq2 |      0 | Duplicate Advisory: Keycloak error_description injection on error pages that can trigger phishing attacks |
+|                     |      0 |                                                                                                           |
+|                     |      0 |                                                                                                           |
+|                     |      0 |                                                                                                           |
+|                     |      0 |                                                                                                           |
+|                     |      0 |                                                                                                           |
+|                     |      0 |                                                                                                           |
+|                     |      0 |                                                                                                           |
+|                     |      0 |                                                                                                           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
@@ -155,6 +190,8 @@ _Feed unavailable. Refresh failed: cve.circl.lu network request was unreachable.
 | hf-doc-build/doc-build                                |      671848 |      12 |
 | applied-ai-018/pretraining_v1-omega_books             |      614296 |       2 |
 | HuggingFaceFW/fineweb-edu                             |      597646 |     775 |
+
+_Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error: Unauthorized for url: https://huggingface.co/api/datasets?sort=downloads&direction=-1&limit=15 (Reque…._
 <!--HFDATA:END-->
 
 ## Troubleshooting

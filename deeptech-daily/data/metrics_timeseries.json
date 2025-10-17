@@ -1,0 +1,35 @@
+{
+  "series": {
+    "hf_trending_count": [
+      {
+        "date": "2025-10-17",
+        "value": 5.0
+      }
+    ],
+    "github_trending_count": [
+      {
+        "date": "2025-10-17",
+        "value": 5.0
+      }
+    ],
+    "arxiv_new_count": [
+      {
+        "date": "2025-10-17",
+        "value": 5.0
+      }
+    ],
+    "hn_ai_count": [
+      {
+        "date": "2025-10-17",
+        "value": 5.0
+      }
+    ],
+    "cves_count": [
+      {
+        "date": "2025-10-17",
+        "value": 5.0
+      }
+    ]
+  },
+  "last_updated": "2025-10-17"
+}
