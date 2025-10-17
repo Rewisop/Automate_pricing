@@ -35,6 +35,30 @@ import yaml
 from huggingface_hub import HfApi
 from tabulate import tabulate
 
+GPU_NAME_ALIASES = {
+    "H100": ["H100"],
+    "A100": ["A100"],
+    "A10": ["A10"],
+    "A40": ["A40"],
+    "A30": ["A30"],
+    "A16": ["A16"],
+    "A2": ["A2"],
+    "L4": ["L4"],
+    "L40": ["L40"],
+    "L40S": ["L40S", "L40 S"],
+    "T4": ["T4"],
+    "V100": ["V100"],
+    "P100": ["P100"],
+    "P4": ["P4"],
+    "P40": ["P40"],
+    "K80": ["K80"],
+    "M60": ["M60"],
+    "RTX 4090": ["4090", "RTX4090", "RTX 4090"],
+    "RTX 3090": ["3090", "RTX3090", "RTX 3090"],
+    "RTX 6000": ["RTX 6000", "A6000", "6000"],
+    "RTX 5000": ["RTX 5000", "5000"],
+}
+
 BASE_DIR = Path(__file__).resolve().parents[1]
 REPO_ROOT = BASE_DIR.parent
 DATA_DIR = BASE_DIR / "data"
@@ -1460,9 +1484,316 @@ def _run_import_test() -> None:
     LOGGER.info("✅ Daily update script import test passed")
 
 
+def _request_with_retries(
+    url: str,
+    *,
+    params: Optional[Dict[str, Any]] = None,
+    headers: Optional[Dict[str, str]] = None,
+) -> Optional[requests.Response]:
+    """Perform a GET request with up to two retries and a 5s timeout."""
+
+    attempts = 3
+    last_error: Optional[Exception] = None
+    for attempt in range(1, attempts + 1):
+        try:
+            response = requests.get(url, params=params, headers=headers, timeout=5)
+            if response.status_code >= 500:
+                last_error = RuntimeError(f"HTTP {response.status_code}")
+                time.sleep(0.5 * attempt)
+                continue
+            return response
+        except requests.RequestException as exc:  # noqa: BLE001
+            last_error = exc
+            time.sleep(0.5 * attempt)
+    if last_error:
+        LOGGER.warning(
+            "Request to %s failed after %s attempts: %s",
+            url,
+            attempts,
+            format_exception(last_error),
+        )
+    return None
+
+
+def _normalise_gpu_name(raw: Optional[str]) -> Optional[str]:
+    if not raw:
+        return None
+    search_space = raw.upper()
+    for canonical, patterns in GPU_NAME_ALIASES.items():
+        for pattern in patterns:
+            if pattern.upper() in search_space:
+                return canonical
+    match = re.search(r"(RTX\s*)?(\d{3,4})", search_space)
+    if match:
+        digits = match.group(2)
+        return f"RTX {digits}" if len(digits) == 4 else digits
+    return raw.strip()
+
+
+def _current_timestamp() -> str:
+    return datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+
+
+def parse_azure_gpu_pricing() -> List[Dict[str, Any]]:
+    url = (
+        "https://prices.azure.com/api/retail/prices?$filter="
+        "serviceName eq 'Virtual Machines' and (contains(skuName,'NC') or contains(skuName,'ND') or contains(skuName,'NV'))"
+    )
+    records: List[Dict[str, Any]] = []
+    next_url: Optional[str] = url
+    while next_url:
+        response = _request_with_retries(next_url)
+        if response is None:
+            print("parse_azure_gpu_pricing fetched 0 entries")
+            return []
+        try:
+            payload = response.json()
+        except ValueError:
+            print("parse_azure_gpu_pricing fetched 0 entries")
+            return []
+        for item in payload.get("Items", []):
+            if item.get("currencyCode") != "USD":
+                continue
+            unit = (item.get("unitOfMeasure") or "").lower()
+            if "hour" not in unit:
+                continue
+            price = item.get("unitPrice") or item.get("retailPrice")
+            try:
+                usd_per_hour = float(price)
+            except (TypeError, ValueError):
+                continue
+            sku_name = item.get("skuName") or ""
+            gpu_name = _normalise_gpu_name(sku_name)
+            record = {
+                "gpu": gpu_name or sku_name,
+                "usd_per_hour": usd_per_hour,
+                "source": "azure",
+                "region": item.get("armRegionName"),
+                "sku": item.get("skuId") or sku_name,
+                "notes": item.get("productName"),
+                "fetched_at": _current_timestamp(),
+            }
+            records.append(record)
+        next_url = payload.get("NextPageLink")
+        if not next_url:
+            break
+    print(f"parse_azure_gpu_pricing fetched {len(records)} entries")
+    return records
+
+
+def parse_aws_gpu_pricing() -> List[Dict[str, Any]]:
+    url = "https://pricing.us-east-1.amazonaws.com/offers/v1.0/aws/AmazonEC2/current/index.json"
+    response = _request_with_retries(url)
+    if response is None:
+        print("parse_aws_gpu_pricing fetched 0 entries")
+        return []
+    try:
+        data = response.json()
+    except ValueError:
+        print("parse_aws_gpu_pricing fetched 0 entries")
+        return []
+    products = data.get("products", {})
+    terms = data.get("terms", {}).get("OnDemand", {})
+    records: List[Dict[str, Any]] = []
+    allowed_tokens = ("p3", "p4d", "p5", "g5", "g6")
+    for sku, product in products.items():
+        attributes = product.get("attributes", {})
+        instance_type = (attributes.get("instanceType") or "").lower()
+        if not any(token in instance_type for token in allowed_tokens):
+            continue
+        ondemand = None
+        for term in terms.values():
+            if term.get("sku") == sku:
+                ondemand = term
+                break
+        if not ondemand:
+            continue
+        price_dimensions = ondemand.get("priceDimensions", {})
+        dimension = next(iter(price_dimensions.values()), None)
+        if not dimension:
+            continue
+        price_per_unit = dimension.get("pricePerUnit", {}).get("USD")
+        try:
+            usd_per_hour = float(price_per_unit)
+        except (TypeError, ValueError):
+            continue
+        gpu_name = _normalise_gpu_name(attributes.get("gpuModel") or attributes.get("instanceType"))
+        record = {
+            "gpu": gpu_name or (attributes.get("gpuModel") or attributes.get("instanceType")),
+            "usd_per_hour": usd_per_hour,
+            "source": "aws",
+            "region": attributes.get("location"),
+            "sku": sku,
+            "notes": attributes.get("instanceType"),
+            "fetched_at": _current_timestamp(),
+        }
+        records.append(record)
+    print(f"parse_aws_gpu_pricing fetched {len(records)} entries")
+    return records
+
+
+def parse_gcp_gpu_pricing() -> List[Dict[str, Any]]:
+    base_url = "https://cloudbilling.googleapis.com/v1/services/6F81-5844-456A/skus"
+    page_token: Optional[str] = None
+    records: List[Dict[str, Any]] = []
+    while True:
+        params = {"pageSize": 500}
+        if page_token:
+            params["pageToken"] = page_token
+        response = _request_with_retries(base_url, params=params)
+        if response is None:
+            print(f"parse_gcp_gpu_pricing fetched {len(records)} entries")
+            return records
+        try:
+            payload = response.json()
+        except ValueError:
+            print(f"parse_gcp_gpu_pricing fetched {len(records)} entries")
+            return records
+        for sku in payload.get("skus", []):
+            description = sku.get("description", "")
+            if "GPU" not in description.upper():
+                continue
+            pricing_infos = sku.get("pricingInfo", [])
+            usd_per_hour: Optional[float] = None
+            for info in pricing_infos:
+                expr = info.get("pricingExpression", {})
+                unit = (expr.get("unit") or "").upper()
+                rates = expr.get("tieredRates", [])
+                if not rates:
+                    continue
+                rate = rates[0].get("unitPrice", {})
+                units = float(rate.get("units", 0))
+                nanos = float(rate.get("nanos", 0)) / 1_000_000_000
+                price = units + nanos
+                if unit == "HOUR":
+                    usd_per_hour = price
+                    break
+                if unit == "SECOND":
+                    usd_per_hour = price * 3600
+                    break
+                if unit == "MONTH":
+                    usd_per_hour = price / (24 * 30)
+                    break
+            if usd_per_hour is None:
+                continue
+            gpu_name = _normalise_gpu_name(description)
+            record = {
+                "gpu": gpu_name or description,
+                "usd_per_hour": usd_per_hour,
+                "source": "gcp",
+                "region": ",".join(sku.get("serviceRegions", [])) or None,
+                "sku": sku.get("name"),
+                "notes": description,
+                "fetched_at": _current_timestamp(),
+            }
+            records.append(record)
+        page_token = payload.get("nextPageToken")
+        if not page_token:
+            break
+    print(f"parse_gcp_gpu_pricing fetched {len(records)} entries")
+    return records
+
+
+def parse_vast_ai_offers() -> List[Dict[str, Any]]:
+    url = "https://console.vast.ai/api/v0/bundles/search/"
+    params = {"q": "verified=true rentable=true", "limit": 100}
+    response = _request_with_retries(url, params=params)
+    if response is None or response.status_code != 200:
+        print("parse_vast_ai_offers fetched 0 entries")
+        return []
+    try:
+        data = response.json()
+    except ValueError:
+        print("parse_vast_ai_offers fetched 0 entries")
+        return []
+    offers = data.get("offers") or []
+    records: List[Dict[str, Any]] = []
+    for offer in offers:
+        gpu_name = _normalise_gpu_name(offer.get("gpu_name") or offer.get("gpu_name_brand"))
+        price = offer.get("dph_total") or offer.get("price_gpu")
+        try:
+            usd_per_hour = float(price)
+        except (TypeError, ValueError):
+            continue
+        record = {
+            "gpu": gpu_name
+            or (offer.get("gpu_name") or offer.get("gpu_name_brand") or "Unknown"),
+            "usd_per_hour": usd_per_hour,
+            "source": "vast.ai",
+            "region": offer.get("geolocation"),
+            "sku": str(offer.get("id")) if offer.get("id") is not None else None,
+            "notes": offer.get("verification") or offer.get("hostname"),
+            "fetched_at": _current_timestamp(),
+        }
+        records.append(record)
+    print(f"parse_vast_ai_offers fetched {len(records)} entries")
+    return records
+
+
+def parse_hyperstack_pricing() -> List[Dict[str, Any]]:
+    url = "https://www.hyperstack.cloud/api/pricing"
+    response = _request_with_retries(url, headers={"accept": "application/json, text/plain, */*"})
+    if response is None or response.status_code != 200:
+        print("parse_hyperstack_pricing fetched 0 entries")
+        return []
+    try:
+        data = response.json()
+    except ValueError:
+        print("parse_hyperstack_pricing fetched 0 entries")
+        return []
+    pricing_table = data.get("pricing") if isinstance(data, dict) else data
+    records: List[Dict[str, Any]] = []
+    if isinstance(pricing_table, dict):
+        iterable = pricing_table.items()
+    elif isinstance(pricing_table, list):
+        iterable = enumerate(pricing_table)
+    else:
+        iterable = []
+    for key, value in iterable:
+        if not isinstance(value, dict):
+            continue
+        price = value.get("price") or value.get("usdPerHour") or value.get("usd_per_hour")
+        try:
+            usd_per_hour = float(price)
+        except (TypeError, ValueError):
+            continue
+        gpu_name = _normalise_gpu_name(value.get("name") or str(key))
+        record = {
+            "gpu": gpu_name or (value.get("name") or str(key)),
+            "usd_per_hour": usd_per_hour,
+            "source": "hyperstack",
+            "region": value.get("region"),
+            "sku": value.get("sku")
+            or value.get("id")
+            or (str(key) if not isinstance(key, int) else None),
+            "notes": value.get("notes") or value.get("description"),
+            "fetched_at": _current_timestamp(),
+        }
+        records.append(record)
+    print(f"parse_hyperstack_pricing fetched {len(records)} entries")
+    return records
+
+
 if __name__ == "__main__":
     try:
         _run_import_test()
     except Exception:  # noqa: BLE001
         sys.exit(1)
+    sample_functions = [
+        parse_azure_gpu_pricing,
+        parse_aws_gpu_pricing,
+        parse_gcp_gpu_pricing,
+        parse_vast_ai_offers,
+        parse_hyperstack_pricing,
+    ]
+    for func in sample_functions:
+        try:
+            results = func()
+            preview = results[:2]
+            print(
+                f"Sample from {func.__name__}: "
+                f"{json.dumps(preview, indent=2) if preview else '[]'}"
+            )
+        except Exception as exc:  # noqa: BLE001
+            print(f"Error running {func.__name__}: {format_exception(exc)}")
     sys.exit(main())
