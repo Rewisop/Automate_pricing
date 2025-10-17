@@ -336,6 +336,97 @@ def collect_gpu_prices() -> SectionResult:
         table += f"\n\n_Warnings: {truncate(error_text, 120)}_"
     return SectionResult(sorted_items, table, error_text)
 
+from .metrics import (
+    compute_min_prices_by_gpu,
+    compute_dpi,
+    load_history,
+    save_history,
+    upsert_history,
+    pct_change,
+    make_sparkline,
+    utc_date,
+    cheapest_gpu,
+)
+
+DPI_HISTORY_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "dpi_history.json")
+README_PATH = os.path.join(os.path.dirname(__file__), "..", "README.md")
+
+
+def _safe_read_json(path: str):
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+
+def update_dpi_section():
+    prices = _safe_read_json(os.path.join(os.path.dirname(__file__), "..", "data", "gpu_prices.json")) or []
+    min_prices = compute_min_prices_by_gpu(prices)
+    dpi_value = compute_dpi(min_prices)
+    today = utc_date()
+
+    history = load_history(DPI_HISTORY_PATH)
+    history = upsert_history(history, today, dpi_value)
+    save_history(DPI_HISTORY_PATH, history)
+
+    series = [row["dpi"] for row in history]
+    spark = make_sparkline(series, width=45)
+    wow = pct_change(series, 7)
+    mo30 = pct_change(series, 30)
+    cheap_gpu, cheap_price, cheap_src = cheapest_gpu(min_prices)
+
+    # Prepare markdown fragment
+    def fmt_pct(pct):
+        if pct is None:
+            return "n/a"
+        sign = "+" if pct >= 0 else ""
+        return f"{sign}{pct}%"
+
+    md = []
+    md.append("<!-- DPI:START -->")
+    md.append("## DeepTech GPU Price Index (DPI)")
+    md.append("")
+    md.append(f"**Today:** `{dpi_value}`  |  **7d:** `{fmt_pct(wow)}`  |  **30d:** `{fmt_pct(mo30)}`  ")
+    md.append("")
+    md.append(f"`{spark}`")
+    md.append("")
+    md.append(f"**Cheapest now:** **{cheap_gpu}** at `${cheap_price:.3f}/hr` via **{cheap_src}**.")
+    md.append("")
+    md.append("<sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>")
+    md.append("<!-- DPI:END -->")
+    fragment = "\n".join(md).strip() + "\n"
+
+    # Inject or replace in README
+    readme = ""
+    try:
+        with open(README_PATH, "r", encoding="utf-8") as f:
+            readme = f.read()
+    except FileNotFoundError:
+        readme = ""
+
+    start_tag = "<!-- DPI:START -->"
+    end_tag = "<!-- DPI:END -->"
+    if start_tag in readme and end_tag in readme:
+        pre, rest = readme.split(start_tag, 1)
+        _, post = rest.split(end_tag, 1)
+        new_readme = pre + fragment + post
+    else:
+        # Insert near top under H1 if possible
+        if "# " in readme:
+            parts = readme.split("\n", 2)
+            # keep first line (title) and insert after
+            if len(parts) >= 2:
+                new_readme = parts[0] + "\n" + parts[1] + "\n\n" + fragment + (parts[2] if len(parts) == 3 else "")
+            else:
+                new_readme = readme + "\n\n" + fragment
+        else:
+            new_readme = fragment + "\n" + readme
+
+    if new_readme != readme:
+        with open(README_PATH, "w", encoding="utf-8") as f:
+            f.write(new_readme)
+
 
 def parse_feed_entry(entry: Any) -> Tuple[str, datetime]:
     published_parsed = entry.get("published_parsed") or entry.get("updated_parsed")
@@ -1098,6 +1189,7 @@ def main() -> int:
             LOGGER.info("Auto-commit command executed: %s", command)
         except subprocess.CalledProcessError as exc:
             LOGGER.error("Auto-commit command failed with exit code %s", exc.returncode)
+    update_dpi_section()
     return 0
 
 

@@ -1,5 +1,17 @@
 # DeepTech Daily Intel
 
+<!-- DPI:START -->
+## DeepTech GPU Price Index (DPI)
+
+**Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
+
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+
+**Cheapest now:** **n/a** at `$0.000/hr` via **n/a**.
+
+<sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
+<!-- DPI:END -->
+
 ![Daily Update](https://github.com/${GITHUB_REPOSITORY:-deeptech-daily}/actions/workflows/daily-update.yml/badge.svg)
 
 DeepTech Daily Intel publishes a rolling snapshot of the AI hardware and
