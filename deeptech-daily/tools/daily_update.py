@@ -241,6 +241,45 @@ def format_exception(exc: Exception) -> str:
     return text
 
 
+def load_cached_payload(path: Path) -> Optional[Dict[str, Any]]:
+    """Return the previously written dataset for ``path`` if it exists."""
+
+    if not path.exists():
+        return None
+    try:
+        raw = path.read_text()
+        if path.suffix.lower() in {".yaml", ".yml"}:
+            data = yaml.safe_load(raw)
+        else:
+            data = json.loads(raw)
+    except Exception:  # noqa: BLE001
+        LOGGER.debug("Failed to load cached payload for \"%s\"", path, exc_info=True)
+        return None
+    return data or {}
+
+
+def cached_items(path: Path, item_key: str) -> Tuple[List[Dict[str, Any]], Optional[str]]:
+    """Fetch cached items and the timestamp they were last refreshed."""
+
+    cached = load_cached_payload(path)
+    if not cached:
+        return [], None
+    items = cached.get(item_key) or []
+    if not isinstance(items, list):
+        return [], cached.get("fetched_at") or cached.get("generated_at")
+    timestamp = cached.get("fetched_at") or cached.get("generated_at")
+    return items, timestamp
+
+
+def stale_notice(message: str, timestamp: Optional[str]) -> str:
+    """Render a short markdown notice describing stale content."""
+
+    details = truncate(message, 120) if message else "upstream error"
+    if timestamp:
+        return f"_Showing cached data from {timestamp}. Refresh failed: {details}._"
+    return f"_Feed unavailable. Refresh failed: {details}._"
+
+
 def update_readme_sections(sections: Dict[str, str]) -> bool:
     if not README_PATH.exists():
         raise FileNotFoundError(f"README not found at {README_PATH}")
@@ -317,23 +356,31 @@ def collect_gpu_prices() -> SectionResult:
         if not current or price < current["usd_per_hour"]:
             aggregated[gpu] = {"gpu": gpu, "usd_per_hour": round(float(price), 4), "source": item.get("source", "Vast.ai")}
     sorted_items = sorted(aggregated.values(), key=lambda x: (x["gpu"].lower(), x["usd_per_hour"]))
+    cache_path = DATA_DIR / "gpu_prices.json"
+    cached_gpus, cached_ts = cached_items(cache_path, "gpus")
+    fallback_used = False
+    if not sorted_items and cached_gpus:
+        sorted_items = sorted(cached_gpus, key=lambda x: (x.get("gpu", "").lower(), x.get("usd_per_hour", float("inf"))))
+        fallback_used = True
     table = "No GPU pricing data available."
     if sorted_items:
-        rows = [(item["gpu"], f"${item['usd_per_hour']:.4f}") for item in sorted_items]
+        rows = [(item.get("gpu", "Unknown"), f"${item.get('usd_per_hour', 0):.4f}") for item in sorted_items]
         table = tabulate(rows, headers=["GPU", "Min USD/hr"], tablefmt="github")
     error_text = "; ".join(errors) if errors else None
-    payload = {
-        "generated_at": isoformat(NOW),
-        "sources": [src for src in sources],
-        "gpus": sorted_items,
-        "errors": errors,
-    }
-    source_urls: List[str] = [src.get("base_url") for src in sources if src.get("base_url")]
-    write_json_if_changed(DATA_DIR / "gpu_prices.json", payload, source_urls or None)
-    if error_text and not sorted_items:
-        table = f"Source unavailable ({truncate(error_text, 120)})."
+    if fallback_used:
+        notice = stale_notice(error_text or "no live GPU providers responded", cached_ts)
+        table = f"{table}\n\n{notice}" if table else notice
     elif error_text:
         table += f"\n\n_Warnings: {truncate(error_text, 120)}_"
+    if not fallback_used:
+        payload = {
+            "generated_at": isoformat(NOW),
+            "sources": [src for src in sources],
+            "gpus": sorted_items,
+            "errors": errors,
+        }
+        source_urls: List[str] = [src.get("base_url") for src in sources if src.get("base_url")]
+        write_json_if_changed(cache_path, payload, source_urls or None)
     return SectionResult(sorted_items, table, error_text)
 
 from .metrics import (
@@ -445,12 +492,17 @@ def collect_arxiv() -> SectionResult:
         "https://export.arxiv.org/rss/cs.LG",
     ]
     items: Dict[str, Dict[str, Any]] = {}
+    cache_path = DATA_DIR / "arxiv.yaml"
+    parsed_any = False
     for feed_url in feeds:
         try:
             parsed = feedparser.parse(feed_url)
         except Exception:  # noqa: BLE001
             continue
-        for entry in parsed.entries:
+        entries = getattr(parsed, "entries", []) or []
+        if entries:
+            parsed_any = True
+        for entry in entries:
             entry_id, published = parse_feed_entry(entry)
             if not entry_id:
                 continue
@@ -467,11 +519,27 @@ def collect_arxiv() -> SectionResult:
     sorted_items = sorted(items.values(), key=lambda x: x["published"], reverse=True)[:15]
     bullets = [f"- [{item['title']}]({item['link']}) — {item['summary']}" for item in sorted_items]
     section = "\n".join(bullets) if bullets else "No recent arXiv updates."
+    if not sorted_items:
+        cached_items_list, cached_ts = cached_items(cache_path, "items")
+        message = "no arXiv entries retrieved"
+        if cached_items_list:
+            fallback_bullets = [
+                f"- [{item['title']}]({item['link']}) — {item['summary']}" for item in cached_items_list
+            ]
+            fallback_section = "\n".join(fallback_bullets) if fallback_bullets else section
+            notice = stale_notice(message, cached_ts)
+            if fallback_section:
+                fallback_section = f"{fallback_section}\n\n{notice}"
+            else:
+                fallback_section = notice
+            return SectionResult(cached_items_list, fallback_section, message)
+        if not parsed_any:
+            return SectionResult([], stale_notice(message, cached_ts), message)
     payload = {
         "generated_at": isoformat(NOW),
         "items": sorted_items,
     }
-    write_yaml_if_changed(DATA_DIR / "arxiv.yaml", payload, feeds)
+    write_yaml_if_changed(cache_path, payload, feeds)
     return SectionResult(sorted_items, section)
 
 
@@ -490,30 +558,52 @@ def collect_hf_models() -> SectionResult:
         api_client = hf_api_client(current_token)
         return list(api_client.list_models(sort="downloads", direction=-1, limit=15))
 
+    cache_path = DATA_DIR / "hf_trending.yaml"
+
+    def render(items: List[Dict[str, Any]], notice: Optional[str] = None) -> Tuple[List[Dict[str, Any]], str]:
+        prepared: List[Dict[str, Any]] = []
+        for model in items:
+            prepared.append(
+                {
+                    "model_id": model.get("model_id"),
+                    "downloads": model.get("downloads"),
+                    "likes": model.get("likes"),
+                    "tags": sorted(model.get("tags", []) or []),
+                    "last_modified": model.get("last_modified"),
+                }
+            )
+        prepared.sort(key=lambda x: (-(x.get("downloads") or 0), x.get("model_id") or ""))
+        rows = [
+            [item.get("model_id"), item.get("downloads", 0), item.get("likes", 0)] for item in prepared
+        ]
+        table = tabulate(rows, headers=["Model", "Downloads", "Likes"], tablefmt="github") if rows else "No trending models."
+        if notice:
+            table = f"{table}\n\n{notice}"
+        return prepared, table
+
     try:
         models = fetch(token)
     except Exception as exc:  # noqa: BLE001
+        message = format_exception(exc)
         if token:
             try:
                 models = fetch(None)
             except Exception as fallback_exc:  # noqa: BLE001
-                payload = {
-                    "generated_at": isoformat(NOW),
-                    "items": [],
-                    "error": format_exception(fallback_exc),
-                }
-                write_yaml_if_changed(DATA_DIR / "hf_trending.yaml", payload, "https://huggingface.co/api/models")
                 message = format_exception(fallback_exc)
-                return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
         else:
+            models = None
+        if models is None:
+            cached_items_list, cached_ts = cached_items(cache_path, "items")
+            if cached_items_list:
+                prepared, table = render(cached_items_list, stale_notice(message, cached_ts))
+                return SectionResult(prepared, table, message)
             payload = {
                 "generated_at": isoformat(NOW),
                 "items": [],
-                "error": format_exception(exc),
+                "error": message,
             }
-            write_yaml_if_changed(DATA_DIR / "hf_trending.yaml", payload, "https://huggingface.co/api/models")
-            message = format_exception(exc)
-            return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+            write_yaml_if_changed(cache_path, payload, "https://huggingface.co/api/models")
+            return SectionResult([], stale_notice(message, cached_ts), message)
 
     if not isinstance(models, list):
         models = list(models)
@@ -537,14 +627,12 @@ def collect_hf_models() -> SectionResult:
             "tags": sorted(getattr(model, "tags", []) or []),
             "last_modified": lm,
         })
-    items.sort(key=lambda x: (-(x["downloads"] or 0), x["model_id"]))
-    rows = [(item["model_id"], item["downloads"] or 0, item["likes"] or 0) for item in items]
-    table = tabulate(rows, headers=["Model", "Downloads", "Likes"], tablefmt="github") if rows else "No trending models."
+    items, table = render(items)
     payload = {
         "generated_at": isoformat(NOW),
         "items": items,
     }
-    write_yaml_if_changed(DATA_DIR / "hf_trending.yaml", payload, "https://huggingface.co/api/models")
+    write_yaml_if_changed(cache_path, payload, "https://huggingface.co/api/models")
     return SectionResult(items, table)
 
 
@@ -567,6 +655,30 @@ def collect_github_trending() -> SectionResult:
         "order": "desc",
         "per_page": 20,
     }
+    cache_path = DATA_DIR / "github_trending.yaml"
+
+    def render(items: List[Dict[str, Any]], notice: Optional[str] = None) -> Tuple[List[Dict[str, Any]], str]:
+        prepared: List[Dict[str, Any]] = []
+        for repo in items:
+            prepared.append(
+                {
+                    "full_name": repo.get("full_name"),
+                    "html_url": repo.get("html_url"),
+                    "description": truncate(repo.get("description") or ""),
+                    "stargazers_count": repo.get("stargazers_count", 0),
+                    "created_at": repo.get("created_at"),
+                }
+            )
+        prepared.sort(key=lambda x: (-x.get("stargazers_count", 0), x.get("full_name") or ""))
+        top_items = prepared[:20]
+        rows = [
+            [item.get("full_name"), item.get("stargazers_count", 0), item.get("description", "")] for item in top_items
+        ]
+        table = tabulate(rows, headers=["Repository", "Stars", "Description"], tablefmt="github") if rows else "No trending repositories."
+        if notice:
+            table = f"{table}\n\n{notice}"
+        return top_items, table
+
     @retryable()
     def fetch() -> Dict[str, Any]:
         response = SESSION.get(
@@ -583,18 +695,22 @@ def collect_github_trending() -> SectionResult:
     try:
         data = fetch()
     except Exception as exc:  # noqa: BLE001
+        message = format_exception(exc)
+        cached_items_list, cached_ts = cached_items(cache_path, "items")
+        if cached_items_list:
+            prepared, table = render(cached_items_list, stale_notice(message, cached_ts))
+            return SectionResult(prepared, table, message)
         payload = {
             "generated_at": isoformat(NOW),
             "items": [],
-            "error": format_exception(exc),
+            "error": message,
         }
         write_yaml_if_changed(
-            DATA_DIR / "github_trending.yaml",
+            cache_path,
             payload,
             "https://api.github.com/search/repositories",
         )
-        message = format_exception(exc)
-        return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+        return SectionResult([], stale_notice(message, cached_ts), message)
     repos = data.get("items", [])
     items: List[Dict[str, Any]] = []
     for repo in repos:
@@ -605,20 +721,17 @@ def collect_github_trending() -> SectionResult:
             "stargazers_count": repo.get("stargazers_count", 0),
             "created_at": repo.get("created_at"),
         })
-    items.sort(key=lambda x: (-x["stargazers_count"], x["full_name"] or ""))
-    top_items = items[:20]
-    rows = [(item["full_name"], item["stargazers_count"], item["description"]) for item in top_items]
-    table = tabulate(rows, headers=["Repository", "Stars", "Description"], tablefmt="github") if rows else "No trending repositories."
+    items, table = render(items)
     payload = {
         "generated_at": isoformat(NOW),
-        "items": top_items,
+        "items": items,
     }
     write_yaml_if_changed(
-        DATA_DIR / "github_trending.yaml",
+        cache_path,
         payload,
         "https://api.github.com/search/repositories",
     )
-    return SectionResult(top_items, table)
+    return SectionResult(items, table)
 
 
 @instrumented("Papers with Code feed")
@@ -629,21 +742,38 @@ def collect_papers_with_code() -> SectionResult:
         "ordering": "-published",
         "items_per_page": 20,
     }
+    cache_path = DATA_DIR / "pwc_llm.yaml"
+
+    def render(items: List[Dict[str, Any]], notice: Optional[str] = None) -> Tuple[List[Dict[str, Any]], str]:
+        prepared = sorted(items, key=lambda x: x.get("published", ""), reverse=True)
+        bullets = [
+            f"- [{item['title']}]({item['paper_url']}) — {truncate((item.get('authors') or '')[:120])}"
+            for item in prepared
+        ]
+        section = "\n".join(bullets) if bullets else "No recent papers found."
+        if notice:
+            section = f"{section}\n\n{notice}" if section else notice
+        return prepared, section
+
     try:
         data = fetch_json(url, params=params, headers=HEADERS, timeout=REQUEST_TIMEOUT)
     except Exception as exc:  # noqa: BLE001
+        message = format_exception(exc)
+        cached_items_list, cached_ts = cached_items(cache_path, "items")
+        if cached_items_list:
+            prepared, section = render(cached_items_list, stale_notice(message, cached_ts))
+            return SectionResult(prepared, section, message)
         payload = {
             "generated_at": isoformat(NOW),
             "items": [],
-            "error": format_exception(exc),
+            "error": message,
         }
         write_yaml_if_changed(
-            DATA_DIR / "pwc_llm.yaml",
+            cache_path,
             payload,
             "https://paperswithcode.com/api/v1/papers/",
         )
-        message = format_exception(exc)
-        return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+        return SectionResult([], stale_notice(message, cached_ts), message)
     now_minus_7 = NOW - timedelta(days=7)
     items: List[Dict[str, Any]] = []
     for paper in data.get("results", []):
@@ -662,15 +792,19 @@ def collect_papers_with_code() -> SectionResult:
             "published": isoformat(published_dt or NOW),
             "authors": paper.get("authors"),
         })
-    items.sort(key=lambda x: x["published"], reverse=True)
-    bullets = [f"- [{item['title']}]({item['paper_url']}) — {truncate((item.get('authors') or '')[:120])}" for item in items]
-    section = "\n".join(bullets) if bullets else "No recent papers found."
+    items, section = render(items)
+    if not items:
+        cached_items_list, cached_ts = cached_items(cache_path, "items")
+        message = "no recent Papers with Code results"
+        if cached_items_list:
+            prepared, fallback_section = render(cached_items_list, stale_notice(message, cached_ts))
+            return SectionResult(prepared, fallback_section, message)
     payload = {
         "generated_at": isoformat(NOW),
         "items": items,
     }
     write_yaml_if_changed(
-        DATA_DIR / "pwc_llm.yaml",
+        cache_path,
         payload,
         "https://paperswithcode.com/api/v1/papers/",
     )
@@ -679,6 +813,16 @@ def collect_papers_with_code() -> SectionResult:
 
 @instrumented("Hacker News highlights")
 def collect_hn_ai() -> SectionResult:
+    cache_path = DATA_DIR / "hn_ai.yaml"
+
+    def render(items: List[Dict[str, Any]], notice: Optional[str] = None) -> Tuple[List[Dict[str, Any]], str]:
+        prepared = sorted(items, key=lambda x: (-x.get("score", 0), x.get("time", ""), x.get("id")))
+        bullets = [f"- [{item['title']}]({item['url']}) — {item['score']} points" for item in prepared[:15]]
+        section = "\n".join(bullets) if bullets else "No AI-related stories in the last 24h."
+        if notice:
+            section = f"{section}\n\n{notice}" if section else notice
+        return prepared, section
+
     try:
         top_ids = fetch_json(
             "https://hacker-news.firebaseio.com/v0/topstories.json",
@@ -686,18 +830,22 @@ def collect_hn_ai() -> SectionResult:
             timeout=REQUEST_TIMEOUT,
         )
     except Exception as exc:  # noqa: BLE001
+        message = format_exception(exc)
+        cached_items_list, cached_ts = cached_items(cache_path, "items")
+        if cached_items_list:
+            prepared, section = render(cached_items_list, stale_notice(message, cached_ts))
+            return SectionResult(prepared, section, message)
         payload = {
             "generated_at": isoformat(NOW),
             "items": [],
-            "error": format_exception(exc),
+            "error": message,
         }
         write_yaml_if_changed(
-            DATA_DIR / "hn_ai.yaml",
+            cache_path,
             payload,
             "https://hacker-news.firebaseio.com/",
         )
-        message = format_exception(exc)
-        return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+        return SectionResult([], stale_notice(message, cached_ts), message)
     if not isinstance(top_ids, list):
         top_ids = []
     window_start = NOW - timedelta(hours=24)
@@ -731,23 +879,37 @@ def collect_hn_ai() -> SectionResult:
         })
         if len(items) >= 30:
             break
-    items.sort(key=lambda x: (-x["score"], x["time"], x["id"]))
-    bullets = [f"- [{item['title']}]({item['url']}) — {item['score']} points" for item in items[:15]]
-    section = "\n".join(bullets) if bullets else "No AI-related stories in the last 24h."
+    prepared, section = render(items)
+    if not prepared:
+        cached_items_list, cached_ts = cached_items(cache_path, "items")
+        message = "no recent Hacker News stories matched filters"
+        if cached_items_list:
+            prepared, fallback_section = render(cached_items_list, stale_notice(message, cached_ts))
+            return SectionResult(prepared, fallback_section, message)
     payload = {
         "generated_at": isoformat(NOW),
-        "items": items,
+        "items": prepared,
     }
     write_yaml_if_changed(
-        DATA_DIR / "hn_ai.yaml",
+        cache_path,
         payload,
         "https://hacker-news.firebaseio.com/",
     )
-    return SectionResult(items, section)
+    return SectionResult(prepared, section)
 
 
 @instrumented("CVE feed")
 def collect_cves() -> SectionResult:
+    cache_path = DATA_DIR / "cves.yaml"
+
+    def render(items: List[Dict[str, Any]], notice: Optional[str] = None) -> Tuple[List[Dict[str, Any]], str]:
+        prepared = sorted(items, key=lambda x: (-x.get("cvss", 0.0), x.get("published", ""), x.get("id") or ""))[:10]
+        rows = [(item.get("id"), f"{item.get('cvss', 0):.1f}", item.get("summary", "")) for item in prepared]
+        table = tabulate(rows, headers=["CVE", "CVSS", "Summary"], tablefmt="github") if rows else "No recent CVEs."
+        if notice:
+            table = f"{table}\n\n{notice}" if table else notice
+        return prepared, table
+
     try:
         data = fetch_json(
             "https://cve.circl.lu/api/last",
@@ -755,18 +917,22 @@ def collect_cves() -> SectionResult:
             timeout=REQUEST_TIMEOUT,
         )
     except Exception as exc:  # noqa: BLE001
+        message = format_exception(exc)
+        cached_items_list, cached_ts = cached_items(cache_path, "items")
+        if cached_items_list:
+            prepared, table = render(cached_items_list, stale_notice(message, cached_ts))
+            return SectionResult(prepared, table, message)
         payload = {
             "generated_at": isoformat(NOW),
             "items": [],
-            "error": format_exception(exc),
+            "error": message,
         }
         write_yaml_if_changed(
-            DATA_DIR / "cves.yaml",
+            cache_path,
             payload,
             "https://cve.circl.lu/api/last",
         )
-        message = format_exception(exc)
-        return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+        return SectionResult([], stale_notice(message, cached_ts), message)
     items: List[Dict[str, Any]] = []
     for cve in data:
         cvss3 = cve.get("cvss3") or cve.get("cvss3_score")
@@ -786,20 +952,23 @@ def collect_cves() -> SectionResult:
             "cvss": severity,
             "published": isoformat(published),
         })
-    items.sort(key=lambda x: (-x["cvss"], x["published"], x["id"] or ""))
-    top_items = items[:10]
-    rows = [(item["id"], f"{item['cvss']:.1f}", item["summary"]) for item in top_items]
-    table = tabulate(rows, headers=["CVE", "CVSS", "Summary"], tablefmt="github") if rows else "No recent CVEs."
+    prepared, table = render(items)
+    if not prepared:
+        cached_items_list, cached_ts = cached_items(cache_path, "items")
+        message = "no CVE entries returned"
+        if cached_items_list:
+            prepared, table = render(cached_items_list, stale_notice(message, cached_ts))
+            return SectionResult(prepared, table, message)
     payload = {
         "generated_at": isoformat(NOW),
-        "items": top_items,
+        "items": prepared,
     }
     write_yaml_if_changed(
-        DATA_DIR / "cves.yaml",
+        cache_path,
         payload,
         "https://cve.circl.lu/api/last",
     )
-    return SectionResult(top_items, table)
+    return SectionResult(prepared, table)
 
 
 @instrumented("HF trending datasets")
@@ -811,35 +980,59 @@ def collect_hf_datasets() -> SectionResult:
         api_client = hf_api_client(current_token)
         return list(api_client.list_datasets(sort="downloads", direction=-1, limit=15))
 
+    cache_path = DATA_DIR / "hf_datasets.yaml"
+
+    def render(items: List[Dict[str, Any]], notice: Optional[str] = None) -> Tuple[List[Dict[str, Any]], str]:
+        prepared: List[Dict[str, Any]] = []
+        for dataset in items:
+            prepared.append(
+                {
+                    "dataset_id": dataset.get("dataset_id") or dataset.get("id"),
+                    "downloads": dataset.get("downloads"),
+                    "likes": dataset.get("likes"),
+                    "tags": sorted(dataset.get("tags", []) or []),
+                    "last_modified": dataset.get("last_modified"),
+                }
+            )
+        prepared.sort(key=lambda x: (-(x.get("downloads") or 0), x.get("dataset_id") or ""))
+        rows = [
+            [item.get("dataset_id"), item.get("downloads", 0), item.get("likes", 0)] for item in prepared
+        ]
+        table = tabulate(rows, headers=["Dataset", "Downloads", "Likes"], tablefmt="github") if rows else "No trending datasets."
+        if notice:
+            table = f"{table}\n\n{notice}"
+        return prepared, table
+
     try:
         datasets = fetch(token)
     except Exception as exc:  # noqa: BLE001
+        message = format_exception(exc)
         if token:
             try:
                 datasets = fetch(None)
             except Exception as fallback_exc:  # noqa: BLE001
-                payload = {
-                    "generated_at": isoformat(NOW),
-                    "items": [],
-                    "error": format_exception(fallback_exc),
-                }
-                write_yaml_if_changed(DATA_DIR / "hf_datasets.yaml", payload, "https://huggingface.co/api/datasets")
                 message = format_exception(fallback_exc)
-                return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+                datasets = None
         else:
+            datasets = None
+        if datasets is None:
+            cached_items_list, cached_ts = cached_items(cache_path, "items")
+            if cached_items_list:
+                prepared, table = render(cached_items_list, stale_notice(message, cached_ts))
+                return SectionResult(prepared, table, message)
             payload = {
                 "generated_at": isoformat(NOW),
                 "items": [],
-                "error": format_exception(exc),
+                "error": message,
             }
-            write_yaml_if_changed(DATA_DIR / "hf_datasets.yaml", payload, "https://huggingface.co/api/datasets")
-            message = format_exception(exc)
-            return SectionResult([], f"Source unavailable ({truncate(message, 120)}).", message)
+            write_yaml_if_changed(cache_path, payload, "https://huggingface.co/api/datasets")
+            return SectionResult([], stale_notice(message, cached_ts), message)
 
     if not isinstance(datasets, list):
         datasets = list(datasets)
     items: List[Dict[str, Any]] = []
     for dataset in datasets:
+        ds_id = getattr(dataset, "id", None) or getattr(dataset, "datasetId", None) or getattr(dataset, "path", None)
         last_modified = getattr(dataset, "lastModified", None) or getattr(dataset, "last_modified", None)
         if isinstance(last_modified, datetime):
             lm = isoformat(last_modified)
@@ -851,21 +1044,26 @@ def collect_hf_datasets() -> SectionResult:
         else:
             lm = None
         items.append({
-            "dataset_id": dataset.id,
+            "dataset_id": ds_id,
             "downloads": getattr(dataset, "downloads", None),
             "likes": getattr(dataset, "likes", None),
             "tags": sorted(getattr(dataset, "tags", []) or []),
             "last_modified": lm,
         })
-    items.sort(key=lambda x: (-(x["downloads"] or 0), x["dataset_id"]))
-    rows = [(item["dataset_id"], item["downloads"] or 0, item["likes"] or 0) for item in items]
-    table = tabulate(rows, headers=["Dataset", "Downloads", "Likes"], tablefmt="github") if rows else "No trending datasets."
+    items, table = render(items)
+    if not items:
+        cached_items_list, cached_ts = cached_items(cache_path, "items")
+        message = "no trending Hugging Face datasets returned"
+        if cached_items_list:
+            prepared, table = render(cached_items_list, stale_notice(message, cached_ts))
+            return SectionResult(prepared, table, message)
     payload = {
         "generated_at": isoformat(NOW),
         "items": items,
     }
-    write_yaml_if_changed(DATA_DIR / "hf_datasets.yaml", payload, "https://huggingface.co/api/datasets")
+    write_yaml_if_changed(cache_path, payload, "https://huggingface.co/api/datasets")
     return SectionResult(items, table)
+
 
 
 def render_dashboard(results: Dict[str, SectionResult]) -> bool:

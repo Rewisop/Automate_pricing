@@ -63,7 +63,9 @@ setup instructions.
 
 ## GPU Pricing Snapshot
 <!--GPU:START-->
-Source unavailable (Vast.ai: HTTPSConnectionPool(host='vast.ai', port=443): Max retries exceeded with url: /api/v0/bundles/public?limit=200…).
+No GPU pricing data available.
+
+_Feed unavailable. Refresh failed: Vast.ai network request was unreachable._
 <!--GPU:END-->
 
 ## arXiv Digest
@@ -108,22 +110,30 @@ Source unavailable (Vast.ai: HTTPSConnectionPool(host='vast.ai', port=443): Max 
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-Source unavailable (HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /search/repositories?q=%28LLM+OR+%…).
+No trending repositories.
+
+_Feed unavailable. Refresh failed: api.github.com network request was unreachable._
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
 <!--PWC:START-->
-Source unavailable (HTTPSConnectionPool(host='paperswithcode.com', port=443): Max retries exceeded with url: /api/v1/papers/?q=LLM+OR+%22la…).
+No recent papers found.
+
+_Feed unavailable. Refresh failed: paperswithcode.com network request was unreachable._
 <!--PWC:END-->
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-Source unavailable (HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/topstories.json (C…).
+No AI-related stories in the last 24h.
+
+_Feed unavailable. Refresh failed: hacker-news.firebaseio.com network request was unreachable._
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-Source unavailable (HTTPSConnectionPool(host='cve.circl.lu', port=443): Max retries exceeded with url: /api/last (Caused by NewConnectionEr…).
+No recent CVEs.
+
+_Feed unavailable. Refresh failed: cve.circl.lu network request was unreachable._
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
