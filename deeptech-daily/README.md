@@ -10,17 +10,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁`
+`▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -91,6 +93,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [ARM-FM: Automated Reward Machines via Foundation Models for Compositional Reinforcement Learning](https://arxiv.org/abs/2510.14176) — arXiv:2510.14176v1 Announce Type: new  Abstract: Reinforcement learning (RL) algorithms are highly sensitive to reward function specification, which remains a…
 - [Implementation of AI in Precision Medicine](https://arxiv.org/abs/2510.14194) — arXiv:2510.14194v1 Announce Type: new  Abstract: Artificial intelligence (AI) has become increasingly central to precision medicine by enabling the integration…
 - [Echoes of Human Malice in Agents: Benchmarking LLMs for Multi-Turn Online Harassment Attacks](https://arxiv.org/abs/2510.14207) — arXiv:2510.14207v1 Announce Type: new  Abstract: Large Language Model (LLM) agents are powering a growing share of interactive web applications, yet remain vul…
+
+_Showing cached data from 2025-10-17T05:30:39Z. Refresh failed: no arXiv entries retrieved._
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -118,28 +122,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                                                           |   Stars | Description                                                                                                                                                      |
-|--------------------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| njadNissi/NLP_tuto                                                                   |      39 | LLM tuto, PDF Q&A System, etc.                                                                                                                                   |
-| 0xSero/codex-local                                                                   |      24 | A modified Codex CLI application built to support local LLMs                                                                                                     |
-| BDML-lab/llm-inductive-reasoning-survey                                              |      19 | this is the repository for the paper ‘A Survey of Inductive Reasoning for Large Language Models’                                                                 |
-| ki-ljl/Awesome-Long-Form-Factuality                                                  |      19 | Awesome Long-Form Factuality: A Curated List of Papers and Resources on Enhancing Factuality in Long-Form LLM Generations                                        |
-| FelixMessi/QDLM                                                                      |      17 | Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs                                                                    |
-| ellydee/acceptance-bench                                                             |      16 | A robust LLM evaluation framework measuring acceptance vs refusal across difficulty levels. Features multi-prompt variation testing, temperature sweeping, and…  |
-| hemingkx/AdvPrompt                                                                   |      14 | Enabling Efficient Reasoning in LLMs via Black-box Adversarial Prompting                                                                                         |
-| jmanhype/ace-playbook                                                                |      11 | Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback                                                  |
-| EnVision-Research/MTI                                                                |      10 | Official implementation of "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention"                                                           |
-| Tomsawyerhu/Awesome-Personalized-Alignment                                           |      10 | A Survey on Large Language Models for Personalized Alignment                                                                                                     |
-| peng-gao-lab/CTIArena                                                                |      10 | The first benchmark to evaluate LLM performance on heterogeneous CTI under knowledge-augmented settings.                                                         |
-| leslieo2/LangGraph-Mastery-Playbook                                                  |       9 | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.              |
-| ahmetatakan/dockai                                                                   |       8 | AI-powered Docker log analysis CLI — Analyze container logs using LLMs (Ollama or OpenAI).                                                                       |
-| qianweijiujiu/Awesome-Token-Pruning-and-Merging-for-Multimodal-Large-Language-Models |       8 | papers for token compression in mllms.                                                                                                                           |
-| zbowling/mcpcodeserver                                                               |       8 | A Model Context Protocol (MCP) proxy server that translates tool calls into TypeScript code generation. Instead of making multiple tool calls back and forth, L… |
-| DLFundamentals/LLM_ERM                                                               |       7 | Official code for "LLM-ERM: Sample-Efficient Program Learning via LLM-Guided Search", Arxiv 2025                                                                 |
-| magooney-loon/pb-llm                                                                 |       7 | pocketbase LLM docs scraper                                                                                                                                      |
-| THU-KEG/BGPO                                                                         |       6 | Boundary-Guided Policy Optimization for Memory-Efficient RL of Diffusion Large Language Models                                                                   |
-| TianzhuQin/LLM-ABM-Information-Network                                               |       6 | A large language model style agent based modeling that simulate misinformation spreading in a network                                                            |
-| sanxing-chen/meta-bandit-llm                                                         |       6 | Multiturn Meta-Bandit LLM RL Training                                                                                                                            |
+| Repository                                 |   Stars | Description                                                                                                                                                      |
+|--------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| njadNissi/NLP_tuto                         |      56 | LLM tuto, PDF Q&A System, etc.                                                                                                                                   |
+| ellydee/acceptance-bench                   |      39 | A robust LLM evaluation framework measuring acceptance vs refusal across difficulty levels. Features multi-prompt variation testing, temperature sweeping, and…  |
+| 0xSero/codex-local                         |      24 | A modified Codex CLI application built to support local LLMs                                                                                                     |
+| FelixMessi/QDLM                            |      17 | Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs                                                                    |
+| hemingkx/AdvPrompt                         |      14 | Enabling Efficient Reasoning in LLMs via Black-box Adversarial Prompting                                                                                         |
+| jmanhype/ace-playbook                      |      13 | Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback                                                  |
+| EnVision-Research/MTI                      |      11 | Official implementation of "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention"                                                           |
+| jinwukong/llm-low-cost-search              |      11 | Async Brave Search + Readability extractor for LLM/RAG — 10–20 links per request, batch extraction, JSON archiving, typically 1/8–1/5 the cost of hosted stacks. |
+| leslieo2/LangGraph-Mastery-Playbook        |      11 | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.              |
+| Tomsawyerhu/Awesome-Personalized-Alignment |      10 | A Survey on Large Language Models for Personalized Alignment                                                                                                     |
+| peng-gao-lab/CTIArena                      |      10 | The first benchmark to evaluate LLM performance on heterogeneous CTI under knowledge-augmented settings.                                                         |
+| ahmetatakan/dockai                         |       8 | AI-powered Docker log analysis CLI — Analyze container logs using LLMs (Ollama or OpenAI).                                                                       |
+| zbowling/mcpcodeserver                     |       8 | A Model Context Protocol (MCP) proxy server that translates tool calls into TypeScript code generation. Instead of making multiple tool calls back and forth, L… |
+| DLFundamentals/LLM_ERM                     |       7 | Official code for "LLM-ERM: Sample-Efficient Program Learning via LLM-Guided Search", Arxiv 2025                                                                 |
+| llm-brain-rot/llm-brain-rot                |       7 | LLM Can Get "Brain Rot"                                                                                                                                          |
+| magooney-loon/pb-llm                       |       7 | pocketbase LLM docs scraper                                                                                                                                      |
+| TianzhuQin/LLM-ABM-Information-Network     |       6 | A large language model style agent based modeling that simulate misinformation spreading in a network                                                            |
+| sanxing-chen/meta-bandit-llm               |       6 | Multiturn Meta-Bandit LLM RL Training                                                                                                                            |
+| Jasaxion/HSPIM                             |       5 | A Hierarchical Framework for Measuring Scientific Paper Innovation via Large Language Models                                                                     |
+| bapspatil/fumadocs-payload-template        |       5 | A documentation site using Fumadocs and Payload CMS, with LLM-enabled features.                                                                                  |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -149,26 +153,33 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/) — 326 points
-- [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/) — 50 points
-- [Let's Build the GPT Tokenizer: A Complete Guide to Tokenization in LLMs](https://www.fast.ai/posts/2025-10-16-karpathy-tokenizers) — 12 points
-- [Google Coral NPU: ML accelerator core designed for energy-efficient edge AI](https://github.com/google-coral/coralnpu) — 11 points
+- [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/) — 231 points
+- [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7) — 168 points
+- [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/) — 89 points
+- [New computer model helps reveal how the brain both adapts and misfires](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course) — 56 points
+- [Japan asks OpenAI to keep Sora 2's hands off anime IP](https://www.theregister.com/2025/10/15/japan_openai_copyrighted_anime/) — 24 points
+- [Britain's AI gold rush hits a wall – not enough electricity](https://www.theregister.com/2025/10/17/in_britain_talk_is_cheap/) — 13 points
+- [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/) — 9 points
+- [Andrej Karpathy on AI Agent: everyone pretends it is amazing, it's not it's slop](https://twitter.com/scaling01/status/1979253569309041033) — 9 points
+- [Oracle stock drops as some skeptics question lofty AI targets](https://www.cnbc.com/2025/10/17/oracle-stock-drops-7percent-as-companys-ai-conference-brings-out-skeptics.html) — 7 points
+- [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/) — 6 points
+- [The web infrastructure revolt over Google's AI Overviews](https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/) — 5 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary   |
-|---------------------|--------|-----------|
-| CVE-2025-55087      |      0 |           |
-| CVE-2025-55094      |      0 |           |
-| CVE-2025-55096      |      0 |           |
-| CVE-2025-55097      |      0 |           |
-| CVE-2025-55098      |      0 |           |
-| CVE-2025-55099      |      0 |           |
-| CVE-2025-55100      |      0 |           |
-| GHSA-56fc-7xxq-mcfp |      0 |           |
-| GHSA-29jf-57xj-hxj2 |      0 |           |
-| GHSA-9hmp-7p86-546r |      0 |           |
+| CVE   |   CVSS | Summary   |
+|-------|--------|-----------|
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

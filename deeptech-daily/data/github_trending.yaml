@@ -1,42 +1,30 @@
-fetched_at: '2025-10-17T09:29:01Z'
-generated_at: '2025-10-17T09:29:01Z'
-hash: 407877f091f7271078305504c8142e250443813033d8f3d52459b0b5e100c37c
+fetched_at: '2025-10-18T05:29:53Z'
+generated_at: '2025-10-18T05:29:53Z'
+hash: a3646e133efde84c0838f4826419eed0fdccf62a1587c0af0322f35b0216bcd5
 items:
 - created_at: '2025-10-12T07:33:04Z'
   description: LLM tuto, PDF Q&A System, etc.
   full_name: njadNissi/NLP_tuto
   html_url: https://github.com/njadNissi/NLP_tuto
-  stargazers_count: 39
-- created_at: '2025-10-12T08:21:29Z'
-  description: A modified Codex CLI application built to support local LLMs
-  full_name: 0xSero/codex-local
-  html_url: https://github.com/0xSero/codex-local
-  stargazers_count: 24
-- created_at: '2025-10-11T04:37:27Z'
-  description: this is the repository for the paper ‘A Survey of Inductive Reasoning
-    for Large Language Models’
-  full_name: BDML-lab/llm-inductive-reasoning-survey
-  html_url: https://github.com/BDML-lab/llm-inductive-reasoning-survey
-  stargazers_count: 19
-- created_at: '2025-10-11T07:17:06Z'
-  description: 'Awesome Long-Form Factuality: A Curated List of Papers and Resources
-    on Enhancing Factuality in Long-Form LLM Generations'
-  full_name: ki-ljl/Awesome-Long-Form-Factuality
-  html_url: https://github.com/ki-ljl/Awesome-Long-Form-Factuality
-  stargazers_count: 19
-- created_at: '2025-10-14T15:53:13Z'
-  description: 'Quantization Meets dLLMs: A Systematic Study of Post-training Quantization
-    for Diffusion LLMs'
-  full_name: FelixMessi/QDLM
-  html_url: https://github.com/FelixMessi/QDLM
-  stargazers_count: 17
+  stargazers_count: 56
 - created_at: '2025-10-16T18:30:13Z'
   description: A robust LLM evaluation framework measuring acceptance vs refusal across
     difficulty levels. Features multi-prompt variation testing, temperature sweeping,
     and…
   full_name: ellydee/acceptance-bench
   html_url: https://github.com/ellydee/acceptance-bench
-  stargazers_count: 16
+  stargazers_count: 39
+- created_at: '2025-10-12T08:21:29Z'
+  description: A modified Codex CLI application built to support local LLMs
+  full_name: 0xSero/codex-local
+  html_url: https://github.com/0xSero/codex-local
+  stargazers_count: 24
+- created_at: '2025-10-14T15:53:13Z'
+  description: 'Quantization Meets dLLMs: A Systematic Study of Post-training Quantization
+    for Diffusion LLMs'
+  full_name: FelixMessi/QDLM
+  html_url: https://github.com/FelixMessi/QDLM
+  stargazers_count: 17
 - created_at: '2025-10-13T15:35:12Z'
   description: Enabling Efficient Reasoning in LLMs via Black-box Adversarial Prompting
   full_name: hemingkx/AdvPrompt
@@ -47,13 +35,26 @@ items:
     for online learning from execution feedback
   full_name: jmanhype/ace-playbook
   html_url: https://github.com/jmanhype/ace-playbook
-  stargazers_count: 11
+  stargazers_count: 13
 - created_at: '2025-10-15T12:48:47Z'
   description: 'Official implementation of "Less is More: Improving LLM Reasoning
     with Minimal Test-Time Intervention"'
   full_name: EnVision-Research/MTI
   html_url: https://github.com/EnVision-Research/MTI
-  stargazers_count: 10
+  stargazers_count: 11
+- created_at: '2025-10-15T09:30:31Z'
+  description: Async Brave Search + Readability extractor for LLM/RAG — 10–20 links
+    per request, batch extraction, JSON archiving, typically 1/8–1/5 the cost of hosted
+    stacks.
+  full_name: jinwukong/llm-low-cost-search
+  html_url: https://github.com/jinwukong/llm-low-cost-search
+  stargazers_count: 11
+- created_at: '2025-10-15T11:38:03Z'
+  description: 'LangGraph Mastery Playbook: guided, code-first lessons for building
+    memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.'
+  full_name: leslieo2/LangGraph-Mastery-Playbook
+  html_url: https://github.com/leslieo2/LangGraph-Mastery-Playbook
+  stargazers_count: 11
 - created_at: '2025-10-16T01:36:14Z'
   description: A Survey on Large Language Models for Personalized Alignment
   full_name: Tomsawyerhu/Awesome-Personalized-Alignment
@@ -65,22 +66,11 @@ items:
   full_name: peng-gao-lab/CTIArena
   html_url: https://github.com/peng-gao-lab/CTIArena
   stargazers_count: 10
-- created_at: '2025-10-15T11:38:03Z'
-  description: 'LangGraph Mastery Playbook: guided, code-first lessons for building
-    memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.'
-  full_name: leslieo2/LangGraph-Mastery-Playbook
-  html_url: https://github.com/leslieo2/LangGraph-Mastery-Playbook
-  stargazers_count: 9
 - created_at: '2025-10-12T17:10:35Z'
   description: AI-powered Docker log analysis CLI — Analyze container logs using LLMs
     (Ollama or OpenAI).
   full_name: ahmetatakan/dockai
   html_url: https://github.com/ahmetatakan/dockai
-  stargazers_count: 8
-- created_at: '2025-10-11T02:39:39Z'
-  description: papers for token compression in mllms.
-  full_name: qianweijiujiu/Awesome-Token-Pruning-and-Merging-for-Multimodal-Large-Language-Models
-  html_url: https://github.com/qianweijiujiu/Awesome-Token-Pruning-and-Merging-for-Multimodal-Large-Language-Models
   stargazers_count: 8
 - created_at: '2025-10-12T20:19:46Z'
   description: A Model Context Protocol (MCP) proxy server that translates tool calls
@@ -95,17 +85,16 @@ items:
   full_name: DLFundamentals/LLM_ERM
   html_url: https://github.com/DLFundamentals/LLM_ERM
   stargazers_count: 7
+- created_at: '2025-10-17T07:11:16Z'
+  description: LLM Can Get "Brain Rot"
+  full_name: llm-brain-rot/llm-brain-rot
+  html_url: https://github.com/llm-brain-rot/llm-brain-rot
+  stargazers_count: 7
 - created_at: '2025-10-15T08:08:02Z'
   description: pocketbase LLM docs scraper
   full_name: magooney-loon/pb-llm
   html_url: https://github.com/magooney-loon/pb-llm
   stargazers_count: 7
-- created_at: '2025-10-11T10:32:12Z'
-  description: Boundary-Guided Policy Optimization for Memory-Efficient RL of Diffusion
-    Large Language Models
-  full_name: THU-KEG/BGPO
-  html_url: https://github.com/THU-KEG/BGPO
-  stargazers_count: 6
 - created_at: '2025-10-14T20:05:57Z'
   description: A large language model style agent based modeling that simulate misinformation
     spreading in a network
@@ -117,4 +106,16 @@ items:
   full_name: sanxing-chen/meta-bandit-llm
   html_url: https://github.com/sanxing-chen/meta-bandit-llm
   stargazers_count: 6
+- created_at: '2025-10-12T08:01:30Z'
+  description: A Hierarchical Framework for Measuring Scientific Paper Innovation
+    via Large Language Models
+  full_name: Jasaxion/HSPIM
+  html_url: https://github.com/Jasaxion/HSPIM
+  stargazers_count: 5
+- created_at: '2025-10-12T18:10:36Z'
+  description: A documentation site using Fumadocs and Payload CMS, with LLM-enabled
+    features.
+  full_name: bapspatil/fumadocs-payload-template
+  html_url: https://github.com/bapspatil/fumadocs-payload-template
+  stargazers_count: 5
 source_url: https://api.github.com/search/repositories
