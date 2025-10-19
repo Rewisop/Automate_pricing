@@ -11,17 +11,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁`
+`▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -124,26 +126,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error
 <!--GHTREND:START-->
 | Repository                                 |   Stars | Description                                                                                                                                                      |
 |--------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| njadNissi/NLP_tuto                         |      56 | LLM tuto, PDF Q&A System, etc.                                                                                                                                   |
-| ellydee/acceptance-bench                   |      39 | A robust LLM evaluation framework measuring acceptance vs refusal across difficulty levels. Features multi-prompt variation testing, temperature sweeping, and…  |
-| 0xSero/codex-local                         |      24 | A modified Codex CLI application built to support local LLMs                                                                                                     |
+| ellydee/acceptance-bench                   |      65 | A robust LLM evaluation framework measuring acceptance vs refusal across difficulty levels. Features multi-prompt variation testing, temperature sweeping, and…  |
+| AI4Science-WestlakeU/BuildArena            |      20 | Build Arena, where LLM agents design, build, and test rockets, cars, and bridges in a physics simulator.                                                         |
+| ysz/recursive-llm                          |      18 | Recursive Language Models for unbounded context processing. Process 100k+ tokens with any LLM by storing context as variables instead of prompts.                |
 | FelixMessi/QDLM                            |      17 | Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs                                                                    |
+| jmanhype/ace-playbook                      |      17 | Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback                                                  |
 | hemingkx/AdvPrompt                         |      14 | Enabling Efficient Reasoning in LLMs via Black-box Adversarial Prompting                                                                                         |
-| jmanhype/ace-playbook                      |      13 | Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback                                                  |
-| EnVision-Research/MTI                      |      11 | Official implementation of "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention"                                                           |
-| jinwukong/llm-low-cost-search              |      11 | Async Brave Search + Readability extractor for LLM/RAG — 10–20 links per request, batch extraction, JSON archiving, typically 1/8–1/5 the cost of hosted stacks. |
-| leslieo2/LangGraph-Mastery-Playbook        |      11 | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.              |
+| jinwukong/llm-low-cost-search              |      14 | Async Brave Search + Readability extractor for LLM/RAG — 10–20 links per request, batch extraction, JSON archiving, typically 1/8–1/5 the cost of hosted stacks. |
+| skye-harris/hass_local_openai_llm          |      14 | Home Assistant LLM integration for local OpenAI-compatible services (llamacpp, vllm, etc)                                                                        |
+| EnVision-Research/MTI                      |      12 | Official implementation of "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention"                                                           |
+| leslieo2/LangGraph-Mastery-Playbook        |      12 | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.              |
+| peng-gao-lab/CTIArena                      |      11 | The first benchmark to evaluate LLM performance on heterogeneous CTI under knowledge-augmented settings.                                                         |
 | Tomsawyerhu/Awesome-Personalized-Alignment |      10 | A Survey on Large Language Models for Personalized Alignment                                                                                                     |
-| peng-gao-lab/CTIArena                      |      10 | The first benchmark to evaluate LLM performance on heterogeneous CTI under knowledge-augmented settings.                                                         |
-| ahmetatakan/dockai                         |       8 | AI-powered Docker log analysis CLI — Analyze container logs using LLMs (Ollama or OpenAI).                                                                       |
-| zbowling/mcpcodeserver                     |       8 | A Model Context Protocol (MCP) proxy server that translates tool calls into TypeScript code generation. Instead of making multiple tool calls back and forth, L… |
-| DLFundamentals/LLM_ERM                     |       7 | Official code for "LLM-ERM: Sample-Efficient Program Learning via LLM-Guided Search", Arxiv 2025                                                                 |
+| DLFundamentals/LLM_ERM                     |       8 | Official code for "LLM-ERM: Sample-Efficient Program Learning via LLM-Guided Search", Arxiv 2025                                                                 |
+| magooney-loon/pb-llm                       |       8 | pocketbase LLM docs scraper                                                                                                                                      |
 | llm-brain-rot/llm-brain-rot                |       7 | LLM Can Get "Brain Rot"                                                                                                                                          |
-| magooney-loon/pb-llm                       |       7 | pocketbase LLM docs scraper                                                                                                                                      |
+| KardelRuveyda/autogen-best-practices       |       6 | Bu depo; Microsoft AutoGen ile yaptığım/deneysel çalışmalar, entegrasyon denemeleri ve çoklu LLM sağlayıcı karşılaştırmalı örneklerini içeren bir çalışma alanı… |
 | TianzhuQin/LLM-ABM-Information-Network     |       6 | A large language model style agent based modeling that simulate misinformation spreading in a network                                                            |
 | sanxing-chen/meta-bandit-llm               |       6 | Multiturn Meta-Bandit LLM RL Training                                                                                                                            |
-| Jasaxion/HSPIM                             |       5 | A Hierarchical Framework for Measuring Scientific Paper Innovation via Large Language Models                                                                     |
-| bapspatil/fumadocs-payload-template        |       5 | A documentation site using Fumadocs and Payload CMS, with LLM-enabled features.                                                                                  |
+| huobailiu/TransExpert                      |       4 | An LLM-Powered Expert for Public Sector Inquiries on Transportation Standards                                                                                    |
+| lee-lou2/ai-chrome-extension               |       4 | Google Gemini API를 이용한 LLM Chatbot 크롬 익스텐션                                                                                                                       |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -153,17 +155,12 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/) — 231 points
-- [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7) — 168 points
-- [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/) — 89 points
-- [New computer model helps reveal how the brain both adapts and misfires](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course) — 56 points
-- [Japan asks OpenAI to keep Sora 2's hands off anime IP](https://www.theregister.com/2025/10/15/japan_openai_copyrighted_anime/) — 24 points
-- [Britain's AI gold rush hits a wall – not enough electricity](https://www.theregister.com/2025/10/17/in_britain_talk_is_cheap/) — 13 points
-- [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/) — 9 points
-- [Andrej Karpathy on AI Agent: everyone pretends it is amazing, it's not it's slop](https://twitter.com/scaling01/status/1979253569309041033) — 9 points
-- [Oracle stock drops as some skeptics question lofty AI targets](https://www.cnbc.com/2025/10/17/oracle-stock-drops-7percent-as-companys-ai-conference-brings-out-skeptics.html) — 7 points
-- [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/) — 6 points
-- [The web infrastructure revolt over Google's AI Overviews](https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/) — 5 points
+- [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data) — 63 points
+- [AI Is Killing Wikipedia's Human Traffic](https://gizmodo.com/ai-is-killing-wikipedias-human-traffic-2000673686) — 15 points
+- [Alibaba Cloud: AI Models, Reducing Footprint of Nvidia GPUs, and Cloud Streaming](https://boilingsteam.com/tgs2025-a-talk-with-alibaba-cloud/) — 12 points
+- [Ex-Builder.ai CFO subpoenaed as US authorities probe its collapse](https://www.ft.com/content/177dd03a-bffe-4248-9c75-db2f54dd35a4) — 9 points
+- [The Fight over Whose AI Monster Is Scariest](https://www.wsj.com/tech/ai/the-fight-over-whose-ai-monster-is-scariest-41a43193) — 7 points
+- [Ask HN: Estimation of copyright material used by LLM](https://news.ycombinator.com/item?id=45631710) — 3 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)

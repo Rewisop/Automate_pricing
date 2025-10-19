@@ -1,61 +1,35 @@
-fetched_at: '2025-10-18T05:29:53Z'
-generated_at: '2025-10-18T05:29:53Z'
-hash: 0d359ccccb22190bd91b16967fbeb1cddf188b65ca8ac0031e4dd22ac5f4f7c6
+fetched_at: '2025-10-19T05:30:55Z'
+generated_at: '2025-10-19T05:30:55Z'
+hash: dfd3b9f52c030ce63dba65b5760982dcee2ce70a19900d3638c6544c0b4d7a00
 items:
-- id: 45619544
-  score: 231
-  time: '2025-10-17T17:41:02Z'
-  title: OpenAI Needs $400B In The Next 12 Months
-  url: https://www.wheresyoured.at/openai400bn/
-- id: 45618350
-  score: 168
-  time: '2025-10-17T16:09:02Z'
-  title: AI has a cargo cult problem
-  url: https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7
-- id: 45620653
-  score: 89
-  time: '2025-10-17T19:03:21Z'
-  title: Asking AI to build scrapers should be easy right?
-  url: https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/
-- id: 45613667
-  score: 56
-  time: '2025-10-17T05:51:43Z'
-  title: New computer model helps reveal how the brain both adapts and misfires
-  url: https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course
-- id: 45624310
-  score: 24
-  time: '2025-10-18T02:10:18Z'
-  title: Japan asks OpenAI to keep Sora 2's hands off anime IP
-  url: https://www.theregister.com/2025/10/15/japan_openai_copyrighted_anime/
-- id: 45620217
-  score: 13
-  time: '2025-10-17T18:31:11Z'
-  title: Britain's AI gold rush hits a wall – not enough electricity
-  url: https://www.theregister.com/2025/10/17/in_britain_talk_is_cheap/
-- id: 45621617
+- id: 45629299
+  score: 63
+  time: '2025-10-18T18:13:27Z'
+  title: Most users cannot identify AI bias, even in training data
+  url: https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data
+- id: 45627223
+  score: 15
+  time: '2025-10-18T13:31:30Z'
+  title: AI Is Killing Wikipedia's Human Traffic
+  url: https://gizmodo.com/ai-is-killing-wikipedias-human-traffic-2000673686
+- id: 45628361
+  score: 12
+  time: '2025-10-18T16:01:04Z'
+  title: 'Alibaba Cloud: AI Models, Reducing Footprint of Nvidia GPUs, and Cloud Streaming'
+  url: https://boilingsteam.com/tgs2025-a-talk-with-alibaba-cloud/
+- id: 45629038
   score: 9
-  time: '2025-10-17T20:24:43Z'
-  title: The Majority AI View
-  url: https://www.anildash.com//2025/10/17/the-majority-ai-view/
-- id: 45623317
-  score: 9
-  time: '2025-10-17T23:23:40Z'
-  title: 'Andrej Karpathy on AI Agent: everyone pretends it is amazing, it''s not
-    it''s slop'
-  url: https://twitter.com/scaling01/status/1979253569309041033
-- id: 45621058
+  time: '2025-10-18T17:37:35Z'
+  title: Ex-Builder.ai CFO subpoenaed as US authorities probe its collapse
+  url: https://www.ft.com/content/177dd03a-bffe-4248-9c75-db2f54dd35a4
+- id: 45631582
   score: 7
-  time: '2025-10-17T19:35:34Z'
-  title: Oracle stock drops as some skeptics question lofty AI targets
-  url: https://www.cnbc.com/2025/10/17/oracle-stock-drops-7percent-as-companys-ai-conference-brings-out-skeptics.html
-- id: 45625029
-  score: 6
-  time: '2025-10-18T04:56:47Z'
-  title: The Majority AI View
-  url: https://www.anildash.com//2025/10/17/the-majority-ai-view/
-- id: 45622520
-  score: 5
-  time: '2025-10-17T21:50:33Z'
-  title: The web infrastructure revolt over Google's AI Overviews
-  url: https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/
+  time: '2025-10-19T01:47:36Z'
+  title: The Fight over Whose AI Monster Is Scariest
+  url: https://www.wsj.com/tech/ai/the-fight-over-whose-ai-monster-is-scariest-41a43193
+- id: 45631710
+  score: 3
+  time: '2025-10-19T02:29:02Z'
+  title: 'Ask HN: Estimation of copyright material used by LLM'
+  url: https://news.ycombinator.com/item?id=45631710
 source_url: https://hacker-news.firebaseio.com/
