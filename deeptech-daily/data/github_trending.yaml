@@ -1,6 +1,6 @@
-fetched_at: '2025-10-19T05:30:55Z'
-generated_at: '2025-10-19T05:30:55Z'
-hash: fb26b5603794aa8e8071609383fe3b89f69f709d4c7d41b6fc8536d31d4da6d5
+fetched_at: '2025-10-20T05:31:45Z'
+generated_at: '2025-10-20T05:31:45Z'
+hash: 39a04235ef007db00d3bed3c8cdef7ea4f53f990a9931c8c30f2364bbcadfee3
 items:
 - created_at: '2025-10-16T18:30:13Z'
   description: A robust LLM evaluation framework measuring acceptance vs refusal across
@@ -8,18 +8,31 @@ items:
     and…
   full_name: ellydee/acceptance-bench
   html_url: https://github.com/ellydee/acceptance-bench
-  stargazers_count: 65
+  stargazers_count: 85
 - created_at: '2025-10-17T10:20:16Z'
   description: Build Arena, where LLM agents design, build, and test rockets, cars,
     and bridges in a physics simulator.
   full_name: AI4Science-WestlakeU/BuildArena
   html_url: https://github.com/AI4Science-WestlakeU/BuildArena
-  stargazers_count: 20
+  stargazers_count: 29
 - created_at: '2025-10-17T14:42:12Z'
   description: Recursive Language Models for unbounded context processing. Process
     100k+ tokens with any LLM by storing context as variables instead of prompts.
   full_name: ysz/recursive-llm
   html_url: https://github.com/ysz/recursive-llm
+  stargazers_count: 26
+- created_at: '2025-10-15T09:30:31Z'
+  description: Async Brave Search + Readability extractor for LLM/RAG — 10–20 links
+    per request, batch extraction, JSON archiving, typically 1/8–1/5 the cost of hosted
+    stacks.
+  full_name: jinwukong/llm-low-cost-search
+  html_url: https://github.com/jinwukong/llm-low-cost-search
+  stargazers_count: 24
+- created_at: '2025-10-18T03:43:16Z'
+  description: Home Assistant LLM integration for local OpenAI-compatible services
+    (llamacpp, vllm, etc)
+  full_name: skye-harris/hass_local_openai_llm
+  html_url: https://github.com/skye-harris/hass_local_openai_llm
   stargazers_count: 18
 - created_at: '2025-10-14T15:53:13Z'
   description: 'Quantization Meets dLLMs: A Systematic Study of Post-training Quantization
@@ -27,53 +40,28 @@ items:
   full_name: FelixMessi/QDLM
   html_url: https://github.com/FelixMessi/QDLM
   stargazers_count: 17
-- created_at: '2025-10-13T21:27:38Z'
-  description: Self-improving LLM system using Generator-Reflector-Curator pattern
-    for online learning from execution feedback
-  full_name: jmanhype/ace-playbook
-  html_url: https://github.com/jmanhype/ace-playbook
-  stargazers_count: 17
-- created_at: '2025-10-13T15:35:12Z'
-  description: Enabling Efficient Reasoning in LLMs via Black-box Adversarial Prompting
-  full_name: hemingkx/AdvPrompt
-  html_url: https://github.com/hemingkx/AdvPrompt
-  stargazers_count: 14
-- created_at: '2025-10-15T09:30:31Z'
-  description: Async Brave Search + Readability extractor for LLM/RAG — 10–20 links
-    per request, batch extraction, JSON archiving, typically 1/8–1/5 the cost of hosted
-    stacks.
-  full_name: jinwukong/llm-low-cost-search
-  html_url: https://github.com/jinwukong/llm-low-cost-search
-  stargazers_count: 14
-- created_at: '2025-10-18T03:43:16Z'
-  description: Home Assistant LLM integration for local OpenAI-compatible services
-    (llamacpp, vllm, etc)
-  full_name: skye-harris/hass_local_openai_llm
-  html_url: https://github.com/skye-harris/hass_local_openai_llm
-  stargazers_count: 14
-- created_at: '2025-10-15T12:48:47Z'
-  description: 'Official implementation of "Less is More: Improving LLM Reasoning
-    with Minimal Test-Time Intervention"'
-  full_name: EnVision-Research/MTI
-  html_url: https://github.com/EnVision-Research/MTI
-  stargazers_count: 12
 - created_at: '2025-10-15T11:38:03Z'
   description: 'LangGraph Mastery Playbook: guided, code-first lessons for building
     memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.'
   full_name: leslieo2/LangGraph-Mastery-Playbook
   html_url: https://github.com/leslieo2/LangGraph-Mastery-Playbook
-  stargazers_count: 12
-- created_at: '2025-10-13T20:16:10Z'
-  description: The first benchmark to evaluate LLM performance on heterogeneous CTI
-    under knowledge-augmented settings.
-  full_name: peng-gao-lab/CTIArena
-  html_url: https://github.com/peng-gao-lab/CTIArena
-  stargazers_count: 11
+  stargazers_count: 15
+- created_at: '2025-10-15T12:48:47Z'
+  description: 'Official implementation of "Less is More: Improving LLM Reasoning
+    with Minimal Test-Time Intervention"'
+  full_name: EnVision-Research/MTI
+  html_url: https://github.com/EnVision-Research/MTI
+  stargazers_count: 13
 - created_at: '2025-10-16T01:36:14Z'
   description: A Survey on Large Language Models for Personalized Alignment
   full_name: Tomsawyerhu/Awesome-Personalized-Alignment
   html_url: https://github.com/Tomsawyerhu/Awesome-Personalized-Alignment
   stargazers_count: 10
+- created_at: '2025-10-17T07:11:16Z'
+  description: LLM Can Get "Brain Rot"
+  full_name: llm-brain-rot/llm-brain-rot
+  html_url: https://github.com/llm-brain-rot/llm-brain-rot
+  stargazers_count: 9
 - created_at: '2025-10-14T03:28:07Z'
   description: 'Official code for "LLM-ERM: Sample-Efficient Program Learning via
     LLM-Guided Search", Arxiv 2025'
@@ -85,10 +73,18 @@ items:
   full_name: magooney-loon/pb-llm
   html_url: https://github.com/magooney-loon/pb-llm
   stargazers_count: 8
-- created_at: '2025-10-17T07:11:16Z'
-  description: LLM Can Get "Brain Rot"
-  full_name: llm-brain-rot/llm-brain-rot
-  html_url: https://github.com/llm-brain-rot/llm-brain-rot
+- created_at: '2025-10-14T20:05:57Z'
+  description: A large language model style agent based modeling that simulate misinformation
+    spreading in a network
+  full_name: TianzhuQin/LLM-ABM-Information-Network
+  html_url: https://github.com/TianzhuQin/LLM-ABM-Information-Network
+  stargazers_count: 7
+- created_at: '2025-10-19T02:47:41Z'
+  description: AI-Powered RSS Content Filter - Automatically remove ads, sponsored
+    content, and low-quality articles from your FreshRSS feeds using LLM intelligence.
+    Set it &…
+  full_name: TimmyOVO/freshrss-filter
+  html_url: https://github.com/TimmyOVO/freshrss-filter
   stargazers_count: 7
 - created_at: '2025-10-15T18:03:31Z'
   description: Bu depo; Microsoft AutoGen ile yaptığım/deneysel çalışmalar, entegrasyon
@@ -97,26 +93,35 @@ items:
   full_name: KardelRuveyda/autogen-best-practices
   html_url: https://github.com/KardelRuveyda/autogen-best-practices
   stargazers_count: 6
-- created_at: '2025-10-14T20:05:57Z'
-  description: A large language model style agent based modeling that simulate misinformation
-    spreading in a network
-  full_name: TianzhuQin/LLM-ABM-Information-Network
-  html_url: https://github.com/TianzhuQin/LLM-ABM-Information-Network
+- created_at: '2025-10-16T15:01:44Z'
+  description: Rex-Omni is a 3B-parameter Multimodal Large Language Model (MLLM) that
+    redefines object detection and a wide range of other visual perception tasks as
+    a simple…
+  full_name: flybirdxx/ComfyUI-RexOmni
+  html_url: https://github.com/flybirdxx/ComfyUI-RexOmni
+  stargazers_count: 6
+- created_at: '2025-10-14T12:23:29Z'
+  description: 'VitaBench: Benchmarking LLM Agents with Versatile Interactive Tasks
+    in Real-world Applications'
+  full_name: meituan-longcat/vitabench
+  html_url: https://github.com/meituan-longcat/vitabench
   stargazers_count: 6
 - created_at: '2025-10-14T00:27:52Z'
   description: Multiturn Meta-Bandit LLM RL Training
   full_name: sanxing-chen/meta-bandit-llm
   html_url: https://github.com/sanxing-chen/meta-bandit-llm
   stargazers_count: 6
-- created_at: '2025-10-13T13:12:58Z'
-  description: An LLM-Powered Expert for Public Sector Inquiries on Transportation
-    Standards
-  full_name: huobailiu/TransExpert
-  html_url: https://github.com/huobailiu/TransExpert
-  stargazers_count: 4
-- created_at: '2025-10-14T06:23:07Z'
-  description: Google Gemini API를 이용한 LLM Chatbot 크롬 익스텐션
-  full_name: lee-lou2/ai-chrome-extension
-  html_url: https://github.com/lee-lou2/ai-chrome-extension
-  stargazers_count: 4
+- created_at: '2025-10-16T20:17:34Z'
+  description: 🏗️✨ Define structured output schemas for LLMs using Laravel's familiar
+    migration syntax
+  full_name: Blaspsoft/forerunner
+  html_url: https://github.com/Blaspsoft/forerunner
+  stargazers_count: 5
+- created_at: '2025-10-18T11:36:38Z'
+  description: LLM-managed skills platform using MCP - create, edit, and execute skills
+    programmatically in Claude, Cursor, and any MCP-compatible client without manual
+    file…
+  full_name: fkesheh/skill-mcp
+  html_url: https://github.com/fkesheh/skill-mcp
+  stargazers_count: 5
 source_url: https://api.github.com/search/repositories

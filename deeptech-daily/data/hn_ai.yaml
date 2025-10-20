@@ -1,35 +1,21 @@
-fetched_at: '2025-10-19T05:30:55Z'
-generated_at: '2025-10-19T05:30:55Z'
-hash: dfd3b9f52c030ce63dba65b5760982dcee2ce70a19900d3638c6544c0b4d7a00
+fetched_at: '2025-10-20T05:31:45Z'
+generated_at: '2025-10-20T05:31:45Z'
+hash: e505e1440f30ed3c9ee0e90c4d7e5beb948afbe2a9d14d104722fc7e71641696
 items:
-- id: 45629299
-  score: 63
-  time: '2025-10-18T18:13:27Z'
-  title: Most users cannot identify AI bias, even in training data
-  url: https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data
-- id: 45627223
-  score: 15
-  time: '2025-10-18T13:31:30Z'
-  title: AI Is Killing Wikipedia's Human Traffic
-  url: https://gizmodo.com/ai-is-killing-wikipedias-human-traffic-2000673686
-- id: 45628361
-  score: 12
-  time: '2025-10-18T16:01:04Z'
-  title: 'Alibaba Cloud: AI Models, Reducing Footprint of Nvidia GPUs, and Cloud Streaming'
-  url: https://boilingsteam.com/tgs2025-a-talk-with-alibaba-cloud/
-- id: 45629038
-  score: 9
-  time: '2025-10-18T17:37:35Z'
-  title: Ex-Builder.ai CFO subpoenaed as US authorities probe its collapse
-  url: https://www.ft.com/content/177dd03a-bffe-4248-9c75-db2f54dd35a4
-- id: 45631582
-  score: 7
-  time: '2025-10-19T01:47:36Z'
-  title: The Fight over Whose AI Monster Is Scariest
-  url: https://www.wsj.com/tech/ai/the-fight-over-whose-ai-monster-is-scariest-41a43193
-- id: 45631710
-  score: 3
-  time: '2025-10-19T02:29:02Z'
-  title: 'Ask HN: Estimation of copyright material used by LLM'
-  url: https://news.ycombinator.com/item?id=45631710
+- id: 45634095
+  score: 928
+  time: '2025-10-19T13:47:21Z'
+  title: Replacement.ai
+  url: https://replacement.ai
+- id: 45633482
+  score: 382
+  time: '2025-10-19T11:30:17Z'
+  title: OpenAI researcher announced GPT-5 math breakthrough that never happened
+  url: https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/
+- id: 45637945
+  score: 22
+  time: '2025-10-19T21:01:34Z'
+  title: 'Ask HN: Those who applied to the OpenAI Grove program, did you ever hear
+    back?'
+  url: https://news.ycombinator.com/item?id=45637945
 source_url: https://hacker-news.firebaseio.com/

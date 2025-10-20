@@ -12,17 +12,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁`
+`▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -80,23 +82,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [Decision Oriented Technique (DOTechnique): Finding Model Validity Through Decision-Maker Context](https://arxiv.org/abs/2510.13858) — arXiv:2510.13858v1 Announce Type: new  Abstract: Model validity is as critical as the model itself, especially when guiding decision-making processes. Traditio…
-- [Do Slides Help? Multi-modal Context for Automatic Transcription of Conference Talks](https://arxiv.org/abs/2510.13979) — arXiv:2510.13979v1 Announce Type: new  Abstract: State-of-the-art (SOTA) Automatic Speech Recognition (ASR) systems primarily rely on acoustic information whil…
-- [Do Large Language Models Show Biases in Causal Learning? Insights from Contingency Judgment](https://arxiv.org/abs/2510.13985) — arXiv:2510.13985v1 Announce Type: new  Abstract: Causal learning is the cognitive process of developing the capability of making causal inferences based on ava…
-- [GammaZero: Learning To Guide POMDP Belief Space Search With Graph Representations](https://arxiv.org/abs/2510.14035) — arXiv:2510.14035v1 Announce Type: new  Abstract: We introduce an action-centric graph representation framework for learning to guide planning in Partially Obse…
-- [Position: Require Frontier AI Labs To Release Small "Analog" Models](https://arxiv.org/abs/2510.14053) — arXiv:2510.14053v1 Announce Type: new  Abstract: Recent proposals for regulating frontier AI models have sparked concerns about the cost of safety regulation,…
-- [Generating Fair Consensus Statements with Social Choice on Token-Level MDPs](https://arxiv.org/abs/2510.14106) — arXiv:2510.14106v1 Announce Type: new  Abstract: Current frameworks for consensus statement generation with large language models lack the inherent structure n…
-- [STEMS: Spatial-Temporal Enhanced Safe Multi-Agent Coordination for Building Energy Management](https://arxiv.org/abs/2510.14112) — arXiv:2510.14112v1 Announce Type: new  Abstract: Building energy management is essential for achieving carbon reduction goals, improving occupant comfort, and…
-- [Formalizing the Safety, Security, and Functional Properties of Agentic AI Systems](https://arxiv.org/abs/2510.14133) — arXiv:2510.14133v1 Announce Type: new  Abstract: Agentic AI systems, which leverage multiple autonomous agents and Large Language Models (LLMs), are increasing…
-- [A Multimodal Approach to Heritage Preservation in the Context of Climate Change](https://arxiv.org/abs/2510.14136) — arXiv:2510.14136v1 Announce Type: new  Abstract: Cultural heritage sites face accelerating degradation due to climate change, yet tradi- tional monitoring reli…
-- [CodeEvolve: An open source evolutionary coding agent for algorithm discovery and optimization](https://arxiv.org/abs/2510.14150) — arXiv:2510.14150v1 Announce Type: new  Abstract: In this work, we introduce CodeEvolve, an open-source evolutionary coding agent that unites Large Language Mod…
-- [Combining Reinforcement Learning and Behavior Trees for NPCs in Video Games with AMD Schola](https://arxiv.org/abs/2510.14154) — arXiv:2510.14154v1 Announce Type: new  Abstract: While the rapid advancements in the reinforcement learning (RL) research community have been remarkable, the a…
-- [JEDA: Query-Free Clinical Order Search from Ambient Dialogues](https://arxiv.org/abs/2510.14169) — arXiv:2510.14169v1 Announce Type: new  Abstract: Clinical conversations mix explicit directives (order a chest X-ray) with implicit reasoning (the cough worsen…
-- [ARM-FM: Automated Reward Machines via Foundation Models for Compositional Reinforcement Learning](https://arxiv.org/abs/2510.14176) — arXiv:2510.14176v1 Announce Type: new  Abstract: Reinforcement learning (RL) algorithms are highly sensitive to reward function specification, which remains a…
-- [Implementation of AI in Precision Medicine](https://arxiv.org/abs/2510.14194) — arXiv:2510.14194v1 Announce Type: new  Abstract: Artificial intelligence (AI) has become increasingly central to precision medicine by enabling the integration…
-- [Echoes of Human Malice in Agents: Benchmarking LLMs for Multi-Turn Online Harassment Attacks](https://arxiv.org/abs/2510.14207) — arXiv:2510.14207v1 Announce Type: new  Abstract: Large Language Model (LLM) agents are powering a growing share of interactive web applications, yet remain vul…
-
-_Showing cached data from 2025-10-17T05:30:39Z. Refresh failed: no arXiv entries retrieved._
+- [OpenEstimate: Evaluating LLMs on Reasoning Under Uncertainty with Real-World Data](https://arxiv.org/abs/2510.15096) — arXiv:2510.15096v1 Announce Type: new  Abstract: Real-world settings where language models (LMs) are deployed -- in domains spanning healthcare, finance, and o…
+- [Procedural Game Level Design with Deep Reinforcement Learning](https://arxiv.org/abs/2510.15120) — arXiv:2510.15120v1 Announce Type: new  Abstract: Procedural content generation (PCG) has become an increasingly popular technique in game development, allowing…
+- [Towards Error Centric Intelligence I, Beyond Observational Learning](https://arxiv.org/abs/2510.15128) — arXiv:2510.15128v1 Announce Type: new  Abstract: We argue that progress toward AGI is theory limited rather than data or scale limited. Building on the critica…
+- [HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning on Open-Ended Tasks](https://arxiv.org/abs/2510.15144) — arXiv:2510.15144v1 Announce Type: new  Abstract: Simulating human reasoning in open-ended tasks has been a long-standing aspiration in AI and cognitive science…
+- [WELD: A Large-Scale Longitudinal Dataset of Emotional Dynamics for Ubiquitous Affective Computing](https://arxiv.org/abs/2510.15221) — arXiv:2510.15221v1 Announce Type: new  Abstract: Automated emotion recognition in real-world workplace settings remains a challenging problem in affective comp…
+- [From Checklists to Clusters: A Homeostatic Account of AGI Evaluation](https://arxiv.org/abs/2510.15236) — arXiv:2510.15236v1 Announce Type: new  Abstract: Contemporary AGI evaluations report multidomain capability profiles, yet they typically assign symmetric weigh…
+- [Multi-dimensional Data Analysis and Applications Basing on LLM Agents and Knowledge Graph Interactions](https://arxiv.org/abs/2510.15258) — arXiv:2510.15258v1 Announce Type: new  Abstract: In the current era of big data, extracting deep insights from massive, heterogeneous, and complexly associated…
+- [Experience-Driven Exploration for Efficient API-Free AI Agents](https://arxiv.org/abs/2510.15259) — arXiv:2510.15259v1 Announce Type: new  Abstract: Most existing software lacks accessible Application Programming Interfaces (APIs), requiring agents to operate…
+- [AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory](https://arxiv.org/abs/2510.15261) — arXiv:2510.15261v1 Announce Type: new  Abstract: Riding on the success of LLMs with retrieval-augmented generation (RAG), there has been a growing interest in…
+- [WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation](https://arxiv.org/abs/2510.15306) — arXiv:2510.15306v1 Announce Type: new  Abstract: Witnessed by the recent advancements on leveraging LLM for coding and multimodal understanding, we present Web…
+- [VERITAS: Leveraging Vision Priors and Expert Fusion to Improve Multimodal Data](https://arxiv.org/abs/2510.15317) — arXiv:2510.15317v1 Announce Type: new  Abstract: The quality of supervised fine-tuning (SFT) data is crucial for the performance of large multimodal models (LM…
+- [Towards Flash Thinking via Decoupled Advantage Policy Optimization](https://arxiv.org/abs/2510.15374) — arXiv:2510.15374v1 Announce Type: new  Abstract: Recent Large Reasoning Models (LRMs) have achieved remarkable performance in solving complex problems via supe…
+- [Advancing Routing-Awareness in Analog ICs Floorplanning](https://arxiv.org/abs/2510.15387) — arXiv:2510.15387v1 Announce Type: new  Abstract: The adoption of machine learning-based techniques for analog integrated circuit layout, unlike its digital cou…
+- [Corrigibility Transformation: Constructing Goals That Accept Updates](https://arxiv.org/abs/2510.15395) — arXiv:2510.15395v1 Announce Type: new  Abstract: For an AI's training process to successfully impart a desired goal, it is important that the AI does not attem…
+- [MARS: Reinforcing Multi-Agent Reasoning of LLMs through Self-Play in Strategic Games](https://arxiv.org/abs/2510.15414) — arXiv:2510.15414v1 Announce Type: new  Abstract: Developing Large Language Models (LLMs) to cooperate and compete effectively within multi-agent systems is a c…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -126,26 +126,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error
 <!--GHTREND:START-->
 | Repository                                 |   Stars | Description                                                                                                                                                      |
 |--------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ellydee/acceptance-bench                   |      65 | A robust LLM evaluation framework measuring acceptance vs refusal across difficulty levels. Features multi-prompt variation testing, temperature sweeping, and…  |
-| AI4Science-WestlakeU/BuildArena            |      20 | Build Arena, where LLM agents design, build, and test rockets, cars, and bridges in a physics simulator.                                                         |
-| ysz/recursive-llm                          |      18 | Recursive Language Models for unbounded context processing. Process 100k+ tokens with any LLM by storing context as variables instead of prompts.                |
+| ellydee/acceptance-bench                   |      85 | A robust LLM evaluation framework measuring acceptance vs refusal across difficulty levels. Features multi-prompt variation testing, temperature sweeping, and…  |
+| AI4Science-WestlakeU/BuildArena            |      29 | Build Arena, where LLM agents design, build, and test rockets, cars, and bridges in a physics simulator.                                                         |
+| ysz/recursive-llm                          |      26 | Recursive Language Models for unbounded context processing. Process 100k+ tokens with any LLM by storing context as variables instead of prompts.                |
+| jinwukong/llm-low-cost-search              |      24 | Async Brave Search + Readability extractor for LLM/RAG — 10–20 links per request, batch extraction, JSON archiving, typically 1/8–1/5 the cost of hosted stacks. |
+| skye-harris/hass_local_openai_llm          |      18 | Home Assistant LLM integration for local OpenAI-compatible services (llamacpp, vllm, etc)                                                                        |
 | FelixMessi/QDLM                            |      17 | Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs                                                                    |
-| jmanhype/ace-playbook                      |      17 | Self-improving LLM system using Generator-Reflector-Curator pattern for online learning from execution feedback                                                  |
-| hemingkx/AdvPrompt                         |      14 | Enabling Efficient Reasoning in LLMs via Black-box Adversarial Prompting                                                                                         |
-| jinwukong/llm-low-cost-search              |      14 | Async Brave Search + Readability extractor for LLM/RAG — 10–20 links per request, batch extraction, JSON archiving, typically 1/8–1/5 the cost of hosted stacks. |
-| skye-harris/hass_local_openai_llm          |      14 | Home Assistant LLM integration for local OpenAI-compatible services (llamacpp, vllm, etc)                                                                        |
-| EnVision-Research/MTI                      |      12 | Official implementation of "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention"                                                           |
-| leslieo2/LangGraph-Mastery-Playbook        |      12 | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.              |
-| peng-gao-lab/CTIArena                      |      11 | The first benchmark to evaluate LLM performance on heterogeneous CTI under knowledge-augmented settings.                                                         |
+| leslieo2/LangGraph-Mastery-Playbook        |      15 | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.              |
+| EnVision-Research/MTI                      |      13 | Official implementation of "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention"                                                           |
 | Tomsawyerhu/Awesome-Personalized-Alignment |      10 | A Survey on Large Language Models for Personalized Alignment                                                                                                     |
+| llm-brain-rot/llm-brain-rot                |       9 | LLM Can Get "Brain Rot"                                                                                                                                          |
 | DLFundamentals/LLM_ERM                     |       8 | Official code for "LLM-ERM: Sample-Efficient Program Learning via LLM-Guided Search", Arxiv 2025                                                                 |
 | magooney-loon/pb-llm                       |       8 | pocketbase LLM docs scraper                                                                                                                                      |
-| llm-brain-rot/llm-brain-rot                |       7 | LLM Can Get "Brain Rot"                                                                                                                                          |
+| TianzhuQin/LLM-ABM-Information-Network     |       7 | A large language model style agent based modeling that simulate misinformation spreading in a network                                                            |
+| TimmyOVO/freshrss-filter                   |       7 | AI-Powered RSS Content Filter - Automatically remove ads, sponsored content, and low-quality articles from your FreshRSS feeds using LLM intelligence. Set it &… |
 | KardelRuveyda/autogen-best-practices       |       6 | Bu depo; Microsoft AutoGen ile yaptığım/deneysel çalışmalar, entegrasyon denemeleri ve çoklu LLM sağlayıcı karşılaştırmalı örneklerini içeren bir çalışma alanı… |
-| TianzhuQin/LLM-ABM-Information-Network     |       6 | A large language model style agent based modeling that simulate misinformation spreading in a network                                                            |
+| flybirdxx/ComfyUI-RexOmni                  |       6 | Rex-Omni is a 3B-parameter Multimodal Large Language Model (MLLM) that redefines object detection and a wide range of other visual perception tasks as a simple… |
+| meituan-longcat/vitabench                  |       6 | VitaBench: Benchmarking LLM Agents with Versatile Interactive Tasks in Real-world Applications                                                                   |
 | sanxing-chen/meta-bandit-llm               |       6 | Multiturn Meta-Bandit LLM RL Training                                                                                                                            |
-| huobailiu/TransExpert                      |       4 | An LLM-Powered Expert for Public Sector Inquiries on Transportation Standards                                                                                    |
-| lee-lou2/ai-chrome-extension               |       4 | Google Gemini API를 이용한 LLM Chatbot 크롬 익스텐션                                                                                                                       |
+| Blaspsoft/forerunner                       |       5 | 🏗️✨ Define structured output schemas for LLMs using Laravel's familiar migration syntax                                                                          |
+| fkesheh/skill-mcp                          |       5 | LLM-managed skills platform using MCP - create, edit, and execute skills programmatically in Claude, Cursor, and any MCP-compatible client without manual file…  |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -155,12 +155,9 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data) — 63 points
-- [AI Is Killing Wikipedia's Human Traffic](https://gizmodo.com/ai-is-killing-wikipedias-human-traffic-2000673686) — 15 points
-- [Alibaba Cloud: AI Models, Reducing Footprint of Nvidia GPUs, and Cloud Streaming](https://boilingsteam.com/tgs2025-a-talk-with-alibaba-cloud/) — 12 points
-- [Ex-Builder.ai CFO subpoenaed as US authorities probe its collapse](https://www.ft.com/content/177dd03a-bffe-4248-9c75-db2f54dd35a4) — 9 points
-- [The Fight over Whose AI Monster Is Scariest](https://www.wsj.com/tech/ai/the-fight-over-whose-ai-monster-is-scariest-41a43193) — 7 points
-- [Ask HN: Estimation of copyright material used by LLM](https://news.ycombinator.com/item?id=45631710) — 3 points
+- [Replacement.ai](https://replacement.ai) — 928 points
+- [OpenAI researcher announced GPT-5 math breakthrough that never happened](https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/) — 382 points
+- [Ask HN: Those who applied to the OpenAI Grove program, did you ever hear back?](https://news.ycombinator.com/item?id=45637945) — 22 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
