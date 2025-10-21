@@ -1,116 +1,117 @@
-fetched_at: '2025-10-20T05:31:45Z'
-generated_at: '2025-10-20T05:31:45Z'
-hash: ffaa0bc1e593e20e6ebcdb4193242f74d21c7621734faec7ab3776a8d21ffe76
+fetched_at: '2025-10-21T05:31:12Z'
+generated_at: '2025-10-21T05:31:12Z'
+hash: 25a8ca8cec53fbe5f1a56fafdfa79ab3f467b26271fe37da7faffa545a92bb4e
 items:
-- id: oai:arXiv.org:2510.15096v1
-  link: https://arxiv.org/abs/2510.15096
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15096v1 Announce Type: new  Abstract: Real-world settings where
-    language models (LMs) are deployed -- in domains spanning healthcare, finance,
-    and o…'
-  title: 'OpenEstimate: Evaluating LLMs on Reasoning Under Uncertainty with Real-World
-    Data'
-- id: oai:arXiv.org:2510.15120v1
-  link: https://arxiv.org/abs/2510.15120
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15120v1 Announce Type: new  Abstract: Procedural content generation
-    (PCG) has become an increasingly popular technique in game development, allowing…'
-  title: Procedural Game Level Design with Deep Reinforcement Learning
-- id: oai:arXiv.org:2510.15128v1
-  link: https://arxiv.org/abs/2510.15128
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15128v1 Announce Type: new  Abstract: We argue that progress
-    toward AGI is theory limited rather than data or scale limited. Building on the
-    critica…'
-  title: Towards Error Centric Intelligence I, Beyond Observational Learning
-- id: oai:arXiv.org:2510.15144v1
-  link: https://arxiv.org/abs/2510.15144
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15144v1 Announce Type: new  Abstract: Simulating human reasoning
-    in open-ended tasks has been a long-standing aspiration in AI and cognitive science…'
-  title: 'HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning
-    on Open-Ended Tasks'
-- id: oai:arXiv.org:2510.15221v1
-  link: https://arxiv.org/abs/2510.15221
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15221v1 Announce Type: new  Abstract: Automated emotion recognition
-    in real-world workplace settings remains a challenging problem in affective comp…'
-  title: 'WELD: A Large-Scale Longitudinal Dataset of Emotional Dynamics for Ubiquitous
-    Affective Computing'
-- id: oai:arXiv.org:2510.15236v1
-  link: https://arxiv.org/abs/2510.15236
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15236v1 Announce Type: new  Abstract: Contemporary AGI evaluations
-    report multidomain capability profiles, yet they typically assign symmetric weigh…'
-  title: 'From Checklists to Clusters: A Homeostatic Account of AGI Evaluation'
-- id: oai:arXiv.org:2510.15258v1
-  link: https://arxiv.org/abs/2510.15258
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15258v1 Announce Type: new  Abstract: In the current era of
-    big data, extracting deep insights from massive, heterogeneous, and complexly
-    associated…'
-  title: Multi-dimensional Data Analysis and Applications Basing on LLM Agents and
-    Knowledge Graph Interactions
-- id: oai:arXiv.org:2510.15259v1
-  link: https://arxiv.org/abs/2510.15259
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15259v1 Announce Type: new  Abstract: Most existing software
-    lacks accessible Application Programming Interfaces (APIs), requiring agents to
-    operate…'
-  title: Experience-Driven Exploration for Efficient API-Free AI Agents
-- id: oai:arXiv.org:2510.15261v1
-  link: https://arxiv.org/abs/2510.15261
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15261v1 Announce Type: new  Abstract: Riding on the success
-    of LLMs with retrieval-augmented generation (RAG), there has been a growing interest
+- id: oai:arXiv.org:2510.15948v1
+  link: https://arxiv.org/abs/2510.15948
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.15948v1 Announce Type: new  Abstract: Large Vision-Language
+    Models (LVLMs) have achieved remarkable progress in multimodal perception and
+    generation…'
+  title: 'VisuoAlign: Safety Alignment of LVLMs with Multimodal Tree Search'
+- id: oai:arXiv.org:2510.15952v1
+  link: https://arxiv.org/abs/2510.15952
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.15952v1 Announce Type: new  Abstract: Large language models
+    exhibit intelligence without genuine epistemic understanding, exposing a key gap:
+    the ab…'
+  title: 'Executable Epistemology: The Structured Cognitive Loop as an Architecture
+    of Intentional Understanding'
+- id: oai:arXiv.org:2510.15959v1
+  link: https://arxiv.org/abs/2510.15959
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.15959v1 Announce Type: new  Abstract: Citiverses hold the potential
+    to support regulatory learning by offering immersive, virtual environments for
+    e…'
+  title: Exploring the Potential of Citiverses for Regulatory Learning
+- id: oai:arXiv.org:2510.15966v1
+  link: https://arxiv.org/abs/2510.15966
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.15966v1 Announce Type: new  Abstract: Memory systems are fundamental
+    to AI agents, yet existing work often lacks adaptability to diverse tasks and
+    o…'
+  title: 'PISA: A Pragmatic Psych-Inspired Unified Memory System for Enhanced AI Agency'
+- id: oai:arXiv.org:2510.15974v1
+  link: https://arxiv.org/abs/2510.15974
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.15974v1 Announce Type: new  Abstract: Recent work reports that
+    Large Reasoning Models (LRMs) undergo a collapse in performance on solving puzzles
+    be…'
+  title: Limits of Emergent Reasoning of Large Language Models in Agentic Frameworks
+    for Deterministic Games
+- id: oai:arXiv.org:2510.15980v1
+  link: https://arxiv.org/abs/2510.15980
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.15980v1 Announce Type: new  Abstract: We propose \textbf{Cognitive
+    Load Traces} (CLTs) as a mid-level interpretability framework for deep models,
     in…'
-  title: 'AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User
-    Memory'
-- id: oai:arXiv.org:2510.15306v1
-  link: https://arxiv.org/abs/2510.15306
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15306v1 Announce Type: new  Abstract: Witnessed by the recent
-    advancements on leveraging LLM for coding and multimodal understanding, we present
-    Web…'
-  title: 'WebGen-V Bench: Structured Representation for Enhancing Visual Design in
-    LLM-based Web Generation and Evaluation'
-- id: oai:arXiv.org:2510.15317v1
-  link: https://arxiv.org/abs/2510.15317
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15317v1 Announce Type: new  Abstract: The quality of supervised
-    fine-tuning (SFT) data is crucial for the performance of large multimodal models
-    (LM…'
-  title: 'VERITAS: Leveraging Vision Priors and Expert Fusion to Improve Multimodal
-    Data'
-- id: oai:arXiv.org:2510.15374v1
-  link: https://arxiv.org/abs/2510.15374
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15374v1 Announce Type: new  Abstract: Recent Large Reasoning
-    Models (LRMs) have achieved remarkable performance in solving complex problems
-    via supe…'
-  title: Towards Flash Thinking via Decoupled Advantage Policy Optimization
-- id: oai:arXiv.org:2510.15387v1
-  link: https://arxiv.org/abs/2510.15387
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15387v1 Announce Type: new  Abstract: The adoption of machine
-    learning-based techniques for analog integrated circuit layout, unlike its digital
-    cou…'
-  title: Advancing Routing-Awareness in Analog ICs Floorplanning
-- id: oai:arXiv.org:2510.15395v1
-  link: https://arxiv.org/abs/2510.15395
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15395v1 Announce Type: new  Abstract: For an AI''s training
-    process to successfully impart a desired goal, it is important that the AI does
-    not attem…'
-  title: 'Corrigibility Transformation: Constructing Goals That Accept Updates'
-- id: oai:arXiv.org:2510.15414v1
-  link: https://arxiv.org/abs/2510.15414
-  published: '2025-10-20T04:00:00Z'
-  summary: 'arXiv:2510.15414v1 Announce Type: new  Abstract: Developing Large Language
-    Models (LLMs) to cooperate and compete effectively within multi-agent systems
-    is a c…'
-  title: 'MARS: Reinforcing Multi-Agent Reasoning of LLMs through Self-Play in Strategic
-    Games'
+  title: Cognitive Load Traces as Symbolic and Visual Accounts of Deep Model Cognition
+- id: oai:arXiv.org:2510.15981v1
+  link: https://arxiv.org/abs/2510.15981
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.15981v1 Announce Type: new  Abstract: Proof autoformalization,
+    the task of translating natural language theorems and proofs into machine-verifiable…'
+  title: 'ProofFlow: A Dependency Graph Approach to Faithful Proof Autoformalization'
+- id: oai:arXiv.org:2510.15983v1
+  link: https://arxiv.org/abs/2510.15983
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.15983v1 Announce Type: new  Abstract: An essential component
+    for evaluating and comparing physical and cognitive capabilities between populations
+    is…'
+  title: 'Ontologies in Motion: A BFO-Based Approach to Knowledge Graph Construction
+    for Motor Performance Research Data in Sports Science'
+- id: oai:arXiv.org:2510.16001v1
+  link: https://arxiv.org/abs/2510.16001
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.16001v1 Announce Type: new  Abstract: Random permutation set
+    (RPS) is a new formalism for reasoning with uncertainty involving order information.
+    Me…'
+  title: A Non-overlap-based Conflict Measure for Random Permutation Sets
+- id: oai:arXiv.org:2510.16004v1
+  link: https://arxiv.org/abs/2510.16004
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.16004v1 Announce Type: new  Abstract: Neural surrogates have
+    shown great potential in simulating dynamical systems, while offering real-time
+    capabil…'
+  title: 'PAINT: Parallel-in-time Neural Twins for Dynamical System Reconstruction'
+- id: oai:arXiv.org:2510.16033v1
+  link: https://arxiv.org/abs/2510.16033
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.16033v1 Announce Type: new  Abstract: Existing transfer fault
+    diagnosis methods typically assume either clean data or sufficient domain similarity,…'
+  title: Global-focal Adaptation with Information Separation for Noise-robust Transfer
+    Fault Diagnosis
+- id: oai:arXiv.org:2510.16047v1
+  link: https://arxiv.org/abs/2510.16047
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.16047v1 Announce Type: new  Abstract: Modern manufacturing
+    systems must meet hard delivery deadlines while coping with stochastic task durations
+    cau…'
+  title: Algorithms for dynamic scheduling in manufacturing, towards digital factories
+    Improving Deadline Feasibility and Responsiveness via Temporal Networks
+- id: oai:arXiv.org:2510.16095v1
+  link: https://arxiv.org/abs/2510.16095
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.16095v1 Announce Type: new  Abstract: Creating high-quality
+    clinical Chains-of-Thought (CoTs) is crucial for explainable medical Artificial
+    Intellig…'
+  title: 'Reliability of Large Language Model Generated Clinical Reasoning in Assisted
+    Reproductive Technology: Blinded Comparative Evaluation Study'
+- id: oai:arXiv.org:2510.16193v1
+  link: https://arxiv.org/abs/2510.16193
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.16193v1 Announce Type: new  Abstract: Corporate responsibility
+    turns on notions of corporate \textit{mens rea}, traditionally imputed from human
+    age…'
+  title: 'Operationalising Extended Cognition: Formal Metrics for Corporate Knowledge
+    and Legal Accountability'
+- id: oai:arXiv.org:2510.16194v1
+  link: https://arxiv.org/abs/2510.16194
+  published: '2025-10-21T04:00:00Z'
+  summary: 'arXiv:2510.16194v1 Announce Type: new  Abstract: Protected health information
+    (PHI) de-identification is critical for enabling the safe reuse of clinical notes…'
+  title: Towards Automatic Evaluation and Selection of PHI De-identification Models
+    via Multi-Agent Collaboration
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

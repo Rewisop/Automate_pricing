@@ -13,17 +13,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁`
+`▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -82,21 +84,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [OpenEstimate: Evaluating LLMs on Reasoning Under Uncertainty with Real-World Data](https://arxiv.org/abs/2510.15096) — arXiv:2510.15096v1 Announce Type: new  Abstract: Real-world settings where language models (LMs) are deployed -- in domains spanning healthcare, finance, and o…
-- [Procedural Game Level Design with Deep Reinforcement Learning](https://arxiv.org/abs/2510.15120) — arXiv:2510.15120v1 Announce Type: new  Abstract: Procedural content generation (PCG) has become an increasingly popular technique in game development, allowing…
-- [Towards Error Centric Intelligence I, Beyond Observational Learning](https://arxiv.org/abs/2510.15128) — arXiv:2510.15128v1 Announce Type: new  Abstract: We argue that progress toward AGI is theory limited rather than data or scale limited. Building on the critica…
-- [HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning on Open-Ended Tasks](https://arxiv.org/abs/2510.15144) — arXiv:2510.15144v1 Announce Type: new  Abstract: Simulating human reasoning in open-ended tasks has been a long-standing aspiration in AI and cognitive science…
-- [WELD: A Large-Scale Longitudinal Dataset of Emotional Dynamics for Ubiquitous Affective Computing](https://arxiv.org/abs/2510.15221) — arXiv:2510.15221v1 Announce Type: new  Abstract: Automated emotion recognition in real-world workplace settings remains a challenging problem in affective comp…
-- [From Checklists to Clusters: A Homeostatic Account of AGI Evaluation](https://arxiv.org/abs/2510.15236) — arXiv:2510.15236v1 Announce Type: new  Abstract: Contemporary AGI evaluations report multidomain capability profiles, yet they typically assign symmetric weigh…
-- [Multi-dimensional Data Analysis and Applications Basing on LLM Agents and Knowledge Graph Interactions](https://arxiv.org/abs/2510.15258) — arXiv:2510.15258v1 Announce Type: new  Abstract: In the current era of big data, extracting deep insights from massive, heterogeneous, and complexly associated…
-- [Experience-Driven Exploration for Efficient API-Free AI Agents](https://arxiv.org/abs/2510.15259) — arXiv:2510.15259v1 Announce Type: new  Abstract: Most existing software lacks accessible Application Programming Interfaces (APIs), requiring agents to operate…
-- [AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory](https://arxiv.org/abs/2510.15261) — arXiv:2510.15261v1 Announce Type: new  Abstract: Riding on the success of LLMs with retrieval-augmented generation (RAG), there has been a growing interest in…
-- [WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation](https://arxiv.org/abs/2510.15306) — arXiv:2510.15306v1 Announce Type: new  Abstract: Witnessed by the recent advancements on leveraging LLM for coding and multimodal understanding, we present Web…
-- [VERITAS: Leveraging Vision Priors and Expert Fusion to Improve Multimodal Data](https://arxiv.org/abs/2510.15317) — arXiv:2510.15317v1 Announce Type: new  Abstract: The quality of supervised fine-tuning (SFT) data is crucial for the performance of large multimodal models (LM…
-- [Towards Flash Thinking via Decoupled Advantage Policy Optimization](https://arxiv.org/abs/2510.15374) — arXiv:2510.15374v1 Announce Type: new  Abstract: Recent Large Reasoning Models (LRMs) have achieved remarkable performance in solving complex problems via supe…
-- [Advancing Routing-Awareness in Analog ICs Floorplanning](https://arxiv.org/abs/2510.15387) — arXiv:2510.15387v1 Announce Type: new  Abstract: The adoption of machine learning-based techniques for analog integrated circuit layout, unlike its digital cou…
-- [Corrigibility Transformation: Constructing Goals That Accept Updates](https://arxiv.org/abs/2510.15395) — arXiv:2510.15395v1 Announce Type: new  Abstract: For an AI's training process to successfully impart a desired goal, it is important that the AI does not attem…
-- [MARS: Reinforcing Multi-Agent Reasoning of LLMs through Self-Play in Strategic Games](https://arxiv.org/abs/2510.15414) — arXiv:2510.15414v1 Announce Type: new  Abstract: Developing Large Language Models (LLMs) to cooperate and compete effectively within multi-agent systems is a c…
+- [VisuoAlign: Safety Alignment of LVLMs with Multimodal Tree Search](https://arxiv.org/abs/2510.15948) — arXiv:2510.15948v1 Announce Type: new  Abstract: Large Vision-Language Models (LVLMs) have achieved remarkable progress in multimodal perception and generation…
+- [Executable Epistemology: The Structured Cognitive Loop as an Architecture of Intentional Understanding](https://arxiv.org/abs/2510.15952) — arXiv:2510.15952v1 Announce Type: new  Abstract: Large language models exhibit intelligence without genuine epistemic understanding, exposing a key gap: the ab…
+- [Exploring the Potential of Citiverses for Regulatory Learning](https://arxiv.org/abs/2510.15959) — arXiv:2510.15959v1 Announce Type: new  Abstract: Citiverses hold the potential to support regulatory learning by offering immersive, virtual environments for e…
+- [PISA: A Pragmatic Psych-Inspired Unified Memory System for Enhanced AI Agency](https://arxiv.org/abs/2510.15966) — arXiv:2510.15966v1 Announce Type: new  Abstract: Memory systems are fundamental to AI agents, yet existing work often lacks adaptability to diverse tasks and o…
+- [Limits of Emergent Reasoning of Large Language Models in Agentic Frameworks for Deterministic Games](https://arxiv.org/abs/2510.15974) — arXiv:2510.15974v1 Announce Type: new  Abstract: Recent work reports that Large Reasoning Models (LRMs) undergo a collapse in performance on solving puzzles be…
+- [Cognitive Load Traces as Symbolic and Visual Accounts of Deep Model Cognition](https://arxiv.org/abs/2510.15980) — arXiv:2510.15980v1 Announce Type: new  Abstract: We propose 	extbf{Cognitive Load Traces} (CLTs) as a mid-level interpretability framework for deep models, in…
+- [ProofFlow: A Dependency Graph Approach to Faithful Proof Autoformalization](https://arxiv.org/abs/2510.15981) — arXiv:2510.15981v1 Announce Type: new  Abstract: Proof autoformalization, the task of translating natural language theorems and proofs into machine-verifiable…
+- [Ontologies in Motion: A BFO-Based Approach to Knowledge Graph Construction for Motor Performance Research Data in Sports Science](https://arxiv.org/abs/2510.15983) — arXiv:2510.15983v1 Announce Type: new  Abstract: An essential component for evaluating and comparing physical and cognitive capabilities between populations is…
+- [A Non-overlap-based Conflict Measure for Random Permutation Sets](https://arxiv.org/abs/2510.16001) — arXiv:2510.16001v1 Announce Type: new  Abstract: Random permutation set (RPS) is a new formalism for reasoning with uncertainty involving order information. Me…
+- [PAINT: Parallel-in-time Neural Twins for Dynamical System Reconstruction](https://arxiv.org/abs/2510.16004) — arXiv:2510.16004v1 Announce Type: new  Abstract: Neural surrogates have shown great potential in simulating dynamical systems, while offering real-time capabil…
+- [Global-focal Adaptation with Information Separation for Noise-robust Transfer Fault Diagnosis](https://arxiv.org/abs/2510.16033) — arXiv:2510.16033v1 Announce Type: new  Abstract: Existing transfer fault diagnosis methods typically assume either clean data or sufficient domain similarity,…
+- [Algorithms for dynamic scheduling in manufacturing, towards digital factories Improving Deadline Feasibility and Responsiveness via Temporal Networks](https://arxiv.org/abs/2510.16047) — arXiv:2510.16047v1 Announce Type: new  Abstract: Modern manufacturing systems must meet hard delivery deadlines while coping with stochastic task durations cau…
+- [Reliability of Large Language Model Generated Clinical Reasoning in Assisted Reproductive Technology: Blinded Comparative Evaluation Study](https://arxiv.org/abs/2510.16095) — arXiv:2510.16095v1 Announce Type: new  Abstract: Creating high-quality clinical Chains-of-Thought (CoTs) is crucial for explainable medical Artificial Intellig…
+- [Operationalising Extended Cognition: Formal Metrics for Corporate Knowledge and Legal Accountability](https://arxiv.org/abs/2510.16193) — arXiv:2510.16193v1 Announce Type: new  Abstract: Corporate responsibility turns on notions of corporate 	extit{mens rea}, traditionally imputed from human age…
+- [Towards Automatic Evaluation and Selection of PHI De-identification Models via Multi-Agent Collaboration](https://arxiv.org/abs/2510.16194) — arXiv:2510.16194v1 Announce Type: new  Abstract: Protected health information (PHI) de-identification is critical for enabling the safe reuse of clinical notes…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -146,6 +148,8 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error
 | sanxing-chen/meta-bandit-llm               |       6 | Multiturn Meta-Bandit LLM RL Training                                                                                                                            |
 | Blaspsoft/forerunner                       |       5 | 🏗️✨ Define structured output schemas for LLMs using Laravel's familiar migration syntax                                                                          |
 | fkesheh/skill-mcp                          |       5 | LLM-managed skills platform using MCP - create, edit, and execute skills programmatically in Claude, Cursor, and any MCP-compatible client without manual file…  |
+
+_Showing cached data from 2025-10-20T05:31:45Z. Refresh failed: GitHub API limit 403._
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -155,9 +159,12 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Replacement.ai](https://replacement.ai) — 928 points
-- [OpenAI researcher announced GPT-5 math breakthrough that never happened](https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/) — 382 points
-- [Ask HN: Those who applied to the OpenAI Grove program, did you ever hear back?](https://news.ycombinator.com/item?id=45637945) — 22 points
+- [Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system](https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent) — 376 points
+- [J.P. Morgan's OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/) — 219 points
+- [When a stadium adds AI to everything, it's worse experience for everyone](https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/) — 130 points
+- [The FTC Is Disappearing Blog Posts About AI Published During Lina Khan's Tenure](https://www.wired.com/story/ftc-removes-blog-posts-about-ai-authored-by-by-lina-khan/) — 100 points
+- [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/) — 62 points
+- [AI will never be your friend](https://www.msn.com/en-us/entertainment/news/ai-will-never-be-your-friend/ar-AA1OObbs) — 22 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
