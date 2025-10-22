@@ -1,6 +1,6 @@
-fetched_at: '2025-10-20T05:31:45Z'
-generated_at: '2025-10-20T05:31:45Z'
-hash: 39a04235ef007db00d3bed3c8cdef7ea4f53f990a9931c8c30f2364bbcadfee3
+fetched_at: '2025-10-22T05:32:14Z'
+generated_at: '2025-10-22T05:32:14Z'
+hash: a491c9682f540d5cf4c57d4981cbc3e69bb446fa906d5c0e10f508ad1530565f
 items:
 - created_at: '2025-10-16T18:30:13Z'
   description: A robust LLM evaluation framework measuring acceptance vs refusal across
@@ -8,120 +8,118 @@ items:
     and…
   full_name: ellydee/acceptance-bench
   html_url: https://github.com/ellydee/acceptance-bench
-  stargazers_count: 85
+  stargazers_count: 58
+- created_at: '2025-10-17T07:11:16Z'
+  description: LLM Can Get "Brain Rot"
+  full_name: llm-brain-rot/llm-brain-rot
+  html_url: https://github.com/llm-brain-rot/llm-brain-rot
+  stargazers_count: 51
 - created_at: '2025-10-17T10:20:16Z'
-  description: Build Arena, where LLM agents design, build, and test rockets, cars,
-    and bridges in a physics simulator.
+  description: BuildArena, where LLM agents design, build, and test rockets, cars,
+    and bridges in a physics simulator given a goal-directed sentence.
   full_name: AI4Science-WestlakeU/BuildArena
   html_url: https://github.com/AI4Science-WestlakeU/BuildArena
-  stargazers_count: 29
+  stargazers_count: 40
 - created_at: '2025-10-17T14:42:12Z'
   description: Recursive Language Models for unbounded context processing. Process
     100k+ tokens with any LLM by storing context as variables instead of prompts.
   full_name: ysz/recursive-llm
   html_url: https://github.com/ysz/recursive-llm
-  stargazers_count: 26
-- created_at: '2025-10-15T09:30:31Z'
-  description: Async Brave Search + Readability extractor for LLM/RAG — 10–20 links
-    per request, batch extraction, JSON archiving, typically 1/8–1/5 the cost of hosted
-    stacks.
-  full_name: jinwukong/llm-low-cost-search
-  html_url: https://github.com/jinwukong/llm-low-cost-search
-  stargazers_count: 24
+  stargazers_count: 28
 - created_at: '2025-10-18T03:43:16Z'
   description: Home Assistant LLM integration for local OpenAI-compatible services
     (llamacpp, vllm, etc)
   full_name: skye-harris/hass_local_openai_llm
   html_url: https://github.com/skye-harris/hass_local_openai_llm
-  stargazers_count: 18
-- created_at: '2025-10-14T15:53:13Z'
-  description: 'Quantization Meets dLLMs: A Systematic Study of Post-training Quantization
-    for Diffusion LLMs'
-  full_name: FelixMessi/QDLM
-  html_url: https://github.com/FelixMessi/QDLM
-  stargazers_count: 17
-- created_at: '2025-10-15T11:38:03Z'
-  description: 'LangGraph Mastery Playbook: guided, code-first lessons for building
-    memory-aware LLM agents and workflows with LangGraph, TrustCall, and LangChain.'
-  full_name: leslieo2/LangGraph-Mastery-Playbook
-  html_url: https://github.com/leslieo2/LangGraph-Mastery-Playbook
-  stargazers_count: 15
-- created_at: '2025-10-15T12:48:47Z'
-  description: 'Official implementation of "Less is More: Improving LLM Reasoning
-    with Minimal Test-Time Intervention"'
-  full_name: EnVision-Research/MTI
-  html_url: https://github.com/EnVision-Research/MTI
+  stargazers_count: 20
+- created_at: '2025-10-16T07:05:40Z'
+  description: LATTICE turns retrieval into an LLM-driven navigation problem over
+    a semantic scaffold
+  full_name: nilesh2797/lattice
+  html_url: https://github.com/nilesh2797/lattice
   stargazers_count: 13
+- created_at: '2025-10-19T20:34:14Z'
+  description: 'Official PyTorch implementation of ProCLIP: Progressive Vision-Language
+    Alignment via LLM-based Embedder'
+  full_name: VisionXLab/ProCLIP
+  html_url: https://github.com/VisionXLab/ProCLIP
+  stargazers_count: 11
+- created_at: '2025-10-20T04:30:53Z'
+  description: LangChain-Compatible Wrapper for Any Private LLM APIs
+  full_name: tranngocphu/custom_langchain_chat_model
+  html_url: https://github.com/tranngocphu/custom_langchain_chat_model
+  stargazers_count: 11
 - created_at: '2025-10-16T01:36:14Z'
   description: A Survey on Large Language Models for Personalized Alignment
   full_name: Tomsawyerhu/Awesome-Personalized-Alignment
   html_url: https://github.com/Tomsawyerhu/Awesome-Personalized-Alignment
   stargazers_count: 10
-- created_at: '2025-10-17T07:11:16Z'
-  description: LLM Can Get "Brain Rot"
-  full_name: llm-brain-rot/llm-brain-rot
-  html_url: https://github.com/llm-brain-rot/llm-brain-rot
-  stargazers_count: 9
-- created_at: '2025-10-14T03:28:07Z'
-  description: 'Official code for "LLM-ERM: Sample-Efficient Program Learning via
-    LLM-Guided Search", Arxiv 2025'
-  full_name: DLFundamentals/LLM_ERM
-  html_url: https://github.com/DLFundamentals/LLM_ERM
+- created_at: '2025-10-21T10:19:57Z'
+  description: 'RuQualBench: A benchmark for evaluating the quality of the Russian
+    language in LLM responses'
+  full_name: kristaller486/RuQualBench
+  html_url: https://github.com/kristaller486/RuQualBench
+  stargazers_count: 10
+- created_at: '2025-10-19T14:42:50Z'
+  description: 'RulePilot: the first language- and theory-agonistic SIEM Rule generation
+    engine via LLM agents'
+  full_name: LLM4SOC-Topic/RulePilot
+  html_url: https://github.com/LLM4SOC-Topic/RulePilot
   stargazers_count: 8
-- created_at: '2025-10-15T08:08:02Z'
-  description: pocketbase LLM docs scraper
-  full_name: magooney-loon/pb-llm
-  html_url: https://github.com/magooney-loon/pb-llm
-  stargazers_count: 8
-- created_at: '2025-10-14T20:05:57Z'
-  description: A large language model style agent based modeling that simulate misinformation
-    spreading in a network
-  full_name: TianzhuQin/LLM-ABM-Information-Network
-  html_url: https://github.com/TianzhuQin/LLM-ABM-Information-Network
-  stargazers_count: 7
 - created_at: '2025-10-19T02:47:41Z'
   description: AI-Powered RSS Content Filter - Automatically remove ads, sponsored
     content, and low-quality articles from your FreshRSS feeds using LLM intelligence.
     Set it &…
   full_name: TimmyOVO/freshrss-filter
   html_url: https://github.com/TimmyOVO/freshrss-filter
-  stargazers_count: 7
-- created_at: '2025-10-15T18:03:31Z'
-  description: Bu depo; Microsoft AutoGen ile yaptığım/deneysel çalışmalar, entegrasyon
-    denemeleri ve çoklu LLM sağlayıcı karşılaştırmalı örneklerini içeren bir çalışma
-    alanı…
-  full_name: KardelRuveyda/autogen-best-practices
-  html_url: https://github.com/KardelRuveyda/autogen-best-practices
-  stargazers_count: 6
-- created_at: '2025-10-16T15:01:44Z'
-  description: Rex-Omni is a 3B-parameter Multimodal Large Language Model (MLLM) that
-    redefines object detection and a wide range of other visual perception tasks as
-    a simple…
-  full_name: flybirdxx/ComfyUI-RexOmni
-  html_url: https://github.com/flybirdxx/ComfyUI-RexOmni
-  stargazers_count: 6
-- created_at: '2025-10-14T12:23:29Z'
-  description: 'VitaBench: Benchmarking LLM Agents with Versatile Interactive Tasks
-    in Real-world Applications'
-  full_name: meituan-longcat/vitabench
-  html_url: https://github.com/meituan-longcat/vitabench
-  stargazers_count: 6
-- created_at: '2025-10-14T00:27:52Z'
-  description: Multiturn Meta-Bandit LLM RL Training
-  full_name: sanxing-chen/meta-bandit-llm
-  html_url: https://github.com/sanxing-chen/meta-bandit-llm
-  stargazers_count: 6
-- created_at: '2025-10-16T20:17:34Z'
-  description: 🏗️✨ Define structured output schemas for LLMs using Laravel's familiar
-    migration syntax
-  full_name: Blaspsoft/forerunner
-  html_url: https://github.com/Blaspsoft/forerunner
-  stargazers_count: 5
+  stargazers_count: 8
 - created_at: '2025-10-18T11:36:38Z'
   description: LLM-managed skills platform using MCP - create, edit, and execute skills
     programmatically in Claude, Cursor, and any MCP-compatible client without manual
     file…
   full_name: fkesheh/skill-mcp
   html_url: https://github.com/fkesheh/skill-mcp
-  stargazers_count: 5
+  stargazers_count: 8
+- created_at: '2025-10-16T20:17:34Z'
+  description: 🏗️✨ Define structured output schemas for LLMs using Laravel's familiar
+    migration syntax
+  full_name: Blaspsoft/forerunner
+  html_url: https://github.com/Blaspsoft/forerunner
+  stargazers_count: 7
+- created_at: '2025-10-16T15:01:44Z'
+  description: Rex-Omni is a 3B-parameter Multimodal Large Language Model (MLLM) that
+    redefines object detection and a wide range of other visual perception tasks as
+    a simple…
+  full_name: flybirdxx/ComfyUI-RexOmni
+  html_url: https://github.com/flybirdxx/ComfyUI-RexOmni
+  stargazers_count: 7
+- created_at: '2025-10-17T00:50:15Z'
+  description: '[NeurIPS''25] KVCOMM: Online Cross-context KV-cache Communication
+    for Efficient LLM-based Multi-agent Systems'
+  full_name: HankYe/KVCOMM
+  html_url: https://github.com/HankYe/KVCOMM
+  stargazers_count: 6
+- created_at: '2025-10-21T07:52:19Z'
+  description: 一份面向开发者的开源教程，用于系统学习如何构建、部署和优化基于大语言模型（LLM）的智能应用。
+  full_name: NuyoahCh/LLMForge
+  html_url: https://github.com/NuyoahCh/LLMForge
+  stargazers_count: 6
+- created_at: '2025-10-19T16:48:07Z'
+  description: 'The official implementation of the paper "MLP Memory: A Retriever-Pretrained
+    Memory for Large Language Models".'
+  full_name: Rubin-Wei/MLPMemory
+  html_url: https://github.com/Rubin-Wei/MLPMemory
+  stargazers_count: 6
+- created_at: '2025-10-19T14:33:50Z'
+  description: 'Official implementation of our paper: "Utility-Diversity Aware Online
+    Batch Selection for LLM Supervised Fine-tuning."'
+  full_name: gfyddha/UDS
+  html_url: https://github.com/gfyddha/UDS
+  stargazers_count: 6
+- created_at: '2025-10-19T10:53:42Z'
+  description: A structured index of Common Lisp systems, packages, and code examples
+    — organized for semantic search and LLM-assisted discovery.
+  full_name: ocicl/LispIndex
+  html_url: https://github.com/ocicl/LispIndex
+  stargazers_count: 6
 source_url: https://api.github.com/search/repositories

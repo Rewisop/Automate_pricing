@@ -1,117 +1,115 @@
-fetched_at: '2025-10-21T05:31:12Z'
-generated_at: '2025-10-21T05:31:12Z'
-hash: 25a8ca8cec53fbe5f1a56fafdfa79ab3f467b26271fe37da7faffa545a92bb4e
+fetched_at: '2025-10-22T05:32:14Z'
+generated_at: '2025-10-22T05:32:14Z'
+hash: eaae4410bd9224d985fdf9c8ca673c31f46059284bdd8451ad54af9830791b7a
 items:
-- id: oai:arXiv.org:2510.15948v1
-  link: https://arxiv.org/abs/2510.15948
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.15948v1 Announce Type: new  Abstract: Large Vision-Language
-    Models (LVLMs) have achieved remarkable progress in multimodal perception and
-    generation…'
-  title: 'VisuoAlign: Safety Alignment of LVLMs with Multimodal Tree Search'
-- id: oai:arXiv.org:2510.15952v1
-  link: https://arxiv.org/abs/2510.15952
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.15952v1 Announce Type: new  Abstract: Large language models
-    exhibit intelligence without genuine epistemic understanding, exposing a key gap:
-    the ab…'
-  title: 'Executable Epistemology: The Structured Cognitive Loop as an Architecture
-    of Intentional Understanding'
-- id: oai:arXiv.org:2510.15959v1
-  link: https://arxiv.org/abs/2510.15959
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.15959v1 Announce Type: new  Abstract: Citiverses hold the potential
-    to support regulatory learning by offering immersive, virtual environments for
-    e…'
-  title: Exploring the Potential of Citiverses for Regulatory Learning
-- id: oai:arXiv.org:2510.15966v1
-  link: https://arxiv.org/abs/2510.15966
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.15966v1 Announce Type: new  Abstract: Memory systems are fundamental
-    to AI agents, yet existing work often lacks adaptability to diverse tasks and
-    o…'
-  title: 'PISA: A Pragmatic Psych-Inspired Unified Memory System for Enhanced AI Agency'
-- id: oai:arXiv.org:2510.15974v1
-  link: https://arxiv.org/abs/2510.15974
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.15974v1 Announce Type: new  Abstract: Recent work reports that
-    Large Reasoning Models (LRMs) undergo a collapse in performance on solving puzzles
-    be…'
-  title: Limits of Emergent Reasoning of Large Language Models in Agentic Frameworks
-    for Deterministic Games
-- id: oai:arXiv.org:2510.15980v1
-  link: https://arxiv.org/abs/2510.15980
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.15980v1 Announce Type: new  Abstract: We propose \textbf{Cognitive
-    Load Traces} (CLTs) as a mid-level interpretability framework for deep models,
-    in…'
-  title: Cognitive Load Traces as Symbolic and Visual Accounts of Deep Model Cognition
-- id: oai:arXiv.org:2510.15981v1
-  link: https://arxiv.org/abs/2510.15981
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.15981v1 Announce Type: new  Abstract: Proof autoformalization,
-    the task of translating natural language theorems and proofs into machine-verifiable…'
-  title: 'ProofFlow: A Dependency Graph Approach to Faithful Proof Autoformalization'
-- id: oai:arXiv.org:2510.15983v1
-  link: https://arxiv.org/abs/2510.15983
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.15983v1 Announce Type: new  Abstract: An essential component
-    for evaluating and comparing physical and cognitive capabilities between populations
-    is…'
-  title: 'Ontologies in Motion: A BFO-Based Approach to Knowledge Graph Construction
-    for Motor Performance Research Data in Sports Science'
-- id: oai:arXiv.org:2510.16001v1
-  link: https://arxiv.org/abs/2510.16001
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.16001v1 Announce Type: new  Abstract: Random permutation set
-    (RPS) is a new formalism for reasoning with uncertainty involving order information.
-    Me…'
-  title: A Non-overlap-based Conflict Measure for Random Permutation Sets
-- id: oai:arXiv.org:2510.16004v1
-  link: https://arxiv.org/abs/2510.16004
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.16004v1 Announce Type: new  Abstract: Neural surrogates have
-    shown great potential in simulating dynamical systems, while offering real-time
-    capabil…'
-  title: 'PAINT: Parallel-in-time Neural Twins for Dynamical System Reconstruction'
-- id: oai:arXiv.org:2510.16033v1
-  link: https://arxiv.org/abs/2510.16033
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.16033v1 Announce Type: new  Abstract: Existing transfer fault
-    diagnosis methods typically assume either clean data or sufficient domain similarity,…'
-  title: Global-focal Adaptation with Information Separation for Noise-robust Transfer
-    Fault Diagnosis
-- id: oai:arXiv.org:2510.16047v1
-  link: https://arxiv.org/abs/2510.16047
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.16047v1 Announce Type: new  Abstract: Modern manufacturing
-    systems must meet hard delivery deadlines while coping with stochastic task durations
-    cau…'
-  title: Algorithms for dynamic scheduling in manufacturing, towards digital factories
-    Improving Deadline Feasibility and Responsiveness via Temporal Networks
-- id: oai:arXiv.org:2510.16095v1
-  link: https://arxiv.org/abs/2510.16095
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.16095v1 Announce Type: new  Abstract: Creating high-quality
-    clinical Chains-of-Thought (CoTs) is crucial for explainable medical Artificial
-    Intellig…'
-  title: 'Reliability of Large Language Model Generated Clinical Reasoning in Assisted
-    Reproductive Technology: Blinded Comparative Evaluation Study'
-- id: oai:arXiv.org:2510.16193v1
-  link: https://arxiv.org/abs/2510.16193
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.16193v1 Announce Type: new  Abstract: Corporate responsibility
-    turns on notions of corporate \textit{mens rea}, traditionally imputed from human
-    age…'
-  title: 'Operationalising Extended Cognition: Formal Metrics for Corporate Knowledge
-    and Legal Accountability'
-- id: oai:arXiv.org:2510.16194v1
-  link: https://arxiv.org/abs/2510.16194
-  published: '2025-10-21T04:00:00Z'
-  summary: 'arXiv:2510.16194v1 Announce Type: new  Abstract: Protected health information
-    (PHI) de-identification is critical for enabling the safe reuse of clinical notes…'
-  title: Towards Automatic Evaluation and Selection of PHI De-identification Models
-    via Multi-Agent Collaboration
+- id: oai:arXiv.org:2510.17902v1
+  link: https://arxiv.org/abs/2510.17902
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.17902v1 Announce Type: new  Abstract: The proliferation of
+    Large Language Model (LLM) architectures presents a fundamental challenge: valuable,
+    task…'
+  title: 'Activation Manifold Projection: Liberating Task-Specific Behaviors from
+    LLM Architectures'
+- id: oai:arXiv.org:2510.17940v1
+  link: https://arxiv.org/abs/2510.17940
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.17940v1 Announce Type: new  Abstract: Multi turn intent understanding
+    is central to task oriented chatbots, yet real deployments face tight token bu…'
+  title: 'Beyond More Context: Retrieval Diversity Boosts Multi-Turn Intent Understanding'
+- id: oai:arXiv.org:2510.17995v1
+  link: https://arxiv.org/abs/2510.17995
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.17995v1 Announce Type: new  Abstract: Large language models
+    (LLMs) are increasingly deployed as agents, expected to decompose goals, invoke
+    tools, a…'
+  title: 'FABRIC: Framework for Agent-Based Realistic Intelligence Creation'
+- id: oai:arXiv.org:2510.18032v1
+  link: https://arxiv.org/abs/2510.18032
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.18032v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) have shown remarkable reasoning capabilities in mathematical and scientific
+    tasks…'
+  title: 'OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement
+    Learning for Enhanced Reasoning'
+- id: oai:arXiv.org:2510.18040v1
+  link: https://arxiv.org/abs/2510.18040
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.18040v1 Announce Type: new  Abstract: A formalization of a
+    subject-event ontology is proposed for modeling complex dynamic systems without
+    reliance…'
+  title: 'Subject-Event Ontology Without Global Time: Foundations and Execution Semantics'
+- id: oai:arXiv.org:2510.18043v1
+  link: https://arxiv.org/abs/2510.18043
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.18043v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) deliver powerful reasoning and generation capabilities but incur substantial
+    run-…'
+  title: 'CompactPrompt: A Unified Pipeline for Prompt Data Compression in LLM Workflows'
+- id: oai:arXiv.org:2510.18087v1
+  link: https://arxiv.org/abs/2510.18087
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.18087v1 Announce Type: new  Abstract: A central challenge in
+    large language model inference is the trade-off between generation speed and output
+    qua…'
+  title: Planned Diffusion
+- id: oai:arXiv.org:2510.18095v1
+  link: https://arxiv.org/abs/2510.18095
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.18095v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) have redefined complex task automation with exceptional generalization
+    capabiliti…'
+  title: 'SMaRT: Select, Mix, and ReinvenT - A Strategy Fusion Framework for LLM-Driven
+    Reasoning and Planning'
+- id: oai:arXiv.org:2510.18134v1
+  link: https://arxiv.org/abs/2510.18134
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.18134v1 Announce Type: new  Abstract: What does it truly mean
+    for a language model to "reason"? Most current evaluations and benchmarks reward
+    model…'
+  title: 'Measuring Reasoning in LLMs: a New Dialectical Angle'
+- id: oai:arXiv.org:2510.18143v1
+  link: https://arxiv.org/abs/2510.18143
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.18143v1 Announce Type: new  Abstract: Small Language Models
+    (SLMs) offer compelling advantages in deployment cost and latency, but their accuracy
+    of…'
+  title: 'Learning from Generalization Patterns: An Evaluation-Driven Approach to
+    Enhanced Data Augmentation for Fine-Tuning Small Language Models'
+- id: oai:arXiv.org:2510.18154v1
+  link: https://arxiv.org/abs/2510.18154
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.18154v1 Announce Type: new  Abstract: Recent work has highlighted
+    the importance of monitoring chain-of-thought reasoning for AI safety; however,
+    cu…'
+  title: 'Annotating the Chain-of-Thought: A Behavior-Labeled Dataset for AI Safety'
+- id: oai:arXiv.org:2510.18155v1
+  link: https://arxiv.org/abs/2510.18155
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.18155v1 Announce Type: new  Abstract: Simulating consumer decision-making
+    is vital for designing and evaluating marketing strategies before costly r…'
+  title: LLM-Based Multi-Agent System for Simulating and Analyzing Marketing and Consumer
+    Behavior
+- id: oai:arXiv.org:2510.18165v1
+  link: https://arxiv.org/abs/2510.18165
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.18165v1 Announce Type: new  Abstract: Diffusion language models
+    (DLMs) are emerging as a powerful and promising alternative to the dominant autoregr…'
+  title: 'Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking
+    Enhanced Remasking for Diffusion Language Model'
+- id: oai:arXiv.org:2510.18170v1
+  link: https://arxiv.org/abs/2510.18170
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.18170v1 Announce Type: new  Abstract: Goal changes are a defining
+    feature of real world multi-turn interactions, yet current agent benchmarks primar…'
+  title: 'AgentChangeBench: A Multi-Dimensional Evaluation Framework for Goal-Shift
+    Robustness in Conversational AI'
+- id: oai:arXiv.org:2510.18176v1
+  link: https://arxiv.org/abs/2510.18176
+  published: '2025-10-22T04:00:00Z'
+  summary: 'arXiv:2510.18176v1 Announce Type: new  Abstract: Reinforcement Learning
+    with Verifiable Rewards (RLVR)-based post-training of Large Language Models (LLMs)
+    has…'
+  title: Local Coherence or Global Validity? Investigating RLVR Traces in Math Domains
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

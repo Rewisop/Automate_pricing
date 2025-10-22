@@ -1,36 +1,46 @@
-fetched_at: '2025-10-21T05:31:12Z'
-generated_at: '2025-10-21T05:31:12Z'
-hash: 90f6cb4247eb9709e9d8d0cc497cf45438393120378baca828fabbf17d2577d1
+fetched_at: '2025-10-22T05:32:14Z'
+generated_at: '2025-10-22T05:32:14Z'
+hash: 31907ee32e3497695300a07d7744f48ff99542e78b0e85a6e6943fe44c2dad60
 items:
-- id: 45643163
-  score: 376
-  time: '2025-10-20T12:31:22Z'
-  title: Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system
-  url: https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent
-- id: 45648258
-  score: 219
-  time: '2025-10-20T19:38:52Z'
-  title: J.P. Morgan's OpenAI loan is strange
-  url: https://marketunpack.com/j-p-morgans-openai-loan-is-strange/
-- id: 45648249
-  score: 130
-  time: '2025-10-20T19:38:02Z'
-  title: When a stadium adds AI to everything, it's worse experience for everyone
-  url: https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/
-- id: 45643776
-  score: 100
-  time: '2025-10-20T13:38:27Z'
-  title: The FTC Is Disappearing Blog Posts About AI Published During Lina Khan's
-    Tenure
-  url: https://www.wired.com/story/ftc-removes-blog-posts-about-ai-authored-by-by-lina-khan/
-- id: 45651485
-  score: 62
-  time: '2025-10-21T01:29:03Z'
-  title: Wikipedia says traffic is falling due to AI search summaries and social video
-  url: https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/
-- id: 45645614
-  score: 22
-  time: '2025-10-20T16:16:23Z'
-  title: AI will never be your friend
-  url: https://www.msn.com/en-us/entertainment/news/ai-will-never-be-your-friend/ar-AA1OObbs
+- id: 45656916
+  score: 201
+  time: '2025-10-21T15:19:51Z'
+  title: AI is making us work more
+  url: https://tawandamunongo.dev/posts/2025/10/ai-work-more
+- id: 45657428
+  score: 160
+  time: '2025-10-21T16:01:17Z'
+  title: Is Sora the beginning of the end for OpenAI?
+  url: https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/
+- id: 45658268
+  score: 33
+  time: '2025-10-21T17:03:34Z'
+  title: OpenAI Set to Challenge Google with New ChatGPT Atlas Browser
+  url: https://www.bloomberg.com/news/articles/2025-10-21/openai-set-to-challenge-google-with-new-chatgpt-atlas-browser
+- id: 45653818
+  score: 29
+  time: '2025-10-21T08:54:33Z'
+  title: Wikipedia Seems Pretty Worried About AI
+  url: https://nymag.com/intelligencer/article/wikipedia-contributors-are-worried-about-ai-scraping.html
+- id: 45661479
+  score: 14
+  time: '2025-10-21T20:46:36Z'
+  title: AI eats leisure time, makes employees work more, study finds
+  url: https://www.theregister.com/2025/10/21/ai_eats_leisure_time/
+- id: 45663398
+  score: 12
+  time: '2025-10-22T00:07:06Z'
+  title: DHS Asks OpenAI to Unmask User Behind ChatGPT Prompts, Possibly First Such
+    Case
+  url: https://gizmodo.com/dhs-asks-openai-to-unmask-user-behind-chatgpt-prompts-possibly-the-first-such-case-2000674472
+- id: 45662136
+  score: 10
+  time: '2025-10-21T21:46:54Z'
+  title: Anthropic, Google in Talks on Cloud Deal Worth Billions
+  url: https://www.bloomberg.com/news/articles/2025-10-21/anthropic-google-in-talks-on-cloud-deal-worth-tens-of-billions
+- id: 45662431
+  score: 6
+  time: '2025-10-21T22:18:07Z'
+  title: 'OptPipe: Memory- and Scheduling-Optimized Pipeline Parallelism for LLM Training'
+  url: https://arxiv.org/abs/2510.05186
 source_url: https://hacker-news.firebaseio.com/
