@@ -1,45 +1,45 @@
-fetched_at: '2025-10-22T05:32:14Z'
-generated_at: '2025-10-22T05:32:14Z'
-hash: 1daa902cb19a0e982918dfc592231be560c5586be21c58840f963da25b3a4d43
+fetched_at: '2025-10-23T05:31:21Z'
+generated_at: '2025-10-23T05:31:21Z'
+hash: d1a46d0b3e2c1445ea02f4d5aa1e2c4a16f5806f1448cb9578ce7a7c0cb246c9
 items:
 - cvss: 0.0
-  id: GHSA-6493-28fj-f93w
-  published: '2022-05-13T01:05:13Z'
+  id: GHSA-543w-wjh2-7vm6
+  published: '2025-10-23T03:32:07Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-f7j6-xrjp-vffg
-  published: '2022-05-13T01:05:13Z'
+  id: GHSA-583v-34rx-wgxx
+  published: '2025-10-23T03:32:07Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-w62w-9g5v-w3p4
-  published: '2022-05-13T01:05:54Z'
+  id: GHSA-6c38-x2f2-m4xc
+  published: '2025-10-23T03:32:07Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-w64p-pvrc-c5w3
-  published: '2022-05-14T01:02:27Z'
+  id: GHSA-8256-rr3p-x5mx
+  published: '2025-10-23T03:32:07Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-p8wc-6g47-vh8j
-  published: '2022-05-14T01:02:48Z'
+  id: GHSA-h3v9-8g7g-8f76
+  published: '2025-10-23T03:32:07Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-wjjh-xg7v-8wf9
-  published: '2022-05-14T01:31:24Z'
+  id: GHSA-hqm3-69r8-4527
+  published: '2025-10-23T03:32:07Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-fg66-4vpm-36cx
-  published: '2022-05-17T01:11:33Z'
+  id: GHSA-hvx9-rvf8-2j62
+  published: '2025-10-23T03:32:07Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-x629-5xff-w7qg
-  published: '2022-05-17T03:11:58Z'
+  id: GHSA-mv9g-2q74-fwwx
+  published: '2025-10-23T03:32:07Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-3qq4-w757-rjqm
-  published: '2022-05-17T04:02:13Z'
+  id: GHSA-q5qp-qp45-6pm9
+  published: '2025-10-23T03:32:07Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-hgq8-fc97-42ff
-  published: '2022-05-17T04:06:30Z'
+  id: GHSA-qpmc-phf3-6wfg
+  published: '2025-10-23T03:32:07Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

@@ -1,115 +1,116 @@
-fetched_at: '2025-10-22T05:32:14Z'
-generated_at: '2025-10-22T05:32:14Z'
-hash: eaae4410bd9224d985fdf9c8ca673c31f46059284bdd8451ad54af9830791b7a
+fetched_at: '2025-10-23T05:31:21Z'
+generated_at: '2025-10-23T05:31:21Z'
+hash: 526e625a61111f55a05f2c9b9e92c4e21bfe75de8deedb4f9912fea248216d84
 items:
-- id: oai:arXiv.org:2510.17902v1
-  link: https://arxiv.org/abs/2510.17902
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.17902v1 Announce Type: new  Abstract: The proliferation of
-    Large Language Model (LLM) architectures presents a fundamental challenge: valuable,
-    task…'
-  title: 'Activation Manifold Projection: Liberating Task-Specific Behaviors from
-    LLM Architectures'
-- id: oai:arXiv.org:2510.17940v1
-  link: https://arxiv.org/abs/2510.17940
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.17940v1 Announce Type: new  Abstract: Multi turn intent understanding
-    is central to task oriented chatbots, yet real deployments face tight token bu…'
-  title: 'Beyond More Context: Retrieval Diversity Boosts Multi-Turn Intent Understanding'
-- id: oai:arXiv.org:2510.17995v1
-  link: https://arxiv.org/abs/2510.17995
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.17995v1 Announce Type: new  Abstract: Large language models
-    (LLMs) are increasingly deployed as agents, expected to decompose goals, invoke
-    tools, a…'
-  title: 'FABRIC: Framework for Agent-Based Realistic Intelligence Creation'
-- id: oai:arXiv.org:2510.18032v1
-  link: https://arxiv.org/abs/2510.18032
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.18032v1 Announce Type: new  Abstract: Large Language Models
-    (LLMs) have shown remarkable reasoning capabilities in mathematical and scientific
-    tasks…'
-  title: 'OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement
-    Learning for Enhanced Reasoning'
-- id: oai:arXiv.org:2510.18040v1
-  link: https://arxiv.org/abs/2510.18040
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.18040v1 Announce Type: new  Abstract: A formalization of a
-    subject-event ontology is proposed for modeling complex dynamic systems without
-    reliance…'
-  title: 'Subject-Event Ontology Without Global Time: Foundations and Execution Semantics'
-- id: oai:arXiv.org:2510.18043v1
-  link: https://arxiv.org/abs/2510.18043
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.18043v1 Announce Type: new  Abstract: Large Language Models
-    (LLMs) deliver powerful reasoning and generation capabilities but incur substantial
-    run-…'
-  title: 'CompactPrompt: A Unified Pipeline for Prompt Data Compression in LLM Workflows'
-- id: oai:arXiv.org:2510.18087v1
-  link: https://arxiv.org/abs/2510.18087
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.18087v1 Announce Type: new  Abstract: A central challenge in
-    large language model inference is the trade-off between generation speed and output
-    qua…'
-  title: Planned Diffusion
-- id: oai:arXiv.org:2510.18095v1
-  link: https://arxiv.org/abs/2510.18095
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.18095v1 Announce Type: new  Abstract: Large Language Models
-    (LLMs) have redefined complex task automation with exceptional generalization
-    capabiliti…'
-  title: 'SMaRT: Select, Mix, and ReinvenT - A Strategy Fusion Framework for LLM-Driven
-    Reasoning and Planning'
-- id: oai:arXiv.org:2510.18134v1
-  link: https://arxiv.org/abs/2510.18134
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.18134v1 Announce Type: new  Abstract: What does it truly mean
-    for a language model to "reason"? Most current evaluations and benchmarks reward
-    model…'
-  title: 'Measuring Reasoning in LLMs: a New Dialectical Angle'
-- id: oai:arXiv.org:2510.18143v1
-  link: https://arxiv.org/abs/2510.18143
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.18143v1 Announce Type: new  Abstract: Small Language Models
-    (SLMs) offer compelling advantages in deployment cost and latency, but their accuracy
-    of…'
-  title: 'Learning from Generalization Patterns: An Evaluation-Driven Approach to
-    Enhanced Data Augmentation for Fine-Tuning Small Language Models'
-- id: oai:arXiv.org:2510.18154v1
-  link: https://arxiv.org/abs/2510.18154
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.18154v1 Announce Type: new  Abstract: Recent work has highlighted
-    the importance of monitoring chain-of-thought reasoning for AI safety; however,
-    cu…'
-  title: 'Annotating the Chain-of-Thought: A Behavior-Labeled Dataset for AI Safety'
-- id: oai:arXiv.org:2510.18155v1
-  link: https://arxiv.org/abs/2510.18155
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.18155v1 Announce Type: new  Abstract: Simulating consumer decision-making
-    is vital for designing and evaluating marketing strategies before costly r…'
-  title: LLM-Based Multi-Agent System for Simulating and Analyzing Marketing and Consumer
-    Behavior
-- id: oai:arXiv.org:2510.18165v1
-  link: https://arxiv.org/abs/2510.18165
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.18165v1 Announce Type: new  Abstract: Diffusion language models
-    (DLMs) are emerging as a powerful and promising alternative to the dominant autoregr…'
-  title: 'Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking
-    Enhanced Remasking for Diffusion Language Model'
-- id: oai:arXiv.org:2510.18170v1
-  link: https://arxiv.org/abs/2510.18170
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.18170v1 Announce Type: new  Abstract: Goal changes are a defining
-    feature of real world multi-turn interactions, yet current agent benchmarks primar…'
-  title: 'AgentChangeBench: A Multi-Dimensional Evaluation Framework for Goal-Shift
-    Robustness in Conversational AI'
-- id: oai:arXiv.org:2510.18176v1
-  link: https://arxiv.org/abs/2510.18176
-  published: '2025-10-22T04:00:00Z'
-  summary: 'arXiv:2510.18176v1 Announce Type: new  Abstract: Reinforcement Learning
-    with Verifiable Rewards (RLVR)-based post-training of Large Language Models (LLMs)
-    has…'
-  title: Local Coherence or Global Validity? Investigating RLVR Traces in Math Domains
+- id: oai:arXiv.org:2510.18982v1
+  link: https://arxiv.org/abs/2510.18982
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.18982v1 Announce Type: new  Abstract: While test-time scaling
+    with verification has shown promise in improving the performance of large language
+    mod…'
+  title: 'Test-time Verification via Optimal Transport: Coverage, ROC, & Sub-optimality'
+- id: oai:arXiv.org:2510.18988v1
+  link: https://arxiv.org/abs/2510.18988
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.18988v1 Announce Type: new  Abstract: There is growing interest
+    in using machine learning (ML) to support clinical diag- nosis, but most approaches…'
+  title: Timely Clinical Diagnosis through Active Test Selection
+- id: oai:arXiv.org:2510.19050v1
+  link: https://arxiv.org/abs/2510.19050
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19050v1 Announce Type: new  Abstract: In reinforcement learning
+    from human feedback, preference-based reward models play a central role in aligning…'
+  title: Rectifying Shortcut Behaviors in Preference-based Reward Learning
+- id: oai:arXiv.org:2510.19055v1
+  link: https://arxiv.org/abs/2510.19055
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19055v1 Announce Type: new  Abstract: Multimodal Large Language
+    Models (MLLMs) have demonstrated capabilities in audio understanding, but current
+    ev…'
+  title: 'The MUSE Benchmark: Probing Music Perception and Auditory Relational Reasoning
+    in Audio LLMS'
+- id: oai:arXiv.org:2510.19139v1
+  link: https://arxiv.org/abs/2510.19139
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19139v1 Announce Type: new  Abstract: Despite the rapid expansion
+    of Large Language Models (LLMs) in healthcare, the ability of these systems to
+    ass…'
+  title: 'A Multi-faceted Analysis of Cognitive Abilities: Evaluating Prompt Methods
+    with Large Language Models on the CONSORT Checklist'
+- id: oai:arXiv.org:2510.19176v1
+  link: https://arxiv.org/abs/2510.19176
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19176v1 Announce Type: new  Abstract: Reasoning models have
+    demonstrated exceptional performance in tasks such as mathematics and logical
+    reasoning,…'
+  title: 'The Zero-Step Thinking: An Empirical Study of Mode Selection as Harder Early
+    Exit in Reasoning Models'
+- id: oai:arXiv.org:2510.19205v1
+  link: https://arxiv.org/abs/2510.19205
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19205v1 Announce Type: new  Abstract: Current evaluation of
+    web agents largely reduces to binary success metrics or conformity to a single
+    reference…'
+  title: 'WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph
+    Representation'
+- id: oai:arXiv.org:2510.19261v1
+  link: https://arxiv.org/abs/2510.19261
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19261v1 Announce Type: new  Abstract: This study examines the
+    performance of ChatGPT with an experiment in the legal domain. We compare the
+    outcome…'
+  title: 'ChatGPT Unveils Its Limits: Principles of Law Deliver Checkmate'
+- id: oai:arXiv.org:2510.19263v1
+  link: https://arxiv.org/abs/2510.19263
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19263v1 Announce Type: new  Abstract: Precedential constraint
+    is one foundation of case-based reasoning in AI and Law. It generally assumes
+    that the…'
+  title: An Argumentative Explanation Framework for Generalized Reason Model with
+    Inconsistent Precedents
+- id: oai:arXiv.org:2510.19299v1
+  link: https://arxiv.org/abs/2510.19299
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19299v1 Announce Type: new  Abstract: Can large language model
+    (LLM) agents reproduce the complex social dynamics that characterize human online
+    beh…'
+  title: 'Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties'
+- id: oai:arXiv.org:2510.19314v1
+  link: https://arxiv.org/abs/2510.19314
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19314v1 Announce Type: new  Abstract: Reinforcement Learning
+    enables agents to learn optimal behaviors through interactions with environments.
+    Howev…'
+  title: Continual Knowledge Adaptation for Reinforcement Learning
+- id: oai:arXiv.org:2510.19423v1
+  link: https://arxiv.org/abs/2510.19423
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19423v1 Announce Type: new  Abstract: We introduce MSC-Bench,
+    a large-scale benchmark for evaluating multi-hop, end-to-end tool orchestration
+    by LLM…'
+  title: 'MSC-Bench: A Rigorous Benchmark for Multi-Server Tool Orchestration'
+- id: oai:arXiv.org:2510.19429v1
+  link: https://arxiv.org/abs/2510.19429
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19429v1 Announce Type: new  Abstract: We address the challenge
+    of adopting language models (LMs) for embodied tasks in dynamic environments,
+    where o…'
+  title: 'NeSyPr: Neurosymbolic Proceduralization For Efficient Embodied Reasoning'
+- id: oai:arXiv.org:2510.19562v1
+  link: https://arxiv.org/abs/2510.19562
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19562v1 Announce Type: new  Abstract: Comprehending natural
+    language and following human instructions are critical capabilities for intelligent
+    agen…'
+  title: 'DAIL: Beyond Task Ambiguity for Language-Conditioned Reinforcement Learning'
+- id: oai:arXiv.org:2510.19631v1
+  link: https://arxiv.org/abs/2510.19631
+  published: '2025-10-23T04:00:00Z'
+  summary: 'arXiv:2510.19631v1 Announce Type: new  Abstract: Effective deep search
+    agents must not only access open-domain and domain-specific knowledge but also
+    apply com…'
+  title: 'HSCodeComp: A Realistic and Expert-level Benchmark for Deep Search Agents
+    in Hierarchical Rule Application'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

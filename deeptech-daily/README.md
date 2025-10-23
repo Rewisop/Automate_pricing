@@ -15,17 +15,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -86,21 +88,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [Activation Manifold Projection: Liberating Task-Specific Behaviors from LLM Architectures](https://arxiv.org/abs/2510.17902) — arXiv:2510.17902v1 Announce Type: new  Abstract: The proliferation of Large Language Model (LLM) architectures presents a fundamental challenge: valuable, task…
-- [Beyond More Context: Retrieval Diversity Boosts Multi-Turn Intent Understanding](https://arxiv.org/abs/2510.17940) — arXiv:2510.17940v1 Announce Type: new  Abstract: Multi turn intent understanding is central to task oriented chatbots, yet real deployments face tight token bu…
-- [FABRIC: Framework for Agent-Based Realistic Intelligence Creation](https://arxiv.org/abs/2510.17995) — arXiv:2510.17995v1 Announce Type: new  Abstract: Large language models (LLMs) are increasingly deployed as agents, expected to decompose goals, invoke tools, a…
-- [OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning](https://arxiv.org/abs/2510.18032) — arXiv:2510.18032v1 Announce Type: new  Abstract: Large Language Models (LLMs) have shown remarkable reasoning capabilities in mathematical and scientific tasks…
-- [Subject-Event Ontology Without Global Time: Foundations and Execution Semantics](https://arxiv.org/abs/2510.18040) — arXiv:2510.18040v1 Announce Type: new  Abstract: A formalization of a subject-event ontology is proposed for modeling complex dynamic systems without reliance…
-- [CompactPrompt: A Unified Pipeline for Prompt Data Compression in LLM Workflows](https://arxiv.org/abs/2510.18043) — arXiv:2510.18043v1 Announce Type: new  Abstract: Large Language Models (LLMs) deliver powerful reasoning and generation capabilities but incur substantial run-…
-- [Planned Diffusion](https://arxiv.org/abs/2510.18087) — arXiv:2510.18087v1 Announce Type: new  Abstract: A central challenge in large language model inference is the trade-off between generation speed and output qua…
-- [SMaRT: Select, Mix, and ReinvenT - A Strategy Fusion Framework for LLM-Driven Reasoning and Planning](https://arxiv.org/abs/2510.18095) — arXiv:2510.18095v1 Announce Type: new  Abstract: Large Language Models (LLMs) have redefined complex task automation with exceptional generalization capabiliti…
-- [Measuring Reasoning in LLMs: a New Dialectical Angle](https://arxiv.org/abs/2510.18134) — arXiv:2510.18134v1 Announce Type: new  Abstract: What does it truly mean for a language model to "reason"? Most current evaluations and benchmarks reward model…
-- [Learning from Generalization Patterns: An Evaluation-Driven Approach to Enhanced Data Augmentation for Fine-Tuning Small Language Models](https://arxiv.org/abs/2510.18143) — arXiv:2510.18143v1 Announce Type: new  Abstract: Small Language Models (SLMs) offer compelling advantages in deployment cost and latency, but their accuracy of…
-- [Annotating the Chain-of-Thought: A Behavior-Labeled Dataset for AI Safety](https://arxiv.org/abs/2510.18154) — arXiv:2510.18154v1 Announce Type: new  Abstract: Recent work has highlighted the importance of monitoring chain-of-thought reasoning for AI safety; however, cu…
-- [LLM-Based Multi-Agent System for Simulating and Analyzing Marketing and Consumer Behavior](https://arxiv.org/abs/2510.18155) — arXiv:2510.18155v1 Announce Type: new  Abstract: Simulating consumer decision-making is vital for designing and evaluating marketing strategies before costly r…
-- [Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model](https://arxiv.org/abs/2510.18165) — arXiv:2510.18165v1 Announce Type: new  Abstract: Diffusion language models (DLMs) are emerging as a powerful and promising alternative to the dominant autoregr…
-- [AgentChangeBench: A Multi-Dimensional Evaluation Framework for Goal-Shift Robustness in Conversational AI](https://arxiv.org/abs/2510.18170) — arXiv:2510.18170v1 Announce Type: new  Abstract: Goal changes are a defining feature of real world multi-turn interactions, yet current agent benchmarks primar…
-- [Local Coherence or Global Validity? Investigating RLVR Traces in Math Domains](https://arxiv.org/abs/2510.18176) — arXiv:2510.18176v1 Announce Type: new  Abstract: Reinforcement Learning with Verifiable Rewards (RLVR)-based post-training of Large Language Models (LLMs) has…
+- [Test-time Verification via Optimal Transport: Coverage, ROC, & Sub-optimality](https://arxiv.org/abs/2510.18982) — arXiv:2510.18982v1 Announce Type: new  Abstract: While test-time scaling with verification has shown promise in improving the performance of large language mod…
+- [Timely Clinical Diagnosis through Active Test Selection](https://arxiv.org/abs/2510.18988) — arXiv:2510.18988v1 Announce Type: new  Abstract: There is growing interest in using machine learning (ML) to support clinical diag- nosis, but most approaches…
+- [Rectifying Shortcut Behaviors in Preference-based Reward Learning](https://arxiv.org/abs/2510.19050) — arXiv:2510.19050v1 Announce Type: new  Abstract: In reinforcement learning from human feedback, preference-based reward models play a central role in aligning…
+- [The MUSE Benchmark: Probing Music Perception and Auditory Relational Reasoning in Audio LLMS](https://arxiv.org/abs/2510.19055) — arXiv:2510.19055v1 Announce Type: new  Abstract: Multimodal Large Language Models (MLLMs) have demonstrated capabilities in audio understanding, but current ev…
+- [A Multi-faceted Analysis of Cognitive Abilities: Evaluating Prompt Methods with Large Language Models on the CONSORT Checklist](https://arxiv.org/abs/2510.19139) — arXiv:2510.19139v1 Announce Type: new  Abstract: Despite the rapid expansion of Large Language Models (LLMs) in healthcare, the ability of these systems to ass…
+- [The Zero-Step Thinking: An Empirical Study of Mode Selection as Harder Early Exit in Reasoning Models](https://arxiv.org/abs/2510.19176) — arXiv:2510.19176v1 Announce Type: new  Abstract: Reasoning models have demonstrated exceptional performance in tasks such as mathematics and logical reasoning,…
+- [WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation](https://arxiv.org/abs/2510.19205) — arXiv:2510.19205v1 Announce Type: new  Abstract: Current evaluation of web agents largely reduces to binary success metrics or conformity to a single reference…
+- [ChatGPT Unveils Its Limits: Principles of Law Deliver Checkmate](https://arxiv.org/abs/2510.19261) — arXiv:2510.19261v1 Announce Type: new  Abstract: This study examines the performance of ChatGPT with an experiment in the legal domain. We compare the outcome…
+- [An Argumentative Explanation Framework for Generalized Reason Model with Inconsistent Precedents](https://arxiv.org/abs/2510.19263) — arXiv:2510.19263v1 Announce Type: new  Abstract: Precedential constraint is one foundation of case-based reasoning in AI and Law. It generally assumes that the…
+- [Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties](https://arxiv.org/abs/2510.19299) — arXiv:2510.19299v1 Announce Type: new  Abstract: Can large language model (LLM) agents reproduce the complex social dynamics that characterize human online beh…
+- [Continual Knowledge Adaptation for Reinforcement Learning](https://arxiv.org/abs/2510.19314) — arXiv:2510.19314v1 Announce Type: new  Abstract: Reinforcement Learning enables agents to learn optimal behaviors through interactions with environments. Howev…
+- [MSC-Bench: A Rigorous Benchmark for Multi-Server Tool Orchestration](https://arxiv.org/abs/2510.19423) — arXiv:2510.19423v1 Announce Type: new  Abstract: We introduce MSC-Bench, a large-scale benchmark for evaluating multi-hop, end-to-end tool orchestration by LLM…
+- [NeSyPr: Neurosymbolic Proceduralization For Efficient Embodied Reasoning](https://arxiv.org/abs/2510.19429) — arXiv:2510.19429v1 Announce Type: new  Abstract: We address the challenge of adopting language models (LMs) for embodied tasks in dynamic environments, where o…
+- [DAIL: Beyond Task Ambiguity for Language-Conditioned Reinforcement Learning](https://arxiv.org/abs/2510.19562) — arXiv:2510.19562v1 Announce Type: new  Abstract: Comprehending natural language and following human instructions are critical capabilities for intelligent agen…
+- [HSCodeComp: A Realistic and Expert-level Benchmark for Deep Search Agents in Hierarchical Rule Application](https://arxiv.org/abs/2510.19631) — arXiv:2510.19631v1 Announce Type: new  Abstract: Effective deep search agents must not only access open-domain and domain-specific knowledge but also apply com…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -128,28 +130,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                 |   Stars | Description                                                                                                                                                      |
-|--------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ellydee/acceptance-bench                   |      58 | A robust LLM evaluation framework measuring acceptance vs refusal across difficulty levels. Features multi-prompt variation testing, temperature sweeping, and…  |
-| llm-brain-rot/llm-brain-rot                |      51 | LLM Can Get "Brain Rot"                                                                                                                                          |
-| AI4Science-WestlakeU/BuildArena            |      40 | BuildArena, where LLM agents design, build, and test rockets, cars, and bridges in a physics simulator given a goal-directed sentence.                           |
-| ysz/recursive-llm                          |      28 | Recursive Language Models for unbounded context processing. Process 100k+ tokens with any LLM by storing context as variables instead of prompts.                |
-| skye-harris/hass_local_openai_llm          |      20 | Home Assistant LLM integration for local OpenAI-compatible services (llamacpp, vllm, etc)                                                                        |
-| nilesh2797/lattice                         |      13 | LATTICE turns retrieval into an LLM-driven navigation problem over a semantic scaffold                                                                           |
-| VisionXLab/ProCLIP                         |      11 | Official PyTorch implementation of ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder                                                         |
-| tranngocphu/custom_langchain_chat_model    |      11 | LangChain-Compatible Wrapper for Any Private LLM APIs                                                                                                            |
-| Tomsawyerhu/Awesome-Personalized-Alignment |      10 | A Survey on Large Language Models for Personalized Alignment                                                                                                     |
-| kristaller486/RuQualBench                  |      10 | RuQualBench: A benchmark for evaluating the quality of the Russian language in LLM responses                                                                     |
-| LLM4SOC-Topic/RulePilot                    |       8 | RulePilot: the first language- and theory-agonistic SIEM Rule generation engine via LLM agents                                                                   |
-| TimmyOVO/freshrss-filter                   |       8 | AI-Powered RSS Content Filter - Automatically remove ads, sponsored content, and low-quality articles from your FreshRSS feeds using LLM intelligence. Set it &… |
-| fkesheh/skill-mcp                          |       8 | LLM-managed skills platform using MCP - create, edit, and execute skills programmatically in Claude, Cursor, and any MCP-compatible client without manual file…  |
-| Blaspsoft/forerunner                       |       7 | 🏗️✨ Define structured output schemas for LLMs using Laravel's familiar migration syntax                                                                          |
-| flybirdxx/ComfyUI-RexOmni                  |       7 | Rex-Omni is a 3B-parameter Multimodal Large Language Model (MLLM) that redefines object detection and a wide range of other visual perception tasks as a simple… |
-| HankYe/KVCOMM                              |       6 | [NeurIPS'25] KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems                                                     |
-| NuyoahCh/LLMForge                          |       6 | 一份面向开发者的开源教程，用于系统学习如何构建、部署和优化基于大语言模型（LLM）的智能应用。                                                                                                                  |
-| Rubin-Wei/MLPMemory                        |       6 | The official implementation of the paper "MLP Memory: A Retriever-Pretrained Memory for Large Language Models".                                                  |
-| gfyddha/UDS                                |       6 | Official implementation of our paper: "Utility-Diversity Aware Online Batch Selection for LLM Supervised Fine-tuning."                                           |
-| ocicl/LispIndex                            |       6 | A structured index of Common Lisp systems, packages, and code examples — organized for semantic search and LLM-assisted discovery.                               |
+| Repository                              |   Stars | Description                                                                                                                                                      |
+|-----------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| llm-brain-rot/llm-brain-rot             |      74 | LLM Can Get "Brain Rot"                                                                                                                                          |
+| AI4Science-WestlakeU/BuildArena         |      40 | BuildArena, where LLM agents design, build, and test rockets, cars, and bridges in a physics simulator given a goal-directed sentence.                           |
+| ysz/recursive-llm                       |      28 | Recursive Language Models for unbounded context processing. Process 100k+ tokens with any LLM by storing context as variables instead of prompts.                |
+| OPPO-Mente-Lab/DaMo                     |      23 | The official implement of paper 《DaMo: Data Mixing Optimizer in Fine-tuning Multimodal LLMs for Mobile Phone Agents》                                             |
+| skye-harris/hass_local_openai_llm       |      23 | Home Assistant LLM integration for local OpenAI-compatible services (llamacpp, vllm, etc)                                                                        |
+| tranngocphu/custom_langchain_chat_model |      14 | LangChain-Compatible Wrapper for Any Private LLM APIs                                                                                                            |
+| VisionXLab/ProCLIP                      |      11 | Official PyTorch implementation of ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder                                                         |
+| kristaller486/RuQualBench               |      11 | RuQualBench: A benchmark for evaluating the quality of the Russian language in LLM responses                                                                     |
+| fkesheh/skill-mcp                       |       9 | LLM-managed skills platform using MCP - create, edit, and execute skills programmatically in Claude, Cursor, and any MCP-compatible client without manual file…  |
+| gfyddha/UDS                             |       9 | Official implementation of our paper: "Utility-Diversity Aware Online Batch Selection for LLM Supervised Fine-tuning."                                           |
+| 1012537710/MLLM-ISU                     |       8 | The First-Ever Comprehensive Benchmark for Multimodal Large Language Models based Intrusion Scene Understanding                                                  |
+| LLM4SOC-Topic/RulePilot                 |       8 | RulePilot: the first language- and theory-agonistic SIEM Rule generation engine via LLM agents                                                                   |
+| SanBingYouYong/shapecraft               |       8 | Official repo for NeurIPS 2025 poster - ShapeCraft: LLM Agents for Structured, Textured and Interactive 3D Modeling.                                             |
+| TimmyOVO/freshrss-filter                |       8 | AI-Powered RSS Content Filter - Automatically remove ads, sponsored content, and low-quality articles from your FreshRSS feeds using LLM intelligence. Set it &… |
+| Rubin-Wei/MLPMemory                     |       7 | The official implementation of the paper "MLP Memory: A Retriever-Pretrained Memory for Large Language Models".                                                  |
+| AKS-DHLAB/TEI-RAG                       |       6 | TEI 문서용 로컬 RAG 데모 — TEI → FAISS → Neo4j → Local LLM (Streamlit UI 포함)                                                                                            |
+| HankYe/KVCOMM                           |       6 | [NeurIPS'25] KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems                                                     |
+| NuyoahCh/LLMForge                       |       6 | 一份面向开发者的开源教程，用于系统学习如何构建、部署和优化基于大语言模型（LLM）的智能应用。                                                                                                                  |
+| ocicl/LispIndex                         |       6 | A structured index of Common Lisp systems, packages, and code examples — organized for semantic search and LLM-assisted discovery.                               |
+| yanhong-lbh/text_or_pixels              |       6 | Codebase for EMNLP 2025 Findings paper "Text or Pixels? Evaluating Efficiency and Understanding of LLMs with Visual Text Inputs"                                 |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -159,30 +161,25 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [AI is making us work more](https://tawandamunongo.dev/posts/2025/10/ai-work-more) — 201 points
-- [Is Sora the beginning of the end for OpenAI?](https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/) — 160 points
-- [OpenAI Set to Challenge Google with New ChatGPT Atlas Browser](https://www.bloomberg.com/news/articles/2025-10-21/openai-set-to-challenge-google-with-new-chatgpt-atlas-browser) — 33 points
-- [Wikipedia Seems Pretty Worried About AI](https://nymag.com/intelligencer/article/wikipedia-contributors-are-worried-about-ai-scraping.html) — 29 points
-- [AI eats leisure time, makes employees work more, study finds](https://www.theregister.com/2025/10/21/ai_eats_leisure_time/) — 14 points
-- [DHS Asks OpenAI to Unmask User Behind ChatGPT Prompts, Possibly First Such Case](https://gizmodo.com/dhs-asks-openai-to-unmask-user-behind-chatgpt-prompts-possibly-the-first-such-case-2000674472) — 12 points
-- [Anthropic, Google in Talks on Cloud Deal Worth Billions](https://www.bloomberg.com/news/articles/2025-10-21/anthropic-google-in-talks-on-cloud-deal-worth-tens-of-billions) — 10 points
-- [OptPipe: Memory- and Scheduling-Optimized Pipeline Parallelism for LLM Training](https://arxiv.org/abs/2510.05186) — 6 points
+- [Meta is axing 600 roles across its AI division](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence) — 474 points
+- [AI assistants misrepresent news content 45% of the time](https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content) — 407 points
+- [Look, Another AI Browser](https://manuelmoreale.com/thoughts/look-another-ai-browser) — 205 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
 | CVE                 |   CVSS | Summary   |
 |---------------------|--------|-----------|
-| GHSA-6493-28fj-f93w |      0 |           |
-| GHSA-f7j6-xrjp-vffg |      0 |           |
-| GHSA-w62w-9g5v-w3p4 |      0 |           |
-| GHSA-w64p-pvrc-c5w3 |      0 |           |
-| GHSA-p8wc-6g47-vh8j |      0 |           |
-| GHSA-wjjh-xg7v-8wf9 |      0 |           |
-| GHSA-fg66-4vpm-36cx |      0 |           |
-| GHSA-x629-5xff-w7qg |      0 |           |
-| GHSA-3qq4-w757-rjqm |      0 |           |
-| GHSA-hgq8-fc97-42ff |      0 |           |
+| GHSA-543w-wjh2-7vm6 |      0 |           |
+| GHSA-583v-34rx-wgxx |      0 |           |
+| GHSA-6c38-x2f2-m4xc |      0 |           |
+| GHSA-8256-rr3p-x5mx |      0 |           |
+| GHSA-h3v9-8g7g-8f76 |      0 |           |
+| GHSA-hqm3-69r8-4527 |      0 |           |
+| GHSA-hvx9-rvf8-2j62 |      0 |           |
+| GHSA-mv9g-2q74-fwwx |      0 |           |
+| GHSA-q5qp-qp45-6pm9 |      0 |           |
+| GHSA-qpmc-phf3-6wfg |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
