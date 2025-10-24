@@ -1,20 +1,66 @@
-fetched_at: '2025-10-23T05:31:21Z'
-generated_at: '2025-10-23T05:31:21Z'
-hash: a3b36af60bb5d95d345010f2a97bfff90cdd063eaf414e41842b0029f28be538
+fetched_at: '2025-10-24T05:31:14Z'
+generated_at: '2025-10-24T05:31:14Z'
+hash: 9c4ef64a10af11237eac8f87d6f4afa7715c03842ecdc14b1a913b3bb200fd82
 items:
-- id: 45671778
-  score: 474
-  time: '2025-10-22T16:44:43Z'
-  title: Meta is axing 600 roles across its AI division
-  url: https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence
-- id: 45668990
-  score: 407
-  time: '2025-10-22T13:39:26Z'
-  title: AI assistants misrepresent news content 45% of the time
-  url: https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content
-- id: 45672199
-  score: 205
-  time: '2025-10-22T17:15:38Z'
-  title: Look, Another AI Browser
-  url: https://manuelmoreale.com/thoughts/look-another-ai-browser
+- id: 45684934
+  score: 553
+  time: '2025-10-23T18:09:37Z'
+  title: Armed police swarm student after AI mistakes bag of Doritos for a weapon
+  url: https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/
+- id: 45684236
+  score: 154
+  time: '2025-10-23T17:04:17Z'
+  title: OpenAI acquires Sky.app
+  url: https://openai.com/index/openai-acquires-software-applications-incorporated
+- id: 45684155
+  score: 135
+  time: '2025-10-23T16:58:04Z'
+  title: New updates and more access to Google Earth AI
+  url: https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/
+- id: 45680937
+  score: 118
+  time: '2025-10-23T12:11:27Z'
+  title: 'Show HN: Deta Surf – An open source and local-first AI notebook'
+  url: https://github.com/deta/surf
+- id: 45683113
+  score: 52
+  time: '2025-10-23T15:39:10Z'
+  title: Reasoning is not model improvement
+  url: https://manidoraisamy.com/reasoning-not-ai.html
+- id: 45684086
+  score: 30
+  time: '2025-10-23T16:51:59Z'
+  title: One in five security breaches now thought to be caused by AI-written code
+  url: https://www.techradar.com/pro/security/one-in-five-security-breaches-now-thought-to-be-caused-by-ai-written-code
+- id: 45687738
+  score: 12
+  time: '2025-10-23T21:51:30Z'
+  title: Two days after OpenAI's Atlas, Microsoft launches a nearly identical AI browser
+  url: https://techcrunch.com/2025/10/23/two-days-after-openais-atlas-microsoft-launches-a-nearly-identical-ai-browser/
+- id: 45687464
+  score: 11
+  time: '2025-10-23T21:28:47Z'
+  title: 'Guillermo del Toro: ''I''d rather die'' than use generative AI'
+  url: https://www.npr.org/2025/10/23/nx-s1-5577963/guillermo-del-toro-frankenstein
+- id: 45687150
+  score: 10
+  time: '2025-10-23T21:05:36Z'
+  title: I spent the past 2 months trying out every hyped AI coding workflow I could
+    find
+  url: https://handmadeoasis.com/state-of-ai-assisted-workflows-october-2025/
+- id: 45683928
+  score: 7
+  time: '2025-10-23T16:38:55Z'
+  title: 'Show HN: Coyote – Wildly Real-Time AI'
+  url: https://getcoyote.app
+- id: 45690180
+  score: 5
+  time: '2025-10-24T02:45:16Z'
+  title: Data centers turn to commercial aircraft jet engines as AI power crunch bites
+  url: https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites
+- id: 45690219
+  score: 5
+  time: '2025-10-24T02:50:50Z'
+  title: 'Fast-DLLM: Training-Free Acceleration of Diffusion LLM'
+  url: https://arxiv.org/abs/2505.22618
 source_url: https://hacker-news.firebaseio.com/

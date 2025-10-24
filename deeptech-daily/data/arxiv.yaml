@@ -1,116 +1,113 @@
-fetched_at: '2025-10-23T05:31:21Z'
-generated_at: '2025-10-23T05:31:21Z'
-hash: 526e625a61111f55a05f2c9b9e92c4e21bfe75de8deedb4f9912fea248216d84
+fetched_at: '2025-10-24T05:31:14Z'
+generated_at: '2025-10-24T05:31:14Z'
+hash: c9c614cae666952bc7db04c0a0e07cddfdbbc9fdd1f059846d0a731ba9d971be
 items:
-- id: oai:arXiv.org:2510.18982v1
-  link: https://arxiv.org/abs/2510.18982
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.18982v1 Announce Type: new  Abstract: While test-time scaling
-    with verification has shown promise in improving the performance of large language
-    mod…'
-  title: 'Test-time Verification via Optimal Transport: Coverage, ROC, & Sub-optimality'
-- id: oai:arXiv.org:2510.18988v1
-  link: https://arxiv.org/abs/2510.18988
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.18988v1 Announce Type: new  Abstract: There is growing interest
-    in using machine learning (ML) to support clinical diag- nosis, but most approaches…'
-  title: Timely Clinical Diagnosis through Active Test Selection
-- id: oai:arXiv.org:2510.19050v1
-  link: https://arxiv.org/abs/2510.19050
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19050v1 Announce Type: new  Abstract: In reinforcement learning
-    from human feedback, preference-based reward models play a central role in aligning…'
-  title: Rectifying Shortcut Behaviors in Preference-based Reward Learning
-- id: oai:arXiv.org:2510.19055v1
-  link: https://arxiv.org/abs/2510.19055
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19055v1 Announce Type: new  Abstract: Multimodal Large Language
-    Models (MLLMs) have demonstrated capabilities in audio understanding, but current
-    ev…'
-  title: 'The MUSE Benchmark: Probing Music Perception and Auditory Relational Reasoning
-    in Audio LLMS'
-- id: oai:arXiv.org:2510.19139v1
-  link: https://arxiv.org/abs/2510.19139
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19139v1 Announce Type: new  Abstract: Despite the rapid expansion
-    of Large Language Models (LLMs) in healthcare, the ability of these systems to
-    ass…'
-  title: 'A Multi-faceted Analysis of Cognitive Abilities: Evaluating Prompt Methods
-    with Large Language Models on the CONSORT Checklist'
-- id: oai:arXiv.org:2510.19176v1
-  link: https://arxiv.org/abs/2510.19176
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19176v1 Announce Type: new  Abstract: Reasoning models have
-    demonstrated exceptional performance in tasks such as mathematics and logical
-    reasoning,…'
-  title: 'The Zero-Step Thinking: An Empirical Study of Mode Selection as Harder Early
-    Exit in Reasoning Models'
-- id: oai:arXiv.org:2510.19205v1
-  link: https://arxiv.org/abs/2510.19205
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19205v1 Announce Type: new  Abstract: Current evaluation of
-    web agents largely reduces to binary success metrics or conformity to a single
-    reference…'
-  title: 'WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph
-    Representation'
-- id: oai:arXiv.org:2510.19261v1
-  link: https://arxiv.org/abs/2510.19261
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19261v1 Announce Type: new  Abstract: This study examines the
-    performance of ChatGPT with an experiment in the legal domain. We compare the
-    outcome…'
-  title: 'ChatGPT Unveils Its Limits: Principles of Law Deliver Checkmate'
-- id: oai:arXiv.org:2510.19263v1
-  link: https://arxiv.org/abs/2510.19263
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19263v1 Announce Type: new  Abstract: Precedential constraint
-    is one foundation of case-based reasoning in AI and Law. It generally assumes
-    that the…'
-  title: An Argumentative Explanation Framework for Generalized Reason Model with
-    Inconsistent Precedents
-- id: oai:arXiv.org:2510.19299v1
-  link: https://arxiv.org/abs/2510.19299
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19299v1 Announce Type: new  Abstract: Can large language model
-    (LLM) agents reproduce the complex social dynamics that characterize human online
-    beh…'
-  title: 'Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties'
-- id: oai:arXiv.org:2510.19314v1
-  link: https://arxiv.org/abs/2510.19314
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19314v1 Announce Type: new  Abstract: Reinforcement Learning
-    enables agents to learn optimal behaviors through interactions with environments.
-    Howev…'
-  title: Continual Knowledge Adaptation for Reinforcement Learning
-- id: oai:arXiv.org:2510.19423v1
-  link: https://arxiv.org/abs/2510.19423
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19423v1 Announce Type: new  Abstract: We introduce MSC-Bench,
-    a large-scale benchmark for evaluating multi-hop, end-to-end tool orchestration
-    by LLM…'
-  title: 'MSC-Bench: A Rigorous Benchmark for Multi-Server Tool Orchestration'
-- id: oai:arXiv.org:2510.19429v1
-  link: https://arxiv.org/abs/2510.19429
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19429v1 Announce Type: new  Abstract: We address the challenge
-    of adopting language models (LMs) for embodied tasks in dynamic environments,
-    where o…'
-  title: 'NeSyPr: Neurosymbolic Proceduralization For Efficient Embodied Reasoning'
-- id: oai:arXiv.org:2510.19562v1
-  link: https://arxiv.org/abs/2510.19562
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19562v1 Announce Type: new  Abstract: Comprehending natural
-    language and following human instructions are critical capabilities for intelligent
-    agen…'
-  title: 'DAIL: Beyond Task Ambiguity for Language-Conditioned Reinforcement Learning'
-- id: oai:arXiv.org:2510.19631v1
-  link: https://arxiv.org/abs/2510.19631
-  published: '2025-10-23T04:00:00Z'
-  summary: 'arXiv:2510.19631v1 Announce Type: new  Abstract: Effective deep search
-    agents must not only access open-domain and domain-specific knowledge but also
-    apply com…'
-  title: 'HSCodeComp: A Realistic and Expert-level Benchmark for Deep Search Agents
-    in Hierarchical Rule Application'
+- id: oai:arXiv.org:2510.19835v1
+  link: https://arxiv.org/abs/2510.19835
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.19835v1 Announce Type: new  Abstract: We propose and evaluate
+    a quantum-inspired algorithm for solving Quadratic Unconstrained Binary Optimization
+    (…'
+  title: A Quantum-Inspired Algorithm for Solving Sudoku Puzzles and the MaxCut Problem
+- id: oai:arXiv.org:2510.19836v1
+  link: https://arxiv.org/abs/2510.19836
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.19836v1 Announce Type: new  Abstract: Artificial intelligence
+    and machine learning are increasingly used for forecasting, optimization, and
+    policy d…'
+  title: Benchmarking Reasoning Reliability in Artificial Intelligence Models for
+    Energy-System Analysis
+- id: oai:arXiv.org:2510.19838v1
+  link: https://arxiv.org/abs/2510.19838
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.19838v1 Announce Type: new  Abstract: Autonomous web agents
+    powered by large language models (LLMs) show strong potential for performing goal-orient…'
+  title: 'Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured
+    Reasoning and Action Memory'
+- id: oai:arXiv.org:2510.19842v1
+  link: https://arxiv.org/abs/2510.19842
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.19842v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) demonstrate strong performance on mathematical problems when prompted with
+    Chain-…'
+  title: 'DAG-Math: Graph-Guided Mathematical Reasoning in LLMs'
+- id: oai:arXiv.org:2510.19949v1
+  link: https://arxiv.org/abs/2510.19949
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.19949v1 Announce Type: new  Abstract: Building agents that
+    generalize across web, desktop, and mobile environments remains an open challenge,
+    as pri…'
+  title: 'Surfer 2: The Next Generation of Cross-Platform Computer Use Agents'
+- id: oai:arXiv.org:2510.19954v1
+  link: https://arxiv.org/abs/2510.19954
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.19954v1 Announce Type: new  Abstract: Relational multi-table
+    data is common in domains such as e-commerce, healthcare, and scientific research,
+    and…'
+  title: 'RELATE: A Schema-Agnostic Perceiver Encoder for Multimodal Relational Graphs'
+- id: oai:arXiv.org:2510.19957v1
+  link: https://arxiv.org/abs/2510.19957
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.19957v1 Announce Type: new  Abstract: Generative AI is supercharging
+    insurance fraud by making it easier to falsify accident evidence at scale and
+    i…'
+  title: A new wave of vehicle insurance fraud fueled by generative AI
+- id: oai:arXiv.org:2510.19964v1
+  link: https://arxiv.org/abs/2510.19964
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.19964v1 Announce Type: new  Abstract: The study explores the
+    potential of AI technologies in personalized learning, suggesting the prediction
+    of aca…'
+  title: 'AI-Driven Personalized Learning: Predicting Academic Per-formance Through
+    Leadership Personality Traits'
+- id: oai:arXiv.org:2510.20075v1
+  link: https://arxiv.org/abs/2510.20075
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.20075v1 Announce Type: new  Abstract: A meaningful text can
+    be hidden inside another, completely different yet still coherent and plausible,
+    text of…'
+  title: LLMs can hide text in other text of the same length.ipynb
+- id: oai:arXiv.org:2510.20099v1
+  link: https://arxiv.org/abs/2510.20099
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.20099v1 Announce Type: new  Abstract: We present AI PB, a production-scale
+    generative agent deployed in real retail finance. Unlike reactive chatbot…'
+  title: 'AI PB: A Grounded Generative Agent for Personalized Investment Insights'
+- id: oai:arXiv.org:2510.20102v1
+  link: https://arxiv.org/abs/2510.20102
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.20102v1 Announce Type: new  Abstract: We present HCLA, a human-centered
+    multi-agent system for anomaly detection in digital asset transactions. The…'
+  title: Human-Centered LLM-Agent System for Detecting Anomalous Digital Asset Transactions
+- id: oai:arXiv.org:2510.20109v1
+  link: https://arxiv.org/abs/2510.20109
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.20109v1 Announce Type: new  Abstract: It is often claimed that
+    machine learning-based generative AI products will drastically streamline and
+    reduce…'
+  title: 'The Verification-Value Paradox: A Normative Critique of Gen AI in Legal
+    Practice'
+- id: oai:arXiv.org:2510.20188v1
+  link: https://arxiv.org/abs/2510.20188
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.20188v1 Announce Type: new  Abstract: Large Language Models
+    generate complex reasoning chains that reveal their decision-making, yet verifying
+    the f…'
+  title: 'TRUST: A Decentralized Framework for Auditing Large Language Model Reasoning'
+- id: oai:arXiv.org:2510.20190v1
+  link: https://arxiv.org/abs/2510.20190
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.20190v1 Announce Type: new  Abstract: Large language models
+    (LLMs) remain broadly open and highly steerable: they imitate at scale, accept
+    arbitrary…'
+  title: 'The Lock-In Phase Hypothesis: Identity Consolidation as a Precursor to AGI'
+- id: oai:arXiv.org:2510.20205v1
+  link: https://arxiv.org/abs/2510.20205
+  published: '2025-10-24T04:00:00Z'
+  summary: 'arXiv:2510.20205v1 Announce Type: new  Abstract: Optimizing artificial
+    intelligence (AI) for dynamic environments remains a fundamental challenge in
+    machine le…'
+  title: 'Merge and Conquer: Evolutionarily Optimizing AI for 2048'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL
