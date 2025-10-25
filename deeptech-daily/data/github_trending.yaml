@@ -1,41 +1,69 @@
-fetched_at: '2025-10-24T05:31:14Z'
-generated_at: '2025-10-24T05:31:14Z'
-hash: 4f230793849d0dd7100e0fc3034431cc0f1e717b112c731cbe0514f6897fa33b
+fetched_at: '2025-10-25T05:30:18Z'
+generated_at: '2025-10-25T05:30:18Z'
+hash: 94a15b91aef49672db1a8d28f222b38504855878d3f8d23cd063b9a5503f4ce7
 items:
 - created_at: '2025-10-23T19:39:04Z'
   description: Demystify AI agents by building them yourself. Local LLMs, no black
     boxes, real understanding of function calling, memory, and ReAct patterns.
   full_name: pguso/ai-agents-from-scratch
   html_url: https://github.com/pguso/ai-agents-from-scratch
-  stargazers_count: 124
+  stargazers_count: 329
 - created_at: '2025-10-23T14:51:47Z'
   description: Rails middleware for LLM-optimized error messages
   full_name: panozzaj/plain_errors
   html_url: https://github.com/panozzaj/plain_errors
-  stargazers_count: 28
+  stargazers_count: 45
 - created_at: '2025-10-22T03:04:37Z'
   description: 'The official implement of paper 《DaMo: Data Mixing Optimizer in Fine-tuning
     Multimodal LLMs for Mobile Phone Agents》'
   full_name: OPPO-Mente-Lab/DaMo
   html_url: https://github.com/OPPO-Mente-Lab/DaMo
   stargazers_count: 26
-- created_at: '2025-10-18T03:43:16Z'
-  description: Home Assistant LLM integration for local OpenAI-compatible services
-    (llamacpp, vllm, etc)
-  full_name: skye-harris/hass_local_openai_llm
-  html_url: https://github.com/skye-harris/hass_local_openai_llm
-  stargazers_count: 24
 - created_at: '2025-10-20T04:30:53Z'
   description: LangChain-Compatible Wrapper for Any Private LLM APIs
   full_name: tranngocphu/custom_langchain_chat_model
   html_url: https://github.com/tranngocphu/custom_langchain_chat_model
-  stargazers_count: 17
+  stargazers_count: 20
+- created_at: '2025-10-22T12:03:01Z'
+  description: Adding guardrails to large language models.
+  full_name: openguardrails/openguardrails
+  html_url: https://github.com/openguardrails/openguardrails
+  stargazers_count: 16
+- created_at: '2025-10-23T13:11:40Z'
+  description: '[DATE''2025, ICCAD''2025] An embedded FPGA-based LLM accelerator capable
+    of supporting Llama2-7B'
+  full_name: adamgallas/llama-fpga
+  html_url: https://github.com/adamgallas/llama-fpga
+  stargazers_count: 14
+- created_at: '2025-10-24T10:00:32Z'
+  description: Fix the Billion Dollar Mistake with an LLM
+  full_name: barodeur/llm_rescuer
+  html_url: https://github.com/barodeur/llm_rescuer
+  stargazers_count: 14
 - created_at: '2025-10-19T20:34:14Z'
   description: 'Official PyTorch implementation of ProCLIP: Progressive Vision-Language
     Alignment via LLM-based Embedder'
   full_name: VisionXLab/ProCLIP
   html_url: https://github.com/VisionXLab/ProCLIP
   stargazers_count: 13
+- created_at: '2025-10-22T18:17:32Z'
+  description: 🎒 Token-Oriented Object Notation – JSON for LLMs at half the token
+    cost
+  full_name: johannschopplich/toon
+  html_url: https://github.com/johannschopplich/toon
+  stargazers_count: 13
+- created_at: '2025-10-23T19:05:09Z'
+  description: Open Source AI Platform - AI Chat with advanced features that works
+    with every LLM
+  full_name: onyx-dot-app/onyx-foss
+  html_url: https://github.com/onyx-dot-app/onyx-foss
+  stargazers_count: 13
+- created_at: '2025-10-19T14:33:50Z'
+  description: 'Official implementation of our paper: "Utility-Diversity Aware Online
+    Batch Selection for LLM Supervised Fine-tuning."'
+  full_name: gfyddha/UDS
+  html_url: https://github.com/gfyddha/UDS
+  stargazers_count: 12
 - created_at: '2025-10-21T07:14:50Z'
   description: JAX implementation of configurable LLM distillation training
   full_name: zlab-princeton/llm-distillation-jax
@@ -53,30 +81,24 @@ items:
   full_name: 1012537710/MLLM-ISU
   html_url: https://github.com/1012537710/MLLM-ISU
   stargazers_count: 10
-- created_at: '2025-10-22T18:17:32Z'
-  description: ✂️ Token-Oriented Object Notation – JSON for LLMs at half the token
-    cost
-  full_name: johannschopplich/toon
-  html_url: https://github.com/johannschopplich/toon
-  stargazers_count: 10
-- created_at: '2025-10-18T11:36:38Z'
-  description: LLM-managed skills platform using MCP - create, edit, and execute skills
-    programmatically in Claude, Cursor, and any MCP-compatible client without manual
-    file…
-  full_name: fkesheh/skill-mcp
-  html_url: https://github.com/fkesheh/skill-mcp
-  stargazers_count: 9
-- created_at: '2025-10-19T14:33:50Z'
-  description: 'Official implementation of our paper: "Utility-Diversity Aware Online
-    Batch Selection for LLM Supervised Fine-tuning."'
-  full_name: gfyddha/UDS
-  html_url: https://github.com/gfyddha/UDS
+- created_at: '2025-10-23T07:24:03Z'
+  description: This repository contains a full RAG application using Terraform as
+    IaC, LangChain as framework, AWS Bedrock as LLM and Embedding Models, AWS OpenSearch
+    as a ve…
+  full_name: ai-28/Scalable-RAG-in-AWS-with-Fargate
+  html_url: https://github.com/ai-28/Scalable-RAG-in-AWS-with-Fargate
   stargazers_count: 9
 - created_at: '2025-10-19T14:42:50Z'
   description: 'RulePilot: the first language- and theory-agonistic SIEM Rule generation
     engine via LLM agents'
   full_name: LLM4SOC-Topic/RulePilot
   html_url: https://github.com/LLM4SOC-Topic/RulePilot
+  stargazers_count: 8
+- created_at: '2025-10-19T16:48:07Z'
+  description: 'The official implementation of the paper "MLP Memory: A Retriever-Pretrained
+    Memory for Large Language Models".'
+  full_name: Rubin-Wei/MLPMemory
+  html_url: https://github.com/Rubin-Wei/MLPMemory
   stargazers_count: 8
 - created_at: '2025-10-21T08:10:10Z'
   description: 'Official repo for NeurIPS 2025 poster - ShapeCraft: LLM Agents for
@@ -91,32 +113,10 @@ items:
   full_name: TimmyOVO/freshrss-filter
   html_url: https://github.com/TimmyOVO/freshrss-filter
   stargazers_count: 8
-- created_at: '2025-10-19T16:48:07Z'
-  description: 'The official implementation of the paper "MLP Memory: A Retriever-Pretrained
-    Memory for Large Language Models".'
-  full_name: Rubin-Wei/MLPMemory
-  html_url: https://github.com/Rubin-Wei/MLPMemory
-  stargazers_count: 7
 - created_at: '2025-10-21T01:24:52Z'
   description: Codebase for EMNLP 2025 Findings paper "Text or Pixels? Evaluating
     Efficiency and Understanding of LLMs with Visual Text Inputs"
   full_name: yanhong-lbh/text_or_pixels
   html_url: https://github.com/yanhong-lbh/text_or_pixels
-  stargazers_count: 7
-- created_at: '2025-10-21T07:52:19Z'
-  description: 一份面向开发者的开源教程，用于系统学习如何构建、部署和优化基于大语言模型（LLM）的智能应用。
-  full_name: NuyoahCh/LLMForge
-  html_url: https://github.com/NuyoahCh/LLMForge
-  stargazers_count: 6
-- created_at: '2025-10-19T10:53:42Z'
-  description: A structured index of Common Lisp systems, packages, and code examples
-    — organized for semantic search and LLM-assisted discovery.
-  full_name: ocicl/LispIndex
-  html_url: https://github.com/ocicl/LispIndex
-  stargazers_count: 6
-- created_at: '2025-10-22T12:03:01Z'
-  description: Adding guardrails to large language models.
-  full_name: openguardrails/openguardrails
-  html_url: https://github.com/openguardrails/openguardrails
-  stargazers_count: 5
+  stargazers_count: 8
 source_url: https://api.github.com/search/repositories

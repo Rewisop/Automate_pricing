@@ -17,17 +17,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -105,6 +107,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [TRUST: A Decentralized Framework for Auditing Large Language Model Reasoning](https://arxiv.org/abs/2510.20188) — arXiv:2510.20188v1 Announce Type: new  Abstract: Large Language Models generate complex reasoning chains that reveal their decision-making, yet verifying the f…
 - [The Lock-In Phase Hypothesis: Identity Consolidation as a Precursor to AGI](https://arxiv.org/abs/2510.20190) — arXiv:2510.20190v1 Announce Type: new  Abstract: Large language models (LLMs) remain broadly open and highly steerable: they imitate at scale, accept arbitrary…
 - [Merge and Conquer: Evolutionarily Optimizing AI for 2048](https://arxiv.org/abs/2510.20205) — arXiv:2510.20205v1 Announce Type: new  Abstract: Optimizing artificial intelligence (AI) for dynamic environments remains a fundamental challenge in machine le…
+
+_Showing cached data from 2025-10-24T05:31:14Z. Refresh failed: no arXiv entries retrieved._
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -134,26 +138,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error
 <!--GHTREND:START-->
 | Repository                              |   Stars | Description                                                                                                                                                      |
 |-----------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| pguso/ai-agents-from-scratch            |     124 | Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.                   |
-| panozzaj/plain_errors                   |      28 | Rails middleware for LLM-optimized error messages                                                                                                                |
+| pguso/ai-agents-from-scratch            |     329 | Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.                   |
+| panozzaj/plain_errors                   |      45 | Rails middleware for LLM-optimized error messages                                                                                                                |
 | OPPO-Mente-Lab/DaMo                     |      26 | The official implement of paper 《DaMo: Data Mixing Optimizer in Fine-tuning Multimodal LLMs for Mobile Phone Agents》                                             |
-| skye-harris/hass_local_openai_llm       |      24 | Home Assistant LLM integration for local OpenAI-compatible services (llamacpp, vllm, etc)                                                                        |
-| tranngocphu/custom_langchain_chat_model |      17 | LangChain-Compatible Wrapper for Any Private LLM APIs                                                                                                            |
+| tranngocphu/custom_langchain_chat_model |      20 | LangChain-Compatible Wrapper for Any Private LLM APIs                                                                                                            |
+| openguardrails/openguardrails           |      16 | Adding guardrails to large language models.                                                                                                                      |
+| adamgallas/llama-fpga                   |      14 | [DATE'2025, ICCAD'2025] An embedded FPGA-based LLM accelerator capable of supporting Llama2-7B                                                                   |
+| barodeur/llm_rescuer                    |      14 | Fix the Billion Dollar Mistake with an LLM                                                                                                                       |
 | VisionXLab/ProCLIP                      |      13 | Official PyTorch implementation of ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder                                                         |
+| johannschopplich/toon                   |      13 | 🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost                                                                                          |
+| onyx-dot-app/onyx-foss                  |      13 | Open Source AI Platform - AI Chat with advanced features that works with every LLM                                                                               |
+| gfyddha/UDS                             |      12 | Official implementation of our paper: "Utility-Diversity Aware Online Batch Selection for LLM Supervised Fine-tuning."                                           |
 | zlab-princeton/llm-distillation-jax     |      12 | JAX implementation of configurable LLM distillation training                                                                                                     |
 | kristaller486/RuQualBench               |      11 | RuQualBench: A benchmark for evaluating the quality of the Russian language in LLM responses                                                                     |
 | 1012537710/MLLM-ISU                     |      10 | The First-Ever Comprehensive Benchmark for Multimodal Large Language Models based Intrusion Scene Understanding                                                  |
-| johannschopplich/toon                   |      10 | ✂️ Token-Oriented Object Notation – JSON for LLMs at half the token cost                                                                                         |
-| fkesheh/skill-mcp                       |       9 | LLM-managed skills platform using MCP - create, edit, and execute skills programmatically in Claude, Cursor, and any MCP-compatible client without manual file…  |
-| gfyddha/UDS                             |       9 | Official implementation of our paper: "Utility-Diversity Aware Online Batch Selection for LLM Supervised Fine-tuning."                                           |
+| ai-28/Scalable-RAG-in-AWS-with-Fargate  |       9 | This repository contains a full RAG application using Terraform as IaC, LangChain as framework, AWS Bedrock as LLM and Embedding Models, AWS OpenSearch as a ve… |
 | LLM4SOC-Topic/RulePilot                 |       8 | RulePilot: the first language- and theory-agonistic SIEM Rule generation engine via LLM agents                                                                   |
+| Rubin-Wei/MLPMemory                     |       8 | The official implementation of the paper "MLP Memory: A Retriever-Pretrained Memory for Large Language Models".                                                  |
 | SanBingYouYong/shapecraft               |       8 | Official repo for NeurIPS 2025 poster - ShapeCraft: LLM Agents for Structured, Textured and Interactive 3D Modeling.                                             |
 | TimmyOVO/freshrss-filter                |       8 | AI-Powered RSS Content Filter - Automatically remove ads, sponsored content, and low-quality articles from your FreshRSS feeds using LLM intelligence. Set it &… |
-| Rubin-Wei/MLPMemory                     |       7 | The official implementation of the paper "MLP Memory: A Retriever-Pretrained Memory for Large Language Models".                                                  |
-| yanhong-lbh/text_or_pixels              |       7 | Codebase for EMNLP 2025 Findings paper "Text or Pixels? Evaluating Efficiency and Understanding of LLMs with Visual Text Inputs"                                 |
-| NuyoahCh/LLMForge                       |       6 | 一份面向开发者的开源教程，用于系统学习如何构建、部署和优化基于大语言模型（LLM）的智能应用。                                                                                                                  |
-| ocicl/LispIndex                         |       6 | A structured index of Common Lisp systems, packages, and code examples — organized for semantic search and LLM-assisted discovery.                               |
-| openguardrails/openguardrails           |       5 | Adding guardrails to large language models.                                                                                                                      |
+| yanhong-lbh/text_or_pixels              |       8 | Codebase for EMNLP 2025 Findings paper "Text or Pixels? Evaluating Efficiency and Understanding of LLMs with Visual Text Inputs"                                 |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -163,34 +167,30 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/) — 553 points
-- [OpenAI acquires Sky.app](https://openai.com/index/openai-acquires-software-applications-incorporated) — 154 points
-- [New updates and more access to Google Earth AI](https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/) — 135 points
-- [Show HN: Deta Surf – An open source and local-first AI notebook](https://github.com/deta/surf) — 118 points
-- [Reasoning is not model improvement](https://manidoraisamy.com/reasoning-not-ai.html) — 52 points
-- [One in five security breaches now thought to be caused by AI-written code](https://www.techradar.com/pro/security/one-in-five-security-breaches-now-thought-to-be-caused-by-ai-written-code) — 30 points
-- [Two days after OpenAI's Atlas, Microsoft launches a nearly identical AI browser](https://techcrunch.com/2025/10/23/two-days-after-openais-atlas-microsoft-launches-a-nearly-identical-ai-browser/) — 12 points
-- [Guillermo del Toro: 'I'd rather die' than use generative AI](https://www.npr.org/2025/10/23/nx-s1-5577963/guillermo-del-toro-frankenstein) — 11 points
-- [I spent the past 2 months trying out every hyped AI coding workflow I could find](https://handmadeoasis.com/state-of-ai-assisted-workflows-october-2025/) — 10 points
-- [Show HN: Coyote – Wildly Real-Time AI](https://getcoyote.app) — 7 points
-- [Data centers turn to commercial aircraft jet engines as AI power crunch bites](https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites) — 5 points
-- [Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618) — 5 points
+- [ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361) — 86 points
+- [Reddit's 'AI Scraping' Lawsuit Is an Attack on the Open Internet](https://www.techdirt.com/2025/10/24/reddits-ai-scraping-lawsuit-is-an-attack-on-the-open-internet/) — 16 points
+- [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai) — 16 points
+- [Show HN: LLM Rescuer – Fixing the billion dollar mistake in Ruby](https://github.com/barodeur/llm_rescuer) — 12 points
+- [Amazon's AWS Is Slowed by Bloat as Competitors Clinch AI Deals](https://www.bloomberg.com/news/features/2025-10-24/amazon-s-aws-is-slowed-by-bloat-as-competitors-clinch-ai-deals) — 9 points
+- [The design space of AI coding tools](https://austinhenley.com/blog/aidesignspace.html) — 7 points
+- [Is AI's Circular Financing Inflating a Bubble? [video]](https://www.youtube.com/watch?v=NbL7yZCF-6Q) — 7 points
+- [OpenAI and Anthropic vs. app developers: tech's Cronos syndrome](https://www.economist.com/business/2025/10/23/openai-and-anthropic-v-app-developers-techs-cronos-syndrome) — 6 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE            |   CVSS | Summary                                                |
-|----------------|--------|--------------------------------------------------------|
-| MAL-2025-48402 |      0 | Malicious code in wt-react (npm)                       |
-| MAL-2025-48312 |      0 | Malicious code in superbet-icons (npm)                 |
-| MAL-2025-48313 |      0 | Malicious code in vue-analytics-plugin (npm)           |
-| MAL-2025-48317 |      0 | Malicious code in cloak-withdraw-proofs (npm)          |
-| MAL-2025-48459 |      0 | Malicious code in iwf-ant-design-draggable-modal (npm) |
-| CVE-2025-62831 |      0 |                                                        |
-| CVE-2025-62832 |      0 |                                                        |
-| CVE-2025-62833 |      0 |                                                        |
-| CVE-2025-62834 |      0 |                                                        |
-| CVE-2025-62835 |      0 |                                                        |
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| GHSA-q462-4hrv-w27r |      0 |           |
+| CVE-2025-36002      |      0 |           |
+| CVE-2025-36361      |      0 |           |
+| CVE-2025-11760      |      0 |           |
+| GHSA-hw4m-rcv3-9qvf |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

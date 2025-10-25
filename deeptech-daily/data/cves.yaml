@@ -1,45 +1,45 @@
-fetched_at: '2025-10-24T05:31:14Z'
-generated_at: '2025-10-24T05:31:14Z'
-hash: 605d079f41cbc0ba8034aa4b5447ff076ca341c60fc5e91937274347d43b0ec3
+fetched_at: '2025-10-25T05:30:18Z'
+generated_at: '2025-10-25T05:30:18Z'
+hash: ff3e60186e37485e511b9ffde11afa075afb0f6ea6faad4ba9ce1f181d3ba520
 items:
 - cvss: 0.0
-  id: MAL-2025-48402
-  published: '2025-10-10T16:11:08Z'
-  summary: Malicious code in wt-react (npm)
-- cvss: 0.0
-  id: MAL-2025-48312
-  published: '2025-10-10T17:55:45Z'
-  summary: Malicious code in superbet-icons (npm)
-- cvss: 0.0
-  id: MAL-2025-48313
-  published: '2025-10-10T18:10:37Z'
-  summary: Malicious code in vue-analytics-plugin (npm)
-- cvss: 0.0
-  id: MAL-2025-48317
-  published: '2025-10-12T14:52:58Z'
-  summary: Malicious code in cloak-withdraw-proofs (npm)
-- cvss: 0.0
-  id: MAL-2025-48459
-  published: '2025-10-18T14:03:26Z'
-  summary: Malicious code in iwf-ant-design-draggable-modal (npm)
-- cvss: 0.0
-  id: CVE-2025-62831
-  published: '2025-10-24T03:15:36Z'
+  id: GHSA-q462-4hrv-w27r
+  published: '2023-12-13T00:30:37Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-62832
-  published: '2025-10-24T03:15:36Z'
+  id: CVE-2025-36002
+  published: '2025-10-16T15:15:33Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-62833
-  published: '2025-10-24T03:15:36Z'
+  id: CVE-2025-36361
+  published: '2025-10-24T10:15:38Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-62834
-  published: '2025-10-24T03:15:36Z'
+  id: CVE-2025-11760
+  published: '2025-10-25T02:15:38Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-62835
-  published: '2025-10-24T03:15:36Z'
+  id: GHSA-hw4m-rcv3-9qvf
+  published: '2025-10-25T03:30:26Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-25T05:30:18Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-25T05:30:18Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-25T05:30:18Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-25T05:30:18Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-10-25T05:30:18Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last
