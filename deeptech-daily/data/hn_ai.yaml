@@ -1,45 +1,25 @@
-fetched_at: '2025-10-25T05:30:18Z'
-generated_at: '2025-10-25T05:30:18Z'
-hash: 90f495d96b2233c2618ae5214859f426594cb19aeb8f0125ec1ab88e7cb0eb19
+fetched_at: '2025-10-26T05:30:21Z'
+generated_at: '2025-10-26T05:30:21Z'
+hash: 2f8644f7cbd4560c16af524e98276b757a36ba5ab90784eda5e11425fd222226
 items:
-- id: 45693591
-  score: 86
-  time: '2025-10-24T11:41:26Z'
-  title: 'ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference'
-  url: https://arxiv.org/abs/2510.02361
-- id: 45700167
-  score: 16
-  time: '2025-10-24T23:35:56Z'
-  title: Reddit's 'AI Scraping' Lawsuit Is an Attack on the Open Internet
-  url: https://www.techdirt.com/2025/10/24/reddits-ai-scraping-lawsuit-is-an-attack-on-the-open-internet/
-- id: 45700720
-  score: 16
-  time: '2025-10-25T01:36:10Z'
-  title: 'Deepagent: A powerful desktop AI assistant'
-  url: https://deepagent.abacus.ai
-- id: 45694051
-  score: 12
-  time: '2025-10-24T12:44:52Z'
-  title: 'Show HN: LLM Rescuer – Fixing the billion dollar mistake in Ruby'
-  url: https://github.com/barodeur/llm_rescuer
-- id: 45698347
-  score: 9
-  time: '2025-10-24T19:41:05Z'
-  title: Amazon's AWS Is Slowed by Bloat as Competitors Clinch AI Deals
-  url: https://www.bloomberg.com/news/features/2025-10-24/amazon-s-aws-is-slowed-by-bloat-as-competitors-clinch-ai-deals
-- id: 45700816
-  score: 7
-  time: '2025-10-25T01:58:29Z'
-  title: The design space of AI coding tools
-  url: https://austinhenley.com/blog/aidesignspace.html
-- id: 45701188
-  score: 7
-  time: '2025-10-25T03:35:57Z'
-  title: Is AI's Circular Financing Inflating a Bubble? [video]
-  url: https://www.youtube.com/watch?v=NbL7yZCF-6Q
-- id: 45694452
-  score: 6
-  time: '2025-10-24T13:32:49Z'
-  title: 'OpenAI and Anthropic vs. app developers: tech''s Cronos syndrome'
-  url: https://www.economist.com/business/2025/10/23/openai-and-anthropic-v-app-developers-techs-cronos-syndrome
+- id: 45708066
+  score: 252
+  time: '2025-10-26T00:29:51Z'
+  title: I'm drowning in AI features I never asked for and I hate it
+  url: https://www.makeuseof.com/ai-features-being-rammed-down-our-throats/
+- id: 45702363
+  score: 166
+  time: '2025-10-25T09:02:14Z'
+  title: 'Tell HN: OpenAI now requires ID verification and won''t refund API credits'
+  url: https://news.ycombinator.com/item?id=45702363
+- id: 45706518
+  score: 76
+  time: '2025-10-25T19:57:48Z'
+  title: AI, Wikipedia, and uncorrected machine translations of vulnerable languages
+  url: https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/
+- id: 45703040
+  score: 10
+  time: '2025-10-25T11:37:04Z'
+  title: AI can turn us into a society of p-zombies
+  url: https://prahladyeri.github.io/blog/2025/10/how-ai-can-turn-us-into-society-of-p-zombies.html
 source_url: https://hacker-news.firebaseio.com/
