@@ -1,25 +1,51 @@
-fetched_at: '2025-10-26T05:30:21Z'
-generated_at: '2025-10-26T05:30:21Z'
-hash: 2f8644f7cbd4560c16af524e98276b757a36ba5ab90784eda5e11425fd222226
+fetched_at: '2025-10-27T05:33:40Z'
+generated_at: '2025-10-27T05:33:40Z'
+hash: 41b8d4085198720d6ea450d7ae80413658635cef7a9d836421db5cd089e654c1
 items:
-- id: 45708066
-  score: 252
-  time: '2025-10-26T00:29:51Z'
-  title: I'm drowning in AI features I never asked for and I hate it
-  url: https://www.makeuseof.com/ai-features-being-rammed-down-our-throats/
-- id: 45702363
-  score: 166
-  time: '2025-10-25T09:02:14Z'
-  title: 'Tell HN: OpenAI now requires ID verification and won''t refund API credits'
-  url: https://news.ycombinator.com/item?id=45702363
-- id: 45706518
-  score: 76
-  time: '2025-10-25T19:57:48Z'
-  title: AI, Wikipedia, and uncorrected machine translations of vulnerable languages
-  url: https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/
-- id: 45703040
+- id: 45716296
+  score: 159
+  time: '2025-10-27T00:43:32Z'
+  title: ICE Will Use AI to Surveil Social Media
+  url: https://jacobin.com/2025/10/ice-zignal-surveillance-social-media
+- id: 45715819
+  score: 92
+  time: '2025-10-26T22:54:23Z'
+  title: AI Mafia Network – An interactive visualization
+  url: https://dipakwani.com/ai-mafia/
+- id: 45713367
+  score: 63
+  time: '2025-10-26T16:57:44Z'
+  title: Books by People – Defending Organic Literature in an AI World
+  url: https://booksbypeople.org/
+- id: 45710454
+  score: 41
+  time: '2025-10-26T09:53:24Z'
+  title: 'Show HN: Create-LLM – Train your own LLM in 60 seconds'
+  url: https://github.com/theaniketgiri/create-llm
+- id: 45715652
+  score: 21
+  time: '2025-10-26T22:23:06Z'
+  title: You Have No Idea How Screwed OpenAI Is
+  url: https://www.planetearthandbeyond.co/p/you-have-no-idea-how-screwed-openai
+- id: 45714586
+  score: 12
+  time: '2025-10-26T19:33:11Z'
+  title: The glaring security risks with AI browser agents
+  url: https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/
+- id: 45715579
   score: 10
-  time: '2025-10-25T11:37:04Z'
-  title: AI can turn us into a society of p-zombies
-  url: https://prahladyeri.github.io/blog/2025/10/how-ai-can-turn-us-into-society-of-p-zombies.html
+  time: '2025-10-26T22:09:56Z'
+  title: Student handcuffed after Doritos bag mistaken for a gun by AI security system
+  url: https://www.msn.com/en-us/news/us/ar-AA1Pavwq
+- id: 45716142
+  score: 7
+  time: '2025-10-27T00:07:51Z'
+  title: 'Fluxwing: ASCII-first UX design system with derivation model'
+  url: https://fluxwing.com
+- id: 45716303
+  score: 4
+  time: '2025-10-27T00:45:51Z'
+  title: Oz Labor Gov rules out giving tech giants free rein to mine IPR to train
+    AI
+  url: https://www.theguardian.com/technology/2025/oct/27/labor-rules-out-giving-tech-giants-free-rein-to-mine-copyright-content-to-train-ai
 source_url: https://hacker-news.firebaseio.com/

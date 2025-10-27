@@ -1,45 +1,45 @@
-fetched_at: '2025-10-26T05:30:21Z'
-generated_at: '2025-10-26T05:30:21Z'
-hash: 1395cdce349958a5f0c525b4b564f2ee75c293762215f0bd7d1be26bebf1d9f2
+fetched_at: '2025-10-27T05:33:40Z'
+generated_at: '2025-10-27T05:33:40Z'
+hash: 73f73a57312f91235a70357cc2c6f7268fd79c4ac250c380ddd49fc0fe220a09
 items:
 - cvss: 0.0
-  id: null
-  published: '2025-10-26T05:30:21Z'
+  id: MAL-2025-48609
+  published: '2025-10-27T03:18:05Z'
+  summary: Malicious code in ember-simplepractice (npm)
+- cvss: 0.0
+  id: GHSA-p98w-mx82-xhg4
+  published: '2025-10-27T03:30:39Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-10-26T05:30:21Z'
+  id: GHSA-p9x7-3xvx-2h65
+  published: '2025-10-27T03:30:39Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-10-26T05:30:21Z'
+  id: GHSA-prw8-6vx3-vrxm
+  published: '2025-10-27T03:30:39Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-10-26T05:30:21Z'
+  id: GHSA-qc8p-jp3g-x9hm
+  published: '2025-10-27T03:30:39Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-10-26T05:30:21Z'
+  id: GHSA-qgvx-wfx5-x9qg
+  published: '2025-10-27T03:30:39Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-10-26T05:30:21Z'
+  id: GHSA-qvpv-xh75-74pw
+  published: '2025-10-27T03:30:39Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-10-26T05:30:21Z'
+  id: GHSA-r3xr-wm72-mg2w
+  published: '2025-10-27T03:30:39Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-10-26T05:30:21Z'
+  id: GHSA-rj3x-qp7v-5vp5
+  published: '2025-10-27T03:30:39Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-10-26T05:30:21Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2025-10-26T05:30:21Z'
+  id: GHSA-rqm5-mx2c-5fhp
+  published: '2025-10-27T03:30:39Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last
