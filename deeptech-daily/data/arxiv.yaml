@@ -1,117 +1,113 @@
-fetched_at: '2025-10-27T05:33:40Z'
-generated_at: '2025-10-27T05:33:40Z'
-hash: bf48155e42c340d6ccf27e74ab53d0cb1e143556769a70311f6210ca38b38f06
+fetched_at: '2025-10-29T05:33:03Z'
+generated_at: '2025-10-29T05:33:03Z'
+hash: 2692bc32559cea62c8e23d6526cb2c2090f72cbcdec2a006397f7cadc33581a3
 items:
-- id: oai:arXiv.org:2510.20838v1
-  link: https://arxiv.org/abs/2510.20838
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.20838v1 Announce Type: new  Abstract: This study introduces
-    a human-in-the-loop pipeline that converts unscaled, hand-drawn floor plan sketches
-    into…'
-  title: 'Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn
-    Floor Plans to 3D BIM'
-- id: oai:arXiv.org:2510.20849v1
-  link: https://arxiv.org/abs/2510.20849
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.20849v1 Announce Type: new  Abstract: In open-ended domains
-    like art, autonomous agents must generate ideas that are both original and internally
-    co…'
-  title: 'Cultural Alien Sampler: Open-ended art generation balancing originality
-    and coherence'
-- id: oai:arXiv.org:2510.20861v1
-  link: https://arxiv.org/abs/2510.20861
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.20861v1 Announce Type: new  Abstract: Fuzzy numbers are commonly
-    represented with fuzzy sets. Their objective is to better represent imprecise
-    data.…'
-  title: 'Fuzzy numbers revisited: operations on extensional fuzzy numbers'
-- id: oai:arXiv.org:2510.21027v1
-  link: https://arxiv.org/abs/2510.21027
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.21027v1 Announce Type: new  Abstract: Harmonizing medication
-    data across Electronic Health Record (EHR) systems is a persistent barrier to
-    monitorin…'
-  title: Customizing Open Source LLMs for Quantitative Medication Attribute Extraction
-    across Heterogeneous EHR Systems
-- id: oai:arXiv.org:2510.21043v1
-  link: https://arxiv.org/abs/2510.21043
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.21043v1 Announce Type: new  Abstract: When should we defer
-    to AI outputs over human expert judgment? Drawing on recent work in social epistemology,…'
-  title: Epistemic Deference to AI
-- id: oai:arXiv.org:2510.21045v1
-  link: https://arxiv.org/abs/2510.21045
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.21045v1 Announce Type: new  Abstract: The complexity of Structured
-    Query Language (SQL) and the specialized nature of geospatial functions in tools…'
-  title: 'From Questions to Queries: An AI-powered Multi-Agent Framework for Spatial
-    Text-to-SQL'
-- id: oai:arXiv.org:2510.21093v1
-  link: https://arxiv.org/abs/2510.21093
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.21093v1 Announce Type: new  Abstract: Recently, large models
-    have shown significant potential for smart healthcare. However, the deployment
-    of Large…'
-  title: 'MedAlign: A Synergistic Framework of Multimodal Preference Optimization
-    and Federated Meta-Cognitive Reasoning'
-- id: oai:arXiv.org:2510.21110v1
-  link: https://arxiv.org/abs/2510.21110
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.21110v1 Announce Type: new  Abstract: A key task in Artificial
-    Intelligence is learning effective policies for controlling agents in unknown
-    environ…'
-  title: 'Confounding Robust Deep Reinforcement Learning: A Causal Approach'
-- id: oai:arXiv.org:2510.21117v1
-  link: https://arxiv.org/abs/2510.21117
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.21117v1 Announce Type: new  Abstract: This paper presents a
-    first empirical study of agentic AI as autonomous decision-makers in decentralized
-    gover…'
-  title: 'DAO-AI: Evaluating Collective Decision-Making through Agentic AI in Decentralized
-    Governance'
-- id: oai:arXiv.org:2510.21143v1
-  link: https://arxiv.org/abs/2510.21143
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.21143v1 Announce Type: new  Abstract: Panic attacks are acute
-    episodes of fear and distress, in which timely, appropriate intervention can significa…'
-  title: 'PanicToCalm: A Proactive Counseling Agent for Panic Attacks'
-- id: oai:arXiv.org:2510.21144v1
-  link: https://arxiv.org/abs/2510.21144
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.21144v1 Announce Type: new  Abstract: Retrieval-Augmented Generation
-    (RAG) empowers Large Language Models (LLMs) to dynamically integrate external
-    k…'
-  title: 'NeuroGenPoisoning: Neuron-Guided Attacks on Retrieval-Augmented Generation
-    of LLM via Genetic Optimization of External Knowledge'
-- id: oai:arXiv.org:2510.21148v1
-  link: https://arxiv.org/abs/2510.21148
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.21148v1 Announce Type: new  Abstract: Designing optimal prompts
-    and reasoning processes for large language models (LLMs) on domain-specific tasks
-    is…'
-  title: How to Auto-optimize Prompts for Domain Tasks? Adaptive Prompting and Reasoning
-    through Evolutionary Domain Knowledge Adaptation
-- id: oai:arXiv.org:2510.21150v1
-  link: https://arxiv.org/abs/2510.21150
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.21150v1 Announce Type: new  Abstract: We introduce String Seed
-    of Thought (SSoT), a novel prompting method for LLMs that improves Probabilistic
-    Inst…'
-  title: 'String Seed of Thought: Prompting LLMs for Distribution-Faithful and Diverse
-    Generation'
-- id: oai:arXiv.org:2510.21175v1
-  link: https://arxiv.org/abs/2510.21175
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.21175v1 Announce Type: new  Abstract: Pre-trained vision-language
-    models (VLMs), such as CLIP, have demonstrated remarkable zero-shot generalization…'
-  title: Memory-Free Continual Learning with Null Space Adaptation for Zero-Shot Vision-Language
+- id: oai:arXiv.org:2510.23691v1
+  link: https://arxiv.org/abs/2510.23691
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23691v1 Announce Type: new  Abstract: We present Game-TARS,
+    a generalist game agent trained with a unified, scalable action space anchored
+    to human-…'
+  title: 'Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal
+    Game Agents'
+- id: oai:arXiv.org:2510.23734v1
+  link: https://arxiv.org/abs/2510.23734
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23734v1 Announce Type: new  Abstract: This paper examines the
+    role of artificial intelligence in scientific problem-solving, with a focus on
+    its imp…'
+  title: AI and the Decentering of Disciplinary Creativity
+- id: oai:arXiv.org:2510.23744v1
+  link: https://arxiv.org/abs/2510.23744
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23744v1 Announce Type: new  Abstract: Multi-environment POMDPs
+    (ME-POMDPs) extend standard POMDPs with discrete model uncertainty. ME-POMDPs
+    represe…'
+  title: 'Multi-Environment POMDPs: Discrete Model Uncertainty Under Partial Observability'
+- id: oai:arXiv.org:2510.23746v1
+  link: https://arxiv.org/abs/2510.23746
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23746v1 Announce Type: new  Abstract: Tandem Mass Spectrometry
+    enables the identification of unknown compounds in crucial fields such as metabolomic…'
+  title: Test-Time Tuned Language Models Enable End-to-end De Novo Molecular Structure
+    Generation from MS/MS Spectra
+- id: oai:arXiv.org:2510.23772v1
+  link: https://arxiv.org/abs/2510.23772
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23772v1 Announce Type: new  Abstract: The rapid advancement
+    of Generative AI has raised significant questions regarding its ability to produce
+    creat…'
+  title: 'Evaluating In Silico Creativity: An Expert Review of AI Chess Compositions'
+- id: oai:arXiv.org:2510.23807v1
+  link: https://arxiv.org/abs/2510.23807
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23807v1 Announce Type: new  Abstract: In non-medical domains,
+    foundation models (FMs) have revolutionized computer vision and language processing
+    th…'
+  title: Why Foundation Models in Pathology Are Failing
+- id: oai:arXiv.org:2510.23822v1
+  link: https://arxiv.org/abs/2510.23822
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23822v1 Announce Type: new  Abstract: Long-horizon tasks requiring
+    multi-step reasoning and dynamic re-planning remain challenging for large languag…'
+  title: 'ReCAP: Recursive Context-Aware Reasoning and Planning for Large Language
+    Model Agents'
+- id: oai:arXiv.org:2510.23824v1
+  link: https://arxiv.org/abs/2510.23824
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23824v1 Announce Type: new  Abstract: Coordinating multiple
+    autonomous agents in shared environments under decentralized conditions is a long-standi…'
+  title: Decentralized Multi-Agent Goal Assignment for Path Planning using Large Language
     Models
-- id: oai:arXiv.org:2510.21181v1
-  link: https://arxiv.org/abs/2510.21181
-  published: '2025-10-27T04:00:00Z'
-  summary: 'arXiv:2510.21181v1 Announce Type: new  Abstract: Causal relationship discovery
-    has been drawing increasing attention due to its prevalent application. Existing…'
-  title: 'Shylock: Causal Discovery in Multivariate Time Series based on Hybrid Constraints'
+- id: oai:arXiv.org:2510.23856v1
+  link: https://arxiv.org/abs/2510.23856
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23856v1 Announce Type: new  Abstract: Agents are rapidly advancing
+    in automating digital work, but enterprises face a harder challenge: moving beyon…'
+  title: 'From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise
+    Production'
+- id: oai:arXiv.org:2510.23881v1
+  link: https://arxiv.org/abs/2510.23881
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23881v1 Announce Type: new  Abstract: While Generative AI rapidly
+    advances in various domains, generating truly creative, aesthetic, and counter-int…'
+  title: Generating Creative Chess Puzzles
+- id: oai:arXiv.org:2510.23882v1
+  link: https://arxiv.org/abs/2510.23882
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23882v1 Announce Type: new  Abstract: This work investigates
+    the use of digital twins for dynamical system modeling and control, integrating
+    physics…'
+  title: Hybrid Modeling, Sim-to-Real Reinforcement Learning, and Large Language Model
+    Driven Control for Digital Twins
+- id: oai:arXiv.org:2510.23883v1
+  link: https://arxiv.org/abs/2510.23883
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23883v1 Announce Type: new  Abstract: Agentic AI systems powered
+    by large language models (LLMs) and endowed with planning, tool use, memory, and
+    au…'
+  title: 'Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges'
+- id: oai:arXiv.org:2510.23925v1
+  link: https://arxiv.org/abs/2510.23925
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23925v1 Announce Type: new  Abstract: Chain-of-thought (CoT)
+    reasoning is critical for improving the interpretability and reliability of Large
+    Visio…'
+  title: Latent Chain-of-Thought for Visual Reasoning
+- id: oai:arXiv.org:2510.23942v1
+  link: https://arxiv.org/abs/2510.23942
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23942v1 Announce Type: new  Abstract: We describe a theory
+    and implementation of an intuitionistic decentralized framework for causal discovery
+    usin…'
+  title: Decentralized Causal Discovery using Judo Calculus
+- id: oai:arXiv.org:2510.23965v1
+  link: https://arxiv.org/abs/2510.23965
+  published: '2025-10-29T04:00:00Z'
+  summary: 'arXiv:2510.23965v1 Announce Type: new  Abstract: Traditional LLM alignment
+    methods are vulnerable to heterogeneity in human preferences. Fitting a na\"ive
+    prob…'
+  title: 'The Sign Estimator: LLM Alignment in the Face of Choice Heterogeneity'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

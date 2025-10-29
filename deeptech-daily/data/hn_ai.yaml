@@ -1,51 +1,66 @@
-fetched_at: '2025-10-27T05:33:40Z'
-generated_at: '2025-10-27T05:33:40Z'
-hash: 41b8d4085198720d6ea450d7ae80413658635cef7a9d836421db5cd089e654c1
+fetched_at: '2025-10-29T05:33:03Z'
+generated_at: '2025-10-29T05:33:03Z'
+hash: b6feb6bce4258b88c46d6b91d40aabefae6916642244226d775c990b7f534d12
 items:
-- id: 45716296
-  score: 159
-  time: '2025-10-27T00:43:32Z'
-  title: ICE Will Use AI to Surveil Social Media
-  url: https://jacobin.com/2025/10/ice-zignal-surveillance-social-media
-- id: 45715819
-  score: 92
-  time: '2025-10-26T22:54:23Z'
-  title: AI Mafia Network – An interactive visualization
-  url: https://dipakwani.com/ai-mafia/
-- id: 45713367
-  score: 63
-  time: '2025-10-26T16:57:44Z'
-  title: Books by People – Defending Organic Literature in an AI World
-  url: https://booksbypeople.org/
-- id: 45710454
-  score: 41
-  time: '2025-10-26T09:53:24Z'
-  title: 'Show HN: Create-LLM – Train your own LLM in 60 seconds'
-  url: https://github.com/theaniketgiri/create-llm
-- id: 45715652
-  score: 21
-  time: '2025-10-26T22:23:06Z'
-  title: You Have No Idea How Screwed OpenAI Is
-  url: https://www.planetearthandbeyond.co/p/you-have-no-idea-how-screwed-openai
-- id: 45714586
-  score: 12
-  time: '2025-10-26T19:33:11Z'
-  title: The glaring security risks with AI browser agents
-  url: https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/
-- id: 45715579
-  score: 10
-  time: '2025-10-26T22:09:56Z'
-  title: Student handcuffed after Doritos bag mistaken for a gun by AI security system
-  url: https://www.msn.com/en-us/news/us/ar-AA1Pavwq
-- id: 45716142
-  score: 7
-  time: '2025-10-27T00:07:51Z'
-  title: 'Fluxwing: ASCII-first UX design system with derivation model'
-  url: https://fluxwing.com
-- id: 45716303
-  score: 4
-  time: '2025-10-27T00:45:51Z'
-  title: Oz Labor Gov rules out giving tech giants free rein to mine IPR to train
-    AI
-  url: https://www.theguardian.com/technology/2025/oct/27/labor-rules-out-giving-tech-giants-free-rein-to-mine-copyright-content-to-train-ai
+- id: 45734582
+  score: 885
+  time: '2025-10-28T15:58:58Z'
+  title: Using AI to negotiate a $195k hospital bill down to $33k
+  url: https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw
+- id: 45733707
+  score: 559
+  time: '2025-10-28T14:58:04Z'
+  title: 'EuroLLM: LLM made in Europe built to support all 24 official EU languages'
+  url: https://eurollm.io/
+- id: 45732350
+  score: 340
+  time: '2025-10-28T13:05:40Z'
+  title: The next chapter of the Microsoft–OpenAI partnership
+  url: https://openai.com/index/next-chapter-of-microsoft-openai-partnership/
+- id: 45731321
+  score: 231
+  time: '2025-10-28T11:03:59Z'
+  title: We need a clearer framework for AI-assisted contributions to open source
+  url: https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome
+- id: 45739080
+  score: 205
+  time: '2025-10-28T20:58:22Z'
+  title: Generative AI Image Editing Showdown
+  url: https://genai-showdown.specr.net/image-editing
+- id: 45733169
+  score: 184
+  time: '2025-10-28T14:13:25Z'
+  title: Our LLM-controlled office robot can't pass butter
+  url: https://andonlabs.com/evals/butter-bench
+- id: 45730411
+  score: 154
+  time: '2025-10-28T08:34:57Z'
+  title: Criminal complaint against facial recognition company Clearview AI
+  url: https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai
+- id: 45734696
+  score: 33
+  time: '2025-10-28T16:07:27Z'
+  title: 'Show HN: Dexto – Connect your AI Agents with real-world tools and data'
+  url: https://github.com/truffle-ai/dexto
+- id: 45740664
+  score: 30
+  time: '2025-10-28T23:27:52Z'
+  title: 'An ex-Intel CEO''s mission to build a Christian AI: Hasten the return of
+    Christ'
+  url: https://www.theguardian.com/technology/2025/oct/28/patrick-gelsinger-christian-ai-gloo-silicon-valley
+- id: 45740750
+  score: 16
+  time: '2025-10-28T23:37:06Z'
+  title: 'Ask HN: AI has changed my job for the worse'
+  url: https://news.ycombinator.com/item?id=45740750
+- id: 45741556
+  score: 9
+  time: '2025-10-29T01:30:43Z'
+  title: OpenAI Completes For-Profit Transition, Pushing Microsoft Above $4T
+  url: https://www.wsj.com/tech/ai/openai-converts-to-public-benefit-corporation-with-microsoft-taking-27-stake-714a6c05
+- id: 45741596
+  score: 6
+  time: '2025-10-29T01:35:45Z'
+  title: NDAs keep AI data center details hidden from Americans
+  url: https://www.nbcnews.com/tech/tech-news/data-center-ai-google-amazon-nda-non-disclosure-agreement-colossus-rcna236423
 source_url: https://hacker-news.firebaseio.com/

@@ -20,17 +20,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -96,21 +98,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM](https://arxiv.org/abs/2510.20838) — arXiv:2510.20838v1 Announce Type: new  Abstract: This study introduces a human-in-the-loop pipeline that converts unscaled, hand-drawn floor plan sketches into…
-- [Cultural Alien Sampler: Open-ended art generation balancing originality and coherence](https://arxiv.org/abs/2510.20849) — arXiv:2510.20849v1 Announce Type: new  Abstract: In open-ended domains like art, autonomous agents must generate ideas that are both original and internally co…
-- [Fuzzy numbers revisited: operations on extensional fuzzy numbers](https://arxiv.org/abs/2510.20861) — arXiv:2510.20861v1 Announce Type: new  Abstract: Fuzzy numbers are commonly represented with fuzzy sets. Their objective is to better represent imprecise data.…
-- [Customizing Open Source LLMs for Quantitative Medication Attribute Extraction across Heterogeneous EHR Systems](https://arxiv.org/abs/2510.21027) — arXiv:2510.21027v1 Announce Type: new  Abstract: Harmonizing medication data across Electronic Health Record (EHR) systems is a persistent barrier to monitorin…
-- [Epistemic Deference to AI](https://arxiv.org/abs/2510.21043) — arXiv:2510.21043v1 Announce Type: new  Abstract: When should we defer to AI outputs over human expert judgment? Drawing on recent work in social epistemology,…
-- [From Questions to Queries: An AI-powered Multi-Agent Framework for Spatial Text-to-SQL](https://arxiv.org/abs/2510.21045) — arXiv:2510.21045v1 Announce Type: new  Abstract: The complexity of Structured Query Language (SQL) and the specialized nature of geospatial functions in tools…
-- [MedAlign: A Synergistic Framework of Multimodal Preference Optimization and Federated Meta-Cognitive Reasoning](https://arxiv.org/abs/2510.21093) — arXiv:2510.21093v1 Announce Type: new  Abstract: Recently, large models have shown significant potential for smart healthcare. However, the deployment of Large…
-- [Confounding Robust Deep Reinforcement Learning: A Causal Approach](https://arxiv.org/abs/2510.21110) — arXiv:2510.21110v1 Announce Type: new  Abstract: A key task in Artificial Intelligence is learning effective policies for controlling agents in unknown environ…
-- [DAO-AI: Evaluating Collective Decision-Making through Agentic AI in Decentralized Governance](https://arxiv.org/abs/2510.21117) — arXiv:2510.21117v1 Announce Type: new  Abstract: This paper presents a first empirical study of agentic AI as autonomous decision-makers in decentralized gover…
-- [PanicToCalm: A Proactive Counseling Agent for Panic Attacks](https://arxiv.org/abs/2510.21143) — arXiv:2510.21143v1 Announce Type: new  Abstract: Panic attacks are acute episodes of fear and distress, in which timely, appropriate intervention can significa…
-- [NeuroGenPoisoning: Neuron-Guided Attacks on Retrieval-Augmented Generation of LLM via Genetic Optimization of External Knowledge](https://arxiv.org/abs/2510.21144) — arXiv:2510.21144v1 Announce Type: new  Abstract: Retrieval-Augmented Generation (RAG) empowers Large Language Models (LLMs) to dynamically integrate external k…
-- [How to Auto-optimize Prompts for Domain Tasks? Adaptive Prompting and Reasoning through Evolutionary Domain Knowledge Adaptation](https://arxiv.org/abs/2510.21148) — arXiv:2510.21148v1 Announce Type: new  Abstract: Designing optimal prompts and reasoning processes for large language models (LLMs) on domain-specific tasks is…
-- [String Seed of Thought: Prompting LLMs for Distribution-Faithful and Diverse Generation](https://arxiv.org/abs/2510.21150) — arXiv:2510.21150v1 Announce Type: new  Abstract: We introduce String Seed of Thought (SSoT), a novel prompting method for LLMs that improves Probabilistic Inst…
-- [Memory-Free Continual Learning with Null Space Adaptation for Zero-Shot Vision-Language Models](https://arxiv.org/abs/2510.21175) — arXiv:2510.21175v1 Announce Type: new  Abstract: Pre-trained vision-language models (VLMs), such as CLIP, have demonstrated remarkable zero-shot generalization…
-- [Shylock: Causal Discovery in Multivariate Time Series based on Hybrid Constraints](https://arxiv.org/abs/2510.21181) — arXiv:2510.21181v1 Announce Type: new  Abstract: Causal relationship discovery has been drawing increasing attention due to its prevalent application. Existing…
+- [Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents](https://arxiv.org/abs/2510.23691) — arXiv:2510.23691v1 Announce Type: new  Abstract: We present Game-TARS, a generalist game agent trained with a unified, scalable action space anchored to human-…
+- [AI and the Decentering of Disciplinary Creativity](https://arxiv.org/abs/2510.23734) — arXiv:2510.23734v1 Announce Type: new  Abstract: This paper examines the role of artificial intelligence in scientific problem-solving, with a focus on its imp…
+- [Multi-Environment POMDPs: Discrete Model Uncertainty Under Partial Observability](https://arxiv.org/abs/2510.23744) — arXiv:2510.23744v1 Announce Type: new  Abstract: Multi-environment POMDPs (ME-POMDPs) extend standard POMDPs with discrete model uncertainty. ME-POMDPs represe…
+- [Test-Time Tuned Language Models Enable End-to-end De Novo Molecular Structure Generation from MS/MS Spectra](https://arxiv.org/abs/2510.23746) — arXiv:2510.23746v1 Announce Type: new  Abstract: Tandem Mass Spectrometry enables the identification of unknown compounds in crucial fields such as metabolomic…
+- [Evaluating In Silico Creativity: An Expert Review of AI Chess Compositions](https://arxiv.org/abs/2510.23772) — arXiv:2510.23772v1 Announce Type: new  Abstract: The rapid advancement of Generative AI has raised significant questions regarding its ability to produce creat…
+- [Why Foundation Models in Pathology Are Failing](https://arxiv.org/abs/2510.23807) — arXiv:2510.23807v1 Announce Type: new  Abstract: In non-medical domains, foundation models (FMs) have revolutionized computer vision and language processing th…
+- [ReCAP: Recursive Context-Aware Reasoning and Planning for Large Language Model Agents](https://arxiv.org/abs/2510.23822) — arXiv:2510.23822v1 Announce Type: new  Abstract: Long-horizon tasks requiring multi-step reasoning and dynamic re-planning remain challenging for large languag…
+- [Decentralized Multi-Agent Goal Assignment for Path Planning using Large Language Models](https://arxiv.org/abs/2510.23824) — arXiv:2510.23824v1 Announce Type: new  Abstract: Coordinating multiple autonomous agents in shared environments under decentralized conditions is a long-standi…
+- [From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise Production](https://arxiv.org/abs/2510.23856) — arXiv:2510.23856v1 Announce Type: new  Abstract: Agents are rapidly advancing in automating digital work, but enterprises face a harder challenge: moving beyon…
+- [Generating Creative Chess Puzzles](https://arxiv.org/abs/2510.23881) — arXiv:2510.23881v1 Announce Type: new  Abstract: While Generative AI rapidly advances in various domains, generating truly creative, aesthetic, and counter-int…
+- [Hybrid Modeling, Sim-to-Real Reinforcement Learning, and Large Language Model Driven Control for Digital Twins](https://arxiv.org/abs/2510.23882) — arXiv:2510.23882v1 Announce Type: new  Abstract: This work investigates the use of digital twins for dynamical system modeling and control, integrating physics…
+- [Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges](https://arxiv.org/abs/2510.23883) — arXiv:2510.23883v1 Announce Type: new  Abstract: Agentic AI systems powered by large language models (LLMs) and endowed with planning, tool use, memory, and au…
+- [Latent Chain-of-Thought for Visual Reasoning](https://arxiv.org/abs/2510.23925) — arXiv:2510.23925v1 Announce Type: new  Abstract: Chain-of-thought (CoT) reasoning is critical for improving the interpretability and reliability of Large Visio…
+- [Decentralized Causal Discovery using Judo Calculus](https://arxiv.org/abs/2510.23942) — arXiv:2510.23942v1 Announce Type: new  Abstract: We describe a theory and implementation of an intuitionistic decentralized framework for causal discovery usin…
+- [The Sign Estimator: LLM Alignment in the Face of Choice Heterogeneity](https://arxiv.org/abs/2510.23965) — arXiv:2510.23965v1 Announce Type: new  Abstract: Traditional LLM alignment methods are vulnerable to heterogeneity in human preferences. Fitting a na\"ive prob…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -133,33 +135,33 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 | FacebookAI/roberta-base                 |    14321545 |     529 |
 | pyannote/speaker-diarization-3.1        |    14186095 |    1228 |
 
-_Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error: Unauthorized for url: https://huggingface.co/api/models?sort=downloads&direction=-1&limit=15 (Request…._
+_Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header value b'Bearer '._
 <!--HF:END-->
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
 | Repository                             |   Stars | Description                                                                                                                                                      |
 |----------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| pguso/ai-agents-from-scratch           |     716 | Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.                   |
-| johannschopplich/toon                  |     507 | 🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost                                                                                          |
-| WooooDyy/BAPO                          |      65 | Codes for the paper "BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via Balanced Policy Optimization with Adaptive Clipping"  by Zhiheng Xi et al. |
-| barodeur/llm_rescuer                   |      56 | Fix the Billion Dollar Mistake with an LLM                                                                                                                       |
-| panozzaj/plain_errors                  |      55 | Rails middleware for LLM-optimized error messages                                                                                                                |
-| OPPO-Mente-Lab/DaMo                    |      26 | The official implement of paper 《DaMo: Data Mixing Optimizer in Fine-tuning Multimodal LLMs for Mobile Phone Agents》                                             |
-| onyx-dot-app/onyx-foss                 |      21 | Open Source AI Platform - AI Chat with advanced features that works with every LLM                                                                               |
-| Prat011/awesome-llm-skills             |      20 | A curated list of awesome LLM Skills, resources and tools for customising LLM workflows - that works with Claude Code, Codex, Gemini CLI, Qwen Code, OpenCode e… |
-| adamgallas/llama-fpga                  |      19 | [DATE'25, ICCAD'25] An embedded FPGA-based LLM accelerator capable of supporting Llama2-7B                                                                       |
-| openguardrails/openguardrails          |      19 | Adding guardrails to large language models.                                                                                                                      |
-| zlab-princeton/llm-distillation-jax    |      12 | JAX implementation of configurable LLM distillation training                                                                                                     |
-| kristaller486/RuQualBench              |      11 | RuQualBench: A benchmark for evaluating the quality of the Russian language in LLM responses                                                                     |
-| LetterLiGo/Agent-WebCloak              |       9 | [IEEE S&P'26] WebCloak: Characterizing and Mitigating the Threats of LLM-Driven Web Agents as Intelligent Scrapers                                               |
-| SanBingYouYong/shapecraft              |       9 | Official repo for NeurIPS 2025 poster - ShapeCraft: LLM Agents for Structured, Textured and Interactive 3D Modeling.                                             |
+| pguso/ai-agents-from-scratch           |    1118 | Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.                   |
+| barodeur/llm_rescuer                   |     107 | Fix the Billion Dollar Mistake with an LLM                                                                                                                       |
+| panozzaj/plain_errors                  |      64 | Rails middleware for LLM-optimized error messages                                                                                                                |
+| adamgallas/llama-fpga                  |      28 | [DATE'25, ICCAD'25] An embedded FPGA-based LLM accelerator capable of supporting Llama2-7B                                                                       |
+| onyx-dot-app/onyx-foss                 |      25 | Open Source AI Platform - AI Chat with advanced features that works with every LLM                                                                               |
+| xaviviro/python-toon                   |      21 | 🐍 TOON for Python (Token-Oriented Object Notation) - Reduce LLM token costs by 30-60% with structured data.                                                      |
+| TencentYoutuResearch/APTBench          |      18 | Code for "APTBench: Benchmarking Agentic Potential of Base LLMs During Pre-Training"                                                                             |
+| jolehuit/clother                       |      16 | Configure and launch multiple Claude Code–compatible LLM providers from one CLI, switching profiles instantly with simple clother-* commands.                    |
+| yaochenzhu/Rank-GRPO                   |      16 | (Netflix 2025) Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning                                                      |
+| zfkarl/UniFER                          |      13 | Official repository for the paper “Rethinking Facial Expression Recognition in the Era of Multimodal Large Language Models”                                      |
+| alpkeskin/gotoon                       |      12 | Token-Oriented Object Notation for Go – JSON for LLMs at half the token cost                                                                                     |
+| leslieo2/LieGraph                      |      11 | LieGraph - AI Agent-Driven "Who Is Spy" Game. Multi-agent social deduction game built with LangGraph where autonomous AI agents use LLM reasoning to find the s… |
+| samogod/samoscout                      |      10 | one-for-all llm powered, passive & active subdomain enumeration tool                                                                                             |
 | ai-28/Scalable-RAG-in-AWS-with-Fargate |       9 | This repository contains a full RAG application using Terraform as IaC, LangChain as framework, AWS Bedrock as LLM and Embedding Models, AWS OpenSearch as a ve… |
-| Infrared1029/simpleprompts             |       8 | A simple library for constructing LLM prompts                                                                                                                    |
-| yanhong-lbh/text_or_pixels             |       8 | Codebase for EMNLP 2025 Findings paper "Text or Pixels? Evaluating Efficiency and Understanding of LLMs with Visual Text Inputs"                                 |
-| D1aoBoomm/LoRO                         |       7 | Code for implementing "LoRO: Real-Time on-Device Secure Inference for LLMs via TEE-Based Low Rank Obfuscation" (NeurIPS 2025)                                    |
-| NuyoahCh/LLMForge                      |       6 | 一份面向开发者的开源教程，用于系统学习如何构建、部署和优化基于大语言模型（LLM）的智能应用。                                                                                                                  |
-| kyegomez/Open-Cursor-Agent             |       6 | An open-source autonomous AI agent implementation inspired by Cursor Agent, built with the Swarms framework. This production-grade agent can autonomously plan,… |
+| jsjfai/AgentConnector                  |       9 | AgentConnector is a feature-rich open-source Agent Network Client built upon DeepChat, supporting Agent network, multiple cloud and local large language models… |
+| jsjfai/AgentDNS                        |       9 | AgentDNS is the core component of Agent network that facilitates agent registration and discovery, enabling large language models (LLMs) to browse the internet… |
+| lemon07r/VellumForge2                  |       9 | VellumForge2 is a Golang CLI for generating high-quality Direct Preference Optimization datasets via a hierarchical prompt pipeline with optional LLM-as-a-Judg… |
+| BandarLabs/open-skills                 |       7 | OpenSkills: Run Claude Skills Locally using any LLM                                                                                                              |
+| Emo-gml/PsyLLM                         |       7 | Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling                                         |
+| shenli/llm-schema                      |       7 | The ORM for LLM                                                                                                                                                  |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -169,31 +171,34 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media) — 159 points
-- [AI Mafia Network – An interactive visualization](https://dipakwani.com/ai-mafia/) — 92 points
-- [Books by People – Defending Organic Literature in an AI World](https://booksbypeople.org/) — 63 points
-- [Show HN: Create-LLM – Train your own LLM in 60 seconds](https://github.com/theaniketgiri/create-llm) — 41 points
-- [You Have No Idea How Screwed OpenAI Is](https://www.planetearthandbeyond.co/p/you-have-no-idea-how-screwed-openai) — 21 points
-- [The glaring security risks with AI browser agents](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/) — 12 points
-- [Student handcuffed after Doritos bag mistaken for a gun by AI security system](https://www.msn.com/en-us/news/us/ar-AA1Pavwq) — 10 points
-- [Fluxwing: ASCII-first UX design system with derivation model](https://fluxwing.com) — 7 points
-- [Oz Labor Gov rules out giving tech giants free rein to mine IPR to train AI](https://www.theguardian.com/technology/2025/oct/27/labor-rules-out-giving-tech-giants-free-rein-to-mine-copyright-content-to-train-ai) — 4 points
+- [Using AI to negotiate a $195k hospital bill down to $33k](https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw) — 885 points
+- [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/) — 559 points
+- [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/) — 340 points
+- [We need a clearer framework for AI-assisted contributions to open source](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome) — 231 points
+- [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing) — 205 points
+- [Our LLM-controlled office robot can't pass butter](https://andonlabs.com/evals/butter-bench) — 184 points
+- [Criminal complaint against facial recognition company Clearview AI](https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai) — 154 points
+- [Show HN: Dexto – Connect your AI Agents with real-world tools and data](https://github.com/truffle-ai/dexto) — 33 points
+- [An ex-Intel CEO's mission to build a Christian AI: Hasten the return of Christ](https://www.theguardian.com/technology/2025/oct/28/patrick-gelsinger-christian-ai-gloo-silicon-valley) — 30 points
+- [Ask HN: AI has changed my job for the worse](https://news.ycombinator.com/item?id=45740750) — 16 points
+- [OpenAI Completes For-Profit Transition, Pushing Microsoft Above $4T](https://www.wsj.com/tech/ai/openai-converts-to-public-benefit-corporation-with-microsoft-taking-27-stake-714a6c05) — 9 points
+- [NDAs keep AI data center details hidden from Americans](https://www.nbcnews.com/tech/tech-news/data-center-ai-google-amazon-nda-non-disclosure-agreement-colossus-rcna236423) — 6 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                                      |
-|---------------------|--------|----------------------------------------------|
-| MAL-2025-48609      |      0 | Malicious code in ember-simplepractice (npm) |
-| GHSA-p98w-mx82-xhg4 |      0 |                                              |
-| GHSA-p9x7-3xvx-2h65 |      0 |                                              |
-| GHSA-prw8-6vx3-vrxm |      0 |                                              |
-| GHSA-qc8p-jp3g-x9hm |      0 |                                              |
-| GHSA-qgvx-wfx5-x9qg |      0 |                                              |
-| GHSA-qvpv-xh75-74pw |      0 |                                              |
-| GHSA-r3xr-wm72-mg2w |      0 |                                              |
-| GHSA-rj3x-qp7v-5vp5 |      0 |                                              |
-| GHSA-rqm5-mx2c-5fhp |      0 |                                              |
+| CVE            |   CVSS | Summary                                               |
+|----------------|--------|-------------------------------------------------------|
+| MAL-2025-48771 |      0 | Malicious code in web-billing-code-snippets (npm)     |
+| MAL-2025-48766 |      0 | Malicious code in twilio-live-interactive-audio (npm) |
+| MAL-2025-48765 |      0 | Malicious code in tps-lookup (npm)                    |
+|                |      0 |                                                       |
+|                |      0 |                                                       |
+|                |      0 |                                                       |
+|                |      0 |                                                       |
+|                |      0 |                                                       |
+|                |      0 |                                                       |
+|                |      0 |                                                       |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
@@ -216,7 +221,7 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 | applied-ai-018/pretraining_v1-omega_books             |      614296 |       2 |
 | HuggingFaceFW/fineweb-edu                             |      597646 |     775 |
 
-_Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: 401 Client Error: Unauthorized for url: https://huggingface.co/api/datasets?sort=downloads&direction=-1&limit=15 (Reque…._
+_Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header value b'Bearer '._
 <!--HFDATA:END-->
 
 ## Troubleshooting
