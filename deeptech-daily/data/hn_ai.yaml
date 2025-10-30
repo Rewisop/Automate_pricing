@@ -1,66 +1,36 @@
-fetched_at: '2025-10-29T05:33:03Z'
-generated_at: '2025-10-29T05:33:03Z'
-hash: b6feb6bce4258b88c46d6b91d40aabefae6916642244226d775c990b7f534d12
+fetched_at: '2025-10-30T05:31:34Z'
+generated_at: '2025-10-30T05:31:34Z'
+hash: 023c4f2febe7c12be0214a0fd061e406e0d06a323191e97b97236a2c6fb9e6fa
 items:
-- id: 45734582
-  score: 885
-  time: '2025-10-28T15:58:58Z'
-  title: Using AI to negotiate a $195k hospital bill down to $33k
-  url: https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw
-- id: 45733707
-  score: 559
-  time: '2025-10-28T14:58:04Z'
-  title: 'EuroLLM: LLM made in Europe built to support all 24 official EU languages'
-  url: https://eurollm.io/
-- id: 45732350
-  score: 340
-  time: '2025-10-28T13:05:40Z'
-  title: The next chapter of the Microsoft–OpenAI partnership
-  url: https://openai.com/index/next-chapter-of-microsoft-openai-partnership/
-- id: 45731321
-  score: 231
-  time: '2025-10-28T11:03:59Z'
-  title: We need a clearer framework for AI-assisted contributions to open source
-  url: https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome
-- id: 45739080
-  score: 205
-  time: '2025-10-28T20:58:22Z'
-  title: Generative AI Image Editing Showdown
-  url: https://genai-showdown.specr.net/image-editing
-- id: 45733169
-  score: 184
-  time: '2025-10-28T14:13:25Z'
-  title: Our LLM-controlled office robot can't pass butter
-  url: https://andonlabs.com/evals/butter-bench
-- id: 45730411
-  score: 154
-  time: '2025-10-28T08:34:57Z'
-  title: Criminal complaint against facial recognition company Clearview AI
-  url: https://noyb.eu/en/criminal-complaint-against-facial-recognition-company-clearview-ai
-- id: 45734696
-  score: 33
-  time: '2025-10-28T16:07:27Z'
-  title: 'Show HN: Dexto – Connect your AI Agents with real-world tools and data'
-  url: https://github.com/truffle-ai/dexto
-- id: 45740664
-  score: 30
-  time: '2025-10-28T23:27:52Z'
-  title: 'An ex-Intel CEO''s mission to build a Christian AI: Hasten the return of
-    Christ'
-  url: https://www.theguardian.com/technology/2025/oct/28/patrick-gelsinger-christian-ai-gloo-silicon-valley
-- id: 45740750
-  score: 16
-  time: '2025-10-28T23:37:06Z'
-  title: 'Ask HN: AI has changed my job for the worse'
-  url: https://news.ycombinator.com/item?id=45740750
-- id: 45741556
-  score: 9
-  time: '2025-10-29T01:30:43Z'
-  title: OpenAI Completes For-Profit Transition, Pushing Microsoft Above $4T
-  url: https://www.wsj.com/tech/ai/openai-converts-to-public-benefit-corporation-with-microsoft-taking-27-stake-714a6c05
-- id: 45741596
-  score: 6
-  time: '2025-10-29T01:35:45Z'
-  title: NDAs keep AI data center details hidden from Americans
-  url: https://www.nbcnews.com/tech/tech-news/data-center-ai-google-amazon-nda-non-disclosure-agreement-colossus-rcna236423
+- id: 45748725
+  score: 185
+  time: '2025-10-29T16:04:33Z'
+  title: 'Composer: Building a fast frontier model with RL'
+  url: https://cursor.com/blog/composer
+- id: 45750425
+  score: 172
+  time: '2025-10-29T17:44:34Z'
+  title: OpenAI’s promise to stay in California helped clear the path for its IPO
+  url: https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c
+- id: 45746401
+  score: 125
+  time: '2025-10-29T13:12:23Z'
+  title: Grammarly rebrands to 'Superhuman,' launches a new AI assistant
+  url: https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/
+- id: 45746844
+  score: 80
+  time: '2025-10-29T13:52:31Z'
+  title: Character.ai to bar children under 18 from using its chatbots
+  url: https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html
+- id: 45753515
+  score: 28
+  time: '2025-10-29T21:47:58Z'
+  title: Detection firm finds 82% of herbal remedy books on Amazon 'likely written'
+    by AI
+  url: https://www.theguardian.com/books/2025/oct/22/detection-firm-finds-82-of-herbal-remedy-books-on-amazon-likely-written-by-ai
+- id: 45755903
+  score: 3
+  time: '2025-10-30T02:47:31Z'
+  title: Data centers turn to commercial aircraft jet engines as AI power crunch bites
+  url: https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites
 source_url: https://hacker-news.firebaseio.com/

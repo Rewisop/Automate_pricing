@@ -1,113 +1,115 @@
-fetched_at: '2025-10-29T05:33:03Z'
-generated_at: '2025-10-29T05:33:03Z'
-hash: 2692bc32559cea62c8e23d6526cb2c2090f72cbcdec2a006397f7cadc33581a3
+fetched_at: '2025-10-30T05:31:34Z'
+generated_at: '2025-10-30T05:31:34Z'
+hash: 13d382b02377d0a68a1b00393f4fe0caf3067370cad7b3b2dd9d3f10776d7570
 items:
-- id: oai:arXiv.org:2510.23691v1
-  link: https://arxiv.org/abs/2510.23691
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23691v1 Announce Type: new  Abstract: We present Game-TARS,
-    a generalist game agent trained with a unified, scalable action space anchored
-    to human-…'
-  title: 'Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal
-    Game Agents'
-- id: oai:arXiv.org:2510.23734v1
-  link: https://arxiv.org/abs/2510.23734
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23734v1 Announce Type: new  Abstract: This paper examines the
-    role of artificial intelligence in scientific problem-solving, with a focus on
-    its imp…'
-  title: AI and the Decentering of Disciplinary Creativity
-- id: oai:arXiv.org:2510.23744v1
-  link: https://arxiv.org/abs/2510.23744
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23744v1 Announce Type: new  Abstract: Multi-environment POMDPs
-    (ME-POMDPs) extend standard POMDPs with discrete model uncertainty. ME-POMDPs
-    represe…'
-  title: 'Multi-Environment POMDPs: Discrete Model Uncertainty Under Partial Observability'
-- id: oai:arXiv.org:2510.23746v1
-  link: https://arxiv.org/abs/2510.23746
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23746v1 Announce Type: new  Abstract: Tandem Mass Spectrometry
-    enables the identification of unknown compounds in crucial fields such as metabolomic…'
-  title: Test-Time Tuned Language Models Enable End-to-end De Novo Molecular Structure
-    Generation from MS/MS Spectra
-- id: oai:arXiv.org:2510.23772v1
-  link: https://arxiv.org/abs/2510.23772
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23772v1 Announce Type: new  Abstract: The rapid advancement
-    of Generative AI has raised significant questions regarding its ability to produce
-    creat…'
-  title: 'Evaluating In Silico Creativity: An Expert Review of AI Chess Compositions'
-- id: oai:arXiv.org:2510.23807v1
-  link: https://arxiv.org/abs/2510.23807
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23807v1 Announce Type: new  Abstract: In non-medical domains,
-    foundation models (FMs) have revolutionized computer vision and language processing
-    th…'
-  title: Why Foundation Models in Pathology Are Failing
-- id: oai:arXiv.org:2510.23822v1
-  link: https://arxiv.org/abs/2510.23822
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23822v1 Announce Type: new  Abstract: Long-horizon tasks requiring
-    multi-step reasoning and dynamic re-planning remain challenging for large languag…'
-  title: 'ReCAP: Recursive Context-Aware Reasoning and Planning for Large Language
-    Model Agents'
-- id: oai:arXiv.org:2510.23824v1
-  link: https://arxiv.org/abs/2510.23824
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23824v1 Announce Type: new  Abstract: Coordinating multiple
-    autonomous agents in shared environments under decentralized conditions is a long-standi…'
-  title: Decentralized Multi-Agent Goal Assignment for Path Planning using Large Language
+- id: oai:arXiv.org:2510.24832v1
+  link: https://arxiv.org/abs/2510.24832
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.24832v1 Announce Type: new  Abstract: Using Reinforcement Learning
+    with Verifiable Rewards (RLVR) to optimize Large Language Models (LLMs) can be
+    co…'
+  title: Scheduling Your LLM Reinforcement Learning with Reasoning Trees
+- id: oai:arXiv.org:2510.25005v1
+  link: https://arxiv.org/abs/2510.25005
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25005v1 Announce Type: new  Abstract: Most counterfactual inference
+    frameworks traditionally assume acyclic structural causal models (SCMs), i.e.
+    di…'
+  title: Cyclic Counterfactuals under Shift-Scale Interventions
+- id: oai:arXiv.org:2510.25007v1
+  link: https://arxiv.org/abs/2510.25007
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25007v1 Announce Type: new  Abstract: Evaluation and Management
+    (E/M) coding, under the Current Procedural Terminology (CPT) taxonomy, documents
+    med…'
+  title: Taming the Real-world Complexities in CPT E/M Coding with Large Language
     Models
-- id: oai:arXiv.org:2510.23856v1
-  link: https://arxiv.org/abs/2510.23856
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23856v1 Announce Type: new  Abstract: Agents are rapidly advancing
-    in automating digital work, but enterprises face a harder challenge: moving beyon…'
-  title: 'From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise
-    Production'
-- id: oai:arXiv.org:2510.23881v1
-  link: https://arxiv.org/abs/2510.23881
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23881v1 Announce Type: new  Abstract: While Generative AI rapidly
-    advances in various domains, generating truly creative, aesthetic, and counter-int…'
-  title: Generating Creative Chess Puzzles
-- id: oai:arXiv.org:2510.23882v1
-  link: https://arxiv.org/abs/2510.23882
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23882v1 Announce Type: new  Abstract: This work investigates
-    the use of digital twins for dynamical system modeling and control, integrating
-    physics…'
-  title: Hybrid Modeling, Sim-to-Real Reinforcement Learning, and Large Language Model
-    Driven Control for Digital Twins
-- id: oai:arXiv.org:2510.23883v1
-  link: https://arxiv.org/abs/2510.23883
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23883v1 Announce Type: new  Abstract: Agentic AI systems powered
-    by large language models (LLMs) and endowed with planning, tool use, memory, and
-    au…'
-  title: 'Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges'
-- id: oai:arXiv.org:2510.23925v1
-  link: https://arxiv.org/abs/2510.23925
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23925v1 Announce Type: new  Abstract: Chain-of-thought (CoT)
-    reasoning is critical for improving the interpretability and reliability of Large
-    Visio…'
-  title: Latent Chain-of-Thought for Visual Reasoning
-- id: oai:arXiv.org:2510.23942v1
-  link: https://arxiv.org/abs/2510.23942
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23942v1 Announce Type: new  Abstract: We describe a theory
-    and implementation of an intuitionistic decentralized framework for causal discovery
-    usin…'
-  title: Decentralized Causal Discovery using Judo Calculus
-- id: oai:arXiv.org:2510.23965v1
-  link: https://arxiv.org/abs/2510.23965
-  published: '2025-10-29T04:00:00Z'
-  summary: 'arXiv:2510.23965v1 Announce Type: new  Abstract: Traditional LLM alignment
-    methods are vulnerable to heterogeneity in human preferences. Fitting a na\"ive
-    prob…'
-  title: 'The Sign Estimator: LLM Alignment in the Face of Choice Heterogeneity'
+- id: oai:arXiv.org:2510.25014v1
+  link: https://arxiv.org/abs/2510.25014
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25014v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) enable dynamic game interactions but fail to follow essential procedural
+    flows in…'
+  title: 'Aligning Large Language Models with Procedural Rules: An Autoregressive
+    State-Tracking Prompting for In-Game Trading'
+- id: oai:arXiv.org:2510.25065v1
+  link: https://arxiv.org/abs/2510.25065
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25065v1 Announce Type: new  Abstract: Reinforcement learning
+    (RL)-based post-training has been crucial for enabling multi-step reasoning in
+    large re…'
+  title: Reasoning-Aware GRPO using Process Mining
+- id: oai:arXiv.org:2510.25091v1
+  link: https://arxiv.org/abs/2510.25091
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25091v1 Announce Type: new  Abstract: Stock movement prediction
+    remains fundamentally challenging due to complex temporal dependencies, heterogeneou…'
+  title: 'H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and
+    Style-Structured Mixture of Experts'
+- id: oai:arXiv.org:2510.25101v1
+  link: https://arxiv.org/abs/2510.25101
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25101v1 Announce Type: new  Abstract: Knowledge Base Question
+    Answering (KBQA) aims to answer natural-language questions over a structured Knowledge…'
+  title: 'KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision
+    for KBQA'
+- id: oai:arXiv.org:2510.25179v1
+  link: https://arxiv.org/abs/2510.25179
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25179v1 Announce Type: new  Abstract: Agentic methods have
+    emerged as a powerful and autonomous paradigm that enhances reasoning, collaboration,
+    and…'
+  title: 'Agentic Moderation: Multi-Agent Design for Safer Vision-Language Models'
+- id: oai:arXiv.org:2510.25205v1
+  link: https://arxiv.org/abs/2510.25205
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25205v1 Announce Type: new  Abstract: Autonomous driving is
+    an emerging technology that is expected to bring significant social, economic,
+    and envir…'
+  title: Energy-Efficient Autonomous Driving with Adaptive Perception and Robust Decision
+- id: oai:arXiv.org:2510.25206v1
+  link: https://arxiv.org/abs/2510.25206
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25206v1 Announce Type: new  Abstract: Reinforcement learning
+    (RL) can refine the reasoning abilities of large language models (LLMs), but critically…'
+  title: 'RAVR: Reference-Answer-guided Variational Reasoning for Large Language Models'
+- id: oai:arXiv.org:2510.25223v1
+  link: https://arxiv.org/abs/2510.25223
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25223v1 Announce Type: new  Abstract: Event log data, recording
+    fine-grained user actions and system events, represent one of the most valuable
+    asse…'
+  title: 'FELA: A Multi-Agent Evolutionary System for Feature Engineering of Industrial
+    Event Log Data'
+- id: oai:arXiv.org:2510.25232v1
+  link: https://arxiv.org/abs/2510.25232
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25232v1 Announce Type: new  Abstract: Psychiatric comorbidity
+    is clinically significant yet challenging due to the complexity of multiple co-occurri…'
+  title: 'From Medical Records to Diagnostic Dialogues: A Clinical-Grounded Approach
+    and Dataset for Psychiatric Comorbidity'
+- id: oai:arXiv.org:2510.25320v1
+  link: https://arxiv.org/abs/2510.25320
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25320v1 Announce Type: new  Abstract: Autonomous agents powered
+    by large language models (LLMs) have shown impressive capabilities in tool manipulat…'
+  title: 'GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement
+    Learning'
+- id: oai:arXiv.org:2510.25388v1
+  link: https://arxiv.org/abs/2510.25388
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25388v1 Announce Type: new  Abstract: A core challenge of Monte
+    Carlo Tree Search (MCTS) is its sample efficiency, which can be improved by grouping…'
+  title: 'Grouping Nodes With Known Value Differences: A Lossless UCT-based Abstraction
+    Algorithm'
+- id: oai:arXiv.org:2510.25445v1
+  link: https://arxiv.org/abs/2510.25445
+  published: '2025-10-30T04:00:00Z'
+  summary: 'arXiv:2510.25445v1 Announce Type: new  Abstract: Agentic AI represents
+    a transformative shift in artificial intelligence, but its rapid advancement has
+    led to…'
+  title: 'Agentic AI: A Comprehensive Survey of Architectures, Applications, and Future
+    Directions'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

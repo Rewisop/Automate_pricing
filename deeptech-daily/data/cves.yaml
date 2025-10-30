@@ -1,45 +1,45 @@
-fetched_at: '2025-10-29T05:33:03Z'
-generated_at: '2025-10-29T05:33:03Z'
-hash: a9a8c835143f85f80b737cd973b561b77f888d20fec03ad4fa2abf033c12b926
+fetched_at: '2025-10-30T05:31:34Z'
+generated_at: '2025-10-30T05:31:34Z'
+hash: dd4d9705aa025ff0d9adf1f000034c31ec1080b705706b79374f4c25c15ca7a8
 items:
 - cvss: 0.0
-  id: MAL-2025-48771
-  published: '2025-10-23T16:15:47Z'
-  summary: Malicious code in web-billing-code-snippets (npm)
+  id: GHSA-7h23-57pg-3hwc
+  published: '2025-01-28T00:32:13Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-48766
-  published: '2025-10-23T16:16:55Z'
-  summary: Malicious code in twilio-live-interactive-audio (npm)
+  id: MAL-2025-41821
+  published: '2025-08-31T04:39:01Z'
+  summary: Malicious code in esm-package (npm)
 - cvss: 0.0
-  id: MAL-2025-48765
-  published: '2025-10-23T16:17:46Z'
-  summary: Malicious code in tps-lookup (npm)
+  id: CVE-2022-50238
+  published: '2025-09-08T15:15:32Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-59033
+  published: '2025-09-08T15:15:37Z'
+  summary: ''
+- cvss: 0.0
+  id: GHSA-h935-vxwx-xh2m
+  published: '2025-09-08T15:37:45Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-9900
+  published: '2025-09-23T17:15:38Z'
+  summary: ''
+- cvss: 0.0
+  id: GHSA-qc8j-wvjf-7jfj
+  published: '2025-09-23T18:30:24Z'
+  summary: ''
+- cvss: 0.0
+  id: MAL-2025-48605
+  published: '2025-10-26T13:04:45Z'
+  summary: Malicious code in near-abi-client-js (npm)
 - cvss: 0.0
   id: null
-  published: '2025-10-29T05:33:03Z'
+  published: '2025-10-30T05:31:34Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-10-29T05:33:03Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2025-10-29T05:33:03Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2025-10-29T05:33:03Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2025-10-29T05:33:03Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2025-10-29T05:33:03Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2025-10-29T05:33:03Z'
+  published: '2025-10-30T05:31:34Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last
