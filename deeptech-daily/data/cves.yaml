@@ -1,45 +1,45 @@
-fetched_at: '2025-10-30T05:31:34Z'
-generated_at: '2025-10-30T05:31:34Z'
-hash: dd4d9705aa025ff0d9adf1f000034c31ec1080b705706b79374f4c25c15ca7a8
+fetched_at: '2025-11-01T05:30:23Z'
+generated_at: '2025-11-01T05:30:23Z'
+hash: 494276b366b8ec58a0f83e0b84835cc49d1a8956f8f4def31ce4eb2faef6fb76
 items:
 - cvss: 0.0
-  id: GHSA-7h23-57pg-3hwc
-  published: '2025-01-28T00:32:13Z'
+  id: MAL-2025-49308
+  published: '2025-11-01T02:10:31Z'
+  summary: Malicious code in u8ymp15aglfp7y (npm)
+- cvss: 0.0
+  id: CVE-2025-11174
+  published: '2025-11-01T02:15:31Z'
   summary: ''
 - cvss: 0.0
-  id: MAL-2025-41821
-  published: '2025-08-31T04:39:01Z'
-  summary: Malicious code in esm-package (npm)
-- cvss: 0.0
-  id: CVE-2022-50238
-  published: '2025-09-08T15:15:32Z'
+  id: CVE-2025-11816
+  published: '2025-11-01T02:15:32Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-59033
-  published: '2025-09-08T15:15:37Z'
+  id: CVE-2025-11920
+  published: '2025-11-01T02:15:33Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-h935-vxwx-xh2m
-  published: '2025-09-08T15:37:45Z'
+  id: CVE-2025-11922
+  published: '2025-11-01T02:15:33Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-9900
-  published: '2025-09-23T17:15:38Z'
+  id: GHSA-4jmj-6pw4-g738
+  published: '2025-11-01T03:30:23Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-qc8j-wvjf-7jfj
-  published: '2025-09-23T18:30:24Z'
+  id: GHSA-cq4p-v24g-p55q
+  published: '2025-11-01T03:30:23Z'
   summary: ''
 - cvss: 0.0
-  id: MAL-2025-48605
-  published: '2025-10-26T13:04:45Z'
-  summary: Malicious code in near-abi-client-js (npm)
-- cvss: 0.0
-  id: null
-  published: '2025-10-30T05:31:34Z'
+  id: GHSA-hvvw-vfw3-rmrq
+  published: '2025-11-01T03:30:23Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-10-30T05:31:34Z'
+  id: GHSA-pjq2-4h9c-99m5
+  published: '2025-11-01T03:30:23Z'
+  summary: ''
+- cvss: 0.0
+  id: GHSA-xf7m-v66q-76w8
+  published: '2025-11-01T03:30:24Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

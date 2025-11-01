@@ -22,17 +22,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -115,6 +117,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning](https://arxiv.org/abs/2510.25320) — arXiv:2510.25320v1 Announce Type: new  Abstract: Autonomous agents powered by large language models (LLMs) have shown impressive capabilities in tool manipulat…
 - [Grouping Nodes With Known Value Differences: A Lossless UCT-based Abstraction Algorithm](https://arxiv.org/abs/2510.25388) — arXiv:2510.25388v1 Announce Type: new  Abstract: A core challenge of Monte Carlo Tree Search (MCTS) is its sample efficiency, which can be improved by grouping…
 - [Agentic AI: A Comprehensive Survey of Architectures, Applications, and Future Directions](https://arxiv.org/abs/2510.25445) — arXiv:2510.25445v1 Announce Type: new  Abstract: Agentic AI represents a transformative shift in artificial intelligence, but its rapid advancement has led to…
+
+_Showing cached data from 2025-10-30T05:31:34Z. Refresh failed: no arXiv entries retrieved._
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -142,28 +146,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                           |   Stars | Description                                                                                                                                                      |
-|--------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| barodeur/llm_rescuer                 |     133 | Fix the Billion Dollar Mistake with an LLM                                                                                                                       |
-| FoundationAgents/ReCode              |      52 | Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making.                                   |
-| xaviviro/python-toon                 |      42 | 🐍 TOON for Python (Token-Oriented Object Notation) - Reduce LLM token costs by 30-60% with structured data.                                                      |
-| alpkeskin/gotoon                     |      22 | Token-Oriented Object Notation for Go – JSON for LLMs at half the token cost                                                                                     |
-| samogod/samoscout                    |      22 | one-for-all llm powered, passive & active subdomain enumeration tool                                                                                             |
-| TencentYoutuResearch/APTBench        |      21 | Code for "APTBench: Benchmarking Agentic Potential of Base LLMs During Pre-Training"                                                                             |
-| jolehuit/clother                     |      21 | Configure and launch multiple Claude Code–compatible LLM providers from one CLI, switching profiles instantly with simple clother-* commands.                    |
-| jsjfai/AgentDNS                      |      21 | AgentDNS is the core component of Agent network that facilitates agent registration and discovery, enabling large language models (LLMs) to browse the internet… |
-| jsjfai/AgentConnector                |      20 | AgentConnector is a feature-rich open-source Agent Network Client built upon DeepChat, supporting Agent network, multiple cloud and local large language models… |
-| zfkarl/UniFER                        |      13 | Official repository for the paper “Rethinking Facial Expression Recognition in the Era of Multimodal Large Language Models”                                      |
-| BandarLabs/open-skills               |      12 | OpenSkills: Run Claude Skills Locally using any LLM                                                                                                              |
-| HelgeSverre/toon-php                 |      12 | Token-Oriented Object Notation - A compact data format for reducing token consumption when sending structured data to LLMs (PHP implementation)                  |
-| gwh22/UniVoice                       |      12 | UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models                                                                     |
-| hkirat/ai-trading-agent              |      12 | Trade using LLMs                                                                                                                                                 |
-| leslieo2/LieGraph                    |      11 | LieGraph - AI Agent-Driven "Who Is Spy" Game. Multi-agent social deduction game built with LangGraph where autonomous AI agents use LLM reasoning to find the s… |
-| zenoaihq/tson                        |      10 | Token-efficient Structured Object Notation for LLMs                                                                                                              |
-| Emo-gml/PsyLLM                       |       9 | Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling                                         |
-| TeleAI-UAGI/Awesome-Agent-Memory     |       9 | Curated papers, systems, and benchmarks on memory for LLMs/MLLMs—long-term context, retrieval, and reasoning.                                                    |
-| lemon07r/VellumForge2                |       9 | VellumForge2 is a Golang CLI for generating high-quality Direct Preference Optimization datasets via a hierarchical prompt pipeline with optional LLM-as-a-Judg… |
-| pavolloffay/opentelemetry-mcp-server |       8 | Model Context Protocol (MCP) Server for OpenTelemetry to enable your LLM be an OTEL expert.                                                                      |
+| Repository                                              |   Stars | Description                                                                                                                                                      |
+|---------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| FoundationAgents/ReCode                                 |     161 | Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making.                                   |
+| hkirat/ai-trading-agent                                 |     105 | Trade using LLMs                                                                                                                                                 |
+| xaviviro/python-toon                                    |      69 | 🐍 TOON for Python (Token-Oriented Object Notation) Encoder/Decoder - Reduce LLM token costs by 30-60% with structured data.                                      |
+| Ricky-7-Yan/intelligent-audit-system                    |      47 | 🤖 AutoAudit--智能审计决策系统 Python FastAPI License  基于大语言模型的智能审计平台 | 集成知识图谱、RAG、强化学习等前沿技术  功能特性 • 快速开始 • 技术架构 • 文档  📋 项目简介 智能审计决策系统是一个基于大语言模型（LLM）的智能审计平台，集成了知识图谱、RAG… |
+| gwh22/UniVoice                                          |      47 | UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models                                                                     |
+| alpkeskin/gotoon                                        |      41 | Token-Oriented Object Notation for Go – JSON for LLMs at half the token cost                                                                                     |
+| flash131307/multi-agent-investment                      |      32 | An AI-powered multi-agent platform for automated investment research — combining LLM reasoning, RAG retrieval, and real-time market data to generate smart fina… |
+| Ammar-Alnagar/Helios-Engine                             |      27 | Helios Engine is a powerful and flexible Rust framework for building LLM-powered agents with tool support, chat capabilities, and easy configuration management… |
+| jolehuit/clother                                        |      23 | Configure and launch multiple Claude Code–compatible LLM providers from one CLI, switching profiles instantly with simple clother-* commands.                    |
+| TencentYoutuResearch/APTBench                           |      22 | Code for "APTBench: Benchmarking Agentic Potential of Base LLMs During Pre-Training"                                                                             |
+| jsjfai/AgentDNS                                         |      21 | AgentDNS is the core component of Agent network that facilitates agent registration and discovery, enabling large language models (LLMs) to browse the internet… |
+| qforge-dev/torque                                       |      21 | Torque is a Declarative, typesafe DSL for building synthetic LLM datasets — compose conversations like React components                                          |
+| CodyOnGit/FastChat                                      |      20 | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.                                         |
+| CodyOnGit/gorilla-custom                                |      20 | Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)                                                                                            |
+| CodyOnGit/llm-autoeval                                  |      20 | Automatically evaluate your LLMs in Google Colab                                                                                                                 |
+| CodyOnGit/llm-course                                    |      20 | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.                                                                               |
+| CodyOnGit/mergekit                                      |      20 | Tools for merging pretrained large language models.                                                                                                              |
+| CodyOnGit/tinytuner                                     |      20 | 🐜🔧 A minimalistic tool to fine-tune your LLMs                                                                                                                    |
+| jsjfai/AgentConnector                                   |      20 | AgentConnector is a feature-rich open-source Agent Network Client built upon DeepChat, supporting Agent network, multiple cloud and local large language models… |
+| polymarket-trading-ai-agent/polymarket-trading-ai-agent |      20 | Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…  |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -173,28 +177,29 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Composer: Building a fast frontier model with RL](https://cursor.com/blog/composer) — 185 points
-- [OpenAI’s promise to stay in California helped clear the path for its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c) — 172 points
-- [Grammarly rebrands to 'Superhuman,' launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/) — 125 points
-- [Character.ai to bar children under 18 from using its chatbots](https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html) — 80 points
-- [Detection firm finds 82% of herbal remedy books on Amazon 'likely written' by AI](https://www.theguardian.com/books/2025/oct/22/detection-firm-finds-82-of-herbal-remedy-books-on-amazon-likely-written-by-ai) — 28 points
-- [Data centers turn to commercial aircraft jet engines as AI power crunch bites](https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites) — 3 points
+- [How OpenAI uses complex and circular deals to fuel its multibillion-dollar rise](https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html) — 370 points
+- [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/) — 197 points
+- [Warp Terminal changes pricing model](https://www.warp.dev/blog/warp-new-pricing-flexibility-byok) — 31 points
+- [OpenAI thought to be preparing for $1T stock market float](https://www.theguardian.com/technology/2025/oct/30/openai-1tn-stock-market-float-ipo) — 22 points
+- [YouTube's AI Moderator Pulls Windows 11 Workaround Videos, Calls Them Dangerous](https://www.theregister.com/2025/10/31/ai_moderation_youtube_windows11_workaround/) — 19 points
+- ["Our research is greatly sped up by AI but AI still needs us"](https://twitter.com/wtgowers/status/1984340182351634571) — 13 points
+- [Meta, XAI Spread Risks of AI Splurge with Off-Balance-Sheet Debt](https://www.bloomberg.com/news/articles/2025-10-31/meta-xai-starting-trend-for-billions-in-off-balance-sheet-debt) — 6 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                                    |
-|---------------------|--------|--------------------------------------------|
-| GHSA-7h23-57pg-3hwc |      0 |                                            |
-| MAL-2025-41821      |      0 | Malicious code in esm-package (npm)        |
-| CVE-2022-50238      |      0 |                                            |
-| CVE-2025-59033      |      0 |                                            |
-| GHSA-h935-vxwx-xh2m |      0 |                                            |
-| CVE-2025-9900       |      0 |                                            |
-| GHSA-qc8j-wvjf-7jfj |      0 |                                            |
-| MAL-2025-48605      |      0 | Malicious code in near-abi-client-js (npm) |
-|                     |      0 |                                            |
-|                     |      0 |                                            |
+| CVE                 |   CVSS | Summary                                |
+|---------------------|--------|----------------------------------------|
+| MAL-2025-49308      |      0 | Malicious code in u8ymp15aglfp7y (npm) |
+| CVE-2025-11174      |      0 |                                        |
+| CVE-2025-11816      |      0 |                                        |
+| CVE-2025-11920      |      0 |                                        |
+| CVE-2025-11922      |      0 |                                        |
+| GHSA-4jmj-6pw4-g738 |      0 |                                        |
+| GHSA-cq4p-v24g-p55q |      0 |                                        |
+| GHSA-hvvw-vfw3-rmrq |      0 |                                        |
+| GHSA-pjq2-4h9c-99m5 |      0 |                                        |
+| GHSA-xf7m-v66q-76w8 |      0 |                                        |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

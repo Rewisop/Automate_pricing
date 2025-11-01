@@ -1,36 +1,41 @@
-fetched_at: '2025-10-30T05:31:34Z'
-generated_at: '2025-10-30T05:31:34Z'
-hash: 023c4f2febe7c12be0214a0fd061e406e0d06a323191e97b97236a2c6fb9e6fa
+fetched_at: '2025-11-01T05:30:23Z'
+generated_at: '2025-11-01T05:30:23Z'
+hash: 3f958dce65012171301a1943628a59a7669327912a0ba3e42a1c8dcbe7565a4e
 items:
-- id: 45748725
-  score: 185
-  time: '2025-10-29T16:04:33Z'
-  title: 'Composer: Building a fast frontier model with RL'
-  url: https://cursor.com/blog/composer
-- id: 45750425
-  score: 172
-  time: '2025-10-29T17:44:34Z'
-  title: OpenAI’s promise to stay in California helped clear the path for its IPO
-  url: https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c
-- id: 45746401
-  score: 125
-  time: '2025-10-29T13:12:23Z'
-  title: Grammarly rebrands to 'Superhuman,' launches a new AI assistant
-  url: https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/
-- id: 45746844
-  score: 80
-  time: '2025-10-29T13:52:31Z'
-  title: Character.ai to bar children under 18 from using its chatbots
-  url: https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html
-- id: 45753515
-  score: 28
-  time: '2025-10-29T21:47:58Z'
-  title: Detection firm finds 82% of herbal remedy books on Amazon 'likely written'
-    by AI
-  url: https://www.theguardian.com/books/2025/oct/22/detection-firm-finds-82-of-herbal-remedy-books-on-amazon-likely-written-by-ai
-- id: 45755903
-  score: 3
-  time: '2025-10-30T02:47:31Z'
-  title: Data centers turn to commercial aircraft jet engines as AI power crunch bites
-  url: https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites
+- id: 45771538
+  score: 370
+  time: '2025-10-31T13:03:46Z'
+  title: How OpenAI uses complex and circular deals to fuel its multibillion-dollar
+    rise
+  url: https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html
+- id: 45773347
+  score: 197
+  time: '2025-10-31T15:44:19Z'
+  title: AI scrapers request commented scripts
+  url: https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/
+- id: 45772558
+  score: 31
+  time: '2025-10-31T14:47:41Z'
+  title: Warp Terminal changes pricing model
+  url: https://www.warp.dev/blog/warp-new-pricing-flexibility-byok
+- id: 45775066
+  score: 22
+  time: '2025-10-31T18:21:50Z'
+  title: OpenAI thought to be preparing for $1T stock market float
+  url: https://www.theguardian.com/technology/2025/oct/30/openai-1tn-stock-market-float-ipo
+- id: 45777195
+  score: 19
+  time: '2025-10-31T22:04:14Z'
+  title: YouTube's AI Moderator Pulls Windows 11 Workaround Videos, Calls Them Dangerous
+  url: https://www.theregister.com/2025/10/31/ai_moderation_youtube_windows11_workaround/
+- id: 45778214
+  score: 13
+  time: '2025-11-01T00:32:48Z'
+  title: '"Our research is greatly sped up by AI but AI still needs us"'
+  url: https://twitter.com/wtgowers/status/1984340182351634571
+- id: 45778614
+  score: 6
+  time: '2025-11-01T01:47:56Z'
+  title: Meta, XAI Spread Risks of AI Splurge with Off-Balance-Sheet Debt
+  url: https://www.bloomberg.com/news/articles/2025-10-31/meta-xai-starting-trend-for-billions-in-off-balance-sheet-debt
 source_url: https://hacker-news.firebaseio.com/
