@@ -1,41 +1,35 @@
-fetched_at: '2025-11-01T05:30:23Z'
-generated_at: '2025-11-01T05:30:23Z'
-hash: 3f958dce65012171301a1943628a59a7669327912a0ba3e42a1c8dcbe7565a4e
+fetched_at: '2025-11-02T05:31:04Z'
+generated_at: '2025-11-02T05:31:04Z'
+hash: 171c1e54fc56d560c1de267f8bae707505761c4999b581b8d378914cb34a82f5
 items:
-- id: 45771538
-  score: 370
-  time: '2025-10-31T13:03:46Z'
-  title: How OpenAI uses complex and circular deals to fuel its multibillion-dollar
-    rise
-  url: https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html
-- id: 45773347
-  score: 197
-  time: '2025-10-31T15:44:19Z'
-  title: AI scrapers request commented scripts
-  url: https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/
-- id: 45772558
-  score: 31
-  time: '2025-10-31T14:47:41Z'
-  title: Warp Terminal changes pricing model
-  url: https://www.warp.dev/blog/warp-new-pricing-flexibility-byok
-- id: 45775066
-  score: 22
-  time: '2025-10-31T18:21:50Z'
-  title: OpenAI thought to be preparing for $1T stock market float
-  url: https://www.theguardian.com/technology/2025/oct/30/openai-1tn-stock-market-float-ipo
-- id: 45777195
-  score: 19
-  time: '2025-10-31T22:04:14Z'
-  title: YouTube's AI Moderator Pulls Windows 11 Workaround Videos, Calls Them Dangerous
-  url: https://www.theregister.com/2025/10/31/ai_moderation_youtube_windows11_workaround/
-- id: 45778214
-  score: 13
-  time: '2025-11-01T00:32:48Z'
-  title: '"Our research is greatly sped up by AI but AI still needs us"'
-  url: https://twitter.com/wtgowers/status/1984340182351634571
-- id: 45778614
+- id: 45783640
+  score: 273
+  time: '2025-11-01T17:45:18Z'
+  title: 'Show HN: Why write code if the LLM can just do the thing? (web app experiment)'
+  url: https://github.com/samrolken/nokode
+- id: 45785794
+  score: 64
+  time: '2025-11-01T21:58:22Z'
+  title: AI Broke Interviews
+  url: https://yusufaytas.com/ai-broke-interviews/
+- id: 45781088
+  score: 14
+  time: '2025-11-01T12:22:28Z'
+  title: Led by Nvidia, the AI industry has plans to reindustrialise America
+  url: https://www.economist.com/united-states/2025/10/30/led-by-nvidia-the-ai-industry-has-plans-to-reindustrialise-america
+- id: 45783837
+  score: 9
+  time: '2025-11-01T18:04:10Z'
+  title: Watermarking for Generative AI
+  url: https://arxiv.org/abs/2510.25934
+- id: 45785705
   score: 6
-  time: '2025-11-01T01:47:56Z'
-  title: Meta, XAI Spread Risks of AI Splurge with Off-Balance-Sheet Debt
-  url: https://www.bloomberg.com/news/articles/2025-10-31/meta-xai-starting-trend-for-billions-in-off-balance-sheet-debt
+  time: '2025-11-01T21:47:14Z'
+  title: Superhuman AI for Multiplayer Poker
+  url: https://www.science.org/doi/10.1126/science.aay2400
+- id: 45787648
+  score: 3
+  time: '2025-11-02T03:27:54Z'
+  title: AI researchers 'embodied' an LLM into a robot, it channeled Robin Williams
+  url: https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/
 source_url: https://hacker-news.firebaseio.com/

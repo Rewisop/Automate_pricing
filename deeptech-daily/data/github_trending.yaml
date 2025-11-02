@@ -1,61 +1,78 @@
-fetched_at: '2025-11-01T05:30:23Z'
-generated_at: '2025-11-01T05:30:23Z'
-hash: 363d4454258de1bbc7f4e0c970a987687c299e1e0c5a91a52af29ca1dcca93ef
+fetched_at: '2025-11-02T05:31:04Z'
+generated_at: '2025-11-02T05:31:04Z'
+hash: 01ff76b78115c074b4370d0a64c5eb63550a94721ad40ff12c97d993b707522d
 items:
 - created_at: '2025-10-27T06:31:01Z'
   description: Next paradigm for LLM Agent. Unify plan and action through recursive
     code generation for adaptive, human-like decision-making.
   full_name: FoundationAgents/ReCode
   html_url: https://github.com/FoundationAgents/ReCode
-  stargazers_count: 161
+  stargazers_count: 240
 - created_at: '2025-10-29T02:35:37Z'
   description: Trade using LLMs
   full_name: hkirat/ai-trading-agent
   html_url: https://github.com/hkirat/ai-trading-agent
-  stargazers_count: 105
+  stargazers_count: 120
 - created_at: '2025-10-27T14:40:04Z'
   description: 🐍 TOON for Python (Token-Oriented Object Notation) Encoder/Decoder
     - Reduce LLM token costs by 30-60% with structured data.
   full_name: xaviviro/python-toon
   html_url: https://github.com/xaviviro/python-toon
+  stargazers_count: 78
+- created_at: '2025-10-28T14:38:58Z'
+  description: 'UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS
+    with Large Language Models'
+  full_name: gwh22/UniVoice
+  html_url: https://github.com/gwh22/UniVoice
   stargazers_count: 69
 - created_at: '2025-10-28T16:14:23Z'
   description: 🤖 AutoAudit--智能审计决策系统 Python FastAPI License  基于大语言模型的智能审计平台 | 集成知识图谱、RAG、强化学习等前沿技术  功能特性
     • 快速开始 • 技术架构 • 文档  📋 项目简介 智能审计决策系统是一个基于大语言模型（LLM）的智能审计平台，集成了知识图谱、RAG…
   full_name: Ricky-7-Yan/intelligent-audit-system
   html_url: https://github.com/Ricky-7-Yan/intelligent-audit-system
-  stargazers_count: 47
-- created_at: '2025-10-28T14:38:58Z'
-  description: 'UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS
-    with Large Language Models'
-  full_name: gwh22/UniVoice
-  html_url: https://github.com/gwh22/UniVoice
-  stargazers_count: 47
+  stargazers_count: 62
 - created_at: '2025-10-28T08:49:57Z'
   description: Token-Oriented Object Notation for Go – JSON for LLMs at half the token
     cost
   full_name: alpkeskin/gotoon
   html_url: https://github.com/alpkeskin/gotoon
-  stargazers_count: 41
+  stargazers_count: 50
 - created_at: '2025-10-30T23:57:03Z'
   description: An AI-powered multi-agent platform for automated investment research
     — combining LLM reasoning, RAG retrieval, and real-time market data to generate
     smart fina…
   full_name: flash131307/multi-agent-investment
   html_url: https://github.com/flash131307/multi-agent-investment
-  stargazers_count: 32
+  stargazers_count: 41
+- created_at: '2025-10-30T14:59:50Z'
+  description: Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading
+    System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…
+  full_name: polymarket-trading-ai-agent/polymarket-trading-ai-agent
+  html_url: https://github.com/polymarket-trading-ai-agent/polymarket-trading-ai-agent
+  stargazers_count: 34
 - created_at: '2025-10-29T17:44:17Z'
   description: Helios Engine is a powerful and flexible Rust framework for building
     LLM-powered agents with tool support, chat capabilities, and easy configuration
     management…
   full_name: Ammar-Alnagar/Helios-Engine
   html_url: https://github.com/Ammar-Alnagar/Helios-Engine
-  stargazers_count: 27
+  stargazers_count: 33
+- created_at: '2025-11-01T19:33:42Z'
+  description: Quickly screenshots webpages and converts to an LLM friendly size
+  full_name: chongzixuan-ai/mcp-server-website
+  html_url: https://github.com/chongzixuan-ai/mcp-server-website
+  stargazers_count: 23
 - created_at: '2025-10-28T13:15:30Z'
   description: Configure and launch multiple Claude Code–compatible LLM providers
     from one CLI, switching profiles instantly with simple clother-* commands.
   full_name: jolehuit/clother
   html_url: https://github.com/jolehuit/clother
+  stargazers_count: 23
+- created_at: '2025-10-30T18:11:59Z'
+  description: Torque is a Declarative, typesafe DSL for building synthetic LLM datasets
+    — compose conversations like React components
+  full_name: qforge-dev/torque
+  html_url: https://github.com/qforge-dev/torque
   stargazers_count: 23
 - created_at: '2025-10-28T09:14:40Z'
   description: 'Code for "APTBench: Benchmarking Agentic Potential of Base LLMs During
@@ -63,6 +80,11 @@ items:
   full_name: TencentYoutuResearch/APTBench
   html_url: https://github.com/TencentYoutuResearch/APTBench
   stargazers_count: 22
+- created_at: '2025-10-30T13:44:06Z'
+  description: Tools for merging pretrained large language models.
+  full_name: CodyOnGit/mergekit
+  html_url: https://github.com/CodyOnGit/mergekit
+  stargazers_count: 21
 - created_at: '2025-10-28T06:30:01Z'
   description: AgentDNS is the core component of Agent network that facilitates agent
     registration and discovery, enabling large language models (LLMs) to browse the
@@ -70,22 +92,11 @@ items:
   full_name: jsjfai/AgentDNS
   html_url: https://github.com/jsjfai/AgentDNS
   stargazers_count: 21
-- created_at: '2025-10-30T18:11:59Z'
-  description: Torque is a Declarative, typesafe DSL for building synthetic LLM datasets
-    — compose conversations like React components
-  full_name: qforge-dev/torque
-  html_url: https://github.com/qforge-dev/torque
-  stargazers_count: 21
 - created_at: '2025-10-30T13:40:06Z'
   description: An open platform for training, serving, and evaluating large language
     models. Release repo for Vicuna and Chatbot Arena.
   full_name: CodyOnGit/FastChat
   html_url: https://github.com/CodyOnGit/FastChat
-  stargazers_count: 20
-- created_at: '2025-10-30T13:40:31Z'
-  description: 'Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)'
-  full_name: CodyOnGit/gorilla-custom
-  html_url: https://github.com/CodyOnGit/gorilla-custom
   stargazers_count: 20
 - created_at: '2025-10-30T13:42:38Z'
   description: Automatically evaluate your LLMs in Google Colab
@@ -98,15 +109,11 @@ items:
   full_name: CodyOnGit/llm-course
   html_url: https://github.com/CodyOnGit/llm-course
   stargazers_count: 20
-- created_at: '2025-10-30T13:44:06Z'
-  description: Tools for merging pretrained large language models.
-  full_name: CodyOnGit/mergekit
-  html_url: https://github.com/CodyOnGit/mergekit
-  stargazers_count: 20
-- created_at: '2025-10-30T13:44:46Z'
-  description: 🐜🔧 A minimalistic tool to fine-tune your LLMs
-  full_name: CodyOnGit/tinytuner
-  html_url: https://github.com/CodyOnGit/tinytuner
+- created_at: '2025-10-27T09:11:18Z'
+  description: Token-Oriented Object Notation - A compact data format for reducing
+    token consumption when sending structured data to LLMs (PHP implementation)
+  full_name: HelgeSverre/toon-php
+  html_url: https://github.com/HelgeSverre/toon-php
   stargazers_count: 20
 - created_at: '2025-10-28T03:14:31Z'
   description: AgentConnector is a feature-rich open-source Agent Network Client built
@@ -114,11 +121,5 @@ items:
     models…
   full_name: jsjfai/AgentConnector
   html_url: https://github.com/jsjfai/AgentConnector
-  stargazers_count: 20
-- created_at: '2025-10-30T14:59:50Z'
-  description: Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading
-    System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…
-  full_name: polymarket-trading-ai-agent/polymarket-trading-ai-agent
-  html_url: https://github.com/polymarket-trading-ai-agent/polymarket-trading-ai-agent
   stargazers_count: 20
 source_url: https://api.github.com/search/repositories

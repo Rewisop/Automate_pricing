@@ -1,45 +1,45 @@
-fetched_at: '2025-11-01T05:30:23Z'
-generated_at: '2025-11-01T05:30:23Z'
-hash: 494276b366b8ec58a0f83e0b84835cc49d1a8956f8f4def31ce4eb2faef6fb76
+fetched_at: '2025-11-02T05:31:04Z'
+generated_at: '2025-11-02T05:31:04Z'
+hash: e8cacf2ac21488f86a0f1724d56a1623379518781360478b6ef074e889709d41
 items:
 - cvss: 0.0
-  id: MAL-2025-49308
-  published: '2025-11-01T02:10:31Z'
-  summary: Malicious code in u8ymp15aglfp7y (npm)
-- cvss: 0.0
-  id: CVE-2025-11174
-  published: '2025-11-01T02:15:31Z'
+  id: null
+  published: '2025-11-02T05:31:04Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-11816
-  published: '2025-11-01T02:15:32Z'
+  id: null
+  published: '2025-11-02T05:31:04Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-11920
-  published: '2025-11-01T02:15:33Z'
+  id: null
+  published: '2025-11-02T05:31:04Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-11922
-  published: '2025-11-01T02:15:33Z'
+  id: null
+  published: '2025-11-02T05:31:04Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-4jmj-6pw4-g738
-  published: '2025-11-01T03:30:23Z'
+  id: null
+  published: '2025-11-02T05:31:04Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-cq4p-v24g-p55q
-  published: '2025-11-01T03:30:23Z'
+  id: null
+  published: '2025-11-02T05:31:04Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-hvvw-vfw3-rmrq
-  published: '2025-11-01T03:30:23Z'
+  id: null
+  published: '2025-11-02T05:31:04Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-pjq2-4h9c-99m5
-  published: '2025-11-01T03:30:23Z'
+  id: null
+  published: '2025-11-02T05:31:04Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-xf7m-v66q-76w8
-  published: '2025-11-01T03:30:24Z'
+  id: null
+  published: '2025-11-02T05:31:04Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-11-02T05:31:04Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

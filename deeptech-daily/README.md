@@ -23,17 +23,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -148,26 +150,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                              |   Stars | Description                                                                                                                                                      |
 |---------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| FoundationAgents/ReCode                                 |     161 | Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making.                                   |
-| hkirat/ai-trading-agent                                 |     105 | Trade using LLMs                                                                                                                                                 |
-| xaviviro/python-toon                                    |      69 | 🐍 TOON for Python (Token-Oriented Object Notation) Encoder/Decoder - Reduce LLM token costs by 30-60% with structured data.                                      |
-| Ricky-7-Yan/intelligent-audit-system                    |      47 | 🤖 AutoAudit--智能审计决策系统 Python FastAPI License  基于大语言模型的智能审计平台 | 集成知识图谱、RAG、强化学习等前沿技术  功能特性 • 快速开始 • 技术架构 • 文档  📋 项目简介 智能审计决策系统是一个基于大语言模型（LLM）的智能审计平台，集成了知识图谱、RAG… |
-| gwh22/UniVoice                                          |      47 | UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models                                                                     |
-| alpkeskin/gotoon                                        |      41 | Token-Oriented Object Notation for Go – JSON for LLMs at half the token cost                                                                                     |
-| flash131307/multi-agent-investment                      |      32 | An AI-powered multi-agent platform for automated investment research — combining LLM reasoning, RAG retrieval, and real-time market data to generate smart fina… |
-| Ammar-Alnagar/Helios-Engine                             |      27 | Helios Engine is a powerful and flexible Rust framework for building LLM-powered agents with tool support, chat capabilities, and easy configuration management… |
+| FoundationAgents/ReCode                                 |     240 | Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making.                                   |
+| hkirat/ai-trading-agent                                 |     120 | Trade using LLMs                                                                                                                                                 |
+| xaviviro/python-toon                                    |      78 | 🐍 TOON for Python (Token-Oriented Object Notation) Encoder/Decoder - Reduce LLM token costs by 30-60% with structured data.                                      |
+| gwh22/UniVoice                                          |      69 | UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models                                                                     |
+| Ricky-7-Yan/intelligent-audit-system                    |      62 | 🤖 AutoAudit--智能审计决策系统 Python FastAPI License  基于大语言模型的智能审计平台 | 集成知识图谱、RAG、强化学习等前沿技术  功能特性 • 快速开始 • 技术架构 • 文档  📋 项目简介 智能审计决策系统是一个基于大语言模型（LLM）的智能审计平台，集成了知识图谱、RAG… |
+| alpkeskin/gotoon                                        |      50 | Token-Oriented Object Notation for Go – JSON for LLMs at half the token cost                                                                                     |
+| flash131307/multi-agent-investment                      |      41 | An AI-powered multi-agent platform for automated investment research — combining LLM reasoning, RAG retrieval, and real-time market data to generate smart fina… |
+| polymarket-trading-ai-agent/polymarket-trading-ai-agent |      34 | Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…  |
+| Ammar-Alnagar/Helios-Engine                             |      33 | Helios Engine is a powerful and flexible Rust framework for building LLM-powered agents with tool support, chat capabilities, and easy configuration management… |
+| chongzixuan-ai/mcp-server-website                       |      23 | Quickly screenshots webpages and converts to an LLM friendly size                                                                                                |
 | jolehuit/clother                                        |      23 | Configure and launch multiple Claude Code–compatible LLM providers from one CLI, switching profiles instantly with simple clother-* commands.                    |
+| qforge-dev/torque                                       |      23 | Torque is a Declarative, typesafe DSL for building synthetic LLM datasets — compose conversations like React components                                          |
 | TencentYoutuResearch/APTBench                           |      22 | Code for "APTBench: Benchmarking Agentic Potential of Base LLMs During Pre-Training"                                                                             |
+| CodyOnGit/mergekit                                      |      21 | Tools for merging pretrained large language models.                                                                                                              |
 | jsjfai/AgentDNS                                         |      21 | AgentDNS is the core component of Agent network that facilitates agent registration and discovery, enabling large language models (LLMs) to browse the internet… |
-| qforge-dev/torque                                       |      21 | Torque is a Declarative, typesafe DSL for building synthetic LLM datasets — compose conversations like React components                                          |
 | CodyOnGit/FastChat                                      |      20 | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.                                         |
-| CodyOnGit/gorilla-custom                                |      20 | Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)                                                                                            |
 | CodyOnGit/llm-autoeval                                  |      20 | Automatically evaluate your LLMs in Google Colab                                                                                                                 |
 | CodyOnGit/llm-course                                    |      20 | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.                                                                               |
-| CodyOnGit/mergekit                                      |      20 | Tools for merging pretrained large language models.                                                                                                              |
-| CodyOnGit/tinytuner                                     |      20 | 🐜🔧 A minimalistic tool to fine-tune your LLMs                                                                                                                    |
+| HelgeSverre/toon-php                                    |      20 | Token-Oriented Object Notation - A compact data format for reducing token consumption when sending structured data to LLMs (PHP implementation)                  |
 | jsjfai/AgentConnector                                   |      20 | AgentConnector is a feature-rich open-source Agent Network Client built upon DeepChat, supporting Agent network, multiple cloud and local large language models… |
-| polymarket-trading-ai-agent/polymarket-trading-ai-agent |      20 | Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…  |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -177,29 +179,28 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [How OpenAI uses complex and circular deals to fuel its multibillion-dollar rise](https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html) — 370 points
-- [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/) — 197 points
-- [Warp Terminal changes pricing model](https://www.warp.dev/blog/warp-new-pricing-flexibility-byok) — 31 points
-- [OpenAI thought to be preparing for $1T stock market float](https://www.theguardian.com/technology/2025/oct/30/openai-1tn-stock-market-float-ipo) — 22 points
-- [YouTube's AI Moderator Pulls Windows 11 Workaround Videos, Calls Them Dangerous](https://www.theregister.com/2025/10/31/ai_moderation_youtube_windows11_workaround/) — 19 points
-- ["Our research is greatly sped up by AI but AI still needs us"](https://twitter.com/wtgowers/status/1984340182351634571) — 13 points
-- [Meta, XAI Spread Risks of AI Splurge with Off-Balance-Sheet Debt](https://www.bloomberg.com/news/articles/2025-10-31/meta-xai-starting-trend-for-billions-in-off-balance-sheet-debt) — 6 points
+- [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode) — 273 points
+- [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) — 64 points
+- [Led by Nvidia, the AI industry has plans to reindustrialise America](https://www.economist.com/united-states/2025/10/30/led-by-nvidia-the-ai-industry-has-plans-to-reindustrialise-america) — 14 points
+- [Watermarking for Generative AI](https://arxiv.org/abs/2510.25934) — 9 points
+- [Superhuman AI for Multiplayer Poker](https://www.science.org/doi/10.1126/science.aay2400) — 6 points
+- [AI researchers 'embodied' an LLM into a robot, it channeled Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/) — 3 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                                |
-|---------------------|--------|----------------------------------------|
-| MAL-2025-49308      |      0 | Malicious code in u8ymp15aglfp7y (npm) |
-| CVE-2025-11174      |      0 |                                        |
-| CVE-2025-11816      |      0 |                                        |
-| CVE-2025-11920      |      0 |                                        |
-| CVE-2025-11922      |      0 |                                        |
-| GHSA-4jmj-6pw4-g738 |      0 |                                        |
-| GHSA-cq4p-v24g-p55q |      0 |                                        |
-| GHSA-hvvw-vfw3-rmrq |      0 |                                        |
-| GHSA-pjq2-4h9c-99m5 |      0 |                                        |
-| GHSA-xf7m-v66q-76w8 |      0 |                                        |
+| CVE   |   CVSS | Summary   |
+|-------|--------|-----------|
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
