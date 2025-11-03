@@ -24,17 +24,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -104,23 +106,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [Scheduling Your LLM Reinforcement Learning with Reasoning Trees](https://arxiv.org/abs/2510.24832) — arXiv:2510.24832v1 Announce Type: new  Abstract: Using Reinforcement Learning with Verifiable Rewards (RLVR) to optimize Large Language Models (LLMs) can be co…
-- [Cyclic Counterfactuals under Shift-Scale Interventions](https://arxiv.org/abs/2510.25005) — arXiv:2510.25005v1 Announce Type: new  Abstract: Most counterfactual inference frameworks traditionally assume acyclic structural causal models (SCMs), i.e. di…
-- [Taming the Real-world Complexities in CPT E/M Coding with Large Language Models](https://arxiv.org/abs/2510.25007) — arXiv:2510.25007v1 Announce Type: new  Abstract: Evaluation and Management (E/M) coding, under the Current Procedural Terminology (CPT) taxonomy, documents med…
-- [Aligning Large Language Models with Procedural Rules: An Autoregressive State-Tracking Prompting for In-Game Trading](https://arxiv.org/abs/2510.25014) — arXiv:2510.25014v1 Announce Type: new  Abstract: Large Language Models (LLMs) enable dynamic game interactions but fail to follow essential procedural flows in…
-- [Reasoning-Aware GRPO using Process Mining](https://arxiv.org/abs/2510.25065) — arXiv:2510.25065v1 Announce Type: new  Abstract: Reinforcement learning (RL)-based post-training has been crucial for enabling multi-step reasoning in large re…
-- [H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts](https://arxiv.org/abs/2510.25091) — arXiv:2510.25091v1 Announce Type: new  Abstract: Stock movement prediction remains fundamentally challenging due to complex temporal dependencies, heterogeneou…
-- [KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA](https://arxiv.org/abs/2510.25101) — arXiv:2510.25101v1 Announce Type: new  Abstract: Knowledge Base Question Answering (KBQA) aims to answer natural-language questions over a structured Knowledge…
-- [Agentic Moderation: Multi-Agent Design for Safer Vision-Language Models](https://arxiv.org/abs/2510.25179) — arXiv:2510.25179v1 Announce Type: new  Abstract: Agentic methods have emerged as a powerful and autonomous paradigm that enhances reasoning, collaboration, and…
-- [Energy-Efficient Autonomous Driving with Adaptive Perception and Robust Decision](https://arxiv.org/abs/2510.25205) — arXiv:2510.25205v1 Announce Type: new  Abstract: Autonomous driving is an emerging technology that is expected to bring significant social, economic, and envir…
-- [RAVR: Reference-Answer-guided Variational Reasoning for Large Language Models](https://arxiv.org/abs/2510.25206) — arXiv:2510.25206v1 Announce Type: new  Abstract: Reinforcement learning (RL) can refine the reasoning abilities of large language models (LLMs), but critically…
-- [FELA: A Multi-Agent Evolutionary System for Feature Engineering of Industrial Event Log Data](https://arxiv.org/abs/2510.25223) — arXiv:2510.25223v1 Announce Type: new  Abstract: Event log data, recording fine-grained user actions and system events, represent one of the most valuable asse…
-- [From Medical Records to Diagnostic Dialogues: A Clinical-Grounded Approach and Dataset for Psychiatric Comorbidity](https://arxiv.org/abs/2510.25232) — arXiv:2510.25232v1 Announce Type: new  Abstract: Psychiatric comorbidity is clinically significant yet challenging due to the complexity of multiple co-occurri…
-- [GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning](https://arxiv.org/abs/2510.25320) — arXiv:2510.25320v1 Announce Type: new  Abstract: Autonomous agents powered by large language models (LLMs) have shown impressive capabilities in tool manipulat…
-- [Grouping Nodes With Known Value Differences: A Lossless UCT-based Abstraction Algorithm](https://arxiv.org/abs/2510.25388) — arXiv:2510.25388v1 Announce Type: new  Abstract: A core challenge of Monte Carlo Tree Search (MCTS) is its sample efficiency, which can be improved by grouping…
-- [Agentic AI: A Comprehensive Survey of Architectures, Applications, and Future Directions](https://arxiv.org/abs/2510.25445) — arXiv:2510.25445v1 Announce Type: new  Abstract: Agentic AI represents a transformative shift in artificial intelligence, but its rapid advancement has led to…
-
-_Showing cached data from 2025-10-30T05:31:34Z. Refresh failed: no arXiv entries retrieved._
+- [CATArena: Evaluation of LLM Agents through Iterative Tournament Competitions](https://arxiv.org/abs/2510.26852) — arXiv:2510.26852v1 Announce Type: new  Abstract: Large Language Model (LLM) agents have evolved from basic text generation to autonomously completing complex t…
+- [Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base](https://arxiv.org/abs/2510.26854) — arXiv:2510.26854v1 Announce Type: new  Abstract: Most scientific materials compress reasoning, presenting conclusions while omitting the derivational chains th…
+- [The Denario project: Deep knowledge AI agents for scientific discovery](https://arxiv.org/abs/2510.26887) — arXiv:2510.26887v1 Announce Type: new  Abstract: We present Denario, an AI multi-agent system designed to serve as a scientific research assistant. Denario can…
+- [Cognition Envelopes for Bounded AI Reasoning in Autonomous UAS Operations](https://arxiv.org/abs/2510.26905) — arXiv:2510.26905v1 Announce Type: new  Abstract: Cyber-physical systems increasingly rely on Foundational Models such as Large Language Models (LLMs) and Visio…
+- [SUSTAINABLE Platform: Seamless Smart Farming Integration Towards Agronomy Automation](https://arxiv.org/abs/2510.26989) — arXiv:2510.26989v1 Announce Type: new  Abstract: The global agricultural sector is undergoing a transformative shift, driven by increasing food demands, climat…
+- [Causal Masking on Spatial Data: An Information-Theoretic Case for Learning Spatial Datasets with Unimodal Language Models](https://arxiv.org/abs/2510.27009) — arXiv:2510.27009v1 Announce Type: new  Abstract: Language models are traditionally designed around causal masking. In domains with spatial or relational struct…
+- [e1: Learning Adaptive Control of Reasoning Effort](https://arxiv.org/abs/2510.27042) — arXiv:2510.27042v1 Announce Type: new  Abstract: Increasing the thinking budget of AI models can significantly improve accuracy, but not all questions warrant…
+- [Adaptive Data Flywheel: Applying MAPE Control Loops to AI Agent Improvement](https://arxiv.org/abs/2510.27051) — arXiv:2510.27051v1 Announce Type: new  Abstract: Enterprise AI agents must continuously adapt to maintain accuracy, reduce latency, and remain aligned with use…
+- [CombiGraph-Vis: A Curated Multimodal Olympiad Benchmark for Discrete Mathematical Reasoning](https://arxiv.org/abs/2510.27094) — arXiv:2510.27094v1 Announce Type: new  Abstract: State-of-the-art (SOTA) LLMs have progressed from struggling on proof-based Olympiad problems to solving most…
+- [Glia: A Human-Inspired AI for Automated Systems Design and Optimization](https://arxiv.org/abs/2510.27176) — arXiv:2510.27176v1 Announce Type: new  Abstract: Can an AI autonomously design mechanisms for computer systems on par with the creativity and reasoning of huma…
+- [From product to system network challenges in system of systems lifecycle management](https://arxiv.org/abs/2510.27194) — arXiv:2510.27194v1 Announce Type: new  Abstract: Today, products are no longer isolated artifacts, but nodes in networked systems. This means that traditional,…
+- [Fints: Efficient Inference-Time Personalization for LLMs with Fine-Grained Instance-Tailored Steering](https://arxiv.org/abs/2510.27206) — arXiv:2510.27206v1 Announce Type: new  Abstract: The rapid evolution of large language models (LLMs) has intensified the demand for effective personalization t…
+- [GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation](https://arxiv.org/abs/2510.27210) — arXiv:2510.27210v1 Announce Type: new  Abstract: While Multimodal Large Language Models (MLLMs) have advanced GUI navigation agents, current approaches face li…
+- [Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to Coupled Reward Machines](https://arxiv.org/abs/2510.27329) — arXiv:2510.27329v1 Announce Type: new  Abstract: Reward machines (RMs) inform reinforcement learning agents about the reward structure of the environment. This…
+- [Discriminative Rule Learning for Outcome-Guided Process Model Discovery](https://arxiv.org/abs/2510.27343) — arXiv:2510.27343v1 Announce Type: new  Abstract: Event logs extracted from information systems offer a rich foundation for understanding and improving business…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -150,26 +150,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                              |   Stars | Description                                                                                                                                                      |
 |---------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| FoundationAgents/ReCode                                 |     240 | Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making.                                   |
-| hkirat/ai-trading-agent                                 |     120 | Trade using LLMs                                                                                                                                                 |
-| xaviviro/python-toon                                    |      78 | 🐍 TOON for Python (Token-Oriented Object Notation) Encoder/Decoder - Reduce LLM token costs by 30-60% with structured data.                                      |
-| gwh22/UniVoice                                          |      69 | UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models                                                                     |
-| Ricky-7-Yan/intelligent-audit-system                    |      62 | 🤖 AutoAudit--智能审计决策系统 Python FastAPI License  基于大语言模型的智能审计平台 | 集成知识图谱、RAG、强化学习等前沿技术  功能特性 • 快速开始 • 技术架构 • 文档  📋 项目简介 智能审计决策系统是一个基于大语言模型（LLM）的智能审计平台，集成了知识图谱、RAG… |
-| alpkeskin/gotoon                                        |      50 | Token-Oriented Object Notation for Go – JSON for LLMs at half the token cost                                                                                     |
-| flash131307/multi-agent-investment                      |      41 | An AI-powered multi-agent platform for automated investment research — combining LLM reasoning, RAG retrieval, and real-time market data to generate smart fina… |
+| hkirat/ai-trading-agent                                 |     130 | Trade using LLMs                                                                                                                                                 |
+| gwh22/UniVoice                                          |      91 | UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models                                                                     |
+| Ricky-7-Yan/intelligent-audit-system                    |      90 | 🤖 AutoAudit--智能审计决策系统 Python FastAPI License  基于大语言模型的智能审计平台 | 集成知识图谱、RAG、强化学习等前沿技术  功能特性 • 快速开始 • 技术架构 • 文档  📋 项目简介 智能审计决策系统是一个基于大语言模型（LLM）的智能审计平台，集成了知识图谱、RAG… |
+| alpkeskin/gotoon                                        |      54 | Token-Oriented Object Notation for Go – JSON for LLMs at half the token cost                                                                                     |
+| flash131307/multi-agent-investment                      |      48 | An AI-powered multi-agent platform for automated investment research — combining LLM reasoning, RAG retrieval, and real-time market data to generate smart fina… |
+| Ammar-Alnagar/Helios-Engine                             |      35 | Helios Engine is a powerful and flexible Rust framework for building LLM-powered agents with tool support, chat capabilities, and easy configuration management… |
 | polymarket-trading-ai-agent/polymarket-trading-ai-agent |      34 | Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…  |
-| Ammar-Alnagar/Helios-Engine                             |      33 | Helios Engine is a powerful and flexible Rust framework for building LLM-powered agents with tool support, chat capabilities, and easy configuration management… |
+| qforge-dev/torque                                       |      29 | Torque is a Declarative, typesafe DSL for building synthetic LLM datasets — compose conversations like React components                                          |
+| jolehuit/clother                                        |      24 | Configure and launch multiple Claude Code–compatible LLM providers from one CLI, switching profiles instantly with simple clother-* commands.                    |
 | chongzixuan-ai/mcp-server-website                       |      23 | Quickly screenshots webpages and converts to an LLM friendly size                                                                                                |
-| jolehuit/clother                                        |      23 | Configure and launch multiple Claude Code–compatible LLM providers from one CLI, switching profiles instantly with simple clother-* commands.                    |
-| qforge-dev/torque                                       |      23 | Torque is a Declarative, typesafe DSL for building synthetic LLM datasets — compose conversations like React components                                          |
 | TencentYoutuResearch/APTBench                           |      22 | Code for "APTBench: Benchmarking Agentic Potential of Base LLMs During Pre-Training"                                                                             |
+| jsjfai/AgentDNS                                         |      22 | AgentDNS is the core component of Agent network that facilitates agent registration and discovery, enabling large language models (LLMs) to browse the internet… |
 | CodyOnGit/mergekit                                      |      21 | Tools for merging pretrained large language models.                                                                                                              |
-| jsjfai/AgentDNS                                         |      21 | AgentDNS is the core component of Agent network that facilitates agent registration and discovery, enabling large language models (LLMs) to browse the internet… |
+| jsjfai/AgentConnector                                   |      21 | AgentConnector is a feature-rich open-source Agent Network Client built upon DeepChat, supporting Agent network, multiple cloud and local large language models… |
 | CodyOnGit/FastChat                                      |      20 | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.                                         |
+| CodyOnGit/gorilla-custom                                |      20 | Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)                                                                                            |
 | CodyOnGit/llm-autoeval                                  |      20 | Automatically evaluate your LLMs in Google Colab                                                                                                                 |
 | CodyOnGit/llm-course                                    |      20 | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.                                                                               |
-| HelgeSverre/toon-php                                    |      20 | Token-Oriented Object Notation - A compact data format for reducing token consumption when sending structured data to LLMs (PHP implementation)                  |
-| jsjfai/AgentConnector                                   |      20 | AgentConnector is a feature-rich open-source Agent Network Client built upon DeepChat, supporting Agent network, multiple cloud and local large language models… |
+| CodyOnGit/tinytuner                                     |      20 | 🐜🔧 A minimalistic tool to fine-tune your LLMs                                                                                                                    |
+| xhjkl/please                                            |      19 | A polite LLM for CLI 🙏                                                                                                                                           |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -179,12 +179,12 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode) — 273 points
-- [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) — 64 points
-- [Led by Nvidia, the AI industry has plans to reindustrialise America](https://www.economist.com/united-states/2025/10/30/led-by-nvidia-the-ai-industry-has-plans-to-reindustrialise-america) — 14 points
-- [Watermarking for Generative AI](https://arxiv.org/abs/2510.25934) — 9 points
-- [Superhuman AI for Multiplayer Poker](https://www.science.org/doi/10.1126/science.aay2400) — 6 points
-- [AI researchers 'embodied' an LLM into a robot, it channeled Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/) — 3 points
+- [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) — 269 points
+- [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/) — 105 points
+- [Meta readies $25B bond sale as soaring AI costs trigger stock sell-off](https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9) — 78 points
+- [Why do AI models use so many em-dashes?](https://www.seangoedecke.com/em-dashes/) — 69 points
+- [Show HN: Anki-LLM – Bulk process and generate Anki flashcards with LLMs](https://github.com/raine/anki-llm) — 42 points
+- [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/) — 8 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)

@@ -1,35 +1,35 @@
-fetched_at: '2025-11-02T05:31:04Z'
-generated_at: '2025-11-02T05:31:04Z'
-hash: 171c1e54fc56d560c1de267f8bae707505761c4999b581b8d378914cb34a82f5
+fetched_at: '2025-11-03T05:32:47Z'
+generated_at: '2025-11-03T05:32:47Z'
+hash: c3dc205574945c8b39fbd4bc05dc79a2d531b7dc8239a5a6a7c27e10e42074e5
 items:
-- id: 45783640
-  score: 273
-  time: '2025-11-01T17:45:18Z'
-  title: 'Show HN: Why write code if the LLM can just do the thing? (web app experiment)'
-  url: https://github.com/samrolken/nokode
-- id: 45785794
-  score: 64
-  time: '2025-11-01T21:58:22Z'
-  title: AI Broke Interviews
-  url: https://yusufaytas.com/ai-broke-interviews/
-- id: 45781088
-  score: 14
-  time: '2025-11-01T12:22:28Z'
-  title: Led by Nvidia, the AI industry has plans to reindustrialise America
-  url: https://www.economist.com/united-states/2025/10/30/led-by-nvidia-the-ai-industry-has-plans-to-reindustrialise-america
-- id: 45783837
-  score: 9
-  time: '2025-11-01T18:04:10Z'
-  title: Watermarking for Generative AI
-  url: https://arxiv.org/abs/2510.25934
-- id: 45785705
-  score: 6
-  time: '2025-11-01T21:47:14Z'
-  title: Superhuman AI for Multiplayer Poker
-  url: https://www.science.org/doi/10.1126/science.aay2400
-- id: 45787648
-  score: 3
-  time: '2025-11-02T03:27:54Z'
-  title: AI researchers 'embodied' an LLM into a robot, it channeled Robin Williams
-  url: https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/
+- id: 45789602
+  score: 269
+  time: '2025-11-02T11:43:26Z'
+  title: Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch
+  url: https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
+- id: 45792373
+  score: 105
+  time: '2025-11-02T18:37:38Z'
+  title: Reproducing the AWS Outage Race Condition with a Model Checker
+  url: https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/
+- id: 45788042
+  score: 78
+  time: '2025-11-02T05:33:00Z'
+  title: Meta readies $25B bond sale as soaring AI costs trigger stock sell-off
+  url: https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9
+- id: 45788327
+  score: 69
+  time: '2025-11-02T06:51:58Z'
+  title: Why do AI models use so many em-dashes?
+  url: https://www.seangoedecke.com/em-dashes/
+- id: 45790443
+  score: 42
+  time: '2025-11-02T14:04:07Z'
+  title: 'Show HN: Anki-LLM – Bulk process and generate Anki flashcards with LLMs'
+  url: https://github.com/raine/anki-llm
+- id: 45795186
+  score: 8
+  time: '2025-11-03T01:59:07Z'
+  title: Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy
+  url: https://www.syllabi-ai.com/
 source_url: https://hacker-news.firebaseio.com/
