@@ -1,36 +1,24 @@
-fetched_at: '2025-11-03T05:32:47Z'
-generated_at: '2025-11-03T05:32:47Z'
-hash: 6625810643527b9b2566ec70a51c182916b63d2ca8260209ce837fe48116dad6
+fetched_at: '2025-11-04T05:32:40Z'
+generated_at: '2025-11-04T05:32:40Z'
+hash: 0f845169a05b28c5b215938c32ed3af81425b84d1ab354296cff3a0450076859
 items:
 - created_at: '2025-10-29T02:35:37Z'
   description: Trade using LLMs
   full_name: hkirat/ai-trading-agent
   html_url: https://github.com/hkirat/ai-trading-agent
   stargazers_count: 130
-- created_at: '2025-10-28T14:38:58Z'
-  description: 'UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS
-    with Large Language Models'
-  full_name: gwh22/UniVoice
-  html_url: https://github.com/gwh22/UniVoice
-  stargazers_count: 91
-- created_at: '2025-10-28T16:14:23Z'
-  description: 🤖 AutoAudit--智能审计决策系统 Python FastAPI License  基于大语言模型的智能审计平台 | 集成知识图谱、RAG、强化学习等前沿技术  功能特性
-    • 快速开始 • 技术架构 • 文档  📋 项目简介 智能审计决策系统是一个基于大语言模型（LLM）的智能审计平台，集成了知识图谱、RAG…
-  full_name: Ricky-7-Yan/intelligent-audit-system
-  html_url: https://github.com/Ricky-7-Yan/intelligent-audit-system
-  stargazers_count: 90
-- created_at: '2025-10-28T08:49:57Z'
-  description: Token-Oriented Object Notation for Go – JSON for LLMs at half the token
-    cost
-  full_name: alpkeskin/gotoon
-  html_url: https://github.com/alpkeskin/gotoon
-  stargazers_count: 54
 - created_at: '2025-10-30T23:57:03Z'
   description: An AI-powered multi-agent platform for automated investment research
     — combining LLM reasoning, RAG retrieval, and real-time market data to generate
     smart fina…
   full_name: flash131307/multi-agent-investment
   html_url: https://github.com/flash131307/multi-agent-investment
+  stargazers_count: 65
+- created_at: '2025-10-29T07:40:59Z'
+  description: Draft-Target Disaggregation LLM Serving System via Parallel Speculative
+    Decoding.
+  full_name: smart-lty/nano-PEARL
+  html_url: https://github.com/smart-lty/nano-PEARL
   stargazers_count: 48
 - created_at: '2025-10-29T17:44:17Z'
   description: Helios Engine is a powerful and flexible Rust framework for building
@@ -38,7 +26,7 @@ items:
     management…
   full_name: Ammar-Alnagar/Helios-Engine
   html_url: https://github.com/Ammar-Alnagar/Helios-Engine
-  stargazers_count: 35
+  stargazers_count: 36
 - created_at: '2025-10-30T14:59:50Z'
   description: Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading
     System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…
@@ -50,42 +38,16 @@ items:
     — compose conversations like React components
   full_name: qforge-dev/torque
   html_url: https://github.com/qforge-dev/torque
-  stargazers_count: 29
-- created_at: '2025-10-28T13:15:30Z'
-  description: Configure and launch multiple Claude Code–compatible LLM providers
-    from one CLI, switching profiles instantly with simple clother-* commands.
-  full_name: jolehuit/clother
-  html_url: https://github.com/jolehuit/clother
-  stargazers_count: 24
+  stargazers_count: 32
 - created_at: '2025-11-01T19:33:42Z'
   description: Quickly screenshots webpages and converts to an LLM friendly size
   full_name: chongzixuan-ai/mcp-server-website
   html_url: https://github.com/chongzixuan-ai/mcp-server-website
   stargazers_count: 23
-- created_at: '2025-10-28T09:14:40Z'
-  description: 'Code for "APTBench: Benchmarking Agentic Potential of Base LLMs During
-    Pre-Training"'
-  full_name: TencentYoutuResearch/APTBench
-  html_url: https://github.com/TencentYoutuResearch/APTBench
-  stargazers_count: 22
-- created_at: '2025-10-28T06:30:01Z'
-  description: AgentDNS is the core component of Agent network that facilitates agent
-    registration and discovery, enabling large language models (LLMs) to browse the
-    internet…
-  full_name: jsjfai/AgentDNS
-  html_url: https://github.com/jsjfai/AgentDNS
-  stargazers_count: 22
 - created_at: '2025-10-30T13:44:06Z'
   description: Tools for merging pretrained large language models.
   full_name: CodyOnGit/mergekit
   html_url: https://github.com/CodyOnGit/mergekit
-  stargazers_count: 21
-- created_at: '2025-10-28T03:14:31Z'
-  description: AgentConnector is a feature-rich open-source Agent Network Client built
-    upon DeepChat, supporting Agent network, multiple cloud and local large language
-    models…
-  full_name: jsjfai/AgentConnector
-  html_url: https://github.com/jsjfai/AgentConnector
   stargazers_count: 21
 - created_at: '2025-10-30T13:40:06Z'
   description: An open platform for training, serving, and evaluating large language
@@ -114,9 +76,44 @@ items:
   full_name: CodyOnGit/tinytuner
   html_url: https://github.com/CodyOnGit/tinytuner
   stargazers_count: 20
+- created_at: '2025-10-29T00:25:52Z'
+  description: 'H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning
+    and Style-Structured Mixture of Experts'
+  full_name: PeilinTime/H3M-SSMoEs
+  html_url: https://github.com/PeilinTime/H3M-SSMoEs
+  stargazers_count: 20
 - created_at: '2025-10-30T18:20:42Z'
   description: A polite LLM for CLI 🙏
   full_name: xhjkl/please
   html_url: https://github.com/xhjkl/please
-  stargazers_count: 19
+  stargazers_count: 20
+- created_at: '2025-10-29T02:19:04Z'
+  description: Turkish LLM Benchmark
+  full_name: alicankiraz1/seneca-trbench
+  html_url: https://github.com/alicankiraz1/seneca-trbench
+  stargazers_count: 18
+- created_at: '2025-10-29T09:25:17Z'
+  description: 'This is the official repo for the paper "AMO-Bench: Large Language
+    Models Still Struggle in High School Math Competitions".'
+  full_name: meituan-longcat/AMO-Bench
+  html_url: https://github.com/meituan-longcat/AMO-Bench
+  stargazers_count: 17
+- created_at: '2025-11-03T19:47:35Z'
+  description: BonerBots Day 1 release with livetrading LLM bots on AsterDEX
+  full_name: bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0
+  html_url: https://github.com/bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0
+  stargazers_count: 15
+- created_at: '2025-10-30T01:29:54Z'
+  description: Curated papers, systems, and benchmarks on memory for LLMs/MLLMs—long-term
+    context, retrieval, and reasoning.
+  full_name: TeleAI-UAGI/Awesome-Agent-Memory
+  html_url: https://github.com/TeleAI-UAGI/Awesome-Agent-Memory
+  stargazers_count: 14
+- created_at: '2025-11-01T04:28:54Z'
+  description: Inspired by Alpha Arena and open-nof1.ai,we want to explore the new
+    trading way of ai-trading.we will improve the LLMs and use machine learning to
+    analyse the…
+  full_name: qingshungLI/Super-nof1.ai
+  html_url: https://github.com/qingshungLI/Super-nof1.ai
+  stargazers_count: 12
 source_url: https://api.github.com/search/repositories

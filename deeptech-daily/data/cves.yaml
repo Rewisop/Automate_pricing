@@ -1,45 +1,45 @@
-fetched_at: '2025-11-03T05:32:47Z'
-generated_at: '2025-11-03T05:32:47Z'
-hash: 506c9891246bc14f6caf58b4bff8b8010c7dc9a9d4248408fe1dae4619b81415
+fetched_at: '2025-11-04T05:32:40Z'
+generated_at: '2025-11-04T05:32:40Z'
+hash: 7c9359303b90bc0ea16890a34ec956f54fe5cfff9cf28a17ea913fa2a2c77d9e
 items:
 - cvss: 0.0
   id: null
-  published: '2025-11-03T05:32:47Z'
+  published: '2025-11-04T05:32:40Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-03T05:32:47Z'
+  published: '2025-11-04T05:32:40Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-03T05:32:47Z'
+  published: '2025-11-04T05:32:40Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-03T05:32:47Z'
+  published: '2025-11-04T05:32:40Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-03T05:32:47Z'
+  published: '2025-11-04T05:32:40Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-03T05:32:47Z'
+  published: '2025-11-04T05:32:40Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-03T05:32:47Z'
+  published: '2025-11-04T05:32:40Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-03T05:32:47Z'
+  published: '2025-11-04T05:32:40Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-03T05:32:47Z'
+  published: '2025-11-04T05:32:40Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-03T05:32:47Z'
+  published: '2025-11-04T05:32:40Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

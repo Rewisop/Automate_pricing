@@ -25,17 +25,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -151,25 +153,25 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 | Repository                                              |   Stars | Description                                                                                                                                                      |
 |---------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | hkirat/ai-trading-agent                                 |     130 | Trade using LLMs                                                                                                                                                 |
-| gwh22/UniVoice                                          |      91 | UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models                                                                     |
-| Ricky-7-Yan/intelligent-audit-system                    |      90 | 🤖 AutoAudit--智能审计决策系统 Python FastAPI License  基于大语言模型的智能审计平台 | 集成知识图谱、RAG、强化学习等前沿技术  功能特性 • 快速开始 • 技术架构 • 文档  📋 项目简介 智能审计决策系统是一个基于大语言模型（LLM）的智能审计平台，集成了知识图谱、RAG… |
-| alpkeskin/gotoon                                        |      54 | Token-Oriented Object Notation for Go – JSON for LLMs at half the token cost                                                                                     |
-| flash131307/multi-agent-investment                      |      48 | An AI-powered multi-agent platform for automated investment research — combining LLM reasoning, RAG retrieval, and real-time market data to generate smart fina… |
-| Ammar-Alnagar/Helios-Engine                             |      35 | Helios Engine is a powerful and flexible Rust framework for building LLM-powered agents with tool support, chat capabilities, and easy configuration management… |
+| flash131307/multi-agent-investment                      |      65 | An AI-powered multi-agent platform for automated investment research — combining LLM reasoning, RAG retrieval, and real-time market data to generate smart fina… |
+| smart-lty/nano-PEARL                                    |      48 | Draft-Target Disaggregation LLM Serving System via Parallel Speculative Decoding.                                                                                |
+| Ammar-Alnagar/Helios-Engine                             |      36 | Helios Engine is a powerful and flexible Rust framework for building LLM-powered agents with tool support, chat capabilities, and easy configuration management… |
 | polymarket-trading-ai-agent/polymarket-trading-ai-agent |      34 | Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…  |
-| qforge-dev/torque                                       |      29 | Torque is a Declarative, typesafe DSL for building synthetic LLM datasets — compose conversations like React components                                          |
-| jolehuit/clother                                        |      24 | Configure and launch multiple Claude Code–compatible LLM providers from one CLI, switching profiles instantly with simple clother-* commands.                    |
+| qforge-dev/torque                                       |      32 | Torque is a Declarative, typesafe DSL for building synthetic LLM datasets — compose conversations like React components                                          |
 | chongzixuan-ai/mcp-server-website                       |      23 | Quickly screenshots webpages and converts to an LLM friendly size                                                                                                |
-| TencentYoutuResearch/APTBench                           |      22 | Code for "APTBench: Benchmarking Agentic Potential of Base LLMs During Pre-Training"                                                                             |
-| jsjfai/AgentDNS                                         |      22 | AgentDNS is the core component of Agent network that facilitates agent registration and discovery, enabling large language models (LLMs) to browse the internet… |
 | CodyOnGit/mergekit                                      |      21 | Tools for merging pretrained large language models.                                                                                                              |
-| jsjfai/AgentConnector                                   |      21 | AgentConnector is a feature-rich open-source Agent Network Client built upon DeepChat, supporting Agent network, multiple cloud and local large language models… |
 | CodyOnGit/FastChat                                      |      20 | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.                                         |
 | CodyOnGit/gorilla-custom                                |      20 | Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)                                                                                            |
 | CodyOnGit/llm-autoeval                                  |      20 | Automatically evaluate your LLMs in Google Colab                                                                                                                 |
 | CodyOnGit/llm-course                                    |      20 | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.                                                                               |
 | CodyOnGit/tinytuner                                     |      20 | 🐜🔧 A minimalistic tool to fine-tune your LLMs                                                                                                                    |
-| xhjkl/please                                            |      19 | A polite LLM for CLI 🙏                                                                                                                                           |
+| PeilinTime/H3M-SSMoEs                                   |      20 | H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts                                                      |
+| xhjkl/please                                            |      20 | A polite LLM for CLI 🙏                                                                                                                                           |
+| alicankiraz1/seneca-trbench                             |      18 | Turkish LLM Benchmark                                                                                                                                            |
+| meituan-longcat/AMO-Bench                               |      17 | This is the official repo for the paper "AMO-Bench: Large Language Models Still Struggle in High School Math Competitions".                                      |
+| bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0          |      15 | BonerBots Day 1 release with livetrading LLM bots on AsterDEX                                                                                                    |
+| TeleAI-UAGI/Awesome-Agent-Memory                        |      14 | Curated papers, systems, and benchmarks on memory for LLMs/MLLMs—long-term context, retrieval, and reasoning.                                                    |
+| qingshungLI/Super-nof1.ai                               |      12 | Inspired by Alpha Arena and open-nof1.ai,we want to explore the new trading way of ai-trading.we will improve the LLMs and use machine learning to analyse the…  |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -179,12 +181,14 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) — 269 points
-- [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/) — 105 points
-- [Meta readies $25B bond sale as soaring AI costs trigger stock sell-off](https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9) — 78 points
-- [Why do AI models use so many em-dashes?](https://www.seangoedecke.com/em-dashes/) — 69 points
-- [Show HN: Anki-LLM – Bulk process and generate Anki flashcards with LLMs](https://github.com/raine/anki-llm) — 42 points
-- [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/) — 8 points
+- [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era) — 226 points
+- [OpenAI signs $38B cloud computing deal with Amazon](https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html) — 189 points
+- [I analyzed 180M jobs to see what jobs AI is replacing today](https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/) — 178 points
+- [Google pulls AI model after senator says it fabricated assault allegation](https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination) — 80 points
+- [Agent-o-rama: build, trace, evaluate, and monitor LLM agents in Java or Clojure](https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/) — 53 points
+- [Show HN: An AI to match your voice to songs and artists you should sing](https://coach.singonesong.com) — 30 points
+- [I just trained a physics-based earthquake forecasting model on a $1000 GPU](https://news.ycombinator.com/item?id=45806079) — 10 points
+- [OpenAI debated merging with one of its biggest rivals after firing Sam Altman](https://www.aol.com/news/openai-debated-merging-one-biggest-191042428.html) — 5 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)

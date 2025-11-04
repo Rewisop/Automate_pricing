@@ -1,35 +1,46 @@
-fetched_at: '2025-11-03T05:32:47Z'
-generated_at: '2025-11-03T05:32:47Z'
-hash: c3dc205574945c8b39fbd4bc05dc79a2d531b7dc8239a5a6a7c27e10e42074e5
+fetched_at: '2025-11-04T05:32:40Z'
+generated_at: '2025-11-04T05:32:40Z'
+hash: dac9ab9c89e123e680b8f9ce5f926a675419f3125ccaa7a7d134675b5242737b
 items:
-- id: 45789602
-  score: 269
-  time: '2025-11-02T11:43:26Z'
-  title: Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch
-  url: https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
-- id: 45792373
-  score: 105
-  time: '2025-11-02T18:37:38Z'
-  title: Reproducing the AWS Outage Race Condition with a Model Checker
-  url: https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/
-- id: 45788042
-  score: 78
-  time: '2025-11-02T05:33:00Z'
-  title: Meta readies $25B bond sale as soaring AI costs trigger stock sell-off
-  url: https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9
-- id: 45788327
-  score: 69
-  time: '2025-11-02T06:51:58Z'
-  title: Why do AI models use so many em-dashes?
-  url: https://www.seangoedecke.com/em-dashes/
-- id: 45790443
-  score: 42
-  time: '2025-11-02T14:04:07Z'
-  title: 'Show HN: Anki-LLM – Bulk process and generate Anki flashcards with LLMs'
-  url: https://github.com/raine/anki-llm
-- id: 45795186
-  score: 8
-  time: '2025-11-03T01:59:07Z'
-  title: Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy
-  url: https://www.syllabi-ai.com/
+- id: 45804377
+  score: 226
+  time: '2025-11-03T21:01:09Z'
+  title: AI's Dial-Up Era
+  url: https://www.wreflection.com/p/ai-dial-up-era
+- id: 45799211
+  score: 189
+  time: '2025-11-03T14:20:05Z'
+  title: OpenAI signs $38B cloud computing deal with Amazon
+  url: https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html
+- id: 45798489
+  score: 178
+  time: '2025-11-03T12:52:18Z'
+  title: I analyzed 180M jobs to see what jobs AI is replacing today
+  url: https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/
+- id: 45800688
+  score: 80
+  time: '2025-11-03T16:17:22Z'
+  title: Google pulls AI model after senator says it fabricated assault allegation
+  url: https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination
+- id: 45802290
+  score: 53
+  time: '2025-11-03T18:16:43Z'
+  title: 'Agent-o-rama: build, trace, evaluate, and monitor LLM agents in Java or
+    Clojure'
+  url: https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/
+- id: 45801981
+  score: 30
+  time: '2025-11-03T17:50:38Z'
+  title: 'Show HN: An AI to match your voice to songs and artists you should sing'
+  url: https://coach.singonesong.com
+- id: 45806079
+  score: 10
+  time: '2025-11-04T00:11:38Z'
+  title: I just trained a physics-based earthquake forecasting model on a $1000 GPU
+  url: https://news.ycombinator.com/item?id=45806079
+- id: 45806825
+  score: 5
+  time: '2025-11-04T02:18:53Z'
+  title: OpenAI debated merging with one of its biggest rivals after firing Sam Altman
+  url: https://www.aol.com/news/openai-debated-merging-one-biggest-191042428.html
 source_url: https://hacker-news.firebaseio.com/
