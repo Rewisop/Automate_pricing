@@ -1,53 +1,46 @@
-fetched_at: '2025-11-04T05:32:40Z'
-generated_at: '2025-11-04T05:32:40Z'
-hash: 0f845169a05b28c5b215938c32ed3af81425b84d1ab354296cff3a0450076859
+fetched_at: '2025-11-05T05:32:55Z'
+generated_at: '2025-11-05T05:32:55Z'
+hash: 75267439ea79cb31d478ee0e2e9b4530a5643859193cf2b7db091c1864fd7a79
 items:
-- created_at: '2025-10-29T02:35:37Z'
-  description: Trade using LLMs
-  full_name: hkirat/ai-trading-agent
-  html_url: https://github.com/hkirat/ai-trading-agent
-  stargazers_count: 130
 - created_at: '2025-10-30T23:57:03Z'
   description: An AI-powered multi-agent platform for automated investment research
     — combining LLM reasoning, RAG retrieval, and real-time market data to generate
     smart fina…
   full_name: flash131307/multi-agent-investment
   html_url: https://github.com/flash131307/multi-agent-investment
-  stargazers_count: 65
-- created_at: '2025-10-29T07:40:59Z'
-  description: Draft-Target Disaggregation LLM Serving System via Parallel Speculative
-    Decoding.
-  full_name: smart-lty/nano-PEARL
-  html_url: https://github.com/smart-lty/nano-PEARL
-  stargazers_count: 48
-- created_at: '2025-10-29T17:44:17Z'
-  description: Helios Engine is a powerful and flexible Rust framework for building
-    LLM-powered agents with tool support, chat capabilities, and easy configuration
-    management…
-  full_name: Ammar-Alnagar/Helios-Engine
-  html_url: https://github.com/Ammar-Alnagar/Helios-Engine
-  stargazers_count: 36
-- created_at: '2025-10-30T14:59:50Z'
-  description: Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading
-    System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…
-  full_name: polymarket-trading-ai-agent/polymarket-trading-ai-agent
-  html_url: https://github.com/polymarket-trading-ai-agent/polymarket-trading-ai-agent
-  stargazers_count: 34
+  stargazers_count: 89
 - created_at: '2025-10-30T18:11:59Z'
   description: Torque is a Declarative, typesafe DSL for building synthetic LLM datasets
     — compose conversations like React components
   full_name: qforge-dev/torque
   html_url: https://github.com/qforge-dev/torque
-  stargazers_count: 32
+  stargazers_count: 37
+- created_at: '2025-11-03T19:47:35Z'
+  description: BonerBots Day 1 release with livetrading LLM bots on AsterDEX
+  full_name: bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0
+  html_url: https://github.com/bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0
+  stargazers_count: 30
 - created_at: '2025-11-01T19:33:42Z'
   description: Quickly screenshots webpages and converts to an LLM friendly size
   full_name: chongzixuan-ai/mcp-server-website
   html_url: https://github.com/chongzixuan-ai/mcp-server-website
   stargazers_count: 23
+- created_at: '2025-10-30T14:59:50Z'
+  description: Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading
+    System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…
+  full_name: polymarket-trading-ai-agent/polymarket-trading-ai-agent
+  html_url: https://github.com/polymarket-trading-ai-agent/polymarket-trading-ai-agent
+  stargazers_count: 23
 - created_at: '2025-10-30T13:44:06Z'
   description: Tools for merging pretrained large language models.
   full_name: CodyOnGit/mergekit
   html_url: https://github.com/CodyOnGit/mergekit
+  stargazers_count: 21
+- created_at: '2025-11-01T09:53:38Z'
+  description: A competitive AI-powered cryptocurrency futures trading platform featuring
+    a NOF1-inspired interface (nof1.ai) for showcasing multiple LLM models side-by-side,…
+  full_name: lukema95/roma-01
+  html_url: https://github.com/lukema95/roma-01
   stargazers_count: 21
 - created_at: '2025-10-30T13:40:06Z'
   description: An open platform for training, serving, and evaluating large language
@@ -76,44 +69,54 @@ items:
   full_name: CodyOnGit/tinytuner
   html_url: https://github.com/CodyOnGit/tinytuner
   stargazers_count: 20
-- created_at: '2025-10-29T00:25:52Z'
-  description: 'H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning
-    and Style-Structured Mixture of Experts'
-  full_name: PeilinTime/H3M-SSMoEs
-  html_url: https://github.com/PeilinTime/H3M-SSMoEs
-  stargazers_count: 20
 - created_at: '2025-10-30T18:20:42Z'
   description: A polite LLM for CLI 🙏
   full_name: xhjkl/please
   html_url: https://github.com/xhjkl/please
   stargazers_count: 20
-- created_at: '2025-10-29T02:19:04Z'
-  description: Turkish LLM Benchmark
-  full_name: alicankiraz1/seneca-trbench
-  html_url: https://github.com/alicankiraz1/seneca-trbench
-  stargazers_count: 18
-- created_at: '2025-10-29T09:25:17Z'
-  description: 'This is the official repo for the paper "AMO-Bench: Large Language
-    Models Still Struggle in High School Math Competitions".'
-  full_name: meituan-longcat/AMO-Bench
-  html_url: https://github.com/meituan-longcat/AMO-Bench
-  stargazers_count: 17
-- created_at: '2025-11-03T19:47:35Z'
-  description: BonerBots Day 1 release with livetrading LLM bots on AsterDEX
-  full_name: bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0
-  html_url: https://github.com/bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0
-  stargazers_count: 15
-- created_at: '2025-10-30T01:29:54Z'
-  description: Curated papers, systems, and benchmarks on memory for LLMs/MLLMs—long-term
-    context, retrieval, and reasoning.
-  full_name: TeleAI-UAGI/Awesome-Agent-Memory
-  html_url: https://github.com/TeleAI-UAGI/Awesome-Agent-Memory
-  stargazers_count: 14
+- created_at: '2025-10-30T14:11:56Z'
+  description: A high-performance, .NET 9 library for serializing and deserializing
+    data in the TOON format - a human-readable, line-oriented data serialization format
+    optimi…
+  full_name: 0xZunia/ToonSharp
+  html_url: https://github.com/0xZunia/ToonSharp
+  stargazers_count: 19
 - created_at: '2025-11-01T04:28:54Z'
   description: Inspired by Alpha Arena and open-nof1.ai,we want to explore the new
     trading way of ai-trading.we will improve the LLMs and use machine learning to
     analyse the…
   full_name: qingshungLI/Super-nof1.ai
   html_url: https://github.com/qingshungLI/Super-nof1.ai
-  stargazers_count: 12
+  stargazers_count: 17
+- created_at: '2025-10-30T01:29:54Z'
+  description: Curated papers, systems, and benchmarks on memory for LLMs/MLLMs—long-term
+    context, retrieval, and reasoning.
+  full_name: TeleAI-UAGI/Awesome-Agent-Memory
+  html_url: https://github.com/TeleAI-UAGI/Awesome-Agent-Memory
+  stargazers_count: 14
+- created_at: '2025-10-31T11:23:28Z'
+  description: KiraAI, a modular, multi-platform AI virtual being that connects Large
+    Language Models (LLMs), Text-to-Speech (TTS), and various chat adapters (QQ, Telegram,
+    B…
+  full_name: xxynet/KiraAI
+  html_url: https://github.com/xxynet/KiraAI
+  stargazers_count: 11
+- created_at: '2025-10-31T13:54:08Z'
+  description: A comprehensive, professional guide explaining the differences, strengths,
+    and best practices of Retrieval-Augmented Generation (RAG) and Fine-Tuning for
+    LLMs,…
+  full_name: AmirhosseinHonardoust/RAG-vs-Fine-Tuning
+  html_url: https://github.com/AmirhosseinHonardoust/RAG-vs-Fine-Tuning
+  stargazers_count: 10
+- created_at: '2025-11-03T04:22:40Z'
+  description: Tokenization-Aware Compression Codec to efficiently send LLM outputs
+    over low-bandwidth networks
+  full_name: elijah0528/tacc
+  html_url: https://github.com/elijah0528/tacc
+  stargazers_count: 6
+- created_at: '2025-10-30T10:33:22Z'
+  description: Structured LLM prompts in Clojure
+  full_name: unravel-team/DSCloj
+  html_url: https://github.com/unravel-team/DSCloj
+  stargazers_count: 6
 source_url: https://api.github.com/search/repositories

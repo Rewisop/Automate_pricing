@@ -1,46 +1,36 @@
-fetched_at: '2025-11-04T05:32:40Z'
-generated_at: '2025-11-04T05:32:40Z'
-hash: dac9ab9c89e123e680b8f9ce5f926a675419f3125ccaa7a7d134675b5242737b
+fetched_at: '2025-11-05T05:32:55Z'
+generated_at: '2025-11-05T05:32:55Z'
+hash: cafcec835f638f147b2c0cdfe71f1888dc3d6fa36871e95e76b15af3e45a9372
 items:
-- id: 45804377
-  score: 226
-  time: '2025-11-03T21:01:09Z'
-  title: AI's Dial-Up Era
-  url: https://www.wreflection.com/p/ai-dial-up-era
-- id: 45799211
-  score: 189
-  time: '2025-11-03T14:20:05Z'
-  title: OpenAI signs $38B cloud computing deal with Amazon
-  url: https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html
-- id: 45798489
-  score: 178
-  time: '2025-11-03T12:52:18Z'
-  title: I analyzed 180M jobs to see what jobs AI is replacing today
-  url: https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/
-- id: 45800688
-  score: 80
-  time: '2025-11-03T16:17:22Z'
-  title: Google pulls AI model after senator says it fabricated assault allegation
-  url: https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination
-- id: 45802290
-  score: 53
-  time: '2025-11-03T18:16:43Z'
-  title: 'Agent-o-rama: build, trace, evaluate, and monitor LLM agents in Java or
-    Clojure'
-  url: https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/
-- id: 45801981
-  score: 30
-  time: '2025-11-03T17:50:38Z'
-  title: 'Show HN: An AI to match your voice to songs and artists you should sing'
-  url: https://coach.singonesong.com
-- id: 45806079
-  score: 10
-  time: '2025-11-04T00:11:38Z'
-  title: I just trained a physics-based earthquake forecasting model on a $1000 GPU
-  url: https://news.ycombinator.com/item?id=45806079
-- id: 45806825
-  score: 5
-  time: '2025-11-04T02:18:53Z'
-  title: OpenAI debated merging with one of its biggest rivals after firing Sam Altman
-  url: https://www.aol.com/news/openai-debated-merging-one-biggest-191042428.html
+- id: 45812403
+  score: 132
+  time: '2025-11-04T15:55:59Z'
+  title: Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers
+  url: https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent
+- id: 45812901
+  score: 111
+  time: '2025-11-04T16:36:52Z'
+  title: YouTube AI error costs creator his channel over alleged link to Japanese
+    account
+  url: https://piunikaweb.com/2025/11/04/youtube-ai-error-terminates-enderman-channel/
+- id: 45808308
+  score: 101
+  time: '2025-11-04T07:26:45Z'
+  title: Lessons from interviews on deploying AI Agents in production
+  url: https://mmc.vc/research/state-of-agentic-ai-founders-edition/
+- id: 45818483
+  score: 39
+  time: '2025-11-05T03:01:59Z'
+  title: What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise
+  url: https://www.leefang.com/p/what-happened-to-piracy-copyright
+- id: 45817268
+  score: 14
+  time: '2025-11-04T23:47:36Z'
+  title: How Much AI Spending Is Too Much? Investors Are Starting to Wonder
+  url: https://www.wsj.com/finance/stocks/how-much-ai-spending-is-too-much-investors-are-starting-to-wonder-62abf1ad
+- id: 45818851
+  score: 14
+  time: '2025-11-05T03:56:48Z'
+  title: Oracle default fears surge as credit swaps spike – is AI taking its toll?
+  url: https://economictimes.indiatimes.com/news/international/us/oracle-default-fears-surge-as-credit-swaps-spike-to-2-year-high-is-ai-taking-its-toll/articleshow/125065038.cms?from=mdr
 source_url: https://hacker-news.firebaseio.com/

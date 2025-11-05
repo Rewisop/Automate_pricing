@@ -1,117 +1,115 @@
-fetched_at: '2025-11-04T05:32:40Z'
-generated_at: '2025-11-04T05:32:40Z'
-hash: ca255ba0fed981302ea8b720ae8bcadf51e0a61859621997584e2cf2525a5da1
+fetched_at: '2025-11-05T05:32:55Z'
+generated_at: '2025-11-05T05:32:55Z'
+hash: 3c064be223ba720cf67938059bab337416058a4d53810cd6fca6901ef1601eb5
 items:
-- id: oai:arXiv.org:2510.26852v1
-  link: https://arxiv.org/abs/2510.26852
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.26852v1 Announce Type: new  Abstract: Large Language Model
-    (LLM) agents have evolved from basic text generation to autonomously completing
-    complex t…'
-  title: 'CATArena: Evaluation of LLM Agents through Iterative Tournament Competitions'
-- id: oai:arXiv.org:2510.26854v1
-  link: https://arxiv.org/abs/2510.26854
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.26854v1 Announce Type: new  Abstract: Most scientific materials
-    compress reasoning, presenting conclusions while omitting the derivational chains
-    th…'
-  title: 'Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific
-    Encyclopedia from a Long Chains-of-Thought Knowledge Base'
-- id: oai:arXiv.org:2510.26887v1
-  link: https://arxiv.org/abs/2510.26887
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.26887v1 Announce Type: new  Abstract: We present Denario, an
-    AI multi-agent system designed to serve as a scientific research assistant. Denario
-    can…'
-  title: 'The Denario project: Deep knowledge AI agents for scientific discovery'
-- id: oai:arXiv.org:2510.26905v1
-  link: https://arxiv.org/abs/2510.26905
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.26905v1 Announce Type: new  Abstract: Cyber-physical systems
-    increasingly rely on Foundational Models such as Large Language Models (LLMs)
-    and Visio…'
-  title: Cognition Envelopes for Bounded AI Reasoning in Autonomous UAS Operations
-- id: oai:arXiv.org:2510.26989v1
-  link: https://arxiv.org/abs/2510.26989
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.26989v1 Announce Type: new  Abstract: The global agricultural
-    sector is undergoing a transformative shift, driven by increasing food demands,
-    climat…'
-  title: 'SUSTAINABLE Platform: Seamless Smart Farming Integration Towards Agronomy
-    Automation'
-- id: oai:arXiv.org:2510.27009v1
-  link: https://arxiv.org/abs/2510.27009
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.27009v1 Announce Type: new  Abstract: Language models are traditionally
-    designed around causal masking. In domains with spatial or relational struct…'
-  title: 'Causal Masking on Spatial Data: An Information-Theoretic Case for Learning
-    Spatial Datasets with Unimodal Language Models'
-- id: oai:arXiv.org:2510.27042v1
-  link: https://arxiv.org/abs/2510.27042
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.27042v1 Announce Type: new  Abstract: Increasing the thinking
-    budget of AI models can significantly improve accuracy, but not all questions
-    warrant…'
-  title: 'e1: Learning Adaptive Control of Reasoning Effort'
-- id: oai:arXiv.org:2510.27051v1
-  link: https://arxiv.org/abs/2510.27051
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.27051v1 Announce Type: new  Abstract: Enterprise AI agents
-    must continuously adapt to maintain accuracy, reduce latency, and remain aligned
-    with use…'
-  title: 'Adaptive Data Flywheel: Applying MAPE Control Loops to AI Agent Improvement'
-- id: oai:arXiv.org:2510.27094v1
-  link: https://arxiv.org/abs/2510.27094
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.27094v1 Announce Type: new  Abstract: State-of-the-art (SOTA)
-    LLMs have progressed from struggling on proof-based Olympiad problems to solving
-    most…'
-  title: 'CombiGraph-Vis: A Curated Multimodal Olympiad Benchmark for Discrete Mathematical
-    Reasoning'
-- id: oai:arXiv.org:2510.27176v1
-  link: https://arxiv.org/abs/2510.27176
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.27176v1 Announce Type: new  Abstract: Can an AI autonomously
-    design mechanisms for computer systems on par with the creativity and reasoning
-    of huma…'
-  title: 'Glia: A Human-Inspired AI for Automated Systems Design and Optimization'
-- id: oai:arXiv.org:2510.27194v1
-  link: https://arxiv.org/abs/2510.27194
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.27194v1 Announce Type: new  Abstract: Today, products are no
-    longer isolated artifacts, but nodes in networked systems. This means that traditional,…'
-  title: From product to system network challenges in system of systems lifecycle
-    management
-- id: oai:arXiv.org:2510.27206v1
-  link: https://arxiv.org/abs/2510.27206
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.27206v1 Announce Type: new  Abstract: The rapid evolution of
-    large language models (LLMs) has intensified the demand for effective personalization
-    t…'
-  title: 'Fints: Efficient Inference-Time Personalization for LLMs with Fine-Grained
-    Instance-Tailored Steering'
-- id: oai:arXiv.org:2510.27210v1
-  link: https://arxiv.org/abs/2510.27210
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.27210v1 Announce Type: new  Abstract: While Multimodal Large
-    Language Models (MLLMs) have advanced GUI navigation agents, current approaches
-    face li…'
-  title: 'GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation'
-- id: oai:arXiv.org:2510.27329v1
-  link: https://arxiv.org/abs/2510.27329
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.27329v1 Announce Type: new  Abstract: Reward machines (RMs)
-    inform reinforcement learning agents about the reward structure of the environment.
-    This…'
-  title: 'Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to
-    Coupled Reward Machines'
-- id: oai:arXiv.org:2510.27343v1
-  link: https://arxiv.org/abs/2510.27343
-  published: '2025-11-04T05:00:00Z'
-  summary: 'arXiv:2510.27343v1 Announce Type: new  Abstract: Event logs extracted
-    from information systems offer a rich foundation for understanding and improving
-    business…'
-  title: Discriminative Rule Learning for Outcome-Guided Process Model Discovery
+- id: oai:arXiv.org:2511.00020v1
+  link: https://arxiv.org/abs/2511.00020
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00020v1 Announce Type: new  Abstract: In the current digital
+    commerce landscape, user-generated reviews play a critical role in shaping consumer
+    beh…'
+  title: Multimodal Detection of Fake Reviews using BERT and ResNet-50
+- id: oai:arXiv.org:2511.00039v1
+  link: https://arxiv.org/abs/2511.00039
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00039v1 Announce Type: new  Abstract: Dynamic pricing in retail
+    requires policies that adapt to shifting demand while coordinating decisions across…'
+  title: Graph-Attentive MAPPO for Dynamic Retail Pricing
+- id: oai:arXiv.org:2511.00048v1
+  link: https://arxiv.org/abs/2511.00048
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00048v1 Announce Type: new  Abstract: GEPOC, short for Generic
+    Population Concept, is a collection of models and methods for analysing population-le…'
+  title: GEPOC Parameters -- Open Source Parametrisation and Validation for Austria,
+    Version 2.0
+- id: oai:arXiv.org:2511.00092v1
+  link: https://arxiv.org/abs/2511.00092
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00092v1 Announce Type: new  Abstract: Large language models
+    are now integrated into many scientific workflows, accelerating data analysis,
+    hypothesi…'
+  title: 'QuantumBench: A Benchmark for Quantum Problem Solving'
+- id: oai:arXiv.org:2511.00122v1
+  link: https://arxiv.org/abs/2511.00122
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00122v1 Announce Type: new  Abstract: In modern engineering
+    practice, human engineers collaborate in specialized teams to design complex products,
+    w…'
+  title: 'Engineering.ai: A Platform for Teams of AI Engineers in Computational Design'
+- id: oai:arXiv.org:2511.00162v2
+  link: https://arxiv.org/abs/2511.00162
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00162v2 Announce Type: new  Abstract: The Abstraction and Reasoning
+    Corpus remains one of the most compelling and challenging benchmarks for trackin…'
+  title: 'ARC-GEN: A Mimetic Procedural Benchmark Generator for the Abstraction and
+    Reasoning Corpus'
+- id: oai:arXiv.org:2511.00194v1
+  link: https://arxiv.org/abs/2511.00194
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00194v1 Announce Type: new  Abstract: We present an improved
+    incremental selection algorithm of the selection algorithm presented in [1] and
+    prove a…'
+  title: Incremental Selection of Most-Filtering Conjectures and Proofs of the Selected
+    Conjectures
+- id: oai:arXiv.org:2511.00206v1
+  link: https://arxiv.org/abs/2511.00206
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00206v1 Announce Type: new  Abstract: Cognitive science faces
+    ongoing challenges in knowledge synthesis and conceptual clarity, in part due
+    to its m…'
+  title: Advancing Cognitive Science with LLMs
+- id: oai:arXiv.org:2511.00267v1
+  link: https://arxiv.org/abs/2511.00267
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00267v1 Announce Type: new  Abstract: The DAF-MIT AI Accelerator
+    is a collaboration between the United States Department of the Air Force (DAF)
+    and…'
+  title: Advancing AI Challenges for the United States Department of the Air Force
+- id: oai:arXiv.org:2511.00340v1
+  link: https://arxiv.org/abs/2511.00340
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00340v1 Announce Type: new  Abstract: The rapid integration
+    of large language models (LLMs) into high-stakes legal work has exposed a critical
+    gap:…'
+  title: 'Better Call CLAUSE: A Discrepancy Benchmark for Auditing LLMs Legal Reasoning
+    Capabilities'
+- id: oai:arXiv.org:2511.00379v1
+  link: https://arxiv.org/abs/2511.00379
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00379v1 Announce Type: new  Abstract: Ensuring that Large Language
+    Models (LLMs) align with the diverse and evolving human values across different
+    r…'
+  title: Diverse Human Value Alignment for Large Language Models via Ethical Reasoning
+- id: oai:arXiv.org:2511.00382v1
+  link: https://arxiv.org/abs/2511.00382
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00382v1 Announce Type: new  Abstract: Organizations are increasingly
+    adopting and adapting Large Language Models (LLMs) hosted on public repositorie…'
+  title: 'Efficiency vs. Alignment: Investigating Safety and Fairness Risks in Parameter-Efficient
+    Fine-Tuning of LLMs'
+- id: oai:arXiv.org:2511.00424v1
+  link: https://arxiv.org/abs/2511.00424
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00424v1 Announce Type: new  Abstract: The recent coronavirus
+    disease (Covid-19) has become a pandemic and has affected the entire globe. During
+    the…'
+  title: 'A Multimodal Framework for Depression Detection during Covid-19 via Harvesting
+    Social Media: A Novel Dataset and Method'
+- id: oai:arXiv.org:2511.00457v1
+  link: https://arxiv.org/abs/2511.00457
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00457v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) face significant limitations when applied to large-scale graphs, struggling
+    with…'
+  title: 'GraphChain: Large Language Models for Large-scale Graph Analysis via Tool
+    Chaining'
+- id: oai:arXiv.org:2511.00509v1
+  link: https://arxiv.org/abs/2511.00509
+  published: '2025-11-05T05:00:00Z'
+  summary: 'arXiv:2511.00509v1 Announce Type: new  Abstract: Large language models
+    (LLMs) excel in diverse applications but face dual challenges: generating harmful
+    conten…'
+  title: Reimagining Safety Alignment with An Image
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

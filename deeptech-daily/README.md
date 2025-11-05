@@ -26,17 +26,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -108,21 +110,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [CATArena: Evaluation of LLM Agents through Iterative Tournament Competitions](https://arxiv.org/abs/2510.26852) — arXiv:2510.26852v1 Announce Type: new  Abstract: Large Language Model (LLM) agents have evolved from basic text generation to autonomously completing complex t…
-- [Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base](https://arxiv.org/abs/2510.26854) — arXiv:2510.26854v1 Announce Type: new  Abstract: Most scientific materials compress reasoning, presenting conclusions while omitting the derivational chains th…
-- [The Denario project: Deep knowledge AI agents for scientific discovery](https://arxiv.org/abs/2510.26887) — arXiv:2510.26887v1 Announce Type: new  Abstract: We present Denario, an AI multi-agent system designed to serve as a scientific research assistant. Denario can…
-- [Cognition Envelopes for Bounded AI Reasoning in Autonomous UAS Operations](https://arxiv.org/abs/2510.26905) — arXiv:2510.26905v1 Announce Type: new  Abstract: Cyber-physical systems increasingly rely on Foundational Models such as Large Language Models (LLMs) and Visio…
-- [SUSTAINABLE Platform: Seamless Smart Farming Integration Towards Agronomy Automation](https://arxiv.org/abs/2510.26989) — arXiv:2510.26989v1 Announce Type: new  Abstract: The global agricultural sector is undergoing a transformative shift, driven by increasing food demands, climat…
-- [Causal Masking on Spatial Data: An Information-Theoretic Case for Learning Spatial Datasets with Unimodal Language Models](https://arxiv.org/abs/2510.27009) — arXiv:2510.27009v1 Announce Type: new  Abstract: Language models are traditionally designed around causal masking. In domains with spatial or relational struct…
-- [e1: Learning Adaptive Control of Reasoning Effort](https://arxiv.org/abs/2510.27042) — arXiv:2510.27042v1 Announce Type: new  Abstract: Increasing the thinking budget of AI models can significantly improve accuracy, but not all questions warrant…
-- [Adaptive Data Flywheel: Applying MAPE Control Loops to AI Agent Improvement](https://arxiv.org/abs/2510.27051) — arXiv:2510.27051v1 Announce Type: new  Abstract: Enterprise AI agents must continuously adapt to maintain accuracy, reduce latency, and remain aligned with use…
-- [CombiGraph-Vis: A Curated Multimodal Olympiad Benchmark for Discrete Mathematical Reasoning](https://arxiv.org/abs/2510.27094) — arXiv:2510.27094v1 Announce Type: new  Abstract: State-of-the-art (SOTA) LLMs have progressed from struggling on proof-based Olympiad problems to solving most…
-- [Glia: A Human-Inspired AI for Automated Systems Design and Optimization](https://arxiv.org/abs/2510.27176) — arXiv:2510.27176v1 Announce Type: new  Abstract: Can an AI autonomously design mechanisms for computer systems on par with the creativity and reasoning of huma…
-- [From product to system network challenges in system of systems lifecycle management](https://arxiv.org/abs/2510.27194) — arXiv:2510.27194v1 Announce Type: new  Abstract: Today, products are no longer isolated artifacts, but nodes in networked systems. This means that traditional,…
-- [Fints: Efficient Inference-Time Personalization for LLMs with Fine-Grained Instance-Tailored Steering](https://arxiv.org/abs/2510.27206) — arXiv:2510.27206v1 Announce Type: new  Abstract: The rapid evolution of large language models (LLMs) has intensified the demand for effective personalization t…
-- [GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation](https://arxiv.org/abs/2510.27210) — arXiv:2510.27210v1 Announce Type: new  Abstract: While Multimodal Large Language Models (MLLMs) have advanced GUI navigation agents, current approaches face li…
-- [Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to Coupled Reward Machines](https://arxiv.org/abs/2510.27329) — arXiv:2510.27329v1 Announce Type: new  Abstract: Reward machines (RMs) inform reinforcement learning agents about the reward structure of the environment. This…
-- [Discriminative Rule Learning for Outcome-Guided Process Model Discovery](https://arxiv.org/abs/2510.27343) — arXiv:2510.27343v1 Announce Type: new  Abstract: Event logs extracted from information systems offer a rich foundation for understanding and improving business…
+- [Multimodal Detection of Fake Reviews using BERT and ResNet-50](https://arxiv.org/abs/2511.00020) — arXiv:2511.00020v1 Announce Type: new  Abstract: In the current digital commerce landscape, user-generated reviews play a critical role in shaping consumer beh…
+- [Graph-Attentive MAPPO for Dynamic Retail Pricing](https://arxiv.org/abs/2511.00039) — arXiv:2511.00039v1 Announce Type: new  Abstract: Dynamic pricing in retail requires policies that adapt to shifting demand while coordinating decisions across…
+- [GEPOC Parameters -- Open Source Parametrisation and Validation for Austria, Version 2.0](https://arxiv.org/abs/2511.00048) — arXiv:2511.00048v1 Announce Type: new  Abstract: GEPOC, short for Generic Population Concept, is a collection of models and methods for analysing population-le…
+- [QuantumBench: A Benchmark for Quantum Problem Solving](https://arxiv.org/abs/2511.00092) — arXiv:2511.00092v1 Announce Type: new  Abstract: Large language models are now integrated into many scientific workflows, accelerating data analysis, hypothesi…
+- [Engineering.ai: A Platform for Teams of AI Engineers in Computational Design](https://arxiv.org/abs/2511.00122) — arXiv:2511.00122v1 Announce Type: new  Abstract: In modern engineering practice, human engineers collaborate in specialized teams to design complex products, w…
+- [ARC-GEN: A Mimetic Procedural Benchmark Generator for the Abstraction and Reasoning Corpus](https://arxiv.org/abs/2511.00162) — arXiv:2511.00162v2 Announce Type: new  Abstract: The Abstraction and Reasoning Corpus remains one of the most compelling and challenging benchmarks for trackin…
+- [Incremental Selection of Most-Filtering Conjectures and Proofs of the Selected Conjectures](https://arxiv.org/abs/2511.00194) — arXiv:2511.00194v1 Announce Type: new  Abstract: We present an improved incremental selection algorithm of the selection algorithm presented in [1] and prove a…
+- [Advancing Cognitive Science with LLMs](https://arxiv.org/abs/2511.00206) — arXiv:2511.00206v1 Announce Type: new  Abstract: Cognitive science faces ongoing challenges in knowledge synthesis and conceptual clarity, in part due to its m…
+- [Advancing AI Challenges for the United States Department of the Air Force](https://arxiv.org/abs/2511.00267) — arXiv:2511.00267v1 Announce Type: new  Abstract: The DAF-MIT AI Accelerator is a collaboration between the United States Department of the Air Force (DAF) and…
+- [Better Call CLAUSE: A Discrepancy Benchmark for Auditing LLMs Legal Reasoning Capabilities](https://arxiv.org/abs/2511.00340) — arXiv:2511.00340v1 Announce Type: new  Abstract: The rapid integration of large language models (LLMs) into high-stakes legal work has exposed a critical gap:…
+- [Diverse Human Value Alignment for Large Language Models via Ethical Reasoning](https://arxiv.org/abs/2511.00379) — arXiv:2511.00379v1 Announce Type: new  Abstract: Ensuring that Large Language Models (LLMs) align with the diverse and evolving human values across different r…
+- [Efficiency vs. Alignment: Investigating Safety and Fairness Risks in Parameter-Efficient Fine-Tuning of LLMs](https://arxiv.org/abs/2511.00382) — arXiv:2511.00382v1 Announce Type: new  Abstract: Organizations are increasingly adopting and adapting Large Language Models (LLMs) hosted on public repositorie…
+- [A Multimodal Framework for Depression Detection during Covid-19 via Harvesting Social Media: A Novel Dataset and Method](https://arxiv.org/abs/2511.00424) — arXiv:2511.00424v1 Announce Type: new  Abstract: The recent coronavirus disease (Covid-19) has become a pandemic and has affected the entire globe. During the…
+- [GraphChain: Large Language Models for Large-scale Graph Analysis via Tool Chaining](https://arxiv.org/abs/2511.00457) — arXiv:2511.00457v1 Announce Type: new  Abstract: Large Language Models (LLMs) face significant limitations when applied to large-scale graphs, struggling with…
+- [Reimagining Safety Alignment with An Image](https://arxiv.org/abs/2511.00509) — arXiv:2511.00509v1 Announce Type: new  Abstract: Large language models (LLMs) excel in diverse applications but face dual challenges: generating harmful conten…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -152,26 +154,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                              |   Stars | Description                                                                                                                                                      |
 |---------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| hkirat/ai-trading-agent                                 |     130 | Trade using LLMs                                                                                                                                                 |
-| flash131307/multi-agent-investment                      |      65 | An AI-powered multi-agent platform for automated investment research — combining LLM reasoning, RAG retrieval, and real-time market data to generate smart fina… |
-| smart-lty/nano-PEARL                                    |      48 | Draft-Target Disaggregation LLM Serving System via Parallel Speculative Decoding.                                                                                |
-| Ammar-Alnagar/Helios-Engine                             |      36 | Helios Engine is a powerful and flexible Rust framework for building LLM-powered agents with tool support, chat capabilities, and easy configuration management… |
-| polymarket-trading-ai-agent/polymarket-trading-ai-agent |      34 | Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…  |
-| qforge-dev/torque                                       |      32 | Torque is a Declarative, typesafe DSL for building synthetic LLM datasets — compose conversations like React components                                          |
+| flash131307/multi-agent-investment                      |      89 | An AI-powered multi-agent platform for automated investment research — combining LLM reasoning, RAG retrieval, and real-time market data to generate smart fina… |
+| qforge-dev/torque                                       |      37 | Torque is a Declarative, typesafe DSL for building synthetic LLM datasets — compose conversations like React components                                          |
+| bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0          |      30 | BonerBots Day 1 release with livetrading LLM bots on AsterDEX                                                                                                    |
 | chongzixuan-ai/mcp-server-website                       |      23 | Quickly screenshots webpages and converts to an LLM friendly size                                                                                                |
+| polymarket-trading-ai-agent/polymarket-trading-ai-agent |      23 | Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…  |
 | CodyOnGit/mergekit                                      |      21 | Tools for merging pretrained large language models.                                                                                                              |
+| lukema95/roma-01                                        |      21 | A competitive AI-powered cryptocurrency futures trading platform featuring a NOF1-inspired interface (nof1.ai) for showcasing multiple LLM models side-by-side,… |
 | CodyOnGit/FastChat                                      |      20 | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.                                         |
 | CodyOnGit/gorilla-custom                                |      20 | Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)                                                                                            |
 | CodyOnGit/llm-autoeval                                  |      20 | Automatically evaluate your LLMs in Google Colab                                                                                                                 |
 | CodyOnGit/llm-course                                    |      20 | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.                                                                               |
 | CodyOnGit/tinytuner                                     |      20 | 🐜🔧 A minimalistic tool to fine-tune your LLMs                                                                                                                    |
-| PeilinTime/H3M-SSMoEs                                   |      20 | H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts                                                      |
 | xhjkl/please                                            |      20 | A polite LLM for CLI 🙏                                                                                                                                           |
-| alicankiraz1/seneca-trbench                             |      18 | Turkish LLM Benchmark                                                                                                                                            |
-| meituan-longcat/AMO-Bench                               |      17 | This is the official repo for the paper "AMO-Bench: Large Language Models Still Struggle in High School Math Competitions".                                      |
-| bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0          |      15 | BonerBots Day 1 release with livetrading LLM bots on AsterDEX                                                                                                    |
+| 0xZunia/ToonSharp                                       |      19 | A high-performance, .NET 9 library for serializing and deserializing data in the TOON format - a human-readable, line-oriented data serialization format optimi… |
+| qingshungLI/Super-nof1.ai                               |      17 | Inspired by Alpha Arena and open-nof1.ai,we want to explore the new trading way of ai-trading.we will improve the LLMs and use machine learning to analyse the…  |
 | TeleAI-UAGI/Awesome-Agent-Memory                        |      14 | Curated papers, systems, and benchmarks on memory for LLMs/MLLMs—long-term context, retrieval, and reasoning.                                                    |
-| qingshungLI/Super-nof1.ai                               |      12 | Inspired by Alpha Arena and open-nof1.ai,we want to explore the new trading way of ai-trading.we will improve the LLMs and use machine learning to analyse the…  |
+| xxynet/KiraAI                                           |      11 | KiraAI, a modular, multi-platform AI virtual being that connects Large Language Models (LLMs), Text-to-Speech (TTS), and various chat adapters (QQ, Telegram, B… |
+| AmirhosseinHonardoust/RAG-vs-Fine-Tuning                |      10 | A comprehensive, professional guide explaining the differences, strengths, and best practices of Retrieval-Augmented Generation (RAG) and Fine-Tuning for LLMs,… |
+| elijah0528/tacc                                         |       6 | Tokenization-Aware Compression Codec to efficiently send LLM outputs over low-bandwidth networks                                                                 |
+| unravel-team/DSCloj                                     |       6 | Structured LLM prompts in Clojure                                                                                                                                |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -181,30 +183,28 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era) — 226 points
-- [OpenAI signs $38B cloud computing deal with Amazon](https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html) — 189 points
-- [I analyzed 180M jobs to see what jobs AI is replacing today](https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/) — 178 points
-- [Google pulls AI model after senator says it fabricated assault allegation](https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination) — 80 points
-- [Agent-o-rama: build, trace, evaluate, and monitor LLM agents in Java or Clojure](https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/) — 53 points
-- [Show HN: An AI to match your voice to songs and artists you should sing](https://coach.singonesong.com) — 30 points
-- [I just trained a physics-based earthquake forecasting model on a $1000 GPU](https://news.ycombinator.com/item?id=45806079) — 10 points
-- [OpenAI debated merging with one of its biggest rivals after firing Sam Altman](https://www.aol.com/news/openai-debated-merging-one-biggest-191042428.html) — 5 points
+- [Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers](https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent) — 132 points
+- [YouTube AI error costs creator his channel over alleged link to Japanese account](https://piunikaweb.com/2025/11/04/youtube-ai-error-terminates-enderman-channel/) — 111 points
+- [Lessons from interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/) — 101 points
+- [What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise](https://www.leefang.com/p/what-happened-to-piracy-copyright) — 39 points
+- [How Much AI Spending Is Too Much? Investors Are Starting to Wonder](https://www.wsj.com/finance/stocks/how-much-ai-spending-is-too-much-investors-are-starting-to-wonder-62abf1ad) — 14 points
+- [Oracle default fears surge as credit swaps spike – is AI taking its toll?](https://economictimes.indiatimes.com/news/international/us/oracle-default-fears-surge-as-credit-swaps-spike-to-2-year-high-is-ai-taking-its-toll/articleshow/125065038.cms?from=mdr) — 14 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE   |   CVSS | Summary   |
-|-------|--------|-----------|
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| GHSA-f3c4-4h69-w2fp |      0 |           |
+| CVE-2025-54236      |      0 |           |
+| CVE-2025-48703      |      0 |           |
+| CVE-2025-11371      |      0 |           |
+| GHSA-jc85-fpwf-qm7x |      0 |           |
+| GHSA-6wgh-rvcx-89g9 |      0 |           |
+| GHSA-99pj-8225-q39g |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
