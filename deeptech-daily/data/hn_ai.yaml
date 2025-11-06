@@ -1,36 +1,40 @@
-fetched_at: '2025-11-05T05:32:55Z'
-generated_at: '2025-11-05T05:32:55Z'
-hash: cafcec835f638f147b2c0cdfe71f1888dc3d6fa36871e95e76b15af3e45a9372
+fetched_at: '2025-11-06T05:32:46Z'
+generated_at: '2025-11-06T05:32:46Z'
+hash: 25cdf355cdb1b97a958d643e59aea5270460e805823e7eb9c4a40b900dd11e5d
 items:
-- id: 45812403
-  score: 132
-  time: '2025-11-04T15:55:59Z'
-  title: Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers
-  url: https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent
-- id: 45812901
-  score: 111
-  time: '2025-11-04T16:36:52Z'
-  title: YouTube AI error costs creator his channel over alleged link to Japanese
-    account
-  url: https://piunikaweb.com/2025/11/04/youtube-ai-error-terminates-enderman-channel/
-- id: 45808308
-  score: 101
-  time: '2025-11-04T07:26:45Z'
-  title: Lessons from interviews on deploying AI Agents in production
-  url: https://mmc.vc/research/state-of-agentic-ai-founders-edition/
-- id: 45818483
-  score: 39
-  time: '2025-11-05T03:01:59Z'
-  title: What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise
-  url: https://www.leefang.com/p/what-happened-to-piracy-copyright
-- id: 45817268
-  score: 14
-  time: '2025-11-04T23:47:36Z'
-  title: How Much AI Spending Is Too Much? Investors Are Starting to Wonder
-  url: https://www.wsj.com/finance/stocks/how-much-ai-spending-is-too-much-investors-are-starting-to-wonder-62abf1ad
-- id: 45818851
-  score: 14
-  time: '2025-11-05T03:56:48Z'
-  title: Oracle default fears surge as credit swaps spike – is AI taking its toll?
-  url: https://economictimes.indiatimes.com/news/international/us/oracle-default-fears-surge-as-credit-swaps-spike-to-2-year-high-is-ai-taking-its-toll/articleshow/125065038.cms?from=mdr
+- id: 45827661
+  score: 72
+  time: '2025-11-05T20:40:39Z'
+  title: A Lost IBM PC/at Model? Analyzing a Newfound Old Bios
+  url: https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/
+- id: 45826975
+  score: 54
+  time: '2025-11-05T19:43:22Z'
+  title: Apple nears $1B Google deal for custom Gemini model to power Siri
+  url: https://9to5mac.com/2025/11/05/google-gemini-1-billion-deal-apple-siri/
+- id: 45823358
+  score: 51
+  time: '2025-11-05T14:43:26Z'
+  title: 'Kosmos: An AI Scientist for Autonomous Discovery'
+  url: https://arxiv.org/abs/2511.02824
+- id: 45830380
+  score: 42
+  time: '2025-11-06T01:32:08Z'
+  title: OpenAI asks U.S. for loan guarantees to fund $1T AI expansion
+  url: https://investinglive.com/stock-market-update/icymi-openai-asks-us-for-loan-guarantees-to-fund-1-trillion-ai-expansion-20251105/
+- id: 45823290
+  score: 41
+  time: '2025-11-05T14:35:33Z'
+  title: Don't panic yet, investors say as high-flying AI stocks tumble
+  url: https://www.reuters.com/world/asia-pacific/global-markets-ai-selloff-pix-2025-11-05/
+- id: 45826871
+  score: 19
+  time: '2025-11-05T19:33:10Z'
+  title: Tinder is testing an AI feature that learns about you from your Camera Roll
+  url: https://techcrunch.com/2025/11/05/tinder-to-use-ai-to-get-to-know-users-tap-into-their-camera-roll-photos/
+- id: 45828972
+  score: 16
+  time: '2025-11-05T22:30:15Z'
+  title: OpenAI Wants Federal Backstop for New Investments [video]
+  url: https://www.wsj.com/video/openai-wants-federal-backstop-for-new-investments/4F6C864C-7332-448B-A9B4-66C321E60FE7
 source_url: https://hacker-news.firebaseio.com/

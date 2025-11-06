@@ -27,17 +27,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -110,21 +112,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [Multimodal Detection of Fake Reviews using BERT and ResNet-50](https://arxiv.org/abs/2511.00020) — arXiv:2511.00020v1 Announce Type: new  Abstract: In the current digital commerce landscape, user-generated reviews play a critical role in shaping consumer beh…
-- [Graph-Attentive MAPPO for Dynamic Retail Pricing](https://arxiv.org/abs/2511.00039) — arXiv:2511.00039v1 Announce Type: new  Abstract: Dynamic pricing in retail requires policies that adapt to shifting demand while coordinating decisions across…
-- [GEPOC Parameters -- Open Source Parametrisation and Validation for Austria, Version 2.0](https://arxiv.org/abs/2511.00048) — arXiv:2511.00048v1 Announce Type: new  Abstract: GEPOC, short for Generic Population Concept, is a collection of models and methods for analysing population-le…
-- [QuantumBench: A Benchmark for Quantum Problem Solving](https://arxiv.org/abs/2511.00092) — arXiv:2511.00092v1 Announce Type: new  Abstract: Large language models are now integrated into many scientific workflows, accelerating data analysis, hypothesi…
-- [Engineering.ai: A Platform for Teams of AI Engineers in Computational Design](https://arxiv.org/abs/2511.00122) — arXiv:2511.00122v1 Announce Type: new  Abstract: In modern engineering practice, human engineers collaborate in specialized teams to design complex products, w…
-- [ARC-GEN: A Mimetic Procedural Benchmark Generator for the Abstraction and Reasoning Corpus](https://arxiv.org/abs/2511.00162) — arXiv:2511.00162v2 Announce Type: new  Abstract: The Abstraction and Reasoning Corpus remains one of the most compelling and challenging benchmarks for trackin…
-- [Incremental Selection of Most-Filtering Conjectures and Proofs of the Selected Conjectures](https://arxiv.org/abs/2511.00194) — arXiv:2511.00194v1 Announce Type: new  Abstract: We present an improved incremental selection algorithm of the selection algorithm presented in [1] and prove a…
-- [Advancing Cognitive Science with LLMs](https://arxiv.org/abs/2511.00206) — arXiv:2511.00206v1 Announce Type: new  Abstract: Cognitive science faces ongoing challenges in knowledge synthesis and conceptual clarity, in part due to its m…
-- [Advancing AI Challenges for the United States Department of the Air Force](https://arxiv.org/abs/2511.00267) — arXiv:2511.00267v1 Announce Type: new  Abstract: The DAF-MIT AI Accelerator is a collaboration between the United States Department of the Air Force (DAF) and…
-- [Better Call CLAUSE: A Discrepancy Benchmark for Auditing LLMs Legal Reasoning Capabilities](https://arxiv.org/abs/2511.00340) — arXiv:2511.00340v1 Announce Type: new  Abstract: The rapid integration of large language models (LLMs) into high-stakes legal work has exposed a critical gap:…
-- [Diverse Human Value Alignment for Large Language Models via Ethical Reasoning](https://arxiv.org/abs/2511.00379) — arXiv:2511.00379v1 Announce Type: new  Abstract: Ensuring that Large Language Models (LLMs) align with the diverse and evolving human values across different r…
-- [Efficiency vs. Alignment: Investigating Safety and Fairness Risks in Parameter-Efficient Fine-Tuning of LLMs](https://arxiv.org/abs/2511.00382) — arXiv:2511.00382v1 Announce Type: new  Abstract: Organizations are increasingly adopting and adapting Large Language Models (LLMs) hosted on public repositorie…
-- [A Multimodal Framework for Depression Detection during Covid-19 via Harvesting Social Media: A Novel Dataset and Method](https://arxiv.org/abs/2511.00424) — arXiv:2511.00424v1 Announce Type: new  Abstract: The recent coronavirus disease (Covid-19) has become a pandemic and has affected the entire globe. During the…
-- [GraphChain: Large Language Models for Large-scale Graph Analysis via Tool Chaining](https://arxiv.org/abs/2511.00457) — arXiv:2511.00457v1 Announce Type: new  Abstract: Large Language Models (LLMs) face significant limitations when applied to large-scale graphs, struggling with…
-- [Reimagining Safety Alignment with An Image](https://arxiv.org/abs/2511.00509) — arXiv:2511.00509v1 Announce Type: new  Abstract: Large language models (LLMs) excel in diverse applications but face dual challenges: generating harmful conten…
+- [Evaluating Control Protocols for Untrusted AI Agents](https://arxiv.org/abs/2511.02997) — arXiv:2511.02997v1 Announce Type: new  Abstract: As AI systems become more capable and widely deployed as agents, ensuring their safe operation becomes critica…
+- [PublicAgent: Multi-Agent Design Principles From an LLM-Based Open Data Analysis Framework](https://arxiv.org/abs/2511.03023) — arXiv:2511.03023v1 Announce Type: new  Abstract: Open data repositories hold potential for evidence-based decision-making, yet are inaccessible to non-experts…
+- [No-Human in the Loop: Agentic Evaluation at Scale for Recommendation](https://arxiv.org/abs/2511.03051) — arXiv:2511.03051v1 Announce Type: new  Abstract: Evaluating large language models (LLMs) as judges is increasingly critical for building scalable and trustwort…
+- [Epidemiology of Large Language Models: A Benchmark for Observational Distribution Knowledge](https://arxiv.org/abs/2511.03070) — arXiv:2511.03070v1 Announce Type: new  Abstract: Artificial intelligence (AI) systems hold great promise for advancing various scientific disciplines, and are…
+- [SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators](https://arxiv.org/abs/2511.03092) — arXiv:2511.03092v1 Announce Type: new  Abstract: The proliferation of 100B+ parameter Large Language Models (LLMs) with 100k+ context length support have resul…
+- [Large language models require a new form of oversight: capability-based monitoring](https://arxiv.org/abs/2511.03106) — arXiv:2511.03106v1 Announce Type: new  Abstract: The rapid adoption of large language models (LLMs) in healthcare has been accompanied by scrutiny of their ove…
+- [miniF2F-Lean Revisited: Reviewing Limitations and Charting a Path Forward](https://arxiv.org/abs/2511.03108) — arXiv:2511.03108v1 Announce Type: new  Abstract: We perform a thorough analysis of the formal and informal statements in the miniF2F benchmark from the perspec…
+- [Using Multi-modal Large Language Model to Boost Fireworks Algorithm's Ability in Settling Challenging Optimization Tasks](https://arxiv.org/abs/2511.03137) — arXiv:2511.03137v1 Announce Type: new  Abstract: As optimization problems grow increasingly complex and diverse, advancements in optimization techniques and pa…
+- [A Proprietary Model-Based Safety Response Framework for AI Agents](https://arxiv.org/abs/2511.03138) — arXiv:2511.03138v1 Announce Type: new  Abstract: With the widespread application of Large Language Models (LLMs), their associated security issues have become…
+- [Uncovering Bugs in Formal Explainers: A Case Study with PyXAI](https://arxiv.org/abs/2511.03169) — arXiv:2511.03169v1 Announce Type: new  Abstract: Formal explainable artificial intelligence (XAI) offers unique theoretical guarantees of rigor when compared t…
+- [Toward Autonomous Engineering Design: A Knowledge-Guided Multi-Agent Framework](https://arxiv.org/abs/2511.03179) — arXiv:2511.03179v1 Announce Type: new  Abstract: The engineering design process often demands expertise from multiple domains, leading to complex collaboration…
+- [Adobe Summit Concierge Evaluation with Human in the Loop](https://arxiv.org/abs/2511.03186) — arXiv:2511.03186v1 Announce Type: new  Abstract: Generative AI assistants offer significant potential to enhance productivity, streamline information access, a…
+- [From Five Dimensions to Many: Large Language Models as Precise and Interpretable Psychological Profilers](https://arxiv.org/abs/2511.03235) — arXiv:2511.03235v1 Announce Type: new  Abstract: Psychological constructs within individuals are widely believed to be interconnected. We investigated whether…
+- [Towards Scalable Web Accessibility Audit with MLLMs as Copilots](https://arxiv.org/abs/2511.03471) — arXiv:2511.03471v1 Announce Type: new  Abstract: Ensuring web accessibility is crucial for advancing social welfare, justice, and equality in digital spaces, y…
+- [Explaining Decisions in ML Models: a Parameterized Complexity Analysis (Part I)](https://arxiv.org/abs/2511.03545) — arXiv:2511.03545v1 Announce Type: new  Abstract: This paper presents a comprehensive theoretical investigation into the parameterized complexity of explanation…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -152,28 +154,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                              |   Stars | Description                                                                                                                                                      |
-|---------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| flash131307/multi-agent-investment                      |      89 | An AI-powered multi-agent platform for automated investment research — combining LLM reasoning, RAG retrieval, and real-time market data to generate smart fina… |
-| qforge-dev/torque                                       |      37 | Torque is a Declarative, typesafe DSL for building synthetic LLM datasets — compose conversations like React components                                          |
-| bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0          |      30 | BonerBots Day 1 release with livetrading LLM bots on AsterDEX                                                                                                    |
-| chongzixuan-ai/mcp-server-website                       |      23 | Quickly screenshots webpages and converts to an LLM friendly size                                                                                                |
-| polymarket-trading-ai-agent/polymarket-trading-ai-agent |      23 | Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…  |
-| CodyOnGit/mergekit                                      |      21 | Tools for merging pretrained large language models.                                                                                                              |
-| lukema95/roma-01                                        |      21 | A competitive AI-powered cryptocurrency futures trading platform featuring a NOF1-inspired interface (nof1.ai) for showcasing multiple LLM models side-by-side,… |
-| CodyOnGit/FastChat                                      |      20 | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.                                         |
-| CodyOnGit/gorilla-custom                                |      20 | Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)                                                                                            |
-| CodyOnGit/llm-autoeval                                  |      20 | Automatically evaluate your LLMs in Google Colab                                                                                                                 |
-| CodyOnGit/llm-course                                    |      20 | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.                                                                               |
-| CodyOnGit/tinytuner                                     |      20 | 🐜🔧 A minimalistic tool to fine-tune your LLMs                                                                                                                    |
-| xhjkl/please                                            |      20 | A polite LLM for CLI 🙏                                                                                                                                           |
-| 0xZunia/ToonSharp                                       |      19 | A high-performance, .NET 9 library for serializing and deserializing data in the TOON format - a human-readable, line-oriented data serialization format optimi… |
-| qingshungLI/Super-nof1.ai                               |      17 | Inspired by Alpha Arena and open-nof1.ai,we want to explore the new trading way of ai-trading.we will improve the LLMs and use machine learning to analyse the…  |
-| TeleAI-UAGI/Awesome-Agent-Memory                        |      14 | Curated papers, systems, and benchmarks on memory for LLMs/MLLMs—long-term context, retrieval, and reasoning.                                                    |
-| xxynet/KiraAI                                           |      11 | KiraAI, a modular, multi-platform AI virtual being that connects Large Language Models (LLMs), Text-to-Speech (TTS), and various chat adapters (QQ, Telegram, B… |
-| AmirhosseinHonardoust/RAG-vs-Fine-Tuning                |      10 | A comprehensive, professional guide explaining the differences, strengths, and best practices of Retrieval-Augmented Generation (RAG) and Fine-Tuning for LLMs,… |
-| elijah0528/tacc                                         |       6 | Tokenization-Aware Compression Codec to efficiently send LLM outputs over low-bandwidth networks                                                                 |
-| unravel-team/DSCloj                                     |       6 | Structured LLM prompts in Clojure                                                                                                                                |
+| Repository                                     |   Stars | Description                                                                                                                                                      |
+|------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0 |      31 | BonerBots Day 1 release with livetrading LLM bots on AsterDEX                                                                                                    |
+| chongzixuan-ai/mcp-server-website              |      28 | Quickly screenshots webpages and converts to an LLM friendly size                                                                                                |
+| lukema95/roma-01                               |      23 | A competitive AI-powered cryptocurrency futures trading platform featuring a NOF1-inspired interface (nof1.ai) for showcasing multiple LLM models side-by-side,… |
+| qingshungLI/Super-nof1.ai                      |      19 | Inspired by Alpha Arena and open-nof1.ai,we want to explore the new trading way of ai-trading.we will improve the LLMs and use machine learning to analyse the…  |
+| AmirhosseinHonardoust/RAG-vs-Fine-Tuning       |      13 | A comprehensive, professional guide explaining the differences, strengths, and best practices of Retrieval-Augmented Generation (RAG) and Fine-Tuning for LLMs,… |
+| Lianues/LLM-NeedleInAHaystack                  |      11 | Needle in a Haystack benchmark for evaluating LLM recall and attention mechanisms with edit distance scoring.                                                    |
+| xxynet/KiraAI                                  |      11 | KiraAI, a modular, multi-platform AI virtual being that connects Large Language Models (LLMs), Text-to-Speech (TTS), and various chat adapters (QQ, Telegram, B… |
+| kingkongshot/Figma-Bridge                      |       8 | Bridge from Figma designs to LLM-friendly HTML/CSS code                                                                                                          |
+| elijah0528/tacc                                |       7 | Tokenization-Aware Compression Codec to efficiently send LLM outputs over low-bandwidth networks                                                                 |
+| Programming-from-A-to-Z/Ollama-Context-RAG     |       6 | Example Demonstrating Retrieval Augmented Generation with transformers.js embeddings and Ollama LLMs.                                                            |
+| diegoeis/product-spec-kit                      |       6 | Leverage AI to create, refine, and maintain your product specifications. Made to be used in LLMs and IDEs.                                                       |
+| 0xPolygon/apk-mcp-llm-wallet                   |       5 | LLM Wallet MCP server, allowing LLMs to have their own crypto wallet                                                                                             |
+| ArnavSharma938/SYNTEXIS                        |       5 | Benchmarking Autoformalization and Subsequent Execution of Mathematical Reasoning in Large Language Models through Chain-of-Thought                              |
+| Nikkei/fast-mia                                |       5 | A framework designed to streamline the evaluation of Membership Inference Attacks (MIA) against Large Language Models (LLMs). By leveraging vLLM, it enables fa… |
+| izreal1990-collab/MillennialAi                 |       5 | Revolutionary Layer Injection Architecture for TRM-LLM Integration - Seamless integration of Tiny Recursion Models into Large Language Models using PyTorch for… |
+| martin-kukla/tritex                            |       5 | Pre-Training LLMs in Triton from the first principle. It replicates GPT2 (1.6B) with 57.5% MFU on A100 SXM.                                                      |
+| Telsho/Extrai                                  |       4 | Structured data extraction with LLM majority vote                                                                                                                |
+| bluearchio/aws-misconfig-db                    |       4 | llm-formatted aws misconfiguration library                                                                                                                       |
+| r-wenger/LLMFileDescribe                       |       4 | QGIS plugin for AI-powered geospatial data description using local LLMs (Ollama).                                                                                |
+| sam1am/sekrit                                  |       4 | Implementation of "LLMs can hide text in other text of the same length" by Antonio Norelli & Michael Bronstein.                                                  |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -183,25 +185,26 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers](https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent) — 132 points
-- [YouTube AI error costs creator his channel over alleged link to Japanese account](https://piunikaweb.com/2025/11/04/youtube-ai-error-terminates-enderman-channel/) — 111 points
-- [Lessons from interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/) — 101 points
-- [What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise](https://www.leefang.com/p/what-happened-to-piracy-copyright) — 39 points
-- [How Much AI Spending Is Too Much? Investors Are Starting to Wonder](https://www.wsj.com/finance/stocks/how-much-ai-spending-is-too-much-investors-are-starting-to-wonder-62abf1ad) — 14 points
-- [Oracle default fears surge as credit swaps spike – is AI taking its toll?](https://economictimes.indiatimes.com/news/international/us/oracle-default-fears-surge-as-credit-swaps-spike-to-2-year-high-is-ai-taking-its-toll/articleshow/125065038.cms?from=mdr) — 14 points
+- [A Lost IBM PC/at Model? Analyzing a Newfound Old Bios](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/) — 72 points
+- [Apple nears $1B Google deal for custom Gemini model to power Siri](https://9to5mac.com/2025/11/05/google-gemini-1-billion-deal-apple-siri/) — 54 points
+- [Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824) — 51 points
+- [OpenAI asks U.S. for loan guarantees to fund $1T AI expansion](https://investinglive.com/stock-market-update/icymi-openai-asks-us-for-loan-guarantees-to-fund-1-trillion-ai-expansion-20251105/) — 42 points
+- [Don't panic yet, investors say as high-flying AI stocks tumble](https://www.reuters.com/world/asia-pacific/global-markets-ai-selloff-pix-2025-11-05/) — 41 points
+- [Tinder is testing an AI feature that learns about you from your Camera Roll](https://techcrunch.com/2025/11/05/tinder-to-use-ai-to-get-to-know-users-tap-into-their-camera-roll-photos/) — 19 points
+- [OpenAI Wants Federal Backstop for New Investments [video]](https://www.wsj.com/video/openai-wants-federal-backstop-for-new-investments/4F6C864C-7332-448B-A9B4-66C321E60FE7) — 16 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
 | CVE                 |   CVSS | Summary   |
 |---------------------|--------|-----------|
-| GHSA-f3c4-4h69-w2fp |      0 |           |
 | CVE-2025-54236      |      0 |           |
-| CVE-2025-48703      |      0 |           |
-| CVE-2025-11371      |      0 |           |
-| GHSA-jc85-fpwf-qm7x |      0 |           |
-| GHSA-6wgh-rvcx-89g9 |      0 |           |
-| GHSA-99pj-8225-q39g |      0 |           |
+| GHSA-gj84-8vfx-q3vm |      0 |           |
+| GHSA-6w73-x38p-26g5 |      0 |           |
+| CVE-2025-64171      |      0 |           |
+| GHSA-q7xf-93c3-w2p7 |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
 |                     |      0 |           |
 |                     |      0 |           |
 |                     |      0 |           |

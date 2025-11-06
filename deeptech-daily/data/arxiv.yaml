@@ -1,115 +1,112 @@
-fetched_at: '2025-11-05T05:32:55Z'
-generated_at: '2025-11-05T05:32:55Z'
-hash: 3c064be223ba720cf67938059bab337416058a4d53810cd6fca6901ef1601eb5
+fetched_at: '2025-11-06T05:32:46Z'
+generated_at: '2025-11-06T05:32:46Z'
+hash: 3028e57421e2c133d179126ca0f4c3970d1f58c0ea94583458f5f87e86150442
 items:
-- id: oai:arXiv.org:2511.00020v1
-  link: https://arxiv.org/abs/2511.00020
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00020v1 Announce Type: new  Abstract: In the current digital
-    commerce landscape, user-generated reviews play a critical role in shaping consumer
-    beh…'
-  title: Multimodal Detection of Fake Reviews using BERT and ResNet-50
-- id: oai:arXiv.org:2511.00039v1
-  link: https://arxiv.org/abs/2511.00039
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00039v1 Announce Type: new  Abstract: Dynamic pricing in retail
-    requires policies that adapt to shifting demand while coordinating decisions across…'
-  title: Graph-Attentive MAPPO for Dynamic Retail Pricing
-- id: oai:arXiv.org:2511.00048v1
-  link: https://arxiv.org/abs/2511.00048
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00048v1 Announce Type: new  Abstract: GEPOC, short for Generic
-    Population Concept, is a collection of models and methods for analysing population-le…'
-  title: GEPOC Parameters -- Open Source Parametrisation and Validation for Austria,
-    Version 2.0
-- id: oai:arXiv.org:2511.00092v1
-  link: https://arxiv.org/abs/2511.00092
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00092v1 Announce Type: new  Abstract: Large language models
-    are now integrated into many scientific workflows, accelerating data analysis,
-    hypothesi…'
-  title: 'QuantumBench: A Benchmark for Quantum Problem Solving'
-- id: oai:arXiv.org:2511.00122v1
-  link: https://arxiv.org/abs/2511.00122
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00122v1 Announce Type: new  Abstract: In modern engineering
-    practice, human engineers collaborate in specialized teams to design complex products,
-    w…'
-  title: 'Engineering.ai: A Platform for Teams of AI Engineers in Computational Design'
-- id: oai:arXiv.org:2511.00162v2
-  link: https://arxiv.org/abs/2511.00162
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00162v2 Announce Type: new  Abstract: The Abstraction and Reasoning
-    Corpus remains one of the most compelling and challenging benchmarks for trackin…'
-  title: 'ARC-GEN: A Mimetic Procedural Benchmark Generator for the Abstraction and
-    Reasoning Corpus'
-- id: oai:arXiv.org:2511.00194v1
-  link: https://arxiv.org/abs/2511.00194
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00194v1 Announce Type: new  Abstract: We present an improved
-    incremental selection algorithm of the selection algorithm presented in [1] and
-    prove a…'
-  title: Incremental Selection of Most-Filtering Conjectures and Proofs of the Selected
-    Conjectures
-- id: oai:arXiv.org:2511.00206v1
-  link: https://arxiv.org/abs/2511.00206
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00206v1 Announce Type: new  Abstract: Cognitive science faces
-    ongoing challenges in knowledge synthesis and conceptual clarity, in part due
-    to its m…'
-  title: Advancing Cognitive Science with LLMs
-- id: oai:arXiv.org:2511.00267v1
-  link: https://arxiv.org/abs/2511.00267
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00267v1 Announce Type: new  Abstract: The DAF-MIT AI Accelerator
-    is a collaboration between the United States Department of the Air Force (DAF)
-    and…'
-  title: Advancing AI Challenges for the United States Department of the Air Force
-- id: oai:arXiv.org:2511.00340v1
-  link: https://arxiv.org/abs/2511.00340
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00340v1 Announce Type: new  Abstract: The rapid integration
-    of large language models (LLMs) into high-stakes legal work has exposed a critical
-    gap:…'
-  title: 'Better Call CLAUSE: A Discrepancy Benchmark for Auditing LLMs Legal Reasoning
-    Capabilities'
-- id: oai:arXiv.org:2511.00379v1
-  link: https://arxiv.org/abs/2511.00379
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00379v1 Announce Type: new  Abstract: Ensuring that Large Language
-    Models (LLMs) align with the diverse and evolving human values across different
-    r…'
-  title: Diverse Human Value Alignment for Large Language Models via Ethical Reasoning
-- id: oai:arXiv.org:2511.00382v1
-  link: https://arxiv.org/abs/2511.00382
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00382v1 Announce Type: new  Abstract: Organizations are increasingly
-    adopting and adapting Large Language Models (LLMs) hosted on public repositorie…'
-  title: 'Efficiency vs. Alignment: Investigating Safety and Fairness Risks in Parameter-Efficient
-    Fine-Tuning of LLMs'
-- id: oai:arXiv.org:2511.00424v1
-  link: https://arxiv.org/abs/2511.00424
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00424v1 Announce Type: new  Abstract: The recent coronavirus
-    disease (Covid-19) has become a pandemic and has affected the entire globe. During
-    the…'
-  title: 'A Multimodal Framework for Depression Detection during Covid-19 via Harvesting
-    Social Media: A Novel Dataset and Method'
-- id: oai:arXiv.org:2511.00457v1
-  link: https://arxiv.org/abs/2511.00457
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00457v1 Announce Type: new  Abstract: Large Language Models
-    (LLMs) face significant limitations when applied to large-scale graphs, struggling
-    with…'
-  title: 'GraphChain: Large Language Models for Large-scale Graph Analysis via Tool
-    Chaining'
-- id: oai:arXiv.org:2511.00509v1
-  link: https://arxiv.org/abs/2511.00509
-  published: '2025-11-05T05:00:00Z'
-  summary: 'arXiv:2511.00509v1 Announce Type: new  Abstract: Large language models
-    (LLMs) excel in diverse applications but face dual challenges: generating harmful
-    conten…'
-  title: Reimagining Safety Alignment with An Image
+- id: oai:arXiv.org:2511.02997v1
+  link: https://arxiv.org/abs/2511.02997
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.02997v1 Announce Type: new  Abstract: As AI systems become
+    more capable and widely deployed as agents, ensuring their safe operation becomes
+    critica…'
+  title: Evaluating Control Protocols for Untrusted AI Agents
+- id: oai:arXiv.org:2511.03023v1
+  link: https://arxiv.org/abs/2511.03023
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03023v1 Announce Type: new  Abstract: Open data repositories
+    hold potential for evidence-based decision-making, yet are inaccessible to non-experts…'
+  title: 'PublicAgent: Multi-Agent Design Principles From an LLM-Based Open Data Analysis
+    Framework'
+- id: oai:arXiv.org:2511.03051v1
+  link: https://arxiv.org/abs/2511.03051
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03051v1 Announce Type: new  Abstract: Evaluating large language
+    models (LLMs) as judges is increasingly critical for building scalable and trustwort…'
+  title: 'No-Human in the Loop: Agentic Evaluation at Scale for Recommendation'
+- id: oai:arXiv.org:2511.03070v1
+  link: https://arxiv.org/abs/2511.03070
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03070v1 Announce Type: new  Abstract: Artificial intelligence
+    (AI) systems hold great promise for advancing various scientific disciplines,
+    and are…'
+  title: 'Epidemiology of Large Language Models: A Benchmark for Observational Distribution
+    Knowledge'
+- id: oai:arXiv.org:2511.03092v1
+  link: https://arxiv.org/abs/2511.03092
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03092v1 Announce Type: new  Abstract: The proliferation of
+    100B+ parameter Large Language Models (LLMs) with 100k+ context length support
+    have resul…'
+  title: 'SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators'
+- id: oai:arXiv.org:2511.03106v1
+  link: https://arxiv.org/abs/2511.03106
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03106v1 Announce Type: new  Abstract: The rapid adoption of
+    large language models (LLMs) in healthcare has been accompanied by scrutiny of
+    their ove…'
+  title: 'Large language models require a new form of oversight: capability-based
+    monitoring'
+- id: oai:arXiv.org:2511.03108v1
+  link: https://arxiv.org/abs/2511.03108
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03108v1 Announce Type: new  Abstract: We perform a thorough
+    analysis of the formal and informal statements in the miniF2F benchmark from the
+    perspec…'
+  title: 'miniF2F-Lean Revisited: Reviewing Limitations and Charting a Path Forward'
+- id: oai:arXiv.org:2511.03137v1
+  link: https://arxiv.org/abs/2511.03137
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03137v1 Announce Type: new  Abstract: As optimization problems
+    grow increasingly complex and diverse, advancements in optimization techniques
+    and pa…'
+  title: Using Multi-modal Large Language Model to Boost Fireworks Algorithm's Ability
+    in Settling Challenging Optimization Tasks
+- id: oai:arXiv.org:2511.03138v1
+  link: https://arxiv.org/abs/2511.03138
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03138v1 Announce Type: new  Abstract: With the widespread application
+    of Large Language Models (LLMs), their associated security issues have become…'
+  title: A Proprietary Model-Based Safety Response Framework for AI Agents
+- id: oai:arXiv.org:2511.03169v1
+  link: https://arxiv.org/abs/2511.03169
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03169v1 Announce Type: new  Abstract: Formal explainable artificial
+    intelligence (XAI) offers unique theoretical guarantees of rigor when compared
+    t…'
+  title: 'Uncovering Bugs in Formal Explainers: A Case Study with PyXAI'
+- id: oai:arXiv.org:2511.03179v1
+  link: https://arxiv.org/abs/2511.03179
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03179v1 Announce Type: new  Abstract: The engineering design
+    process often demands expertise from multiple domains, leading to complex collaboration…'
+  title: 'Toward Autonomous Engineering Design: A Knowledge-Guided Multi-Agent Framework'
+- id: oai:arXiv.org:2511.03186v1
+  link: https://arxiv.org/abs/2511.03186
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03186v1 Announce Type: new  Abstract: Generative AI assistants
+    offer significant potential to enhance productivity, streamline information access,
+    a…'
+  title: Adobe Summit Concierge Evaluation with Human in the Loop
+- id: oai:arXiv.org:2511.03235v1
+  link: https://arxiv.org/abs/2511.03235
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03235v1 Announce Type: new  Abstract: Psychological constructs
+    within individuals are widely believed to be interconnected. We investigated whether…'
+  title: 'From Five Dimensions to Many: Large Language Models as Precise and Interpretable
+    Psychological Profilers'
+- id: oai:arXiv.org:2511.03471v1
+  link: https://arxiv.org/abs/2511.03471
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03471v1 Announce Type: new  Abstract: Ensuring web accessibility
+    is crucial for advancing social welfare, justice, and equality in digital spaces,
+    y…'
+  title: Towards Scalable Web Accessibility Audit with MLLMs as Copilots
+- id: oai:arXiv.org:2511.03545v1
+  link: https://arxiv.org/abs/2511.03545
+  published: '2025-11-06T05:00:00Z'
+  summary: 'arXiv:2511.03545v1 Announce Type: new  Abstract: This paper presents a
+    comprehensive theoretical investigation into the parameterized complexity of explanation…'
+  title: 'Explaining Decisions in ML Models: a Parameterized Complexity Analysis (Part
+    I)'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

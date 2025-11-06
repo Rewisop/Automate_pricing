@@ -1,99 +1,43 @@
-fetched_at: '2025-11-05T05:32:55Z'
-generated_at: '2025-11-05T05:32:55Z'
-hash: 75267439ea79cb31d478ee0e2e9b4530a5643859193cf2b7db091c1864fd7a79
+fetched_at: '2025-11-06T05:32:46Z'
+generated_at: '2025-11-06T05:32:46Z'
+hash: e7763a57db8d7dcad54816a9cb1deed174ea7cfd04b63df6b06dfa2ca3acedf0
 items:
-- created_at: '2025-10-30T23:57:03Z'
-  description: An AI-powered multi-agent platform for automated investment research
-    — combining LLM reasoning, RAG retrieval, and real-time market data to generate
-    smart fina…
-  full_name: flash131307/multi-agent-investment
-  html_url: https://github.com/flash131307/multi-agent-investment
-  stargazers_count: 89
-- created_at: '2025-10-30T18:11:59Z'
-  description: Torque is a Declarative, typesafe DSL for building synthetic LLM datasets
-    — compose conversations like React components
-  full_name: qforge-dev/torque
-  html_url: https://github.com/qforge-dev/torque
-  stargazers_count: 37
 - created_at: '2025-11-03T19:47:35Z'
   description: BonerBots Day 1 release with livetrading LLM bots on AsterDEX
   full_name: bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0
   html_url: https://github.com/bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0
-  stargazers_count: 30
+  stargazers_count: 31
 - created_at: '2025-11-01T19:33:42Z'
   description: Quickly screenshots webpages and converts to an LLM friendly size
   full_name: chongzixuan-ai/mcp-server-website
   html_url: https://github.com/chongzixuan-ai/mcp-server-website
-  stargazers_count: 23
-- created_at: '2025-10-30T14:59:50Z'
-  description: Polymarket AI Trader, Polymarket Prediction Bot, Polymarket Copy Trading
-    System, Polymarket DeepSeek AI Integration, Polymarket GPT Trading Engine, Polymarket…
-  full_name: polymarket-trading-ai-agent/polymarket-trading-ai-agent
-  html_url: https://github.com/polymarket-trading-ai-agent/polymarket-trading-ai-agent
-  stargazers_count: 23
-- created_at: '2025-10-30T13:44:06Z'
-  description: Tools for merging pretrained large language models.
-  full_name: CodyOnGit/mergekit
-  html_url: https://github.com/CodyOnGit/mergekit
-  stargazers_count: 21
+  stargazers_count: 28
 - created_at: '2025-11-01T09:53:38Z'
   description: A competitive AI-powered cryptocurrency futures trading platform featuring
     a NOF1-inspired interface (nof1.ai) for showcasing multiple LLM models side-by-side,…
   full_name: lukema95/roma-01
   html_url: https://github.com/lukema95/roma-01
-  stargazers_count: 21
-- created_at: '2025-10-30T13:40:06Z'
-  description: An open platform for training, serving, and evaluating large language
-    models. Release repo for Vicuna and Chatbot Arena.
-  full_name: CodyOnGit/FastChat
-  html_url: https://github.com/CodyOnGit/FastChat
-  stargazers_count: 20
-- created_at: '2025-10-30T13:40:31Z'
-  description: 'Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)'
-  full_name: CodyOnGit/gorilla-custom
-  html_url: https://github.com/CodyOnGit/gorilla-custom
-  stargazers_count: 20
-- created_at: '2025-10-30T13:42:38Z'
-  description: Automatically evaluate your LLMs in Google Colab
-  full_name: CodyOnGit/llm-autoeval
-  html_url: https://github.com/CodyOnGit/llm-autoeval
-  stargazers_count: 20
-- created_at: '2025-10-30T13:42:51Z'
-  description: Course to get into Large Language Models (LLMs) with roadmaps and Colab
-    notebooks.
-  full_name: CodyOnGit/llm-course
-  html_url: https://github.com/CodyOnGit/llm-course
-  stargazers_count: 20
-- created_at: '2025-10-30T13:44:46Z'
-  description: 🐜🔧 A minimalistic tool to fine-tune your LLMs
-  full_name: CodyOnGit/tinytuner
-  html_url: https://github.com/CodyOnGit/tinytuner
-  stargazers_count: 20
-- created_at: '2025-10-30T18:20:42Z'
-  description: A polite LLM for CLI 🙏
-  full_name: xhjkl/please
-  html_url: https://github.com/xhjkl/please
-  stargazers_count: 20
-- created_at: '2025-10-30T14:11:56Z'
-  description: A high-performance, .NET 9 library for serializing and deserializing
-    data in the TOON format - a human-readable, line-oriented data serialization format
-    optimi…
-  full_name: 0xZunia/ToonSharp
-  html_url: https://github.com/0xZunia/ToonSharp
-  stargazers_count: 19
+  stargazers_count: 23
 - created_at: '2025-11-01T04:28:54Z'
   description: Inspired by Alpha Arena and open-nof1.ai,we want to explore the new
     trading way of ai-trading.we will improve the LLMs and use machine learning to
     analyse the…
   full_name: qingshungLI/Super-nof1.ai
   html_url: https://github.com/qingshungLI/Super-nof1.ai
-  stargazers_count: 17
-- created_at: '2025-10-30T01:29:54Z'
-  description: Curated papers, systems, and benchmarks on memory for LLMs/MLLMs—long-term
-    context, retrieval, and reasoning.
-  full_name: TeleAI-UAGI/Awesome-Agent-Memory
-  html_url: https://github.com/TeleAI-UAGI/Awesome-Agent-Memory
-  stargazers_count: 14
+  stargazers_count: 19
+- created_at: '2025-10-31T13:54:08Z'
+  description: A comprehensive, professional guide explaining the differences, strengths,
+    and best practices of Retrieval-Augmented Generation (RAG) and Fine-Tuning for
+    LLMs,…
+  full_name: AmirhosseinHonardoust/RAG-vs-Fine-Tuning
+  html_url: https://github.com/AmirhosseinHonardoust/RAG-vs-Fine-Tuning
+  stargazers_count: 13
+- created_at: '2025-11-01T06:26:00Z'
+  description: Needle in a Haystack benchmark for evaluating LLM recall and attention
+    mechanisms with edit distance scoring.
+  full_name: Lianues/LLM-NeedleInAHaystack
+  html_url: https://github.com/Lianues/LLM-NeedleInAHaystack
+  stargazers_count: 11
 - created_at: '2025-10-31T11:23:28Z'
   description: KiraAI, a modular, multi-platform AI virtual being that connects Large
     Language Models (LLMs), Text-to-Speech (TTS), and various chat adapters (QQ, Telegram,
@@ -101,22 +45,80 @@ items:
   full_name: xxynet/KiraAI
   html_url: https://github.com/xxynet/KiraAI
   stargazers_count: 11
-- created_at: '2025-10-31T13:54:08Z'
-  description: A comprehensive, professional guide explaining the differences, strengths,
-    and best practices of Retrieval-Augmented Generation (RAG) and Fine-Tuning for
-    LLMs,…
-  full_name: AmirhosseinHonardoust/RAG-vs-Fine-Tuning
-  html_url: https://github.com/AmirhosseinHonardoust/RAG-vs-Fine-Tuning
-  stargazers_count: 10
+- created_at: '2025-11-04T15:09:05Z'
+  description: Bridge from Figma designs to LLM-friendly HTML/CSS code
+  full_name: kingkongshot/Figma-Bridge
+  html_url: https://github.com/kingkongshot/Figma-Bridge
+  stargazers_count: 8
 - created_at: '2025-11-03T04:22:40Z'
   description: Tokenization-Aware Compression Codec to efficiently send LLM outputs
     over low-bandwidth networks
   full_name: elijah0528/tacc
   html_url: https://github.com/elijah0528/tacc
+  stargazers_count: 7
+- created_at: '2025-11-03T18:39:50Z'
+  description: Example Demonstrating Retrieval Augmented Generation with transformers.js
+    embeddings and Ollama LLMs.
+  full_name: Programming-from-A-to-Z/Ollama-Context-RAG
+  html_url: https://github.com/Programming-from-A-to-Z/Ollama-Context-RAG
   stargazers_count: 6
-- created_at: '2025-10-30T10:33:22Z'
-  description: Structured LLM prompts in Clojure
-  full_name: unravel-team/DSCloj
-  html_url: https://github.com/unravel-team/DSCloj
+- created_at: '2025-10-31T04:26:48Z'
+  description: Leverage AI to create, refine, and maintain your product specifications.
+    Made to be used in LLMs and IDEs.
+  full_name: diegoeis/product-spec-kit
+  html_url: https://github.com/diegoeis/product-spec-kit
   stargazers_count: 6
+- created_at: '2025-10-31T18:02:59Z'
+  description: LLM Wallet MCP server, allowing LLMs to have their own crypto wallet
+  full_name: 0xPolygon/apk-mcp-llm-wallet
+  html_url: https://github.com/0xPolygon/apk-mcp-llm-wallet
+  stargazers_count: 5
+- created_at: '2025-10-31T01:33:14Z'
+  description: Benchmarking Autoformalization and Subsequent Execution of Mathematical
+    Reasoning in Large Language Models through Chain-of-Thought
+  full_name: ArnavSharma938/SYNTEXIS
+  html_url: https://github.com/ArnavSharma938/SYNTEXIS
+  stargazers_count: 5
+- created_at: '2025-10-31T01:59:26Z'
+  description: A framework designed to streamline the evaluation of Membership Inference
+    Attacks (MIA) against Large Language Models (LLMs). By leveraging vLLM, it enables
+    fa…
+  full_name: Nikkei/fast-mia
+  html_url: https://github.com/Nikkei/fast-mia
+  stargazers_count: 5
+- created_at: '2025-10-31T04:41:31Z'
+  description: Revolutionary Layer Injection Architecture for TRM-LLM Integration
+    - Seamless integration of Tiny Recursion Models into Large Language Models using
+    PyTorch for…
+  full_name: izreal1990-collab/MillennialAi
+  html_url: https://github.com/izreal1990-collab/MillennialAi
+  stargazers_count: 5
+- created_at: '2025-11-04T11:09:43Z'
+  description: Pre-Training LLMs in Triton from the first principle. It replicates
+    GPT2 (1.6B) with 57.5% MFU on A100 SXM.
+  full_name: martin-kukla/tritex
+  html_url: https://github.com/martin-kukla/tritex
+  stargazers_count: 5
+- created_at: '2025-11-03T16:54:54Z'
+  description: Structured data extraction with LLM majority vote
+  full_name: Telsho/Extrai
+  html_url: https://github.com/Telsho/Extrai
+  stargazers_count: 4
+- created_at: '2025-11-04T20:36:29Z'
+  description: llm-formatted aws misconfiguration library
+  full_name: bluearchio/aws-misconfig-db
+  html_url: https://github.com/bluearchio/aws-misconfig-db
+  stargazers_count: 4
+- created_at: '2025-10-31T21:33:36Z'
+  description: QGIS plugin for AI-powered geospatial data description using local
+    LLMs (Ollama).
+  full_name: r-wenger/LLMFileDescribe
+  html_url: https://github.com/r-wenger/LLMFileDescribe
+  stargazers_count: 4
+- created_at: '2025-11-04T19:42:32Z'
+  description: Implementation of "LLMs can hide text in other text of the same length"
+    by Antonio Norelli & Michael Bronstein.
+  full_name: sam1am/sekrit
+  html_url: https://github.com/sam1am/sekrit
+  stargazers_count: 4
 source_url: https://api.github.com/search/repositories
