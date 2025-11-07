@@ -28,17 +28,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -116,13 +118,13 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [PublicAgent: Multi-Agent Design Principles From an LLM-Based Open Data Analysis Framework](https://arxiv.org/abs/2511.03023) — arXiv:2511.03023v1 Announce Type: new  Abstract: Open data repositories hold potential for evidence-based decision-making, yet are inaccessible to non-experts…
 - [No-Human in the Loop: Agentic Evaluation at Scale for Recommendation](https://arxiv.org/abs/2511.03051) — arXiv:2511.03051v1 Announce Type: new  Abstract: Evaluating large language models (LLMs) as judges is increasingly critical for building scalable and trustwort…
 - [Epidemiology of Large Language Models: A Benchmark for Observational Distribution Knowledge](https://arxiv.org/abs/2511.03070) — arXiv:2511.03070v1 Announce Type: new  Abstract: Artificial intelligence (AI) systems hold great promise for advancing various scientific disciplines, and are…
-- [SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators](https://arxiv.org/abs/2511.03092) — arXiv:2511.03092v1 Announce Type: new  Abstract: The proliferation of 100B+ parameter Large Language Models (LLMs) with 100k+ context length support have resul…
+- [SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators](https://arxiv.org/abs/2511.03092) — arXiv:2511.03092v2 Announce Type: new  Abstract: The proliferation of 100B+ parameter Large Language Models (LLMs) with 100k+ context length support have resul…
 - [Large language models require a new form of oversight: capability-based monitoring](https://arxiv.org/abs/2511.03106) — arXiv:2511.03106v1 Announce Type: new  Abstract: The rapid adoption of large language models (LLMs) in healthcare has been accompanied by scrutiny of their ove…
 - [miniF2F-Lean Revisited: Reviewing Limitations and Charting a Path Forward](https://arxiv.org/abs/2511.03108) — arXiv:2511.03108v1 Announce Type: new  Abstract: We perform a thorough analysis of the formal and informal statements in the miniF2F benchmark from the perspec…
 - [Using Multi-modal Large Language Model to Boost Fireworks Algorithm's Ability in Settling Challenging Optimization Tasks](https://arxiv.org/abs/2511.03137) — arXiv:2511.03137v1 Announce Type: new  Abstract: As optimization problems grow increasingly complex and diverse, advancements in optimization techniques and pa…
 - [A Proprietary Model-Based Safety Response Framework for AI Agents](https://arxiv.org/abs/2511.03138) — arXiv:2511.03138v1 Announce Type: new  Abstract: With the widespread application of Large Language Models (LLMs), their associated security issues have become…
 - [Uncovering Bugs in Formal Explainers: A Case Study with PyXAI](https://arxiv.org/abs/2511.03169) — arXiv:2511.03169v1 Announce Type: new  Abstract: Formal explainable artificial intelligence (XAI) offers unique theoretical guarantees of rigor when compared t…
-- [Toward Autonomous Engineering Design: A Knowledge-Guided Multi-Agent Framework](https://arxiv.org/abs/2511.03179) — arXiv:2511.03179v1 Announce Type: new  Abstract: The engineering design process often demands expertise from multiple domains, leading to complex collaboration…
+- [Toward Autonomous Engineering Design: A Knowledge-Guided Multi-Agent Framework](https://arxiv.org/abs/2511.03179) — arXiv:2511.03179v2 Announce Type: new  Abstract: The engineering design process often demands expertise from multiple domains, leading to complex collaboration…
 - [Adobe Summit Concierge Evaluation with Human in the Loop](https://arxiv.org/abs/2511.03186) — arXiv:2511.03186v1 Announce Type: new  Abstract: Generative AI assistants offer significant potential to enhance productivity, streamline information access, a…
 - [From Five Dimensions to Many: Large Language Models as Precise and Interpretable Psychological Profilers](https://arxiv.org/abs/2511.03235) — arXiv:2511.03235v1 Announce Type: new  Abstract: Psychological constructs within individuals are widely believed to be interconnected. We investigated whether…
 - [Towards Scalable Web Accessibility Audit with MLLMs as Copilots](https://arxiv.org/abs/2511.03471) — arXiv:2511.03471v1 Announce Type: new  Abstract: Ensuring web accessibility is crucial for advancing social welfare, justice, and equality in digital spaces, y…
@@ -157,25 +159,25 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 | Repository                                     |   Stars | Description                                                                                                                                                      |
 |------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0 |      31 | BonerBots Day 1 release with livetrading LLM bots on AsterDEX                                                                                                    |
-| chongzixuan-ai/mcp-server-website              |      28 | Quickly screenshots webpages and converts to an LLM friendly size                                                                                                |
+| chongzixuan-ai/mcp-server-website              |      29 | Quickly screenshots webpages and converts to an LLM friendly size                                                                                                |
 | lukema95/roma-01                               |      23 | A competitive AI-powered cryptocurrency futures trading platform featuring a NOF1-inspired interface (nof1.ai) for showcasing multiple LLM models side-by-side,… |
-| qingshungLI/Super-nof1.ai                      |      19 | Inspired by Alpha Arena and open-nof1.ai,we want to explore the new trading way of ai-trading.we will improve the LLMs and use machine learning to analyse the…  |
-| AmirhosseinHonardoust/RAG-vs-Fine-Tuning       |      13 | A comprehensive, professional guide explaining the differences, strengths, and best practices of Retrieval-Augmented Generation (RAG) and Fine-Tuning for LLMs,… |
-| Lianues/LLM-NeedleInAHaystack                  |      11 | Needle in a Haystack benchmark for evaluating LLM recall and attention mechanisms with edit distance scoring.                                                    |
-| xxynet/KiraAI                                  |      11 | KiraAI, a modular, multi-platform AI virtual being that connects Large Language Models (LLMs), Text-to-Speech (TTS), and various chat adapters (QQ, Telegram, B… |
-| kingkongshot/Figma-Bridge                      |       8 | Bridge from Figma designs to LLM-friendly HTML/CSS code                                                                                                          |
+| qingshungLI/Super-nof1.ai                      |      20 | Inspired by Alpha Arena and open-nof1.ai,we want to explore the new trading way of ai-trading.we will improve the LLMs and use machine learning to analyse the…  |
+| Lianues/LLM-NeedleInAHaystack                  |      16 | Needle in a Haystack benchmark for evaluating LLM recall and attention mechanisms with edit distance scoring.                                                    |
+| kingkongshot/Figma-Bridge                      |      16 | Bridge from Figma designs to LLM-friendly HTML/CSS code                                                                                                          |
+| Programming-from-A-to-Z/Ollama-Context-RAG     |       7 | Example Demonstrating Retrieval Augmented Generation with transformers.js embeddings and Ollama LLMs.                                                            |
 | elijah0528/tacc                                |       7 | Tokenization-Aware Compression Codec to efficiently send LLM outputs over low-bandwidth networks                                                                 |
-| Programming-from-A-to-Z/Ollama-Context-RAG     |       6 | Example Demonstrating Retrieval Augmented Generation with transformers.js embeddings and Ollama LLMs.                                                            |
-| diegoeis/product-spec-kit                      |       6 | Leverage AI to create, refine, and maintain your product specifications. Made to be used in LLMs and IDEs.                                                       |
-| 0xPolygon/apk-mcp-llm-wallet                   |       5 | LLM Wallet MCP server, allowing LLMs to have their own crypto wallet                                                                                             |
-| ArnavSharma938/SYNTEXIS                        |       5 | Benchmarking Autoformalization and Subsequent Execution of Mathematical Reasoning in Large Language Models through Chain-of-Thought                              |
-| Nikkei/fast-mia                                |       5 | A framework designed to streamline the evaluation of Membership Inference Attacks (MIA) against Large Language Models (LLMs). By leveraging vLLM, it enables fa… |
-| izreal1990-collab/MillennialAi                 |       5 | Revolutionary Layer Injection Architecture for TRM-LLM Integration - Seamless integration of Tiny Recursion Models into Large Language Models using PyTorch for… |
+| Telsho/Extrai                                  |       5 | Structured data extraction with LLM majority vote                                                                                                                |
 | martin-kukla/tritex                            |       5 | Pre-Training LLMs in Triton from the first principle. It replicates GPT2 (1.6B) with 57.5% MFU on A100 SXM.                                                      |
-| Telsho/Extrai                                  |       4 | Structured data extraction with LLM majority vote                                                                                                                |
+| Prakashmaheshwaran/moplexity                   |       4 | Open-source AI search assistant - Open Knowledge should not be $20/month. Multi-source search with configurable LLM APIs.                                        |
 | bluearchio/aws-misconfig-db                    |       4 | llm-formatted aws misconfiguration library                                                                                                                       |
-| r-wenger/LLMFileDescribe                       |       4 | QGIS plugin for AI-powered geospatial data description using local LLMs (Ollama).                                                                                |
 | sam1am/sekrit                                  |       4 | Implementation of "LLMs can hide text in other text of the same length" by Antonio Norelli & Michael Bronstein.                                                  |
+| ALucek/rl-for-llms                             |       3 | Context & Guide For Reinforcement Learning with Verifiable Rewards with Large Language Models                                                                    |
+| GregorBiswanger/LLM-Banking-Chatbot-CTF        |       3 | Hands-on CTF to learn LLM security by hacking a vulnerable banking chatbot in C# with Semantic Kernel. Exploit OWASP LLM Top10 risks, capture flags, then harde… |
+| RickoNoNo3/ThinkMem                            |       3 | AI Memory Management MCP System for LLMs - 让LLM善用思考，善用记忆                                                                                                         |
+| TEC-DCC/UnderstandingLLMs                      |       3 | Towards understanding Large Language Models: a hands on approach.                                                                                                |
+| amazon-science/SafeSearch                      |       3 | SafeSearch: a reinforcement learning framework that jointly optimizes safety and utility in LLM-based search agents.                                             |
+| jmchilton/gh-ci-artifacts                      |       3 | Download and parse GitHub Actions CI artifacts and logs for LLM analysis.                                                                                        |
+| topazcoder/ai-blockchain-assistant             |       3 | AI (RAG, LLM), Ethereum, Rust, Tauri, MCP, RIG                                                                                                                   |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -185,29 +187,31 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [A Lost IBM PC/at Model? Analyzing a Newfound Old Bios](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/) — 72 points
-- [Apple nears $1B Google deal for custom Gemini model to power Siri](https://9to5mac.com/2025/11/05/google-gemini-1-billion-deal-apple-siri/) — 54 points
-- [Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824) — 51 points
-- [OpenAI asks U.S. for loan guarantees to fund $1T AI expansion](https://investinglive.com/stock-market-update/icymi-openai-asks-us-for-loan-guarantees-to-fund-1-trillion-ai-expansion-20251105/) — 42 points
-- [Don't panic yet, investors say as high-flying AI stocks tumble](https://www.reuters.com/world/asia-pacific/global-markets-ai-selloff-pix-2025-11-05/) — 41 points
-- [Tinder is testing an AI feature that learns about you from your Camera Roll](https://techcrunch.com/2025/11/05/tinder-to-use-ai-to-get-to-know-users-tap-into-their-camera-roll-photos/) — 19 points
-- [OpenAI Wants Federal Backstop for New Investments [video]](https://www.wsj.com/video/openai-wants-federal-backstop-for-new-investments/4F6C864C-7332-448B-A9B4-66C321E60FE7) — 16 points
+- [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html) — 671 points
+- [The trust collapse: Infinite AI content is awful](https://arnon.dk/the-trust-collapse-infinite-ai-content-is-awful/) — 216 points
+- [AI Slop vs. OSS Security](https://devansh.bearblog.dev/ai-slop/) — 180 points
+- [OpenAI probably can't make ends meet. That's where you come in](https://garymarcus.substack.com/p/if-you-thought-the-2008-bank-bailout) — 147 points
+- [Show HN: qqqa – A fast, stateless LLM-powered assistant for your shell](https://github.com/matisojka/qqqa) — 140 points
+- [Show HN: TabPFN-2.5 – SOTA foundation model for tabular data](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report) — 68 points
+- [The Company Quietly Funneling Paywalled Articles to AI Developers](https://www.theatlantic.com/technology/2025/11/common-crawl-ai-training-data/684567/) — 28 points
+- [From Swift to Mojo and High-Performance AI Engineering with Chris Lattner[video]](https://www.youtube.com/watch?v=Fxp3131i1yE) — 19 points
+- [Bombshell report exposes how Meta relied on scam ad profits to fund AI](https://arstechnica.com/tech-policy/2025/11/bombshell-report-exposes-how-meta-relied-on-scam-ad-profits-to-fund-ai/) — 15 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary   |
-|---------------------|--------|-----------|
-| CVE-2025-54236      |      0 |           |
-| GHSA-gj84-8vfx-q3vm |      0 |           |
-| GHSA-6w73-x38p-26g5 |      0 |           |
-| CVE-2025-64171      |      0 |           |
-| GHSA-q7xf-93c3-w2p7 |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
+| CVE            |   CVSS | Summary                                         |
+|----------------|--------|-------------------------------------------------|
+| MAL-2025-48830 |      0 | Malicious code in cross-sessions (npm)          |
+| MAL-2025-48604 |      0 | Malicious code in faustjs-org-sitemm2 (npm)     |
+| MAL-2025-48751 |      0 | Malicious code in paysera-loading-spinner (npm) |
+| MAL-2025-49380 |      0 | Malicious code in chai-await-test (npm)         |
+| MAL-2025-49379 |      0 | Malicious code in @chatclub/claude-code (npm)   |
+| MAL-2025-49386 |      0 | Malicious code in tailwindcss-twflare (npm)     |
+| MAL-2025-49385 |      0 | Malicious code in tailwindcss-gustify (npm)     |
+| MAL-2025-49384 |      0 | Malicious code in tailwindcss-aerowind (npm)    |
+| MAL-2025-49388 |      0 | Malicious code in xss-payload-all (npm)         |
+| MAL-2025-49382 |      0 | Malicious code in rce-poc-test-honor-dev (npm)  |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

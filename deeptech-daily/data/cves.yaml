@@ -1,45 +1,45 @@
-fetched_at: '2025-11-06T05:32:46Z'
-generated_at: '2025-11-06T05:32:46Z'
-hash: 0a8772b1ac41e471b757ef46ee6e8c2455fb5e31163a0ddbb6d31de61a591bd2
+fetched_at: '2025-11-07T05:32:35Z'
+generated_at: '2025-11-07T05:32:35Z'
+hash: 090c70c97d85b817206419f4e8d7d97c2d29835319afc10fc243f134bade8fc5
 items:
 - cvss: 0.0
-  id: CVE-2025-54236
-  published: '2025-09-09T14:15:46Z'
-  summary: ''
+  id: MAL-2025-48830
+  published: '2025-10-23T19:29:15Z'
+  summary: Malicious code in cross-sessions (npm)
 - cvss: 0.0
-  id: GHSA-gj84-8vfx-q3vm
-  published: '2025-10-09T15:31:03Z'
-  summary: ''
+  id: MAL-2025-48604
+  published: '2025-10-26T10:22:55Z'
+  summary: Malicious code in faustjs-org-sitemm2 (npm)
 - cvss: 0.0
-  id: GHSA-6w73-x38p-26g5
-  published: '2025-10-22T15:31:09Z'
-  summary: ''
+  id: MAL-2025-48751
+  published: '2025-10-26T19:13:28Z'
+  summary: Malicious code in paysera-loading-spinner (npm)
 - cvss: 0.0
-  id: CVE-2025-64171
-  published: '2025-11-06T01:15:38Z'
-  summary: ''
+  id: MAL-2025-49380
+  published: '2025-11-07T03:52:52Z'
+  summary: Malicious code in chai-await-test (npm)
 - cvss: 0.0
-  id: GHSA-q7xf-93c3-w2p7
-  published: '2025-11-06T03:30:25Z'
-  summary: ''
+  id: MAL-2025-49379
+  published: '2025-11-07T03:58:49Z'
+  summary: Malicious code in @chatclub/claude-code (npm)
 - cvss: 0.0
-  id: null
-  published: '2025-11-06T05:32:46Z'
-  summary: ''
+  id: MAL-2025-49386
+  published: '2025-11-07T04:03:38Z'
+  summary: Malicious code in tailwindcss-twflare (npm)
 - cvss: 0.0
-  id: null
-  published: '2025-11-06T05:32:46Z'
-  summary: ''
+  id: MAL-2025-49385
+  published: '2025-11-07T04:03:54Z'
+  summary: Malicious code in tailwindcss-gustify (npm)
 - cvss: 0.0
-  id: null
-  published: '2025-11-06T05:32:46Z'
-  summary: ''
+  id: MAL-2025-49384
+  published: '2025-11-07T04:04:44Z'
+  summary: Malicious code in tailwindcss-aerowind (npm)
 - cvss: 0.0
-  id: null
-  published: '2025-11-06T05:32:46Z'
-  summary: ''
+  id: MAL-2025-49388
+  published: '2025-11-07T04:05:51Z'
+  summary: Malicious code in xss-payload-all (npm)
 - cvss: 0.0
-  id: null
-  published: '2025-11-06T05:32:46Z'
-  summary: ''
+  id: MAL-2025-49382
+  published: '2025-11-07T04:05:52Z'
+  summary: Malicious code in rce-poc-test-honor-dev (npm)
 source_url: https://cve.circl.lu/api/last

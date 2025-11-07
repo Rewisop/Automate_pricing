@@ -1,40 +1,50 @@
-fetched_at: '2025-11-06T05:32:46Z'
-generated_at: '2025-11-06T05:32:46Z'
-hash: 25cdf355cdb1b97a958d643e59aea5270460e805823e7eb9c4a40b900dd11e5d
+fetched_at: '2025-11-07T05:32:35Z'
+generated_at: '2025-11-07T05:32:35Z'
+hash: 48142861b4908f1d94dcfc1397a7d1c9ca1c0362ecb15be970221dae04160cd0
 items:
-- id: 45827661
-  score: 72
-  time: '2025-11-05T20:40:39Z'
-  title: A Lost IBM PC/at Model? Analyzing a Newfound Old Bios
-  url: https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/
-- id: 45826975
-  score: 54
-  time: '2025-11-05T19:43:22Z'
-  title: Apple nears $1B Google deal for custom Gemini model to power Siri
-  url: https://9to5mac.com/2025/11/05/google-gemini-1-billion-deal-apple-siri/
-- id: 45823358
-  score: 51
-  time: '2025-11-05T14:43:26Z'
-  title: 'Kosmos: An AI Scientist for Autonomous Discovery'
-  url: https://arxiv.org/abs/2511.02824
-- id: 45830380
-  score: 42
-  time: '2025-11-06T01:32:08Z'
-  title: OpenAI asks U.S. for loan guarantees to fund $1T AI expansion
-  url: https://investinglive.com/stock-market-update/icymi-openai-asks-us-for-loan-guarantees-to-fund-1-trillion-ai-expansion-20251105/
-- id: 45823290
-  score: 41
-  time: '2025-11-05T14:35:33Z'
-  title: Don't panic yet, investors say as high-flying AI stocks tumble
-  url: https://www.reuters.com/world/asia-pacific/global-markets-ai-selloff-pix-2025-11-05/
-- id: 45826871
+- id: 45836070
+  score: 671
+  time: '2025-11-06T15:06:06Z'
+  title: Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model
+  url: https://moonshotai.github.io/Kimi-K2/thinking.html
+- id: 45833496
+  score: 216
+  time: '2025-11-06T10:12:04Z'
+  title: 'The trust collapse: Infinite AI content is awful'
+  url: https://arnon.dk/the-trust-collapse-infinite-ai-content-is-awful/
+- id: 45834303
+  score: 180
+  time: '2025-11-06T12:05:12Z'
+  title: AI Slop vs. OSS Security
+  url: https://devansh.bearblog.dev/ai-slop/
+- id: 45836809
+  score: 147
+  time: '2025-11-06T16:17:09Z'
+  title: OpenAI probably can't make ends meet. That's where you come in
+  url: https://garymarcus.substack.com/p/if-you-thought-the-2008-bank-bailout
+- id: 45833811
+  score: 140
+  time: '2025-11-06T10:59:42Z'
+  title: 'Show HN: qqqa – A fast, stateless LLM-powered assistant for your shell'
+  url: https://github.com/matisojka/qqqa
+- id: 45838540
+  score: 68
+  time: '2025-11-06T18:26:53Z'
+  title: 'Show HN: TabPFN-2.5 – SOTA foundation model for tabular data'
+  url: https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report
+- id: 45835090
+  score: 28
+  time: '2025-11-06T13:37:58Z'
+  title: The Company Quietly Funneling Paywalled Articles to AI Developers
+  url: https://www.theatlantic.com/technology/2025/11/common-crawl-ai-training-data/684567/
+- id: 45832515
   score: 19
-  time: '2025-11-05T19:33:10Z'
-  title: Tinder is testing an AI feature that learns about you from your Camera Roll
-  url: https://techcrunch.com/2025/11/05/tinder-to-use-ai-to-get-to-know-users-tap-into-their-camera-roll-photos/
-- id: 45828972
-  score: 16
-  time: '2025-11-05T22:30:15Z'
-  title: OpenAI Wants Federal Backstop for New Investments [video]
-  url: https://www.wsj.com/video/openai-wants-federal-backstop-for-new-investments/4F6C864C-7332-448B-A9B4-66C321E60FE7
+  time: '2025-11-06T07:37:25Z'
+  title: From Swift to Mojo and High-Performance AI Engineering with Chris Lattner[video]
+  url: https://www.youtube.com/watch?v=Fxp3131i1yE
+- id: 45839481
+  score: 15
+  time: '2025-11-06T19:48:18Z'
+  title: Bombshell report exposes how Meta relied on scam ad profits to fund AI
+  url: https://arstechnica.com/tech-policy/2025/11/bombshell-report-exposes-how-meta-relied-on-scam-ad-profits-to-fund-ai/
 source_url: https://hacker-news.firebaseio.com/

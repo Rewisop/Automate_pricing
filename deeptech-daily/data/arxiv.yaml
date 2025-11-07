@@ -1,45 +1,45 @@
-fetched_at: '2025-11-06T05:32:46Z'
-generated_at: '2025-11-06T05:32:46Z'
-hash: 3028e57421e2c133d179126ca0f4c3970d1f58c0ea94583458f5f87e86150442
+fetched_at: '2025-11-07T05:32:35Z'
+generated_at: '2025-11-07T05:32:35Z'
+hash: 5866fbe4e4e894ab77851047388d9bd5df842ad9817bdd6fae7828cc315c0376
 items:
 - id: oai:arXiv.org:2511.02997v1
   link: https://arxiv.org/abs/2511.02997
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.02997v1 Announce Type: new  Abstract: As AI systems become
     more capable and widely deployed as agents, ensuring their safe operation becomes
     critica…'
   title: Evaluating Control Protocols for Untrusted AI Agents
 - id: oai:arXiv.org:2511.03023v1
   link: https://arxiv.org/abs/2511.03023
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.03023v1 Announce Type: new  Abstract: Open data repositories
     hold potential for evidence-based decision-making, yet are inaccessible to non-experts…'
   title: 'PublicAgent: Multi-Agent Design Principles From an LLM-Based Open Data Analysis
     Framework'
 - id: oai:arXiv.org:2511.03051v1
   link: https://arxiv.org/abs/2511.03051
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.03051v1 Announce Type: new  Abstract: Evaluating large language
     models (LLMs) as judges is increasingly critical for building scalable and trustwort…'
   title: 'No-Human in the Loop: Agentic Evaluation at Scale for Recommendation'
 - id: oai:arXiv.org:2511.03070v1
   link: https://arxiv.org/abs/2511.03070
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.03070v1 Announce Type: new  Abstract: Artificial intelligence
     (AI) systems hold great promise for advancing various scientific disciplines,
     and are…'
   title: 'Epidemiology of Large Language Models: A Benchmark for Observational Distribution
     Knowledge'
-- id: oai:arXiv.org:2511.03092v1
+- id: oai:arXiv.org:2511.03092v2
   link: https://arxiv.org/abs/2511.03092
-  published: '2025-11-06T05:00:00Z'
-  summary: 'arXiv:2511.03092v1 Announce Type: new  Abstract: The proliferation of
+  published: '2025-11-07T05:00:00Z'
+  summary: 'arXiv:2511.03092v2 Announce Type: new  Abstract: The proliferation of
     100B+ parameter Large Language Models (LLMs) with 100k+ context length support
     have resul…'
   title: 'SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators'
 - id: oai:arXiv.org:2511.03106v1
   link: https://arxiv.org/abs/2511.03106
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.03106v1 Announce Type: new  Abstract: The rapid adoption of
     large language models (LLMs) in healthcare has been accompanied by scrutiny of
     their ove…'
@@ -47,14 +47,14 @@ items:
     monitoring'
 - id: oai:arXiv.org:2511.03108v1
   link: https://arxiv.org/abs/2511.03108
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.03108v1 Announce Type: new  Abstract: We perform a thorough
     analysis of the formal and informal statements in the miniF2F benchmark from the
     perspec…'
   title: 'miniF2F-Lean Revisited: Reviewing Limitations and Charting a Path Forward'
 - id: oai:arXiv.org:2511.03137v1
   link: https://arxiv.org/abs/2511.03137
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.03137v1 Announce Type: new  Abstract: As optimization problems
     grow increasingly complex and diverse, advancements in optimization techniques
     and pa…'
@@ -62,47 +62,47 @@ items:
     in Settling Challenging Optimization Tasks
 - id: oai:arXiv.org:2511.03138v1
   link: https://arxiv.org/abs/2511.03138
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.03138v1 Announce Type: new  Abstract: With the widespread application
     of Large Language Models (LLMs), their associated security issues have become…'
   title: A Proprietary Model-Based Safety Response Framework for AI Agents
 - id: oai:arXiv.org:2511.03169v1
   link: https://arxiv.org/abs/2511.03169
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.03169v1 Announce Type: new  Abstract: Formal explainable artificial
     intelligence (XAI) offers unique theoretical guarantees of rigor when compared
     t…'
   title: 'Uncovering Bugs in Formal Explainers: A Case Study with PyXAI'
-- id: oai:arXiv.org:2511.03179v1
+- id: oai:arXiv.org:2511.03179v2
   link: https://arxiv.org/abs/2511.03179
-  published: '2025-11-06T05:00:00Z'
-  summary: 'arXiv:2511.03179v1 Announce Type: new  Abstract: The engineering design
+  published: '2025-11-07T05:00:00Z'
+  summary: 'arXiv:2511.03179v2 Announce Type: new  Abstract: The engineering design
     process often demands expertise from multiple domains, leading to complex collaboration…'
   title: 'Toward Autonomous Engineering Design: A Knowledge-Guided Multi-Agent Framework'
 - id: oai:arXiv.org:2511.03186v1
   link: https://arxiv.org/abs/2511.03186
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.03186v1 Announce Type: new  Abstract: Generative AI assistants
     offer significant potential to enhance productivity, streamline information access,
     a…'
   title: Adobe Summit Concierge Evaluation with Human in the Loop
 - id: oai:arXiv.org:2511.03235v1
   link: https://arxiv.org/abs/2511.03235
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.03235v1 Announce Type: new  Abstract: Psychological constructs
     within individuals are widely believed to be interconnected. We investigated whether…'
   title: 'From Five Dimensions to Many: Large Language Models as Precise and Interpretable
     Psychological Profilers'
 - id: oai:arXiv.org:2511.03471v1
   link: https://arxiv.org/abs/2511.03471
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.03471v1 Announce Type: new  Abstract: Ensuring web accessibility
     is crucial for advancing social welfare, justice, and equality in digital spaces,
     y…'
   title: Towards Scalable Web Accessibility Audit with MLLMs as Copilots
 - id: oai:arXiv.org:2511.03545v1
   link: https://arxiv.org/abs/2511.03545
-  published: '2025-11-06T05:00:00Z'
+  published: '2025-11-07T05:00:00Z'
   summary: 'arXiv:2511.03545v1 Announce Type: new  Abstract: This paper presents a
     comprehensive theoretical investigation into the parameterized complexity of explanation…'
   title: 'Explaining Decisions in ML Models: a Parameterized Complexity Analysis (Part
