@@ -1,50 +1,40 @@
-fetched_at: '2025-11-07T05:32:35Z'
-generated_at: '2025-11-07T05:32:35Z'
-hash: 48142861b4908f1d94dcfc1397a7d1c9ca1c0362ecb15be970221dae04160cd0
+fetched_at: '2025-11-08T05:30:21Z'
+generated_at: '2025-11-08T05:30:21Z'
+hash: bead3ce9b6dbbfa138b74b9c6933886025d5516dca83d19aaf16dc5551cbbe01
 items:
-- id: 45836070
-  score: 671
-  time: '2025-11-06T15:06:06Z'
-  title: Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model
-  url: https://moonshotai.github.io/Kimi-K2/thinking.html
-- id: 45833496
-  score: 216
-  time: '2025-11-06T10:12:04Z'
-  title: 'The trust collapse: Infinite AI content is awful'
-  url: https://arnon.dk/the-trust-collapse-infinite-ai-content-is-awful/
-- id: 45834303
-  score: 180
-  time: '2025-11-06T12:05:12Z'
-  title: AI Slop vs. OSS Security
-  url: https://devansh.bearblog.dev/ai-slop/
-- id: 45836809
-  score: 147
-  time: '2025-11-06T16:17:09Z'
-  title: OpenAI probably can't make ends meet. That's where you come in
-  url: https://garymarcus.substack.com/p/if-you-thought-the-2008-bank-bailout
-- id: 45833811
-  score: 140
-  time: '2025-11-06T10:59:42Z'
-  title: 'Show HN: qqqa – A fast, stateless LLM-powered assistant for your shell'
-  url: https://github.com/matisojka/qqqa
-- id: 45838540
-  score: 68
-  time: '2025-11-06T18:26:53Z'
-  title: 'Show HN: TabPFN-2.5 – SOTA foundation model for tabular data'
-  url: https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report
-- id: 45835090
-  score: 28
-  time: '2025-11-06T13:37:58Z'
-  title: The Company Quietly Funneling Paywalled Articles to AI Developers
-  url: https://www.theatlantic.com/technology/2025/11/common-crawl-ai-training-data/684567/
-- id: 45832515
-  score: 19
-  time: '2025-11-06T07:37:25Z'
-  title: From Swift to Mojo and High-Performance AI Engineering with Chris Lattner[video]
-  url: https://www.youtube.com/watch?v=Fxp3131i1yE
-- id: 45839481
-  score: 15
-  time: '2025-11-06T19:48:18Z'
-  title: Bombshell report exposes how Meta relied on scam ad profits to fund AI
-  url: https://arstechnica.com/tech-policy/2025/11/bombshell-report-exposes-how-meta-relied-on-scam-ad-profits-to-fund-ai/
+- id: 45851483
+  score: 229
+  time: '2025-11-07T21:44:04Z'
+  title: AI is Dunning-Kruger as a service
+  url: https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/
+- id: 45848504
+  score: 223
+  time: '2025-11-07T17:07:01Z'
+  title: Gmail AI gets more intrusive
+  url: https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/
+- id: 45852240
+  score: 32
+  time: '2025-11-07T22:55:19Z'
+  title: AI Capabilities May Be Overhyped on Bogus Benchmarks, Study Finds
+  url: https://gizmodo.com/ai-capabilities-may-be-overhyped-on-bogus-benchmarks-study-finds-2000682577
+- id: 45852376
+  score: 25
+  time: '2025-11-07T23:10:14Z'
+  title: 'Jensen Huang''s Stark Warning: China''s 1M AI Workers vs. America''s 20k'
+  url: https://entropytown.com/articles/2025-11-06-nvidia-jensen-taipei/
+- id: 45853407
+  score: 22
+  time: '2025-11-08T02:01:32Z'
+  title: Why Sam Altman was booted from OpenAI, according to new testimony
+  url: https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit
+- id: 45851970
+  score: 10
+  time: '2025-11-07T22:31:30Z'
+  title: The Rise of Parasitic AI
+  url: https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai
+- id: 45845717
+  score: 6
+  time: '2025-11-07T12:28:50Z'
+  title: 'Show HN: Extending LLM SVG generation beyond pelicans and bicycles'
+  url: https://gally.net/temp/20251107pelican-alternatives/index.html
 source_url: https://hacker-news.firebaseio.com/

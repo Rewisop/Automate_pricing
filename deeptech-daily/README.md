@@ -29,17 +29,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -129,6 +131,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [From Five Dimensions to Many: Large Language Models as Precise and Interpretable Psychological Profilers](https://arxiv.org/abs/2511.03235) — arXiv:2511.03235v1 Announce Type: new  Abstract: Psychological constructs within individuals are widely believed to be interconnected. We investigated whether…
 - [Towards Scalable Web Accessibility Audit with MLLMs as Copilots](https://arxiv.org/abs/2511.03471) — arXiv:2511.03471v1 Announce Type: new  Abstract: Ensuring web accessibility is crucial for advancing social welfare, justice, and equality in digital spaces, y…
 - [Explaining Decisions in ML Models: a Parameterized Complexity Analysis (Part I)](https://arxiv.org/abs/2511.03545) — arXiv:2511.03545v1 Announce Type: new  Abstract: This paper presents a comprehensive theoretical investigation into the parameterized complexity of explanation…
+
+_Showing cached data from 2025-11-07T05:32:35Z. Refresh failed: no arXiv entries retrieved._
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -159,25 +163,25 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 | Repository                                     |   Stars | Description                                                                                                                                                      |
 |------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0 |      31 | BonerBots Day 1 release with livetrading LLM bots on AsterDEX                                                                                                    |
-| chongzixuan-ai/mcp-server-website              |      29 | Quickly screenshots webpages and converts to an LLM friendly size                                                                                                |
-| lukema95/roma-01                               |      23 | A competitive AI-powered cryptocurrency futures trading platform featuring a NOF1-inspired interface (nof1.ai) for showcasing multiple LLM models side-by-side,… |
-| qingshungLI/Super-nof1.ai                      |      20 | Inspired by Alpha Arena and open-nof1.ai,we want to explore the new trading way of ai-trading.we will improve the LLMs and use machine learning to analyse the…  |
-| Lianues/LLM-NeedleInAHaystack                  |      16 | Needle in a Haystack benchmark for evaluating LLM recall and attention mechanisms with edit distance scoring.                                                    |
-| kingkongshot/Figma-Bridge                      |      16 | Bridge from Figma designs to LLM-friendly HTML/CSS code                                                                                                          |
+| kingkongshot/Figma-Bridge                      |      18 | Bridge from Figma designs to LLM-friendly HTML/CSS code                                                                                                          |
+| ysyisyourbrother/Jupiter                       |       9 | Jupiter is a fast, scalable, and resource-efficient collaborative edge-AI system for generative LLM inference.                                                   |
 | Programming-from-A-to-Z/Ollama-Context-RAG     |       7 | Example Demonstrating Retrieval Augmented Generation with transformers.js embeddings and Ollama LLMs.                                                            |
+| bluearchio/aws-misconfig-db                    |       7 | llm-formatted aws misconfiguration library                                                                                                                       |
 | elijah0528/tacc                                |       7 | Tokenization-Aware Compression Codec to efficiently send LLM outputs over low-bandwidth networks                                                                 |
+| EvolvingLMMs-Lab/EASI                          |       6 | Holistic Evaluation of Multimodal LLMs on Spatial Intelligence                                                                                                   |
 | Telsho/Extrai                                  |       5 | Structured data extraction with LLM majority vote                                                                                                                |
+| agentjido/llm_db                               |       5 | LLM Model Database defining Provider & Model capabilities, costs and limits                                                                                      |
 | martin-kukla/tritex                            |       5 | Pre-Training LLMs in Triton from the first principle. It replicates GPT2 (1.6B) with 57.5% MFU on A100 SXM.                                                      |
 | Prakashmaheshwaran/moplexity                   |       4 | Open-source AI search assistant - Open Knowledge should not be $20/month. Multi-source search with configurable LLM APIs.                                        |
-| bluearchio/aws-misconfig-db                    |       4 | llm-formatted aws misconfiguration library                                                                                                                       |
 | sam1am/sekrit                                  |       4 | Implementation of "LLMs can hide text in other text of the same length" by Antonio Norelli & Michael Bronstein.                                                  |
+| tfriedel/openwebui-knowledge-search-tool       |       4 | On-demand knowledge base search tool for Open WebUI - LLM decides when to access organizational knowledge                                                        |
 | ALucek/rl-for-llms                             |       3 | Context & Guide For Reinforcement Learning with Verifiable Rewards with Large Language Models                                                                    |
 | GregorBiswanger/LLM-Banking-Chatbot-CTF        |       3 | Hands-on CTF to learn LLM security by hacking a vulnerable banking chatbot in C# with Semantic Kernel. Exploit OWASP LLM Top10 risks, capture flags, then harde… |
-| RickoNoNo3/ThinkMem                            |       3 | AI Memory Management MCP System for LLMs - 让LLM善用思考，善用记忆                                                                                                         |
 | TEC-DCC/UnderstandingLLMs                      |       3 | Towards understanding Large Language Models: a hands on approach.                                                                                                |
 | amazon-science/SafeSearch                      |       3 | SafeSearch: a reinforcement learning framework that jointly optimizes safety and utility in LLM-based search agents.                                             |
-| jmchilton/gh-ci-artifacts                      |       3 | Download and parse GitHub Actions CI artifacts and logs for LLM analysis.                                                                                        |
-| topazcoder/ai-blockchain-assistant             |       3 | AI (RAG, LLM), Ethereum, Rust, Tauri, MCP, RIG                                                                                                                   |
+| btucker/llm-apple                              |       3 | LLM plugin for local apple-foundation-models available on macOS 26                                                                                               |
+| sezer-muhammed/langchain-fused-models          |       3 | Unified multi-provider ChatModel manager for LangChain. Supports routing, rate limits, fallbacks, and structured output across multiple LLMs.                    |
+| takuphilchan/offgrid-llm                       |       3 | OffGrid LLM is a production-ready, self-contained LLM orchestrator designed for environments with limited or no internet connectivity. Deploy powerful language… |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -187,31 +191,29 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html) — 671 points
-- [The trust collapse: Infinite AI content is awful](https://arnon.dk/the-trust-collapse-infinite-ai-content-is-awful/) — 216 points
-- [AI Slop vs. OSS Security](https://devansh.bearblog.dev/ai-slop/) — 180 points
-- [OpenAI probably can't make ends meet. That's where you come in](https://garymarcus.substack.com/p/if-you-thought-the-2008-bank-bailout) — 147 points
-- [Show HN: qqqa – A fast, stateless LLM-powered assistant for your shell](https://github.com/matisojka/qqqa) — 140 points
-- [Show HN: TabPFN-2.5 – SOTA foundation model for tabular data](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report) — 68 points
-- [The Company Quietly Funneling Paywalled Articles to AI Developers](https://www.theatlantic.com/technology/2025/11/common-crawl-ai-training-data/684567/) — 28 points
-- [From Swift to Mojo and High-Performance AI Engineering with Chris Lattner[video]](https://www.youtube.com/watch?v=Fxp3131i1yE) — 19 points
-- [Bombshell report exposes how Meta relied on scam ad profits to fund AI](https://arstechnica.com/tech-policy/2025/11/bombshell-report-exposes-how-meta-relied-on-scam-ad-profits-to-fund-ai/) — 15 points
+- [AI is Dunning-Kruger as a service](https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/) — 229 points
+- [Gmail AI gets more intrusive](https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/) — 223 points
+- [AI Capabilities May Be Overhyped on Bogus Benchmarks, Study Finds](https://gizmodo.com/ai-capabilities-may-be-overhyped-on-bogus-benchmarks-study-finds-2000682577) — 32 points
+- [Jensen Huang's Stark Warning: China's 1M AI Workers vs. America's 20k](https://entropytown.com/articles/2025-11-06-nvidia-jensen-taipei/) — 25 points
+- [Why Sam Altman was booted from OpenAI, according to new testimony](https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit) — 22 points
+- [The Rise of Parasitic AI](https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai) — 10 points
+- [Show HN: Extending LLM SVG generation beyond pelicans and bicycles](https://gally.net/temp/20251107pelican-alternatives/index.html) — 6 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE            |   CVSS | Summary                                         |
-|----------------|--------|-------------------------------------------------|
-| MAL-2025-48830 |      0 | Malicious code in cross-sessions (npm)          |
-| MAL-2025-48604 |      0 | Malicious code in faustjs-org-sitemm2 (npm)     |
-| MAL-2025-48751 |      0 | Malicious code in paysera-loading-spinner (npm) |
-| MAL-2025-49380 |      0 | Malicious code in chai-await-test (npm)         |
-| MAL-2025-49379 |      0 | Malicious code in @chatclub/claude-code (npm)   |
-| MAL-2025-49386 |      0 | Malicious code in tailwindcss-twflare (npm)     |
-| MAL-2025-49385 |      0 | Malicious code in tailwindcss-gustify (npm)     |
-| MAL-2025-49384 |      0 | Malicious code in tailwindcss-aerowind (npm)    |
-| MAL-2025-49388 |      0 | Malicious code in xss-payload-all (npm)         |
-| MAL-2025-49382 |      0 | Malicious code in rce-poc-test-honor-dev (npm)  |
+| CVE   |   CVSS | Summary   |
+|-------|--------|-----------|
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

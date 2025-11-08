@@ -1,45 +1,45 @@
-fetched_at: '2025-11-07T05:32:35Z'
-generated_at: '2025-11-07T05:32:35Z'
-hash: 090c70c97d85b817206419f4e8d7d97c2d29835319afc10fc243f134bade8fc5
+fetched_at: '2025-11-08T05:30:21Z'
+generated_at: '2025-11-08T05:30:21Z'
+hash: da36d25c43e6837d4591b46d3de751c0bc9d8a035af33b480a0cd22a24e4c64d
 items:
 - cvss: 0.0
-  id: MAL-2025-48830
-  published: '2025-10-23T19:29:15Z'
-  summary: Malicious code in cross-sessions (npm)
+  id: null
+  published: '2025-11-08T05:30:21Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-48604
-  published: '2025-10-26T10:22:55Z'
-  summary: Malicious code in faustjs-org-sitemm2 (npm)
+  id: null
+  published: '2025-11-08T05:30:21Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-48751
-  published: '2025-10-26T19:13:28Z'
-  summary: Malicious code in paysera-loading-spinner (npm)
+  id: null
+  published: '2025-11-08T05:30:21Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-49380
-  published: '2025-11-07T03:52:52Z'
-  summary: Malicious code in chai-await-test (npm)
+  id: null
+  published: '2025-11-08T05:30:21Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-49379
-  published: '2025-11-07T03:58:49Z'
-  summary: Malicious code in @chatclub/claude-code (npm)
+  id: null
+  published: '2025-11-08T05:30:21Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-49386
-  published: '2025-11-07T04:03:38Z'
-  summary: Malicious code in tailwindcss-twflare (npm)
+  id: null
+  published: '2025-11-08T05:30:21Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-49385
-  published: '2025-11-07T04:03:54Z'
-  summary: Malicious code in tailwindcss-gustify (npm)
+  id: null
+  published: '2025-11-08T05:30:21Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-49384
-  published: '2025-11-07T04:04:44Z'
-  summary: Malicious code in tailwindcss-aerowind (npm)
+  id: null
+  published: '2025-11-08T05:30:21Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-49388
-  published: '2025-11-07T04:05:51Z'
-  summary: Malicious code in xss-payload-all (npm)
+  id: null
+  published: '2025-11-08T05:30:21Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-49382
-  published: '2025-11-07T04:05:52Z'
-  summary: Malicious code in rce-poc-test-honor-dev (npm)
+  id: null
+  published: '2025-11-08T05:30:21Z'
+  summary: ''
 source_url: https://cve.circl.lu/api/last

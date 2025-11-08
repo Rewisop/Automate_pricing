@@ -1,46 +1,33 @@
-fetched_at: '2025-11-07T05:32:35Z'
-generated_at: '2025-11-07T05:32:35Z'
-hash: 047394fcbc48dde04b48f31eae953ab5a4ef35c53a0b0262f982ebde19926e33
+fetched_at: '2025-11-08T05:30:21Z'
+generated_at: '2025-11-08T05:30:21Z'
+hash: 007a40070b98f6fb9519764097620cd8dc7483aa8c288fce9b1e4ec1e0a3d04b
 items:
 - created_at: '2025-11-03T19:47:35Z'
   description: BonerBots Day 1 release with livetrading LLM bots on AsterDEX
   full_name: bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0
   html_url: https://github.com/bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0
   stargazers_count: 31
-- created_at: '2025-11-01T19:33:42Z'
-  description: Quickly screenshots webpages and converts to an LLM friendly size
-  full_name: chongzixuan-ai/mcp-server-website
-  html_url: https://github.com/chongzixuan-ai/mcp-server-website
-  stargazers_count: 29
-- created_at: '2025-11-01T09:53:38Z'
-  description: A competitive AI-powered cryptocurrency futures trading platform featuring
-    a NOF1-inspired interface (nof1.ai) for showcasing multiple LLM models side-by-side,…
-  full_name: lukema95/roma-01
-  html_url: https://github.com/lukema95/roma-01
-  stargazers_count: 23
-- created_at: '2025-11-01T04:28:54Z'
-  description: Inspired by Alpha Arena and open-nof1.ai,we want to explore the new
-    trading way of ai-trading.we will improve the LLMs and use machine learning to
-    analyse the…
-  full_name: qingshungLI/Super-nof1.ai
-  html_url: https://github.com/qingshungLI/Super-nof1.ai
-  stargazers_count: 20
-- created_at: '2025-11-01T06:26:00Z'
-  description: Needle in a Haystack benchmark for evaluating LLM recall and attention
-    mechanisms with edit distance scoring.
-  full_name: Lianues/LLM-NeedleInAHaystack
-  html_url: https://github.com/Lianues/LLM-NeedleInAHaystack
-  stargazers_count: 16
 - created_at: '2025-11-04T15:09:05Z'
   description: Bridge from Figma designs to LLM-friendly HTML/CSS code
   full_name: kingkongshot/Figma-Bridge
   html_url: https://github.com/kingkongshot/Figma-Bridge
-  stargazers_count: 16
+  stargazers_count: 18
+- created_at: '2025-11-07T08:28:51Z'
+  description: Jupiter is a fast, scalable, and resource-efficient collaborative edge-AI
+    system for generative LLM inference.
+  full_name: ysyisyourbrother/Jupiter
+  html_url: https://github.com/ysyisyourbrother/Jupiter
+  stargazers_count: 9
 - created_at: '2025-11-03T18:39:50Z'
   description: Example Demonstrating Retrieval Augmented Generation with transformers.js
     embeddings and Ollama LLMs.
   full_name: Programming-from-A-to-Z/Ollama-Context-RAG
   html_url: https://github.com/Programming-from-A-to-Z/Ollama-Context-RAG
+  stargazers_count: 7
+- created_at: '2025-11-04T20:36:29Z'
+  description: llm-formatted aws misconfiguration library
+  full_name: bluearchio/aws-misconfig-db
+  html_url: https://github.com/bluearchio/aws-misconfig-db
   stargazers_count: 7
 - created_at: '2025-11-03T04:22:40Z'
   description: Tokenization-Aware Compression Codec to efficiently send LLM outputs
@@ -48,10 +35,21 @@ items:
   full_name: elijah0528/tacc
   html_url: https://github.com/elijah0528/tacc
   stargazers_count: 7
+- created_at: '2025-11-07T06:41:02Z'
+  description: Holistic Evaluation of Multimodal LLMs on Spatial Intelligence
+  full_name: EvolvingLMMs-Lab/EASI
+  html_url: https://github.com/EvolvingLMMs-Lab/EASI
+  stargazers_count: 6
 - created_at: '2025-11-03T16:54:54Z'
   description: Structured data extraction with LLM majority vote
   full_name: Telsho/Extrai
   html_url: https://github.com/Telsho/Extrai
+  stargazers_count: 5
+- created_at: '2025-11-04T16:34:01Z'
+  description: LLM Model Database defining Provider & Model capabilities, costs and
+    limits
+  full_name: agentjido/llm_db
+  html_url: https://github.com/agentjido/llm_db
   stargazers_count: 5
 - created_at: '2025-11-04T11:09:43Z'
   description: Pre-Training LLMs in Triton from the first principle. It replicates
@@ -65,16 +63,17 @@ items:
   full_name: Prakashmaheshwaran/moplexity
   html_url: https://github.com/Prakashmaheshwaran/moplexity
   stargazers_count: 4
-- created_at: '2025-11-04T20:36:29Z'
-  description: llm-formatted aws misconfiguration library
-  full_name: bluearchio/aws-misconfig-db
-  html_url: https://github.com/bluearchio/aws-misconfig-db
-  stargazers_count: 4
 - created_at: '2025-11-04T19:42:32Z'
   description: Implementation of "LLMs can hide text in other text of the same length"
     by Antonio Norelli & Michael Bronstein.
   full_name: sam1am/sekrit
   html_url: https://github.com/sam1am/sekrit
+  stargazers_count: 4
+- created_at: '2025-11-05T21:11:16Z'
+  description: On-demand knowledge base search tool for Open WebUI - LLM decides when
+    to access organizational knowledge
+  full_name: tfriedel/openwebui-knowledge-search-tool
+  html_url: https://github.com/tfriedel/openwebui-knowledge-search-tool
   stargazers_count: 4
 - created_at: '2025-11-03T21:29:23Z'
   description: Context & Guide For Reinforcement Learning with Verifiable Rewards
@@ -89,11 +88,6 @@ items:
   full_name: GregorBiswanger/LLM-Banking-Chatbot-CTF
   html_url: https://github.com/GregorBiswanger/LLM-Banking-Chatbot-CTF
   stargazers_count: 3
-- created_at: '2025-11-01T13:55:54Z'
-  description: AI Memory Management MCP System for LLMs - 让LLM善用思考，善用记忆
-  full_name: RickoNoNo3/ThinkMem
-  html_url: https://github.com/RickoNoNo3/ThinkMem
-  stargazers_count: 3
 - created_at: '2025-11-03T02:03:38Z'
   description: 'Towards understanding Large Language Models: a hands on approach.'
   full_name: TEC-DCC/UnderstandingLLMs
@@ -105,14 +99,22 @@ items:
   full_name: amazon-science/SafeSearch
   html_url: https://github.com/amazon-science/SafeSearch
   stargazers_count: 3
-- created_at: '2025-11-01T23:15:29Z'
-  description: Download and parse GitHub Actions CI artifacts and logs for LLM analysis.
-  full_name: jmchilton/gh-ci-artifacts
-  html_url: https://github.com/jmchilton/gh-ci-artifacts
+- created_at: '2025-11-06T20:58:56Z'
+  description: LLM plugin for local apple-foundation-models available on macOS 26
+  full_name: btucker/llm-apple
+  html_url: https://github.com/btucker/llm-apple
   stargazers_count: 3
-- created_at: '2025-11-01T02:05:36Z'
-  description: AI (RAG, LLM), Ethereum, Rust, Tauri, MCP, RIG
-  full_name: topazcoder/ai-blockchain-assistant
-  html_url: https://github.com/topazcoder/ai-blockchain-assistant
+- created_at: '2025-11-04T21:58:19Z'
+  description: Unified multi-provider ChatModel manager for LangChain. Supports routing,
+    rate limits, fallbacks, and structured output across multiple LLMs.
+  full_name: sezer-muhammed/langchain-fused-models
+  html_url: https://github.com/sezer-muhammed/langchain-fused-models
+  stargazers_count: 3
+- created_at: '2025-11-06T10:35:44Z'
+  description: OffGrid LLM is a production-ready, self-contained LLM orchestrator
+    designed for environments with limited or no internet connectivity. Deploy powerful
+    language…
+  full_name: takuphilchan/offgrid-llm
+  html_url: https://github.com/takuphilchan/offgrid-llm
   stargazers_count: 3
 source_url: https://api.github.com/search/repositories
