@@ -1,40 +1,51 @@
-fetched_at: '2025-11-08T05:30:21Z'
-generated_at: '2025-11-08T05:30:21Z'
-hash: bead3ce9b6dbbfa138b74b9c6933886025d5516dca83d19aaf16dc5551cbbe01
+fetched_at: '2025-11-09T05:30:43Z'
+generated_at: '2025-11-09T05:30:43Z'
+hash: 82c7d6e619a565b55a8662642985bdbf437b011f2cb32844279367aa19a79ce2
 items:
-- id: 45851483
-  score: 229
-  time: '2025-11-07T21:44:04Z'
-  title: AI is Dunning-Kruger as a service
-  url: https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/
-- id: 45848504
-  score: 223
-  time: '2025-11-07T17:07:01Z'
-  title: Gmail AI gets more intrusive
-  url: https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/
-- id: 45852240
-  score: 32
-  time: '2025-11-07T22:55:19Z'
-  title: AI Capabilities May Be Overhyped on Bogus Benchmarks, Study Finds
-  url: https://gizmodo.com/ai-capabilities-may-be-overhyped-on-bogus-benchmarks-study-finds-2000682577
-- id: 45852376
-  score: 25
-  time: '2025-11-07T23:10:14Z'
-  title: 'Jensen Huang''s Stark Warning: China''s 1M AI Workers vs. America''s 20k'
-  url: https://entropytown.com/articles/2025-11-06-nvidia-jensen-taipei/
-- id: 45853407
-  score: 22
-  time: '2025-11-08T02:01:32Z'
-  title: Why Sam Altman was booted from OpenAI, according to new testimony
-  url: https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit
-- id: 45851970
-  score: 10
-  time: '2025-11-07T22:31:30Z'
-  title: The Rise of Parasitic AI
-  url: https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai
-- id: 45845717
-  score: 6
-  time: '2025-11-07T12:28:50Z'
-  title: 'Show HN: Extending LLM SVG generation beyond pelicans and bicycles'
-  url: https://gally.net/temp/20251107pelican-alternatives/index.html
+- id: 45856804
+  score: 329
+  time: '2025-11-08T14:18:22Z'
+  title: Study identifies weaknesses in how AI systems are evaluated
+  url: https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/
+- id: 45858959
+  score: 88
+  time: '2025-11-08T18:51:37Z'
+  title: Firefox Forcing LLM Features
+  url: https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/
+- id: 45860273
+  score: 59
+  time: '2025-11-08T21:36:39Z'
+  title: How to declutter, quiet down, and take the AI out of Windows 11 25H2
+  url: https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/
+- id: 45861329
+  score: 43
+  time: '2025-11-08T23:48:58Z'
+  title: GPT-5-Codex-Mini – A more compact and cost-efficient version of GPT-5-Codex
+  url: https://github.com/openai/codex/releases/tag/rust-v0.56.0
+- id: 45859566
+  score: 26
+  time: '2025-11-08T20:12:05Z'
+  title: The AI Ick
+  url: https://stackoverflow.blog/2025/11/05/the-ai-ick/
+- id: 45862192
+  score: 8
+  time: '2025-11-09T01:53:41Z'
+  title: China's AI Upstart Moonshot Stuns Valley Again with a $4.6M Wonder
+  url: https://entropytown.com/articles/2025-11-07-kimi-k2-thinking/
+- id: 45854892
+  score: 7
+  time: '2025-11-08T07:36:39Z'
+  title: Google Threat Intel Group AI Threat Tracker:Advances in Threat Actor AI Tool
+    Use
+  url: https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools
+- id: 45862802
+  score: 5
+  time: '2025-11-09T04:02:47Z'
+  title: Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican
+  url: https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/
+- id: 45861027
+  score: 4
+  time: '2025-11-08T23:21:38Z'
+  title: French Government Created LLM Leaderboard 'Rigged' for Mistral
+  url: https://comparia.beta.gouv.fr/ranking
 source_url: https://hacker-news.firebaseio.com/

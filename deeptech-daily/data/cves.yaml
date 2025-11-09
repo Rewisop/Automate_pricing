@@ -1,45 +1,45 @@
-fetched_at: '2025-11-08T05:30:21Z'
-generated_at: '2025-11-08T05:30:21Z'
-hash: da36d25c43e6837d4591b46d3de751c0bc9d8a035af33b480a0cd22a24e4c64d
+fetched_at: '2025-11-09T05:30:43Z'
+generated_at: '2025-11-09T05:30:43Z'
+hash: 36fc182aedbba9b66e48830d24032b610f5e085bb209590de8eaea8cd281578b
 items:
 - cvss: 0.0
-  id: null
-  published: '2025-11-08T05:30:21Z'
+  id: CVE-2025-54236
+  published: '2025-09-09T14:15:46Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-08T05:30:21Z'
+  published: '2025-11-09T05:30:43Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-08T05:30:21Z'
+  published: '2025-11-09T05:30:43Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-08T05:30:21Z'
+  published: '2025-11-09T05:30:43Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-08T05:30:21Z'
+  published: '2025-11-09T05:30:43Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-08T05:30:21Z'
+  published: '2025-11-09T05:30:43Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-08T05:30:21Z'
+  published: '2025-11-09T05:30:43Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-08T05:30:21Z'
+  published: '2025-11-09T05:30:43Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-08T05:30:21Z'
+  published: '2025-11-09T05:30:43Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-08T05:30:21Z'
+  published: '2025-11-09T05:30:43Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

@@ -1,6 +1,6 @@
-fetched_at: '2025-11-08T05:30:21Z'
-generated_at: '2025-11-08T05:30:21Z'
-hash: 007a40070b98f6fb9519764097620cd8dc7483aa8c288fce9b1e4ec1e0a3d04b
+fetched_at: '2025-11-09T05:30:43Z'
+generated_at: '2025-11-09T05:30:43Z'
+hash: 06bb6609cc599366d9f51d1751bae4e4c11a14068d86d0f300dacf9b44ca0aee
 items:
 - created_at: '2025-11-03T19:47:35Z'
   description: BonerBots Day 1 release with livetrading LLM bots on AsterDEX
@@ -12,18 +12,29 @@ items:
   full_name: kingkongshot/Figma-Bridge
   html_url: https://github.com/kingkongshot/Figma-Bridge
   stargazers_count: 18
+- created_at: '2025-11-07T06:41:02Z'
+  description: Holistic Evaluation of Multimodal LLMs on Spatial Intelligence
+  full_name: EvolvingLMMs-Lab/EASI
+  html_url: https://github.com/EvolvingLMMs-Lab/EASI
+  stargazers_count: 10
+- created_at: '2025-11-04T16:34:01Z'
+  description: LLM Model Database defining Provider & Model capabilities, costs and
+    limits
+  full_name: agentjido/llm_db
+  html_url: https://github.com/agentjido/llm_db
+  stargazers_count: 10
 - created_at: '2025-11-07T08:28:51Z'
   description: Jupiter is a fast, scalable, and resource-efficient collaborative edge-AI
     system for generative LLM inference.
   full_name: ysyisyourbrother/Jupiter
   html_url: https://github.com/ysyisyourbrother/Jupiter
-  stargazers_count: 9
+  stargazers_count: 10
 - created_at: '2025-11-03T18:39:50Z'
   description: Example Demonstrating Retrieval Augmented Generation with transformers.js
     embeddings and Ollama LLMs.
   full_name: Programming-from-A-to-Z/Ollama-Context-RAG
   html_url: https://github.com/Programming-from-A-to-Z/Ollama-Context-RAG
-  stargazers_count: 7
+  stargazers_count: 8
 - created_at: '2025-11-04T20:36:29Z'
   description: llm-formatted aws misconfiguration library
   full_name: bluearchio/aws-misconfig-db
@@ -35,21 +46,10 @@ items:
   full_name: elijah0528/tacc
   html_url: https://github.com/elijah0528/tacc
   stargazers_count: 7
-- created_at: '2025-11-07T06:41:02Z'
-  description: Holistic Evaluation of Multimodal LLMs on Spatial Intelligence
-  full_name: EvolvingLMMs-Lab/EASI
-  html_url: https://github.com/EvolvingLMMs-Lab/EASI
-  stargazers_count: 6
 - created_at: '2025-11-03T16:54:54Z'
   description: Structured data extraction with LLM majority vote
   full_name: Telsho/Extrai
   html_url: https://github.com/Telsho/Extrai
-  stargazers_count: 5
-- created_at: '2025-11-04T16:34:01Z'
-  description: LLM Model Database defining Provider & Model capabilities, costs and
-    limits
-  full_name: agentjido/llm_db
-  html_url: https://github.com/agentjido/llm_db
   stargazers_count: 5
 - created_at: '2025-11-04T11:09:43Z'
   description: Pre-Training LLMs in Triton from the first principle. It replicates
@@ -62,6 +62,11 @@ items:
     Multi-source search with configurable LLM APIs.
   full_name: Prakashmaheshwaran/moplexity
   html_url: https://github.com/Prakashmaheshwaran/moplexity
+  stargazers_count: 4
+- created_at: '2025-11-06T20:58:56Z'
+  description: LLM plugin for local apple-foundation-models available on macOS 26
+  full_name: btucker/llm-apple
+  html_url: https://github.com/btucker/llm-apple
   stargazers_count: 4
 - created_at: '2025-11-04T19:42:32Z'
   description: Implementation of "LLMs can hide text in other text of the same length"
@@ -81,34 +86,26 @@ items:
   full_name: ALucek/rl-for-llms
   html_url: https://github.com/ALucek/rl-for-llms
   stargazers_count: 3
-- created_at: '2025-11-04T19:03:51Z'
-  description: Hands-on CTF to learn LLM security by hacking a vulnerable banking
-    chatbot in C# with Semantic Kernel. Exploit OWASP LLM Top10 risks, capture flags,
-    then harde…
-  full_name: GregorBiswanger/LLM-Banking-Chatbot-CTF
-  html_url: https://github.com/GregorBiswanger/LLM-Banking-Chatbot-CTF
-  stargazers_count: 3
 - created_at: '2025-11-03T02:03:38Z'
   description: 'Towards understanding Large Language Models: a hands on approach.'
   full_name: TEC-DCC/UnderstandingLLMs
   html_url: https://github.com/TEC-DCC/UnderstandingLLMs
   stargazers_count: 3
-- created_at: '2025-11-04T22:14:10Z'
-  description: 'SafeSearch: a reinforcement learning framework that jointly optimizes
-    safety and utility in LLM-based search agents.'
-  full_name: amazon-science/SafeSearch
-  html_url: https://github.com/amazon-science/SafeSearch
+- created_at: '2025-11-07T06:43:10Z'
+  description: 🌟 The ultimate meta-collection of 200+ awesome LLM repositories
+  full_name: adongwanai/Awesome-Awesome-LLMs
+  html_url: https://github.com/adongwanai/Awesome-Awesome-LLMs
   stargazers_count: 3
-- created_at: '2025-11-06T20:58:56Z'
-  description: LLM plugin for local apple-foundation-models available on macOS 26
-  full_name: btucker/llm-apple
-  html_url: https://github.com/btucker/llm-apple
+- created_at: '2025-11-06T12:29:42Z'
+  description: A professional LaTeX resume template for LLM & Agent algorithm engineers
+  full_name: adongwanai/LLM-Resume-Template
+  html_url: https://github.com/adongwanai/LLM-Resume-Template
   stargazers_count: 3
-- created_at: '2025-11-04T21:58:19Z'
-  description: Unified multi-provider ChatModel manager for LangChain. Supports routing,
-    rate limits, fallbacks, and structured output across multiple LLMs.
-  full_name: sezer-muhammed/langchain-fused-models
-  html_url: https://github.com/sezer-muhammed/langchain-fused-models
+- created_at: '2025-11-07T18:45:47Z'
+  description: Systematic evaluation of hallucination risks in Large Language Models
+    (GPT-4, Claude 3, Gemini Pro) for clinical proteomics and mass spectrometry interpretatio…
+  full_name: olaflaitinen/llm-proteomics-hallucination
+  html_url: https://github.com/olaflaitinen/llm-proteomics-hallucination
   stargazers_count: 3
 - created_at: '2025-11-06T10:35:44Z'
   description: OffGrid LLM is a production-ready, self-contained LLM orchestrator
