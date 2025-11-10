@@ -1,51 +1,40 @@
-fetched_at: '2025-11-09T05:30:43Z'
-generated_at: '2025-11-09T05:30:43Z'
-hash: 82c7d6e619a565b55a8662642985bdbf437b011f2cb32844279367aa19a79ce2
+fetched_at: '2025-11-10T05:32:29Z'
+generated_at: '2025-11-10T05:32:29Z'
+hash: 13e306e3b67746d4157759e7f88ebd12b98d1a40c4f11a68e1106f6420871935
 items:
-- id: 45856804
-  score: 329
-  time: '2025-11-08T14:18:22Z'
-  title: Study identifies weaknesses in how AI systems are evaluated
-  url: https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/
-- id: 45858959
-  score: 88
-  time: '2025-11-08T18:51:37Z'
-  title: Firefox Forcing LLM Features
-  url: https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/
-- id: 45860273
-  score: 59
-  time: '2025-11-08T21:36:39Z'
-  title: How to declutter, quiet down, and take the AI out of Windows 11 25H2
-  url: https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/
-- id: 45861329
+- id: 45866243
+  score: 608
+  time: '2025-11-09T15:30:23Z'
+  title: AI isn't replacing jobs. AI spending is
+  url: https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon
+- id: 45871531
+  score: 105
+  time: '2025-11-10T02:10:59Z'
+  title: Open source has a growing problem with LLM generated issues
+  url: https://github.com/opencontainers/runc/issues/4990
+- id: 45871084
   score: 43
-  time: '2025-11-08T23:48:58Z'
-  title: GPT-5-Codex-Mini – A more compact and cost-efficient version of GPT-5-Codex
-  url: https://github.com/openai/codex/releases/tag/rust-v0.56.0
-- id: 45859566
-  score: 26
-  time: '2025-11-08T20:12:05Z'
-  title: The AI Ick
-  url: https://stackoverflow.blog/2025/11/05/the-ai-ick/
-- id: 45862192
-  score: 8
-  time: '2025-11-09T01:53:41Z'
-  title: China's AI Upstart Moonshot Stuns Valley Again with a $4.6M Wonder
-  url: https://entropytown.com/articles/2025-11-07-kimi-k2-thinking/
-- id: 45854892
+  time: '2025-11-10T01:17:53Z'
+  title: My Git history was a mess of 'update' and 'fix' – so I made AI clean it up
+  url: https://github.com/f/git-rewrite-commits
+- id: 45865745
+  score: 15
+  time: '2025-11-09T14:15:14Z'
+  title: AI-powered nimbyism could grind UK planning system to a halt, experts warn
+  url: https://www.theguardian.com/politics/2025/nov/09/ai-powered-nimbyism-could-grind-uk-planning-system-to-a-halt-experts-warn
+- id: 45870796
+  score: 11
+  time: '2025-11-10T00:31:23Z'
+  title: Microsoft forms superintelligence team under AI head Mustafa Suleyman
+  url: https://www.cnbc.com/2025/11/06/microsoft-forms-superintelligence-team-under-ai-head-mustafa-suleyman-.html
+- id: 45869928
+  score: 9
+  time: '2025-11-09T22:38:28Z'
+  title: Hard drives on backorder for two years as AI data centers trigger HDD shortage
+  url: https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds
+- id: 45872233
   score: 7
-  time: '2025-11-08T07:36:39Z'
-  title: Google Threat Intel Group AI Threat Tracker:Advances in Threat Actor AI Tool
-    Use
-  url: https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools
-- id: 45862802
-  score: 5
-  time: '2025-11-09T04:02:47Z'
-  title: Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican
-  url: https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/
-- id: 45861027
-  score: 4
-  time: '2025-11-08T23:21:38Z'
-  title: French Government Created LLM Leaderboard 'Rigged' for Mistral
-  url: https://comparia.beta.gouv.fr/ranking
+  time: '2025-11-10T03:52:41Z'
+  title: China bans foreign AI chips from state-funded data centres
+  url: https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/
 source_url: https://hacker-news.firebaseio.com/

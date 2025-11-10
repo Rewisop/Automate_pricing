@@ -1,112 +1,116 @@
-fetched_at: '2025-11-07T05:32:35Z'
-generated_at: '2025-11-07T05:32:35Z'
-hash: 5866fbe4e4e894ab77851047388d9bd5df842ad9817bdd6fae7828cc315c0376
+fetched_at: '2025-11-10T05:32:29Z'
+generated_at: '2025-11-10T05:32:29Z'
+hash: 70bfbc417cfb3157fe13c441e8d44dfcd338eae155c04e4bed7bf788253ff0c9
 items:
-- id: oai:arXiv.org:2511.02997v1
-  link: https://arxiv.org/abs/2511.02997
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.02997v1 Announce Type: new  Abstract: As AI systems become
-    more capable and widely deployed as agents, ensuring their safe operation becomes
-    critica…'
-  title: Evaluating Control Protocols for Untrusted AI Agents
-- id: oai:arXiv.org:2511.03023v1
-  link: https://arxiv.org/abs/2511.03023
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03023v1 Announce Type: new  Abstract: Open data repositories
-    hold potential for evidence-based decision-making, yet are inaccessible to non-experts…'
-  title: 'PublicAgent: Multi-Agent Design Principles From an LLM-Based Open Data Analysis
-    Framework'
-- id: oai:arXiv.org:2511.03051v1
-  link: https://arxiv.org/abs/2511.03051
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03051v1 Announce Type: new  Abstract: Evaluating large language
-    models (LLMs) as judges is increasingly critical for building scalable and trustwort…'
-  title: 'No-Human in the Loop: Agentic Evaluation at Scale for Recommendation'
-- id: oai:arXiv.org:2511.03070v1
-  link: https://arxiv.org/abs/2511.03070
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03070v1 Announce Type: new  Abstract: Artificial intelligence
-    (AI) systems hold great promise for advancing various scientific disciplines,
-    and are…'
-  title: 'Epidemiology of Large Language Models: A Benchmark for Observational Distribution
-    Knowledge'
-- id: oai:arXiv.org:2511.03092v2
-  link: https://arxiv.org/abs/2511.03092
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03092v2 Announce Type: new  Abstract: The proliferation of
-    100B+ parameter Large Language Models (LLMs) with 100k+ context length support
-    have resul…'
-  title: 'SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators'
-- id: oai:arXiv.org:2511.03106v1
-  link: https://arxiv.org/abs/2511.03106
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03106v1 Announce Type: new  Abstract: The rapid adoption of
-    large language models (LLMs) in healthcare has been accompanied by scrutiny of
-    their ove…'
-  title: 'Large language models require a new form of oversight: capability-based
-    monitoring'
-- id: oai:arXiv.org:2511.03108v1
-  link: https://arxiv.org/abs/2511.03108
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03108v1 Announce Type: new  Abstract: We perform a thorough
-    analysis of the formal and informal statements in the miniF2F benchmark from the
-    perspec…'
-  title: 'miniF2F-Lean Revisited: Reviewing Limitations and Charting a Path Forward'
-- id: oai:arXiv.org:2511.03137v1
-  link: https://arxiv.org/abs/2511.03137
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03137v1 Announce Type: new  Abstract: As optimization problems
-    grow increasingly complex and diverse, advancements in optimization techniques
-    and pa…'
-  title: Using Multi-modal Large Language Model to Boost Fireworks Algorithm's Ability
-    in Settling Challenging Optimization Tasks
-- id: oai:arXiv.org:2511.03138v1
-  link: https://arxiv.org/abs/2511.03138
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03138v1 Announce Type: new  Abstract: With the widespread application
-    of Large Language Models (LLMs), their associated security issues have become…'
-  title: A Proprietary Model-Based Safety Response Framework for AI Agents
-- id: oai:arXiv.org:2511.03169v1
-  link: https://arxiv.org/abs/2511.03169
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03169v1 Announce Type: new  Abstract: Formal explainable artificial
-    intelligence (XAI) offers unique theoretical guarantees of rigor when compared
-    t…'
-  title: 'Uncovering Bugs in Formal Explainers: A Case Study with PyXAI'
-- id: oai:arXiv.org:2511.03179v2
-  link: https://arxiv.org/abs/2511.03179
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03179v2 Announce Type: new  Abstract: The engineering design
-    process often demands expertise from multiple domains, leading to complex collaboration…'
-  title: 'Toward Autonomous Engineering Design: A Knowledge-Guided Multi-Agent Framework'
-- id: oai:arXiv.org:2511.03186v1
-  link: https://arxiv.org/abs/2511.03186
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03186v1 Announce Type: new  Abstract: Generative AI assistants
-    offer significant potential to enhance productivity, streamline information access,
-    a…'
-  title: Adobe Summit Concierge Evaluation with Human in the Loop
-- id: oai:arXiv.org:2511.03235v1
-  link: https://arxiv.org/abs/2511.03235
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03235v1 Announce Type: new  Abstract: Psychological constructs
-    within individuals are widely believed to be interconnected. We investigated whether…'
-  title: 'From Five Dimensions to Many: Large Language Models as Precise and Interpretable
-    Psychological Profilers'
-- id: oai:arXiv.org:2511.03471v1
-  link: https://arxiv.org/abs/2511.03471
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03471v1 Announce Type: new  Abstract: Ensuring web accessibility
-    is crucial for advancing social welfare, justice, and equality in digital spaces,
-    y…'
-  title: Towards Scalable Web Accessibility Audit with MLLMs as Copilots
-- id: oai:arXiv.org:2511.03545v1
-  link: https://arxiv.org/abs/2511.03545
-  published: '2025-11-07T05:00:00Z'
-  summary: 'arXiv:2511.03545v1 Announce Type: new  Abstract: This paper presents a
-    comprehensive theoretical investigation into the parameterized complexity of explanation…'
-  title: 'Explaining Decisions in ML Models: a Parameterized Complexity Analysis (Part
-    I)'
+- id: oai:arXiv.org:2511.04685v1
+  link: https://arxiv.org/abs/2511.04685
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.04685v1 Announce Type: new  Abstract: We report about the algorithm,
+    implementation and results submitted to the Integrated Healthcare Timetabling
+    C…'
+  title: A hybrid solution approach for the Integrated Healthcare Timetabling Competition
+    2024
+- id: oai:arXiv.org:2511.04855v1
+  link: https://arxiv.org/abs/2511.04855
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.04855v1 Announce Type: new  Abstract: In high-stakes applications,
+    predictive models must not only produce accurate predictions but also quantify
+    an…'
+  title: Epistemic Reject Option Prediction
+- id: oai:arXiv.org:2511.04880v1
+  link: https://arxiv.org/abs/2511.04880
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.04880v1 Announce Type: new  Abstract: Retrieval-augmented generation
+    (RAG) systems often rely on static retrieval, limiting adaptation to evolving
+    i…'
+  title: 'DMA: Online RAG Alignment with Human Feedback'
+- id: oai:arXiv.org:2511.04898v1
+  link: https://arxiv.org/abs/2511.04898
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.04898v1 Announce Type: new  Abstract: Agents in the real world
+    must make not only logical but also timely judgments. This requires continuous
+    awaren…'
+  title: Real-Time Reasoning Agents in Evolving Environments
+- id: oai:arXiv.org:2511.04956v1
+  link: https://arxiv.org/abs/2511.04956
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.04956v1 Announce Type: new  Abstract: High-Risk Property (HRP)
+    classification is critical at U.S. Department of Energy (DOE) sites, where inventorie…'
+  title: 'ORCHID: Orchestrated Retrieval-Augmented Classification with Human-in-the-Loop
+    Intelligent Decision-Making for High-Risk Property'
+- id: oai:arXiv.org:2511.05182v1
+  link: https://arxiv.org/abs/2511.05182
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.05182v1 Announce Type: new  Abstract: In this paper, we propose
+    a methodology designed to support decision-making during the execution phase of
+    mili…'
+  title: Autonomous generation of different courses of action in mechanized combat
+    operations
+- id: oai:arXiv.org:2511.05311v1
+  link: https://arxiv.org/abs/2511.05311
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.05311v1 Announce Type: new  Abstract: Economic constraints,
+    limited availability of datasets for reproducibility and shortages of specialized
+    expert…'
+  title: Cleaning Maintenance Logs with LLM Agents for Improved Predictive Maintenance
+- id: oai:arXiv.org:2511.05375v1
+  link: https://arxiv.org/abs/2511.05375
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.05375v1 Announce Type: new  Abstract: AI has proven highly
+    successful at urban planning analysis -- learning patterns from data to predict
+    future co…'
+  title: Reasoning Is All You Need for Urban Planning AI
+- id: oai:arXiv.org:2511.04682v1
+  link: https://arxiv.org/abs/2511.04682
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.04682v1 Announce Type: cross  Abstract: In-Memory Computing
+    (IMC) represents a paradigm shift in deep learning acceleration by mitigating
+    data movem…'
+  title: Efficient Deployment of CNN Models on Multiple In-Memory Computing Units
+- id: oai:arXiv.org:2511.04683v1
+  link: https://arxiv.org/abs/2511.04683
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.04683v1 Announce Type: cross  Abstract: Academic citation integrity
+    faces persistent challenges, with research indicating 20% of citations contain
+    e…'
+  title: 'AI-Powered Citation Auditing: A Zero-Assumption Protocol for Systematic
+    Reference Verification in Academic Research'
+- id: oai:arXiv.org:2511.04686v1
+  link: https://arxiv.org/abs/2511.04686
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.04686v1 Announce Type: cross  Abstract: The Key-Value (KV)
+    cache is integral to efficient autoregressive inference in large language models
+    (LLMs),…'
+  title: 'Stateful KV Cache Management for LLMs: Balancing Space, Time, Accuracy,
+    and Positional Fidelity'
+- id: oai:arXiv.org:2511.04689v1
+  link: https://arxiv.org/abs/2511.04689
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.04689v1 Announce Type: cross  Abstract: Large language model
+    evaluation requires thousands of benchmark items, making evaluations expensive
+    and slow…'
+  title: 'Adaptive Testing for LLM Evaluation: A Psychometric Alternative to Static
+    Benchmarks'
+- id: oai:arXiv.org:2511.04691v1
+  link: https://arxiv.org/abs/2511.04691
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.04691v1 Announce Type: cross  Abstract: We explore whether
+    neural networks can decode brain activity into speech by mapping EEG recordings
+    to audio…'
+  title: 'A Penny for Your Thoughts: Decoding Speech from Inexpensive Brain Signals'
+- id: oai:arXiv.org:2511.04694v1
+  link: https://arxiv.org/abs/2511.04694
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.04694v1 Announce Type: cross  Abstract: As large language model
+    (LLM) based systems take on high-stakes roles in real-world decision-making, they
+    mu…'
+  title: Reasoning Up the Instruction Ladder for Controllable Language Models
+- id: oai:arXiv.org:2511.04696v1
+  link: https://arxiv.org/abs/2511.04696
+  published: '2025-11-10T05:00:00Z'
+  summary: 'arXiv:2511.04696v1 Announce Type: cross  Abstract: We introduce EncouRAGe,
+    a comprehensive Python framework designed to streamline the development and evaluati…'
+  title: 'EncouRAGe: Evaluating RAG Local, Fast, and Reliable'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL
