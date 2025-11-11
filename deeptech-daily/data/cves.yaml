@@ -1,45 +1,45 @@
-fetched_at: '2025-11-10T05:32:29Z'
-generated_at: '2025-11-10T05:32:29Z'
-hash: e58ac7edaae705e69c50d1092f4bf0ed62481328f0a87c24d490aa8dde6ff9a2
+fetched_at: '2025-11-11T05:32:49Z'
+generated_at: '2025-11-11T05:32:49Z'
+hash: 7e20b8cf7082b7f4cb7bb8c858dc392f10130708749e2609dbd71923f46cfafd
 items:
 - cvss: 0.0
-  id: MAL-2025-49731
-  published: '2025-11-10T03:05:47Z'
-  summary: Malicious code in post-purchase-frontend (npm)
+  id: null
+  published: '2025-11-11T05:32:49Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-52341
-  published: '2025-11-10T04:40:39Z'
-  summary: Malicious code in ocha-mendut60-ruro (npm)
+  id: null
+  published: '2025-11-11T05:32:49Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-52342
-  published: '2025-11-10T04:40:39Z'
-  summary: Malicious code in ocha-nasisayur55-ruro (npm)
+  id: null
+  published: '2025-11-11T05:32:49Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-52343
-  published: '2025-11-10T04:40:39Z'
-  summary: Malicious code in ocha-nasiuduk31-riris (npm)
+  id: null
+  published: '2025-11-11T05:32:49Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-52344
-  published: '2025-11-10T04:40:39Z'
-  summary: Malicious code in ocha-nasiuduk81-miaww (npm)
+  id: null
+  published: '2025-11-11T05:32:49Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-52345
-  published: '2025-11-10T04:40:39Z'
-  summary: Malicious code in ocha-oblok43-sluey (npm)
+  id: null
+  published: '2025-11-11T05:32:49Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-52346
-  published: '2025-11-10T04:40:39Z'
-  summary: Malicious code in ocha-oncom2-sluey (npm)
+  id: null
+  published: '2025-11-11T05:32:49Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-52347
-  published: '2025-11-10T04:40:39Z'
-  summary: Malicious code in ocha-pecel29-sluey (npm)
+  id: null
+  published: '2025-11-11T05:32:49Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-52348
-  published: '2025-11-10T04:40:39Z'
-  summary: Malicious code in ocha-pisang66-miaww (npm)
+  id: null
+  published: '2025-11-11T05:32:49Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-52349
-  published: '2025-11-10T04:40:39Z'
-  summary: Malicious code in ocha-pisang90-sluey (npm)
+  id: null
+  published: '2025-11-11T05:32:49Z'
+  summary: ''
 source_url: https://cve.circl.lu/api/last

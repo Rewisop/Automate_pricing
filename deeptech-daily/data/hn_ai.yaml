@@ -1,40 +1,40 @@
-fetched_at: '2025-11-10T05:32:29Z'
-generated_at: '2025-11-10T05:32:29Z'
-hash: 13e306e3b67746d4157759e7f88ebd12b98d1a40c4f11a68e1106f6420871935
+fetched_at: '2025-11-11T05:32:49Z'
+generated_at: '2025-11-11T05:32:49Z'
+hash: e66b6fec704660e656d8ed15ade8b7ed3221063a01077425d1895718485e6b14
 items:
-- id: 45866243
-  score: 608
-  time: '2025-11-09T15:30:23Z'
-  title: AI isn't replacing jobs. AI spending is
-  url: https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon
-- id: 45871531
+- id: 45880939
+  score: 156
+  time: '2025-11-10T21:07:02Z'
+  title: Spatial intelligence is AI’s next frontier
+  url: https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence
+- id: 45879793
+  score: 112
+  time: '2025-11-10T19:28:07Z'
+  title: Using Generative AI in Content Production
+  url: https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production
+- id: 45877770
   score: 105
-  time: '2025-11-10T02:10:59Z'
-  title: Open source has a growing problem with LLM generated issues
-  url: https://github.com/opencontainers/runc/issues/4990
-- id: 45871084
-  score: 43
-  time: '2025-11-10T01:17:53Z'
-  title: My Git history was a mess of 'update' and 'fix' – so I made AI clean it up
-  url: https://github.com/f/git-rewrite-commits
-- id: 45865745
-  score: 15
-  time: '2025-11-09T14:15:14Z'
-  title: AI-powered nimbyism could grind UK planning system to a halt, experts warn
-  url: https://www.theguardian.com/politics/2025/nov/09/ai-powered-nimbyism-could-grind-uk-planning-system-to-a-halt-experts-warn
-- id: 45870796
-  score: 11
-  time: '2025-11-10T00:31:23Z'
-  title: Microsoft forms superintelligence team under AI head Mustafa Suleyman
-  url: https://www.cnbc.com/2025/11/06/microsoft-forms-superintelligence-team-under-ai-head-mustafa-suleyman-.html
-- id: 45869928
-  score: 9
-  time: '2025-11-09T22:38:28Z'
-  title: Hard drives on backorder for two years as AI data centers trigger HDD shortage
-  url: https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds
-- id: 45872233
+  time: '2025-11-10T16:44:40Z'
+  title: ClickHouse acquires LibreChat, open-source AI chat platform
+  url: https://clickhouse.com/blog/librechat-open-source-agentic-data-stack
+- id: 45877698
+  score: 103
+  time: '2025-11-10T16:38:31Z'
+  title: Benchmarking leading AI agents against Google reCAPTCHA v2
+  url: https://research.roundtable.ai/captcha-benchmarking/
+- id: 45877517
+  score: 80
+  time: '2025-11-10T16:23:24Z'
+  title: 'Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes'
+  url: https://news.ycombinator.com/item?id=45877517
+- id: 45879016
+  score: 16
+  time: '2025-11-10T18:23:35Z'
+  title: Fortran Outsmarted Our Billion-Dollar AI Chips
+  url: https://medium.com/@daxx5/fortran-outsmarted-our-billion-dollar-ai-chips-61f25b4a40fe
+- id: 45884169
   score: 7
-  time: '2025-11-10T03:52:41Z'
-  title: China bans foreign AI chips from state-funded data centres
-  url: https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/
+  time: '2025-11-11T04:38:24Z'
+  title: AI documentation you can talk to, for every repo
+  url: https://deepwiki.com/
 source_url: https://hacker-news.firebaseio.com/

@@ -1,84 +1,91 @@
-fetched_at: '2025-11-10T05:32:29Z'
-generated_at: '2025-11-10T05:32:29Z'
-hash: 6eee9a4745ad6bfd85d01734c323a4a2ccd6413219fdf330167b85280ca46fa7
+fetched_at: '2025-11-11T05:32:49Z'
+generated_at: '2025-11-11T05:32:49Z'
+hash: 216ea981536ffe83e5ec4d37fb7e1ec4e68707556b99f317cb27e016407cff61
 items:
-- created_at: '2025-11-04T15:09:05Z'
-  description: Bridge from Figma designs to LLM-friendly HTML/CSS code
-  full_name: kingkongshot/Figma-Bridge
-  html_url: https://github.com/kingkongshot/Figma-Bridge
-  stargazers_count: 20
+- created_at: '2025-11-06T23:17:37Z'
+  description: llm usage monitor in terminal
+  full_name: htin1/toktop
+  html_url: https://github.com/htin1/toktop
+  stargazers_count: 50
 - created_at: '2025-11-07T06:41:02Z'
   description: Holistic Evaluation of Multimodal LLMs on Spatial Intelligence
   full_name: EvolvingLMMs-Lab/EASI
   html_url: https://github.com/EvolvingLMMs-Lab/EASI
+  stargazers_count: 20
+- created_at: '2025-11-06T08:30:31Z'
+  description: Code for the SofT-GRPO algorithm on the LLM soft-thinking reasoning
+    pattern.
+  full_name: zz1358m/SofT-GRPO-master
+  html_url: https://github.com/zz1358m/SofT-GRPO-master
+  stargazers_count: 16
+- created_at: '2025-11-06T02:16:53Z'
+  description: '🧨  TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?'
+  full_name: Yanlewen/TradeTrap
+  html_url: https://github.com/Yanlewen/TradeTrap
   stargazers_count: 12
-- created_at: '2025-11-04T16:34:01Z'
-  description: LLM Model Database defining Provider & Model capabilities, costs and
-    limits
-  full_name: agentjido/llm_db
-  html_url: https://github.com/agentjido/llm_db
-  stargazers_count: 11
 - created_at: '2025-11-07T08:28:51Z'
   description: Jupiter is a fast, scalable, and resource-efficient collaborative edge-AI
     system for generative LLM inference.
   full_name: ysyisyourbrother/Jupiter
   html_url: https://github.com/ysyisyourbrother/Jupiter
-  stargazers_count: 10
+  stargazers_count: 11
+- created_at: '2025-11-07T05:27:59Z'
+  description: A simple, yet handy, LLM gateway.
+  full_name: zhixiangxue/chak-ai
+  html_url: https://github.com/zhixiangxue/chak-ai
+  stargazers_count: 11
+- created_at: '2025-11-06T09:08:48Z'
+  description: CLI tool – estimates LLM tokens/costs and runs provider-aware load
+    tests for OpenAI, Anthropic, OpenRouter, or custom endpoints.
+  full_name: nooscraft/tokuin
+  html_url: https://github.com/nooscraft/tokuin
+  stargazers_count: 9
 - created_at: '2025-11-08T02:55:00Z'
   description: 'HACK UMASS XIII - Winner!: Best use of Vultr Cloud. A framework to
     allow training of LLMs on sensitive data while maintaining privacy'
   full_name: P-Bhanu-Sohan/DataVault
   html_url: https://github.com/P-Bhanu-Sohan/DataVault
-  stargazers_count: 7
-- created_at: '2025-11-04T20:36:29Z'
-  description: llm-formatted aws misconfiguration library
-  full_name: bluearchio/aws-misconfig-db
-  html_url: https://github.com/bluearchio/aws-misconfig-db
-  stargazers_count: 7
+  stargazers_count: 8
+- created_at: '2025-11-10T07:45:49Z'
+  description: The MedEQBench is the first evaluation suite specifically designed
+    for medical contexts to assess Large Language Models' (LLMs) capabilities in emotional
+    perce…
+  full_name: AQ-MedAI/MedEQBench
+  html_url: https://github.com/AQ-MedAI/MedEQBench
+  stargazers_count: 6
 - created_at: '2025-11-07T18:45:47Z'
   description: Systematic evaluation of hallucination risks in Large Language Models
     (GPT-4, Claude 3, Gemini Pro) for clinical proteomics and mass spectrometry interpretatio…
   full_name: olaflaitinen/llm-proteomics-hallucination
   html_url: https://github.com/olaflaitinen/llm-proteomics-hallucination
   stargazers_count: 6
+- created_at: '2025-11-09T02:35:55Z'
+  description: Ultralytics LLM-related experiments
+  full_name: ultralytics/llm
+  html_url: https://github.com/ultralytics/llm
+  stargazers_count: 6
+- created_at: '2025-11-10T05:40:08Z'
+  description: 'This repository contains the official implementation of the paper:
+    "EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language
+    Models on Stru…'
+  full_name: YXNTU/EHRStruct
+  html_url: https://github.com/YXNTU/EHRStruct
+  stargazers_count: 5
 - created_at: '2025-11-06T12:29:42Z'
   description: A professional LaTeX resume template for LLM & Agent algorithm engineers
   full_name: adongwanai/LLM-Resume-Template
   html_url: https://github.com/adongwanai/LLM-Resume-Template
   stargazers_count: 5
-- created_at: '2025-11-04T11:09:43Z'
-  description: Pre-Training LLMs in Triton from the first principle. It replicates
-    GPT2 (1.6B) with 57.5% MFU on A100 SXM.
-  full_name: martin-kukla/tritex
-  html_url: https://github.com/martin-kukla/tritex
-  stargazers_count: 5
-- created_at: '2025-11-09T02:35:55Z'
-  description: Ultralytics LLM-related experiments
-  full_name: ultralytics/llm
-  html_url: https://github.com/ultralytics/llm
-  stargazers_count: 5
-- created_at: '2025-11-04T17:54:46Z'
-  description: Open-source AI search assistant - Open Knowledge should not be $20/month.
-    Multi-source search with configurable LLM APIs.
-  full_name: Prakashmaheshwaran/moplexity
-  html_url: https://github.com/Prakashmaheshwaran/moplexity
+- created_at: '2025-11-07T17:30:25Z'
+  description: A web browser for LLMs that automatically turns every page into rich
+    markdown
+  full_name: Dicklesworthstone/markdown_web_browser
+  html_url: https://github.com/Dicklesworthstone/markdown_web_browser
   stargazers_count: 4
 - created_at: '2025-11-06T20:58:56Z'
   description: LLM plugin for local apple-foundation-models available on macOS 26
   full_name: btucker/llm-apple
   html_url: https://github.com/btucker/llm-apple
-  stargazers_count: 4
-- created_at: '2025-11-04T19:42:32Z'
-  description: Implementation of "LLMs can hide text in other text of the same length"
-    by Antonio Norelli & Michael Bronstein.
-  full_name: sam1am/sekrit
-  html_url: https://github.com/sam1am/sekrit
-  stargazers_count: 4
-- created_at: '2025-11-04T21:58:19Z'
-  description: Unified multi-provider ChatModel manager for LangChain. Supports routing,
-    rate limits, fallbacks, and structured output across multiple LLMs.
-  full_name: sezer-muhammed/langchain-fused-models
-  html_url: https://github.com/sezer-muhammed/langchain-fused-models
   stargazers_count: 4
 - created_at: '2025-11-05T21:11:16Z'
   description: On-demand knowledge base search tool for Open WebUI - LLM decides when
@@ -86,22 +93,15 @@ items:
   full_name: tfriedel/openwebui-knowledge-search-tool
   html_url: https://github.com/tfriedel/openwebui-knowledge-search-tool
   stargazers_count: 4
-- created_at: '2025-11-07T17:30:25Z'
-  description: A web browser for LLMs that automatically turns every page into rich
-    markdown
-  full_name: Dicklesworthstone/markdown_web_browser
-  html_url: https://github.com/Dicklesworthstone/markdown_web_browser
-  stargazers_count: 3
+- created_at: '2025-11-09T21:09:31Z'
+  description: Financial Dataset Generation Library for Large Language Models
+  full_name: usmansafdarktk/Findodo
+  html_url: https://github.com/usmansafdarktk/Findodo
+  stargazers_count: 4
 - created_at: '2025-11-07T06:43:10Z'
   description: 🌟 The ultimate meta-collection of 200+ awesome LLM repositories
   full_name: adongwanai/Awesome-Awesome-LLMs
   html_url: https://github.com/adongwanai/Awesome-Awesome-LLMs
-  stargazers_count: 3
-- created_at: '2025-11-08T05:28:51Z'
-  description: Model Context Protocol (MCP) server for Lightning Polar - enables LLMs
-    to interact with Polar networks
-  full_name: jamaljsr/polar-mcp
-  html_url: https://github.com/jamaljsr/polar-mcp
   stargazers_count: 3
 - created_at: '2025-11-06T21:08:39Z'
   description: Um repositório colaborativo de prompts de desenvolvimento otimizados
@@ -110,11 +110,10 @@ items:
   full_name: jhonatanstarley/PromptForge
   html_url: https://github.com/jhonatanstarley/PromptForge
   stargazers_count: 3
-- created_at: '2025-11-06T10:35:44Z'
-  description: OffGrid LLM is a production-ready, self-contained LLM orchestrator
-    designed for environments with limited or no internet connectivity. Deploy powerful
-    language…
-  full_name: takuphilchan/offgrid-llm
-  html_url: https://github.com/takuphilchan/offgrid-llm
+- created_at: '2025-11-10T06:43:56Z'
+  description: '🔥[AAAI 2026, Official Code] Regression Over Classification: Assessing
+    Image Aesthetics via Multimodal Large Language Models. 克服大模型在美学评估过程中对分数不敏感的问题'
+  full_name: woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models
+  html_url: https://github.com/woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models
   stargazers_count: 3
 source_url: https://api.github.com/search/repositories

@@ -1,10 +1,10 @@
-fetched_at: '2025-11-10T05:32:29Z'
-generated_at: '2025-11-10T05:32:29Z'
-hash: 70bfbc417cfb3157fe13c441e8d44dfcd338eae155c04e4bed7bf788253ff0c9
+fetched_at: '2025-11-11T05:32:49Z'
+generated_at: '2025-11-11T05:32:49Z'
+hash: 00daa2a1b0e54bdaf16fa03b96700b2835f7228a4aae9d4dcd0a660999b11ffe
 items:
 - id: oai:arXiv.org:2511.04685v1
   link: https://arxiv.org/abs/2511.04685
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.04685v1 Announce Type: new  Abstract: We report about the algorithm,
     implementation and results submitted to the Integrated Healthcare Timetabling
     C…'
@@ -12,35 +12,35 @@ items:
     2024
 - id: oai:arXiv.org:2511.04855v1
   link: https://arxiv.org/abs/2511.04855
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.04855v1 Announce Type: new  Abstract: In high-stakes applications,
     predictive models must not only produce accurate predictions but also quantify
     an…'
   title: Epistemic Reject Option Prediction
 - id: oai:arXiv.org:2511.04880v1
   link: https://arxiv.org/abs/2511.04880
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.04880v1 Announce Type: new  Abstract: Retrieval-augmented generation
     (RAG) systems often rely on static retrieval, limiting adaptation to evolving
     i…'
   title: 'DMA: Online RAG Alignment with Human Feedback'
 - id: oai:arXiv.org:2511.04898v1
   link: https://arxiv.org/abs/2511.04898
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.04898v1 Announce Type: new  Abstract: Agents in the real world
     must make not only logical but also timely judgments. This requires continuous
     awaren…'
   title: Real-Time Reasoning Agents in Evolving Environments
 - id: oai:arXiv.org:2511.04956v1
   link: https://arxiv.org/abs/2511.04956
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.04956v1 Announce Type: new  Abstract: High-Risk Property (HRP)
     classification is critical at U.S. Department of Energy (DOE) sites, where inventorie…'
   title: 'ORCHID: Orchestrated Retrieval-Augmented Classification with Human-in-the-Loop
     Intelligent Decision-Making for High-Risk Property'
 - id: oai:arXiv.org:2511.05182v1
   link: https://arxiv.org/abs/2511.05182
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.05182v1 Announce Type: new  Abstract: In this paper, we propose
     a methodology designed to support decision-making during the execution phase of
     mili…'
@@ -48,28 +48,28 @@ items:
     operations
 - id: oai:arXiv.org:2511.05311v1
   link: https://arxiv.org/abs/2511.05311
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.05311v1 Announce Type: new  Abstract: Economic constraints,
     limited availability of datasets for reproducibility and shortages of specialized
     expert…'
   title: Cleaning Maintenance Logs with LLM Agents for Improved Predictive Maintenance
 - id: oai:arXiv.org:2511.05375v1
   link: https://arxiv.org/abs/2511.05375
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.05375v1 Announce Type: new  Abstract: AI has proven highly
     successful at urban planning analysis -- learning patterns from data to predict
     future co…'
   title: Reasoning Is All You Need for Urban Planning AI
 - id: oai:arXiv.org:2511.04682v1
   link: https://arxiv.org/abs/2511.04682
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.04682v1 Announce Type: cross  Abstract: In-Memory Computing
     (IMC) represents a paradigm shift in deep learning acceleration by mitigating
     data movem…'
   title: Efficient Deployment of CNN Models on Multiple In-Memory Computing Units
 - id: oai:arXiv.org:2511.04683v1
   link: https://arxiv.org/abs/2511.04683
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.04683v1 Announce Type: cross  Abstract: Academic citation integrity
     faces persistent challenges, with research indicating 20% of citations contain
     e…'
@@ -77,7 +77,7 @@ items:
     Reference Verification in Academic Research'
 - id: oai:arXiv.org:2511.04686v1
   link: https://arxiv.org/abs/2511.04686
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.04686v1 Announce Type: cross  Abstract: The Key-Value (KV)
     cache is integral to efficient autoregressive inference in large language models
     (LLMs),…'
@@ -85,7 +85,7 @@ items:
     and Positional Fidelity'
 - id: oai:arXiv.org:2511.04689v1
   link: https://arxiv.org/abs/2511.04689
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.04689v1 Announce Type: cross  Abstract: Large language model
     evaluation requires thousands of benchmark items, making evaluations expensive
     and slow…'
@@ -93,21 +93,21 @@ items:
     Benchmarks'
 - id: oai:arXiv.org:2511.04691v1
   link: https://arxiv.org/abs/2511.04691
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.04691v1 Announce Type: cross  Abstract: We explore whether
     neural networks can decode brain activity into speech by mapping EEG recordings
     to audio…'
   title: 'A Penny for Your Thoughts: Decoding Speech from Inexpensive Brain Signals'
 - id: oai:arXiv.org:2511.04694v1
   link: https://arxiv.org/abs/2511.04694
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.04694v1 Announce Type: cross  Abstract: As large language model
     (LLM) based systems take on high-stakes roles in real-world decision-making, they
     mu…'
   title: Reasoning Up the Instruction Ladder for Controllable Language Models
 - id: oai:arXiv.org:2511.04696v1
   link: https://arxiv.org/abs/2511.04696
-  published: '2025-11-10T05:00:00Z'
+  published: '2025-11-11T05:00:00Z'
   summary: 'arXiv:2511.04696v1 Announce Type: cross  Abstract: We introduce EncouRAGe,
     a comprehensive Python framework designed to streamline the development and evaluati…'
   title: 'EncouRAGe: Evaluating RAG Local, Fast, and Reliable'

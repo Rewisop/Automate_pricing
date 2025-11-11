@@ -32,17 +32,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -162,28 +164,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                |   Stars | Description                                                                                                                                                      |
-|-------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| kingkongshot/Figma-Bridge                 |      20 | Bridge from Figma designs to LLM-friendly HTML/CSS code                                                                                                          |
-| EvolvingLMMs-Lab/EASI                     |      12 | Holistic Evaluation of Multimodal LLMs on Spatial Intelligence                                                                                                   |
-| agentjido/llm_db                          |      11 | LLM Model Database defining Provider & Model capabilities, costs and limits                                                                                      |
-| ysyisyourbrother/Jupiter                  |      10 | Jupiter is a fast, scalable, and resource-efficient collaborative edge-AI system for generative LLM inference.                                                   |
-| P-Bhanu-Sohan/DataVault                   |       7 | HACK UMASS XIII - Winner!: Best use of Vultr Cloud. A framework to allow training of LLMs on sensitive data while maintaining privacy                            |
-| bluearchio/aws-misconfig-db               |       7 | llm-formatted aws misconfiguration library                                                                                                                       |
-| olaflaitinen/llm-proteomics-hallucination |       6 | Systematic evaluation of hallucination risks in Large Language Models (GPT-4, Claude 3, Gemini Pro) for clinical proteomics and mass spectrometry interpretatio… |
-| adongwanai/LLM-Resume-Template            |       5 | A professional LaTeX resume template for LLM & Agent algorithm engineers                                                                                         |
-| martin-kukla/tritex                       |       5 | Pre-Training LLMs in Triton from the first principle. It replicates GPT2 (1.6B) with 57.5% MFU on A100 SXM.                                                      |
-| ultralytics/llm                           |       5 | Ultralytics LLM-related experiments                                                                                                                              |
-| Prakashmaheshwaran/moplexity              |       4 | Open-source AI search assistant - Open Knowledge should not be $20/month. Multi-source search with configurable LLM APIs.                                        |
-| btucker/llm-apple                         |       4 | LLM plugin for local apple-foundation-models available on macOS 26                                                                                               |
-| sam1am/sekrit                             |       4 | Implementation of "LLMs can hide text in other text of the same length" by Antonio Norelli & Michael Bronstein.                                                  |
-| sezer-muhammed/langchain-fused-models     |       4 | Unified multi-provider ChatModel manager for LangChain. Supports routing, rate limits, fallbacks, and structured output across multiple LLMs.                    |
-| tfriedel/openwebui-knowledge-search-tool  |       4 | On-demand knowledge base search tool for Open WebUI - LLM decides when to access organizational knowledge                                                        |
-| Dicklesworthstone/markdown_web_browser    |       3 | A web browser for LLMs that automatically turns every page into rich markdown                                                                                    |
-| adongwanai/Awesome-Awesome-LLMs           |       3 | 🌟 The ultimate meta-collection of 200+ awesome LLM repositories                                                                                                  |
-| jamaljsr/polar-mcp                        |       3 | Model Context Protocol (MCP) server for Lightning Polar - enables LLMs to interact with Polar networks                                                           |
-| jhonatanstarley/PromptForge               |       3 | Um repositório colaborativo de prompts de desenvolvimento otimizados para diferentes Large Language Models (LLMs), com foco em boas práticas e resultados compr… |
-| takuphilchan/offgrid-llm                  |       3 | OffGrid LLM is a production-ready, self-contained LLM orchestrator designed for environments with limited or no internet connectivity. Deploy powerful language… |
+| Repository                                                                  |   Stars | Description                                                                                                                                                      |
+|-----------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| htin1/toktop                                                                |      50 | llm usage monitor in terminal                                                                                                                                    |
+| EvolvingLMMs-Lab/EASI                                                       |      20 | Holistic Evaluation of Multimodal LLMs on Spatial Intelligence                                                                                                   |
+| zz1358m/SofT-GRPO-master                                                    |      16 | Code for the SofT-GRPO algorithm on the LLM soft-thinking reasoning pattern.                                                                                     |
+| Yanlewen/TradeTrap                                                          |      12 | 🧨  TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?                                                                                          |
+| ysyisyourbrother/Jupiter                                                    |      11 | Jupiter is a fast, scalable, and resource-efficient collaborative edge-AI system for generative LLM inference.                                                   |
+| zhixiangxue/chak-ai                                                         |      11 | A simple, yet handy, LLM gateway.                                                                                                                                |
+| nooscraft/tokuin                                                            |       9 | CLI tool – estimates LLM tokens/costs and runs provider-aware load tests for OpenAI, Anthropic, OpenRouter, or custom endpoints.                                 |
+| P-Bhanu-Sohan/DataVault                                                     |       8 | HACK UMASS XIII - Winner!: Best use of Vultr Cloud. A framework to allow training of LLMs on sensitive data while maintaining privacy                            |
+| AQ-MedAI/MedEQBench                                                         |       6 | The MedEQBench is the first evaluation suite specifically designed for medical contexts to assess Large Language Models' (LLMs) capabilities in emotional perce… |
+| olaflaitinen/llm-proteomics-hallucination                                   |       6 | Systematic evaluation of hallucination risks in Large Language Models (GPT-4, Claude 3, Gemini Pro) for clinical proteomics and mass spectrometry interpretatio… |
+| ultralytics/llm                                                             |       6 | Ultralytics LLM-related experiments                                                                                                                              |
+| YXNTU/EHRStruct                                                             |       5 | This repository contains the official implementation of the paper: "EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language Models on Stru… |
+| adongwanai/LLM-Resume-Template                                              |       5 | A professional LaTeX resume template for LLM & Agent algorithm engineers                                                                                         |
+| Dicklesworthstone/markdown_web_browser                                      |       4 | A web browser for LLMs that automatically turns every page into rich markdown                                                                                    |
+| btucker/llm-apple                                                           |       4 | LLM plugin for local apple-foundation-models available on macOS 26                                                                                               |
+| tfriedel/openwebui-knowledge-search-tool                                    |       4 | On-demand knowledge base search tool for Open WebUI - LLM decides when to access organizational knowledge                                                        |
+| usmansafdarktk/Findodo                                                      |       4 | Financial Dataset Generation Library for Large Language Models                                                                                                   |
+| adongwanai/Awesome-Awesome-LLMs                                             |       3 | 🌟 The ultimate meta-collection of 200+ awesome LLM repositories                                                                                                  |
+| jhonatanstarley/PromptForge                                                 |       3 | Um repositório colaborativo de prompts de desenvolvimento otimizados para diferentes Large Language Models (LLMs), com foco em boas práticas e resultados compr… |
+| woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models |       3 | 🔥[AAAI 2026, Official Code] Regression Over Classification: Assessing Image Aesthetics via Multimodal Large Language Models. 克服大模型在美学评估过程中对分数不敏感的问题              |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -193,29 +195,29 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [AI isn't replacing jobs. AI spending is](https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon) — 608 points
-- [Open source has a growing problem with LLM generated issues](https://github.com/opencontainers/runc/issues/4990) — 105 points
-- [My Git history was a mess of 'update' and 'fix' – so I made AI clean it up](https://github.com/f/git-rewrite-commits) — 43 points
-- [AI-powered nimbyism could grind UK planning system to a halt, experts warn](https://www.theguardian.com/politics/2025/nov/09/ai-powered-nimbyism-could-grind-uk-planning-system-to-a-halt-experts-warn) — 15 points
-- [Microsoft forms superintelligence team under AI head Mustafa Suleyman](https://www.cnbc.com/2025/11/06/microsoft-forms-superintelligence-team-under-ai-head-mustafa-suleyman-.html) — 11 points
-- [Hard drives on backorder for two years as AI data centers trigger HDD shortage](https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds) — 9 points
-- [China bans foreign AI chips from state-funded data centres](https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/) — 7 points
+- [Spatial intelligence is AI’s next frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) — 156 points
+- [Using Generative AI in Content Production](https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production) — 112 points
+- [ClickHouse acquires LibreChat, open-source AI chat platform](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack) — 105 points
+- [Benchmarking leading AI agents against Google reCAPTCHA v2](https://research.roundtable.ai/captcha-benchmarking/) — 103 points
+- [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://news.ycombinator.com/item?id=45877517) — 80 points
+- [Fortran Outsmarted Our Billion-Dollar AI Chips](https://medium.com/@daxx5/fortran-outsmarted-our-billion-dollar-ai-chips-61f25b4a40fe) — 16 points
+- [AI documentation you can talk to, for every repo](https://deepwiki.com/) — 7 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE            |   CVSS | Summary                                        |
-|----------------|--------|------------------------------------------------|
-| MAL-2025-49731 |      0 | Malicious code in post-purchase-frontend (npm) |
-| MAL-2025-52341 |      0 | Malicious code in ocha-mendut60-ruro (npm)     |
-| MAL-2025-52342 |      0 | Malicious code in ocha-nasisayur55-ruro (npm)  |
-| MAL-2025-52343 |      0 | Malicious code in ocha-nasiuduk31-riris (npm)  |
-| MAL-2025-52344 |      0 | Malicious code in ocha-nasiuduk81-miaww (npm)  |
-| MAL-2025-52345 |      0 | Malicious code in ocha-oblok43-sluey (npm)     |
-| MAL-2025-52346 |      0 | Malicious code in ocha-oncom2-sluey (npm)      |
-| MAL-2025-52347 |      0 | Malicious code in ocha-pecel29-sluey (npm)     |
-| MAL-2025-52348 |      0 | Malicious code in ocha-pisang66-miaww (npm)    |
-| MAL-2025-52349 |      0 | Malicious code in ocha-pisang90-sluey (npm)    |
+| CVE   |   CVSS | Summary   |
+|-------|--------|-----------|
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
