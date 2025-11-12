@@ -33,17 +33,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -122,21 +124,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [A hybrid solution approach for the Integrated Healthcare Timetabling Competition 2024](https://arxiv.org/abs/2511.04685) — arXiv:2511.04685v1 Announce Type: new  Abstract: We report about the algorithm, implementation and results submitted to the Integrated Healthcare Timetabling C…
-- [Epistemic Reject Option Prediction](https://arxiv.org/abs/2511.04855) — arXiv:2511.04855v1 Announce Type: new  Abstract: In high-stakes applications, predictive models must not only produce accurate predictions but also quantify an…
-- [DMA: Online RAG Alignment with Human Feedback](https://arxiv.org/abs/2511.04880) — arXiv:2511.04880v1 Announce Type: new  Abstract: Retrieval-augmented generation (RAG) systems often rely on static retrieval, limiting adaptation to evolving i…
-- [Real-Time Reasoning Agents in Evolving Environments](https://arxiv.org/abs/2511.04898) — arXiv:2511.04898v1 Announce Type: new  Abstract: Agents in the real world must make not only logical but also timely judgments. This requires continuous awaren…
-- [ORCHID: Orchestrated Retrieval-Augmented Classification with Human-in-the-Loop Intelligent Decision-Making for High-Risk Property](https://arxiv.org/abs/2511.04956) — arXiv:2511.04956v1 Announce Type: new  Abstract: High-Risk Property (HRP) classification is critical at U.S. Department of Energy (DOE) sites, where inventorie…
-- [Autonomous generation of different courses of action in mechanized combat operations](https://arxiv.org/abs/2511.05182) — arXiv:2511.05182v1 Announce Type: new  Abstract: In this paper, we propose a methodology designed to support decision-making during the execution phase of mili…
-- [Cleaning Maintenance Logs with LLM Agents for Improved Predictive Maintenance](https://arxiv.org/abs/2511.05311) — arXiv:2511.05311v1 Announce Type: new  Abstract: Economic constraints, limited availability of datasets for reproducibility and shortages of specialized expert…
-- [Reasoning Is All You Need for Urban Planning AI](https://arxiv.org/abs/2511.05375) — arXiv:2511.05375v1 Announce Type: new  Abstract: AI has proven highly successful at urban planning analysis -- learning patterns from data to predict future co…
-- [Efficient Deployment of CNN Models on Multiple In-Memory Computing Units](https://arxiv.org/abs/2511.04682) — arXiv:2511.04682v1 Announce Type: cross  Abstract: In-Memory Computing (IMC) represents a paradigm shift in deep learning acceleration by mitigating data movem…
-- [AI-Powered Citation Auditing: A Zero-Assumption Protocol for Systematic Reference Verification in Academic Research](https://arxiv.org/abs/2511.04683) — arXiv:2511.04683v1 Announce Type: cross  Abstract: Academic citation integrity faces persistent challenges, with research indicating 20% of citations contain e…
-- [Stateful KV Cache Management for LLMs: Balancing Space, Time, Accuracy, and Positional Fidelity](https://arxiv.org/abs/2511.04686) — arXiv:2511.04686v1 Announce Type: cross  Abstract: The Key-Value (KV) cache is integral to efficient autoregressive inference in large language models (LLMs),…
-- [Adaptive Testing for LLM Evaluation: A Psychometric Alternative to Static Benchmarks](https://arxiv.org/abs/2511.04689) — arXiv:2511.04689v1 Announce Type: cross  Abstract: Large language model evaluation requires thousands of benchmark items, making evaluations expensive and slow…
-- [A Penny for Your Thoughts: Decoding Speech from Inexpensive Brain Signals](https://arxiv.org/abs/2511.04691) — arXiv:2511.04691v1 Announce Type: cross  Abstract: We explore whether neural networks can decode brain activity into speech by mapping EEG recordings to audio…
-- [Reasoning Up the Instruction Ladder for Controllable Language Models](https://arxiv.org/abs/2511.04694) — arXiv:2511.04694v1 Announce Type: cross  Abstract: As large language model (LLM) based systems take on high-stakes roles in real-world decision-making, they mu…
-- [EncouRAGe: Evaluating RAG Local, Fast, and Reliable](https://arxiv.org/abs/2511.04696) — arXiv:2511.04696v1 Announce Type: cross  Abstract: We introduce EncouRAGe, a comprehensive Python framework designed to streamline the development and evaluati…
+- [Analysing Environmental Efficiency in AI for X-Ray Diagnosis](https://arxiv.org/abs/2511.07436) — arXiv:2511.07436v1 Announce Type: new  Abstract: The integration of AI tools into medical applications has aimed to improve the efficiency of diagnosis. The em…
+- [Agentic Educational Content Generation for African Languages on Edge Devices](https://arxiv.org/abs/2511.07437) — arXiv:2511.07437v1 Announce Type: new  Abstract: Addressing educational inequity in Sub-Saharan Africa, this research presents an autonomous agent-orchestrated…
+- [Beyond Correctness: Confidence-Aware Reward Modeling for Enhancing Large Language Model Reasoning](https://arxiv.org/abs/2511.07483) — arXiv:2511.07483v1 Announce Type: new  Abstract: Recent advancements in large language models (LLMs) have shifted the post-training paradigm from traditional i…
+- [Procedural Knowledge Improves Agentic LLM Workflows](https://arxiv.org/abs/2511.07568) — arXiv:2511.07568v1 Announce Type: new  Abstract: Large language models (LLMs) often struggle when performing agentic tasks without substantial tool support, pr…
+- [Think Before You Retrieve: Learning Test-Time Adaptive Search with Small Language Models](https://arxiv.org/abs/2511.07581) — arXiv:2511.07581v1 Announce Type: new  Abstract: Effective information retrieval requires reasoning over partial evidence and refining strategies as informatio…
+- [Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces](https://arxiv.org/abs/2511.07587) — arXiv:2511.07587v1 Announce Type: new  Abstract: Large Language Models (LLMs) face fundamental challenges in long-context reasoning: many documents exceed thei…
+- [AI-Driven Contribution Evaluation and Conflict Resolution: A Framework & Design for Group Workload Investigation](https://arxiv.org/abs/2511.07667) — arXiv:2511.07667v1 Announce Type: new  Abstract: The equitable assessment of individual contribution in teams remains a persistent challenge, where conflict an…
+- [Making LLMs Reliable When It Matters Most: A Five-Layer Architecture for High-Stakes Decisions](https://arxiv.org/abs/2511.07669) — arXiv:2511.07669v1 Announce Type: new  Abstract: Current large language models (LLMs) excel in verifiable domains where outputs can be checked before action bu…
+- [AIA Forecaster: Technical Report](https://arxiv.org/abs/2511.07678) — arXiv:2511.07678v1 Announce Type: new  Abstract: This technical report describes the AIA Forecaster, a Large Language Model (LLM)-based system for judgmental f…
+- [ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents](https://arxiv.org/abs/2511.07685) — arXiv:2511.07685v1 Announce Type: new  Abstract: Deep Research (DR) is an emerging agent application that leverages large language models (LLMs) to address ope…
+- [Towards AI-Assisted Generation of Military Training Scenarios](https://arxiv.org/abs/2511.07690) — arXiv:2511.07690v1 Announce Type: new  Abstract: Achieving expert-level performance in simulation-based training relies on the creation of complex, adaptable s…
+- [Operational machine learning for remote spectroscopic detection of CH$_{4}$ point sources](https://arxiv.org/abs/2511.07719) — arXiv:2511.07719v1 Announce Type: new  Abstract: Mitigating anthropogenic methane sources is one the most cost-effective levers to slow down global warming. Wh…
+- [Alignment-Aware Quantization for LLM Safety](https://arxiv.org/abs/2511.07842) — arXiv:2511.07842v1 Announce Type: new  Abstract: Safety and efficiency are both important factors when deploying large language models(LLMs). LLMs are trained…
+- [GAMA: A Neural Neighborhood Search Method with Graph-aware Multi-modal Attention for Vehicle Routing Problem](https://arxiv.org/abs/2511.07850) — arXiv:2511.07850v1 Announce Type: new  Abstract: Recent advances in neural neighborhood search methods have shown potential in tackling Vehicle Routing Problem…
+- [WaterMod: Modular Token-Rank Partitioning for Probability-Balanced LLM Watermarking](https://arxiv.org/abs/2511.07863) — arXiv:2511.07863v1 Announce Type: new  Abstract: Large language models now draft news, legal analyses, and software code with human-level fluency. At the same…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -166,26 +168,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                                                  |   Stars | Description                                                                                                                                                      |
 |-----------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| htin1/toktop                                                                |      50 | llm usage monitor in terminal                                                                                                                                    |
-| EvolvingLMMs-Lab/EASI                                                       |      20 | Holistic Evaluation of Multimodal LLMs on Spatial Intelligence                                                                                                   |
-| zz1358m/SofT-GRPO-master                                                    |      16 | Code for the SofT-GRPO algorithm on the LLM soft-thinking reasoning pattern.                                                                                     |
-| Yanlewen/TradeTrap                                                          |      12 | 🧨  TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?                                                                                          |
-| ysyisyourbrother/Jupiter                                                    |      11 | Jupiter is a fast, scalable, and resource-efficient collaborative edge-AI system for generative LLM inference.                                                   |
-| zhixiangxue/chak-ai                                                         |      11 | A simple, yet handy, LLM gateway.                                                                                                                                |
-| nooscraft/tokuin                                                            |       9 | CLI tool – estimates LLM tokens/costs and runs provider-aware load tests for OpenAI, Anthropic, OpenRouter, or custom endpoints.                                 |
+| htin1/toktop                                                                |      63 | llm usage monitor in terminal                                                                                                                                    |
+| glidea/tinygpt                                                              |      58 | Learning LLM by doing                                                                                                                                            |
+| ScrapeGraphAI/toonify                                                       |      44 | Toonify: Compact data format reducing LLM token usage by 30-60%                                                                                                  |
+| EvolvingLMMs-Lab/EASI                                                       |      27 | Holistic Evaluation of Multimodal LLMs on Spatial Intelligence                                                                                                   |
+| Yanlewen/TradeTrap                                                          |      24 | 🧨  TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?                                                                                          |
+| zz1358m/SofT-GRPO-master                                                    |      23 | Code for the SofT-GRPO algorithm on the LLM soft-thinking reasoning pattern.                                                                                     |
+| nooscraft/tokuin                                                            |      12 | CLI tool – estimates LLM tokens/costs and runs provider-aware load tests for OpenAI, Anthropic, OpenRouter, or custom endpoints.                                 |
+| ysyisyourbrother/Jupiter                                                    |      12 | Jupiter is a fast, scalable, and resource-efficient collaborative edge-AI system for generative LLM inference.                                                   |
+| zhixiangxue/chak-ai                                                         |      12 | A simple, yet handy, LLM gateway.                                                                                                                                |
+| AQ-MedAI/MedEQBench                                                         |       8 | The MedEQBench is the first evaluation suite specifically designed for medical contexts to assess Large Language Models' (LLMs) capabilities in emotional perce… |
 | P-Bhanu-Sohan/DataVault                                                     |       8 | HACK UMASS XIII - Winner!: Best use of Vultr Cloud. A framework to allow training of LLMs on sensitive data while maintaining privacy                            |
-| AQ-MedAI/MedEQBench                                                         |       6 | The MedEQBench is the first evaluation suite specifically designed for medical contexts to assess Large Language Models' (LLMs) capabilities in emotional perce… |
+| adongwanai/LLM-Resume-Template                                              |       7 | A professional LaTeX resume template for LLM & Agent algorithm engineers                                                                                         |
 | olaflaitinen/llm-proteomics-hallucination                                   |       6 | Systematic evaluation of hallucination risks in Large Language Models (GPT-4, Claude 3, Gemini Pro) for clinical proteomics and mass spectrometry interpretatio… |
 | ultralytics/llm                                                             |       6 | Ultralytics LLM-related experiments                                                                                                                              |
+| woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models |       6 | 🔥[AAAI 2026, Official Code] Regression Over Classification: Assessing Image Aesthetics via Multimodal Large Language Models. 克服大模型在美学评估过程中对分数不敏感的问题              |
 | YXNTU/EHRStruct                                                             |       5 | This repository contains the official implementation of the paper: "EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language Models on Stru… |
-| adongwanai/LLM-Resume-Template                                              |       5 | A professional LaTeX resume template for LLM & Agent algorithm engineers                                                                                         |
-| Dicklesworthstone/markdown_web_browser                                      |       4 | A web browser for LLMs that automatically turns every page into rich markdown                                                                                    |
-| btucker/llm-apple                                                           |       4 | LLM plugin for local apple-foundation-models available on macOS 26                                                                                               |
-| tfriedel/openwebui-knowledge-search-tool                                    |       4 | On-demand knowledge base search tool for Open WebUI - LLM decides when to access organizational knowledge                                                        |
+| btucker/llm-apple                                                           |       5 | LLM plugin for local apple-foundation-models available on macOS 26                                                                                               |
+| limyewjin/llm-bash                                                          |       5 | A Bash framework following UNIX philosophy for building LLM-powered agent workflows with prompt chaining, orchestration, and intelligent routing patterns.       |
+| roguetrainer/functional-programming-in-llm-interactions                     |       5 | Functional programming and category theory in LLM interactions                                                                                                   |
 | usmansafdarktk/Findodo                                                      |       4 | Financial Dataset Generation Library for Large Language Models                                                                                                   |
-| adongwanai/Awesome-Awesome-LLMs                                             |       3 | 🌟 The ultimate meta-collection of 200+ awesome LLM repositories                                                                                                  |
-| jhonatanstarley/PromptForge                                                 |       3 | Um repositório colaborativo de prompts de desenvolvimento otimizados para diferentes Large Language Models (LLMs), com foco em boas práticas e resultados compr… |
-| woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models |       3 | 🔥[AAAI 2026, Official Code] Regression Over Classification: Assessing Image Aesthetics via Multimodal Large Language Models. 克服大模型在美学评估过程中对分数不敏感的问题              |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -195,29 +197,29 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Spatial intelligence is AI’s next frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) — 156 points
-- [Using Generative AI in Content Production](https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production) — 112 points
-- [ClickHouse acquires LibreChat, open-source AI chat platform](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack) — 105 points
-- [Benchmarking leading AI agents against Google reCAPTCHA v2](https://research.roundtable.ai/captcha-benchmarking/) — 103 points
-- [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://news.ycombinator.com/item?id=45877517) — 80 points
-- [Fortran Outsmarted Our Billion-Dollar AI Chips](https://medium.com/@daxx5/fortran-outsmarted-our-billion-dollar-ai-chips-61f25b4a40fe) — 16 points
-- [AI documentation you can talk to, for every repo](https://deepwiki.com/) — 7 points
+- [OpenAI may not use lyrics without license, German court rules](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/) — 209 points
+- [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/) — 130 points
+- [Adk-go: code-first Go toolkit for building, evaluating, and deploying AI agents](https://github.com/google/adk-go) — 60 points
+- [Meta chief AI scientist Yann LeCun plans to exit and launch own startup](https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de) — 57 points
+- [Yann LeCun reportedly leaving Meta to launch new AI startup](https://the-decoder.com/yann-lecun-reportedly-leaving-meta-to-launch-new-ai-startup/) — 55 points
+- [Show HN: Data Formulator – interactive AI agents for data analysis (Microsoft)](https://data-formulator.ai/) — 31 points
+- [How to Train an LLM: Part 1](https://omkaark.com/posts/llm-1b-1.html) — 10 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE   |   CVSS | Summary   |
-|-------|--------|-----------|
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
+| CVE   |   CVSS | Summary                                               |
+|-------|--------|-------------------------------------------------------|
+|       |      0 | Malicious code in live-magenta-porcupine (npm)        |
+|       |      0 | Malicious code in busy-chocolate-parakeet (npm)       |
+|       |      0 | Malicious code in zonal-sapphire-antlion (npm)        |
+|       |      0 | Malicious code in preliminary-indigo-junglefowl (npm) |
+|       |      0 | Malicious code in naughty-peach-tortoise (npm)        |
+|       |      0 | Malicious code in eager-aquamarine-aardwolf (npm)     |
+|       |      0 | Malicious code in classical-blush-goose (npm)         |
+|       |      0 | Malicious code in careful_wren_blush-12 (npm)         |
+|       |      0 | Malicious code in breezy-crimson-marten (npm)         |
+|       |      0 | Malicious code in yielding-tan-aardwolf (npm)         |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

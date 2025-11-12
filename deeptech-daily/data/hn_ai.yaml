@@ -1,40 +1,41 @@
-fetched_at: '2025-11-11T05:32:49Z'
-generated_at: '2025-11-11T05:32:49Z'
-hash: e66b6fec704660e656d8ed15ade8b7ed3221063a01077425d1895718485e6b14
+fetched_at: '2025-11-12T05:33:10Z'
+generated_at: '2025-11-12T05:33:10Z'
+hash: 383260e1b35d38c6b086733d86e81059aaadb42a3d3aa05a448fbc3223341e0e
 items:
-- id: 45880939
-  score: 156
-  time: '2025-11-10T21:07:02Z'
-  title: Spatial intelligence is AI’s next frontier
-  url: https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence
-- id: 45879793
-  score: 112
-  time: '2025-11-10T19:28:07Z'
-  title: Using Generative AI in Content Production
-  url: https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production
-- id: 45877770
-  score: 105
-  time: '2025-11-10T16:44:40Z'
-  title: ClickHouse acquires LibreChat, open-source AI chat platform
-  url: https://clickhouse.com/blog/librechat-open-source-agentic-data-stack
-- id: 45877698
-  score: 103
-  time: '2025-11-10T16:38:31Z'
-  title: Benchmarking leading AI agents against Google reCAPTCHA v2
-  url: https://research.roundtable.ai/captcha-benchmarking/
-- id: 45877517
-  score: 80
-  time: '2025-11-10T16:23:24Z'
-  title: 'Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes'
-  url: https://news.ycombinator.com/item?id=45877517
-- id: 45879016
-  score: 16
-  time: '2025-11-10T18:23:35Z'
-  title: Fortran Outsmarted Our Billion-Dollar AI Chips
-  url: https://medium.com/@daxx5/fortran-outsmarted-our-billion-dollar-ai-chips-61f25b4a40fe
-- id: 45884169
-  score: 7
-  time: '2025-11-11T04:38:24Z'
-  title: AI documentation you can talk to, for every repo
-  url: https://deepwiki.com/
+- id: 45886131
+  score: 209
+  time: '2025-11-11T11:20:55Z'
+  title: OpenAI may not use lyrics without license, German court rules
+  url: https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/
+- id: 45890186
+  score: 130
+  time: '2025-11-11T17:26:54Z'
+  title: We ran over 600 image generations to compare AI image models
+  url: https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/
+- id: 45891968
+  score: 60
+  time: '2025-11-11T19:52:55Z'
+  title: 'Adk-go: code-first Go toolkit for building, evaluating, and deploying AI
+    agents'
+  url: https://github.com/google/adk-go
+- id: 45886217
+  score: 57
+  time: '2025-11-11T11:38:32Z'
+  title: Meta chief AI scientist Yann LeCun plans to exit and launch own startup
+  url: https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de
+- id: 45888878
+  score: 55
+  time: '2025-11-11T16:03:22Z'
+  title: Yann LeCun reportedly leaving Meta to launch new AI startup
+  url: https://the-decoder.com/yann-lecun-reportedly-leaving-meta-to-launch-new-ai-startup/
+- id: 45890394
+  score: 31
+  time: '2025-11-11T17:44:21Z'
+  title: 'Show HN: Data Formulator – interactive AI agents for data analysis (Microsoft)'
+  url: https://data-formulator.ai/
+- id: 45891801
+  score: 10
+  time: '2025-11-11T19:38:59Z'
+  title: 'How to Train an LLM: Part 1'
+  url: https://omkaark.com/posts/llm-1b-1.html
 source_url: https://hacker-news.firebaseio.com/

@@ -1,116 +1,118 @@
-fetched_at: '2025-11-11T05:32:49Z'
-generated_at: '2025-11-11T05:32:49Z'
-hash: 00daa2a1b0e54bdaf16fa03b96700b2835f7228a4aae9d4dcd0a660999b11ffe
+fetched_at: '2025-11-12T05:33:10Z'
+generated_at: '2025-11-12T05:33:10Z'
+hash: 141bc99b96f5f4fa36accb3198dfebda3ad08ab7ae6559e1fb0c6ed7f7417705
 items:
-- id: oai:arXiv.org:2511.04685v1
-  link: https://arxiv.org/abs/2511.04685
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.04685v1 Announce Type: new  Abstract: We report about the algorithm,
-    implementation and results submitted to the Integrated Healthcare Timetabling
-    C…'
-  title: A hybrid solution approach for the Integrated Healthcare Timetabling Competition
-    2024
-- id: oai:arXiv.org:2511.04855v1
-  link: https://arxiv.org/abs/2511.04855
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.04855v1 Announce Type: new  Abstract: In high-stakes applications,
-    predictive models must not only produce accurate predictions but also quantify
-    an…'
-  title: Epistemic Reject Option Prediction
-- id: oai:arXiv.org:2511.04880v1
-  link: https://arxiv.org/abs/2511.04880
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.04880v1 Announce Type: new  Abstract: Retrieval-augmented generation
-    (RAG) systems often rely on static retrieval, limiting adaptation to evolving
+- id: oai:arXiv.org:2511.07436v1
+  link: https://arxiv.org/abs/2511.07436
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07436v1 Announce Type: new  Abstract: The integration of AI
+    tools into medical applications has aimed to improve the efficiency of diagnosis.
+    The em…'
+  title: Analysing Environmental Efficiency in AI for X-Ray Diagnosis
+- id: oai:arXiv.org:2511.07437v1
+  link: https://arxiv.org/abs/2511.07437
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07437v1 Announce Type: new  Abstract: Addressing educational
+    inequity in Sub-Saharan Africa, this research presents an autonomous agent-orchestrated…'
+  title: Agentic Educational Content Generation for African Languages on Edge Devices
+- id: oai:arXiv.org:2511.07483v1
+  link: https://arxiv.org/abs/2511.07483
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07483v1 Announce Type: new  Abstract: Recent advancements in
+    large language models (LLMs) have shifted the post-training paradigm from traditional
     i…'
-  title: 'DMA: Online RAG Alignment with Human Feedback'
-- id: oai:arXiv.org:2511.04898v1
-  link: https://arxiv.org/abs/2511.04898
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.04898v1 Announce Type: new  Abstract: Agents in the real world
-    must make not only logical but also timely judgments. This requires continuous
-    awaren…'
-  title: Real-Time Reasoning Agents in Evolving Environments
-- id: oai:arXiv.org:2511.04956v1
-  link: https://arxiv.org/abs/2511.04956
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.04956v1 Announce Type: new  Abstract: High-Risk Property (HRP)
-    classification is critical at U.S. Department of Energy (DOE) sites, where inventorie…'
-  title: 'ORCHID: Orchestrated Retrieval-Augmented Classification with Human-in-the-Loop
-    Intelligent Decision-Making for High-Risk Property'
-- id: oai:arXiv.org:2511.05182v1
-  link: https://arxiv.org/abs/2511.05182
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.05182v1 Announce Type: new  Abstract: In this paper, we propose
-    a methodology designed to support decision-making during the execution phase of
-    mili…'
-  title: Autonomous generation of different courses of action in mechanized combat
-    operations
-- id: oai:arXiv.org:2511.05311v1
-  link: https://arxiv.org/abs/2511.05311
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.05311v1 Announce Type: new  Abstract: Economic constraints,
-    limited availability of datasets for reproducibility and shortages of specialized
-    expert…'
-  title: Cleaning Maintenance Logs with LLM Agents for Improved Predictive Maintenance
-- id: oai:arXiv.org:2511.05375v1
-  link: https://arxiv.org/abs/2511.05375
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.05375v1 Announce Type: new  Abstract: AI has proven highly
-    successful at urban planning analysis -- learning patterns from data to predict
-    future co…'
-  title: Reasoning Is All You Need for Urban Planning AI
-- id: oai:arXiv.org:2511.04682v1
-  link: https://arxiv.org/abs/2511.04682
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.04682v1 Announce Type: cross  Abstract: In-Memory Computing
-    (IMC) represents a paradigm shift in deep learning acceleration by mitigating
-    data movem…'
-  title: Efficient Deployment of CNN Models on Multiple In-Memory Computing Units
-- id: oai:arXiv.org:2511.04683v1
-  link: https://arxiv.org/abs/2511.04683
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.04683v1 Announce Type: cross  Abstract: Academic citation integrity
-    faces persistent challenges, with research indicating 20% of citations contain
-    e…'
-  title: 'AI-Powered Citation Auditing: A Zero-Assumption Protocol for Systematic
-    Reference Verification in Academic Research'
-- id: oai:arXiv.org:2511.04686v1
-  link: https://arxiv.org/abs/2511.04686
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.04686v1 Announce Type: cross  Abstract: The Key-Value (KV)
-    cache is integral to efficient autoregressive inference in large language models
-    (LLMs),…'
-  title: 'Stateful KV Cache Management for LLMs: Balancing Space, Time, Accuracy,
-    and Positional Fidelity'
-- id: oai:arXiv.org:2511.04689v1
-  link: https://arxiv.org/abs/2511.04689
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.04689v1 Announce Type: cross  Abstract: Large language model
-    evaluation requires thousands of benchmark items, making evaluations expensive
-    and slow…'
-  title: 'Adaptive Testing for LLM Evaluation: A Psychometric Alternative to Static
-    Benchmarks'
-- id: oai:arXiv.org:2511.04691v1
-  link: https://arxiv.org/abs/2511.04691
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.04691v1 Announce Type: cross  Abstract: We explore whether
-    neural networks can decode brain activity into speech by mapping EEG recordings
-    to audio…'
-  title: 'A Penny for Your Thoughts: Decoding Speech from Inexpensive Brain Signals'
-- id: oai:arXiv.org:2511.04694v1
-  link: https://arxiv.org/abs/2511.04694
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.04694v1 Announce Type: cross  Abstract: As large language model
-    (LLM) based systems take on high-stakes roles in real-world decision-making, they
-    mu…'
-  title: Reasoning Up the Instruction Ladder for Controllable Language Models
-- id: oai:arXiv.org:2511.04696v1
-  link: https://arxiv.org/abs/2511.04696
-  published: '2025-11-11T05:00:00Z'
-  summary: 'arXiv:2511.04696v1 Announce Type: cross  Abstract: We introduce EncouRAGe,
-    a comprehensive Python framework designed to streamline the development and evaluati…'
-  title: 'EncouRAGe: Evaluating RAG Local, Fast, and Reliable'
+  title: 'Beyond Correctness: Confidence-Aware Reward Modeling for Enhancing Large
+    Language Model Reasoning'
+- id: oai:arXiv.org:2511.07568v1
+  link: https://arxiv.org/abs/2511.07568
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07568v1 Announce Type: new  Abstract: Large language models
+    (LLMs) often struggle when performing agentic tasks without substantial tool support,
+    pr…'
+  title: Procedural Knowledge Improves Agentic LLM Workflows
+- id: oai:arXiv.org:2511.07581v1
+  link: https://arxiv.org/abs/2511.07581
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07581v1 Announce Type: new  Abstract: Effective information
+    retrieval requires reasoning over partial evidence and refining strategies as
+    informatio…'
+  title: 'Think Before You Retrieve: Learning Test-Time Adaptive Search with Small
+    Language Models'
+- id: oai:arXiv.org:2511.07587v1
+  link: https://arxiv.org/abs/2511.07587
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07587v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) face fundamental challenges in long-context reasoning: many documents exceed
+    thei…'
+  title: 'Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic
+    Workspaces'
+- id: oai:arXiv.org:2511.07667v1
+  link: https://arxiv.org/abs/2511.07667
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07667v1 Announce Type: new  Abstract: The equitable assessment
+    of individual contribution in teams remains a persistent challenge, where conflict
+    an…'
+  title: 'AI-Driven Contribution Evaluation and Conflict Resolution: A Framework &
+    Design for Group Workload Investigation'
+- id: oai:arXiv.org:2511.07669v1
+  link: https://arxiv.org/abs/2511.07669
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07669v1 Announce Type: new  Abstract: Current large language
+    models (LLMs) excel in verifiable domains where outputs can be checked before
+    action bu…'
+  title: 'Making LLMs Reliable When It Matters Most: A Five-Layer Architecture for
+    High-Stakes Decisions'
+- id: oai:arXiv.org:2511.07678v1
+  link: https://arxiv.org/abs/2511.07678
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07678v1 Announce Type: new  Abstract: This technical report
+    describes the AIA Forecaster, a Large Language Model (LLM)-based system for judgmental
+    f…'
+  title: 'AIA Forecaster: Technical Report'
+- id: oai:arXiv.org:2511.07685v1
+  link: https://arxiv.org/abs/2511.07685
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07685v1 Announce Type: new  Abstract: Deep Research (DR) is
+    an emerging agent application that leverages large language models (LLMs) to address
+    ope…'
+  title: 'ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep
+    Research Agents'
+- id: oai:arXiv.org:2511.07690v1
+  link: https://arxiv.org/abs/2511.07690
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07690v1 Announce Type: new  Abstract: Achieving expert-level
+    performance in simulation-based training relies on the creation of complex, adaptable
+    s…'
+  title: Towards AI-Assisted Generation of Military Training Scenarios
+- id: oai:arXiv.org:2511.07719v1
+  link: https://arxiv.org/abs/2511.07719
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07719v1 Announce Type: new  Abstract: Mitigating anthropogenic
+    methane sources is one the most cost-effective levers to slow down global warming.
+    Wh…'
+  title: Operational machine learning for remote spectroscopic detection of CH$_{4}$
+    point sources
+- id: oai:arXiv.org:2511.07842v1
+  link: https://arxiv.org/abs/2511.07842
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07842v1 Announce Type: new  Abstract: Safety and efficiency
+    are both important factors when deploying large language models(LLMs). LLMs are
+    trained…'
+  title: Alignment-Aware Quantization for LLM Safety
+- id: oai:arXiv.org:2511.07850v1
+  link: https://arxiv.org/abs/2511.07850
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07850v1 Announce Type: new  Abstract: Recent advances in neural
+    neighborhood search methods have shown potential in tackling Vehicle Routing Problem…'
+  title: 'GAMA: A Neural Neighborhood Search Method with Graph-aware Multi-modal Attention
+    for Vehicle Routing Problem'
+- id: oai:arXiv.org:2511.07863v1
+  link: https://arxiv.org/abs/2511.07863
+  published: '2025-11-12T05:00:00Z'
+  summary: 'arXiv:2511.07863v1 Announce Type: new  Abstract: Large language models
+    now draft news, legal analyses, and software code with human-level fluency. At
+    the same…'
+  title: 'WaterMod: Modular Token-Rank Partitioning for Probability-Balanced LLM Watermarking'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL
