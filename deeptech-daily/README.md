@@ -34,17 +34,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -168,26 +170,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                                                  |   Stars | Description                                                                                                                                                      |
 |-----------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| htin1/toktop                                                                |      63 | llm usage monitor in terminal                                                                                                                                    |
-| glidea/tinygpt                                                              |      58 | Learning LLM by doing                                                                                                                                            |
-| ScrapeGraphAI/toonify                                                       |      44 | Toonify: Compact data format reducing LLM token usage by 30-60%                                                                                                  |
-| EvolvingLMMs-Lab/EASI                                                       |      27 | Holistic Evaluation of Multimodal LLMs on Spatial Intelligence                                                                                                   |
-| Yanlewen/TradeTrap                                                          |      24 | 🧨  TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?                                                                                          |
-| zz1358m/SofT-GRPO-master                                                    |      23 | Code for the SofT-GRPO algorithm on the LLM soft-thinking reasoning pattern.                                                                                     |
-| nooscraft/tokuin                                                            |      12 | CLI tool – estimates LLM tokens/costs and runs provider-aware load tests for OpenAI, Anthropic, OpenRouter, or custom endpoints.                                 |
+| ScrapeGraphAI/toonify                                                       |     100 | Toonify: Compact data format reducing LLM token usage by 30-60%                                                                                                  |
+| glidea/tinygpt                                                              |      62 | Learning LLM by doing                                                                                                                                            |
+| EvolvingLMMs-Lab/EASI                                                       |      32 | Holistic Evaluation of Multimodal LLMs on Spatial Intelligence                                                                                                   |
+| Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR                                     |      17 | The open-source code for the NeurIPS 2025 paper, "Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning." |
+| zhixiangxue/chak-ai                                                         |      14 | A simple, yet handy, LLM gateway.                                                                                                                                |
+| AIGC-Hackers/mcpx                                                           |      13 | Token-efficient MCP client: TypeScript schemas instead of JSON, LLM-friendly syntax, batch calls, TOON output. Built for Claude/GPT automations.                 |
+| woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models |      12 | 🔥[AAAI 2026, Official Code] Regression Over Classification: Assessing Image Aesthetics via Multimodal Large Language Models. 克服大模型在美学评估过程中对分数不敏感的问题              |
 | ysyisyourbrother/Jupiter                                                    |      12 | Jupiter is a fast, scalable, and resource-efficient collaborative edge-AI system for generative LLM inference.                                                   |
-| zhixiangxue/chak-ai                                                         |      12 | A simple, yet handy, LLM gateway.                                                                                                                                |
+| smthemex/ComfyUI_Step_Audio_EditX_SM                                        |      10 | Step_Audio_EditX：the first open-source LLM-based audio model excelling at expressive and iterative audio editing—encompassing emotion, speaking style, and para… |
 | AQ-MedAI/MedEQBench                                                         |       8 | The MedEQBench is the first evaluation suite specifically designed for medical contexts to assess Large Language Models' (LLMs) capabilities in emotional perce… |
 | P-Bhanu-Sohan/DataVault                                                     |       8 | HACK UMASS XIII - Winner!: Best use of Vultr Cloud. A framework to allow training of LLMs on sensitive data while maintaining privacy                            |
-| adongwanai/LLM-Resume-Template                                              |       7 | A professional LaTeX resume template for LLM & Agent algorithm engineers                                                                                         |
-| olaflaitinen/llm-proteomics-hallucination                                   |       6 | Systematic evaluation of hallucination risks in Large Language Models (GPT-4, Claude 3, Gemini Pro) for clinical proteomics and mass spectrometry interpretatio… |
+| limyewjin/llm-bash                                                          |       7 | A Bash framework following UNIX philosophy for building LLM-powered agent workflows with prompt chaining, orchestration, and intelligent routing patterns.       |
+| olaflaitinen/llm-proteomics-hallucination                                   |       7 | Systematic evaluation of hallucination risks in Large Language Models (GPT-4, Claude 3, Gemini Pro) for clinical proteomics and mass spectrometry interpretatio… |
+| FeiLiu36/EoH-S                                                              |       6 | Evolution of Heuristic Set using LLMs for Automated Heuristic Design                                                                                             |
+| roguetrainer/functional-programming-in-llm-interactions                     |       6 | Functional programming and category theory in LLM interactions                                                                                                   |
 | ultralytics/llm                                                             |       6 | Ultralytics LLM-related experiments                                                                                                                              |
-| woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models |       6 | 🔥[AAAI 2026, Official Code] Regression Over Classification: Assessing Image Aesthetics via Multimodal Large Language Models. 克服大模型在美学评估过程中对分数不敏感的问题              |
+| williamrhancock/Interflow                                                   |       6 | A visual chained LLM response system, allowing you to drill in to specifics within the LLM response.                                                             |
+| Dicklesworthstone/markdown_web_browser                                      |       5 | A web browser for LLMs that automatically turns every page into rich markdown                                                                                    |
 | YXNTU/EHRStruct                                                             |       5 | This repository contains the official implementation of the paper: "EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language Models on Stru… |
-| btucker/llm-apple                                                           |       5 | LLM plugin for local apple-foundation-models available on macOS 26                                                                                               |
-| limyewjin/llm-bash                                                          |       5 | A Bash framework following UNIX philosophy for building LLM-powered agent workflows with prompt chaining, orchestration, and intelligent routing patterns.       |
-| roguetrainer/functional-programming-in-llm-interactions                     |       5 | Functional programming and category theory in LLM interactions                                                                                                   |
-| usmansafdarktk/Findodo                                                      |       4 | Financial Dataset Generation Library for Large Language Models                                                                                                   |
+| aibrix/PrisKV                                                               |       5 | High Performance KV Cache Store for LLM                                                                                                                          |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -197,29 +199,34 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [OpenAI may not use lyrics without license, German court rules](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/) — 209 points
-- [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/) — 130 points
-- [Adk-go: code-first Go toolkit for building, evaluating, and deploying AI agents](https://github.com/google/adk-go) — 60 points
-- [Meta chief AI scientist Yann LeCun plans to exit and launch own startup](https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de) — 57 points
-- [Yann LeCun reportedly leaving Meta to launch new AI startup](https://the-decoder.com/yann-lecun-reportedly-leaving-meta-to-launch-new-ai-startup/) — 55 points
-- [Show HN: Data Formulator – interactive AI agents for data analysis (Microsoft)](https://data-formulator.ai/) — 31 points
-- [How to Train an LLM: Part 1](https://omkaark.com/posts/llm-1b-1.html) — 10 points
+- [Yann LeCun to depart Meta and launch AI startup focused on 'world models'](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models) — 808 points
+- [Pakistani newspaper mistakenly prints AI prompt with the article](https://twitter.com/omar_quraishi/status/1988518627859951986) — 477 points
+- [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1/) — 247 points
+- [Hard drives on backorder for two years as AI data centers trigger HDD shortage](https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds) — 192 points
+- [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model) — 153 points
+- [Anthropic invests $50B in US AI infrastructure](https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure) — 102 points
+- [Marble by World Labs: Multimodal world model to create and edit 3D worlds](http://marble.worldlabs.ai/) — 44 points
+- [How high are OpenAI's compute costs? Possibly a lot higher than we thought](https://www.ft.com/content/fce77ba4-6231-4920-9e99-693a6c38e7d5) — 33 points
+- [LLM Output Drift in Financial Workflows: Validation and Mitigation (arXiv)](https://arxiv.org/abs/2511.07585) — 22 points
+- [OpenAI's viability called into question by reported spending with Microsoft](https://www.theregister.com/2025/11/12/openai_spending_report/) — 22 points
+- [The New Brutality of OpenAI](https://www.theatlantic.com/technology/2025/11/openai-lawsuit-subpoenas/684861/) — 13 points
+- [Tiny Model, Big Logic: Large-Model Reasoning Ability in VibeThinker-1.5B](https://arxiv.org/abs/2511.06221) — 3 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE   |   CVSS | Summary                                               |
-|-------|--------|-------------------------------------------------------|
-|       |      0 | Malicious code in live-magenta-porcupine (npm)        |
-|       |      0 | Malicious code in busy-chocolate-parakeet (npm)       |
-|       |      0 | Malicious code in zonal-sapphire-antlion (npm)        |
-|       |      0 | Malicious code in preliminary-indigo-junglefowl (npm) |
-|       |      0 | Malicious code in naughty-peach-tortoise (npm)        |
-|       |      0 | Malicious code in eager-aquamarine-aardwolf (npm)     |
-|       |      0 | Malicious code in classical-blush-goose (npm)         |
-|       |      0 | Malicious code in careful_wren_blush-12 (npm)         |
-|       |      0 | Malicious code in breezy-crimson-marten (npm)         |
-|       |      0 | Malicious code in yielding-tan-aardwolf (npm)         |
+| CVE   |   CVSS | Summary   |
+|-------|--------|-----------|
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

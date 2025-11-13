@@ -1,23 +1,23 @@
-fetched_at: '2025-11-12T05:33:10Z'
-generated_at: '2025-11-12T05:33:10Z'
-hash: 141bc99b96f5f4fa36accb3198dfebda3ad08ab7ae6559e1fb0c6ed7f7417705
+fetched_at: '2025-11-13T05:33:08Z'
+generated_at: '2025-11-13T05:33:08Z'
+hash: 731331997298ba4243c7b13acd28dbf3c0b0f790e9dcfe1d5d27ca15f8701f2a
 items:
 - id: oai:arXiv.org:2511.07436v1
   link: https://arxiv.org/abs/2511.07436
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07436v1 Announce Type: new  Abstract: The integration of AI
     tools into medical applications has aimed to improve the efficiency of diagnosis.
     The em…'
   title: Analysing Environmental Efficiency in AI for X-Ray Diagnosis
 - id: oai:arXiv.org:2511.07437v1
   link: https://arxiv.org/abs/2511.07437
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07437v1 Announce Type: new  Abstract: Addressing educational
     inequity in Sub-Saharan Africa, this research presents an autonomous agent-orchestrated…'
   title: Agentic Educational Content Generation for African Languages on Edge Devices
 - id: oai:arXiv.org:2511.07483v1
   link: https://arxiv.org/abs/2511.07483
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07483v1 Announce Type: new  Abstract: Recent advancements in
     large language models (LLMs) have shifted the post-training paradigm from traditional
     i…'
@@ -25,14 +25,14 @@ items:
     Language Model Reasoning'
 - id: oai:arXiv.org:2511.07568v1
   link: https://arxiv.org/abs/2511.07568
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07568v1 Announce Type: new  Abstract: Large language models
     (LLMs) often struggle when performing agentic tasks without substantial tool support,
     pr…'
   title: Procedural Knowledge Improves Agentic LLM Workflows
 - id: oai:arXiv.org:2511.07581v1
   link: https://arxiv.org/abs/2511.07581
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07581v1 Announce Type: new  Abstract: Effective information
     retrieval requires reasoning over partial evidence and refining strategies as
     informatio…'
@@ -40,7 +40,7 @@ items:
     Language Models'
 - id: oai:arXiv.org:2511.07587v1
   link: https://arxiv.org/abs/2511.07587
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07587v1 Announce Type: new  Abstract: Large Language Models
     (LLMs) face fundamental challenges in long-context reasoning: many documents exceed
     thei…'
@@ -48,7 +48,7 @@ items:
     Workspaces'
 - id: oai:arXiv.org:2511.07667v1
   link: https://arxiv.org/abs/2511.07667
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07667v1 Announce Type: new  Abstract: The equitable assessment
     of individual contribution in teams remains a persistent challenge, where conflict
     an…'
@@ -56,7 +56,7 @@ items:
     Design for Group Workload Investigation'
 - id: oai:arXiv.org:2511.07669v1
   link: https://arxiv.org/abs/2511.07669
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07669v1 Announce Type: new  Abstract: Current large language
     models (LLMs) excel in verifiable domains where outputs can be checked before
     action bu…'
@@ -64,14 +64,14 @@ items:
     High-Stakes Decisions'
 - id: oai:arXiv.org:2511.07678v1
   link: https://arxiv.org/abs/2511.07678
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07678v1 Announce Type: new  Abstract: This technical report
     describes the AIA Forecaster, a Large Language Model (LLM)-based system for judgmental
     f…'
   title: 'AIA Forecaster: Technical Report'
 - id: oai:arXiv.org:2511.07685v1
   link: https://arxiv.org/abs/2511.07685
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07685v1 Announce Type: new  Abstract: Deep Research (DR) is
     an emerging agent application that leverages large language models (LLMs) to address
     ope…'
@@ -79,14 +79,14 @@ items:
     Research Agents'
 - id: oai:arXiv.org:2511.07690v1
   link: https://arxiv.org/abs/2511.07690
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07690v1 Announce Type: new  Abstract: Achieving expert-level
     performance in simulation-based training relies on the creation of complex, adaptable
     s…'
   title: Towards AI-Assisted Generation of Military Training Scenarios
 - id: oai:arXiv.org:2511.07719v1
   link: https://arxiv.org/abs/2511.07719
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07719v1 Announce Type: new  Abstract: Mitigating anthropogenic
     methane sources is one the most cost-effective levers to slow down global warming.
     Wh…'
@@ -94,21 +94,21 @@ items:
     point sources
 - id: oai:arXiv.org:2511.07842v1
   link: https://arxiv.org/abs/2511.07842
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07842v1 Announce Type: new  Abstract: Safety and efficiency
     are both important factors when deploying large language models(LLMs). LLMs are
     trained…'
   title: Alignment-Aware Quantization for LLM Safety
 - id: oai:arXiv.org:2511.07850v1
   link: https://arxiv.org/abs/2511.07850
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07850v1 Announce Type: new  Abstract: Recent advances in neural
     neighborhood search methods have shown potential in tackling Vehicle Routing Problem…'
   title: 'GAMA: A Neural Neighborhood Search Method with Graph-aware Multi-modal Attention
     for Vehicle Routing Problem'
 - id: oai:arXiv.org:2511.07863v1
   link: https://arxiv.org/abs/2511.07863
-  published: '2025-11-12T05:00:00Z'
+  published: '2025-11-13T05:00:00Z'
   summary: 'arXiv:2511.07863v1 Announce Type: new  Abstract: Large language models
     now draft news, legal analyses, and software code with human-level fluency. At
     the same…'

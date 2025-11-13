@@ -1,43 +1,45 @@
-fetched_at: '2025-11-12T05:33:10Z'
-generated_at: '2025-11-12T05:33:10Z'
-hash: 8220459d415360ba323777159eb819e83febb9995fd884de55b5fa1f301baa63
+fetched_at: '2025-11-13T05:33:08Z'
+generated_at: '2025-11-13T05:33:08Z'
+hash: 511afc20664d24623ecf5dc8d4e43fcd959f173606e3c2a61ee50ed684e1b832
 items:
-- created_at: '2025-11-06T23:17:37Z'
-  description: llm usage monitor in terminal
-  full_name: htin1/toktop
-  html_url: https://github.com/htin1/toktop
-  stargazers_count: 63
-- created_at: '2025-11-09T11:47:15Z'
-  description: Learning LLM by doing
-  full_name: glidea/tinygpt
-  html_url: https://github.com/glidea/tinygpt
-  stargazers_count: 58
 - created_at: '2025-11-11T02:58:33Z'
   description: 'Toonify: Compact data format reducing LLM token usage by 30-60%'
   full_name: ScrapeGraphAI/toonify
   html_url: https://github.com/ScrapeGraphAI/toonify
-  stargazers_count: 44
+  stargazers_count: 100
+- created_at: '2025-11-09T11:47:15Z'
+  description: Learning LLM by doing
+  full_name: glidea/tinygpt
+  html_url: https://github.com/glidea/tinygpt
+  stargazers_count: 62
 - created_at: '2025-11-07T06:41:02Z'
   description: Holistic Evaluation of Multimodal LLMs on Spatial Intelligence
   full_name: EvolvingLMMs-Lab/EASI
   html_url: https://github.com/EvolvingLMMs-Lab/EASI
-  stargazers_count: 27
-- created_at: '2025-11-06T02:16:53Z'
-  description: '🧨  TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?'
-  full_name: Yanlewen/TradeTrap
-  html_url: https://github.com/Yanlewen/TradeTrap
-  stargazers_count: 24
-- created_at: '2025-11-06T08:30:31Z'
-  description: Code for the SofT-GRPO algorithm on the LLM soft-thinking reasoning
-    pattern.
-  full_name: zz1358m/SofT-GRPO-master
-  html_url: https://github.com/zz1358m/SofT-GRPO-master
-  stargazers_count: 23
-- created_at: '2025-11-06T09:08:48Z'
-  description: CLI tool – estimates LLM tokens/costs and runs provider-aware load
-    tests for OpenAI, Anthropic, OpenRouter, or custom endpoints.
-  full_name: nooscraft/tokuin
-  html_url: https://github.com/nooscraft/tokuin
+  stargazers_count: 32
+- created_at: '2025-11-11T17:50:02Z'
+  description: 'The open-source code for the NeurIPS 2025 paper, "Beyond the 80/20
+    Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for
+    LLM Reasoning."'
+  full_name: Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR
+  html_url: https://github.com/Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR
+  stargazers_count: 17
+- created_at: '2025-11-07T05:27:59Z'
+  description: A simple, yet handy, LLM gateway.
+  full_name: zhixiangxue/chak-ai
+  html_url: https://github.com/zhixiangxue/chak-ai
+  stargazers_count: 14
+- created_at: '2025-11-11T02:57:18Z'
+  description: 'Token-efficient MCP client: TypeScript schemas instead of JSON, LLM-friendly
+    syntax, batch calls, TOON output. Built for Claude/GPT automations.'
+  full_name: AIGC-Hackers/mcpx
+  html_url: https://github.com/AIGC-Hackers/mcpx
+  stargazers_count: 13
+- created_at: '2025-11-10T06:43:56Z'
+  description: '🔥[AAAI 2026, Official Code] Regression Over Classification: Assessing
+    Image Aesthetics via Multimodal Large Language Models. 克服大模型在美学评估过程中对分数不敏感的问题'
+  full_name: woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models
+  html_url: https://github.com/woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models
   stargazers_count: 12
 - created_at: '2025-11-07T08:28:51Z'
   description: Jupiter is a fast, scalable, and resource-efficient collaborative edge-AI
@@ -45,11 +47,13 @@ items:
   full_name: ysyisyourbrother/Jupiter
   html_url: https://github.com/ysyisyourbrother/Jupiter
   stargazers_count: 12
-- created_at: '2025-11-07T05:27:59Z'
-  description: A simple, yet handy, LLM gateway.
-  full_name: zhixiangxue/chak-ai
-  html_url: https://github.com/zhixiangxue/chak-ai
-  stargazers_count: 12
+- created_at: '2025-11-11T01:09:33Z'
+  description: Step_Audio_EditX：the first open-source LLM-based audio model excelling
+    at expressive and iterative audio editing—encompassing emotion, speaking style,
+    and para…
+  full_name: smthemex/ComfyUI_Step_Audio_EditX_SM
+  html_url: https://github.com/smthemex/ComfyUI_Step_Audio_EditX_SM
+  stargazers_count: 10
 - created_at: '2025-11-10T07:45:49Z'
   description: The MedEQBench is the first evaluation suite specifically designed
     for medical contexts to assess Large Language Models' (LLMs) capabilities in emotional
@@ -63,28 +67,45 @@ items:
   full_name: P-Bhanu-Sohan/DataVault
   html_url: https://github.com/P-Bhanu-Sohan/DataVault
   stargazers_count: 8
-- created_at: '2025-11-06T12:29:42Z'
-  description: A professional LaTeX resume template for LLM & Agent algorithm engineers
-  full_name: adongwanai/LLM-Resume-Template
-  html_url: https://github.com/adongwanai/LLM-Resume-Template
+- created_at: '2025-11-10T19:17:06Z'
+  description: A Bash framework following UNIX philosophy for building LLM-powered
+    agent workflows with prompt chaining, orchestration, and intelligent routing patterns.
+  full_name: limyewjin/llm-bash
+  html_url: https://github.com/limyewjin/llm-bash
   stargazers_count: 7
 - created_at: '2025-11-07T18:45:47Z'
   description: Systematic evaluation of hallucination risks in Large Language Models
     (GPT-4, Claude 3, Gemini Pro) for clinical proteomics and mass spectrometry interpretatio…
   full_name: olaflaitinen/llm-proteomics-hallucination
   html_url: https://github.com/olaflaitinen/llm-proteomics-hallucination
+  stargazers_count: 7
+- created_at: '2025-11-11T11:34:01Z'
+  description: Evolution of Heuristic Set using LLMs for Automated Heuristic Design
+  full_name: FeiLiu36/EoH-S
+  html_url: https://github.com/FeiLiu36/EoH-S
+  stargazers_count: 6
+- created_at: '2025-11-10T21:02:07Z'
+  description: Functional programming and category theory in LLM interactions
+  full_name: roguetrainer/functional-programming-in-llm-interactions
+  html_url: https://github.com/roguetrainer/functional-programming-in-llm-interactions
   stargazers_count: 6
 - created_at: '2025-11-09T02:35:55Z'
   description: Ultralytics LLM-related experiments
   full_name: ultralytics/llm
   html_url: https://github.com/ultralytics/llm
   stargazers_count: 6
-- created_at: '2025-11-10T06:43:56Z'
-  description: '🔥[AAAI 2026, Official Code] Regression Over Classification: Assessing
-    Image Aesthetics via Multimodal Large Language Models. 克服大模型在美学评估过程中对分数不敏感的问题'
-  full_name: woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models
-  html_url: https://github.com/woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models
+- created_at: '2025-11-10T20:17:04Z'
+  description: A visual chained LLM response system, allowing you to drill in to specifics
+    within the LLM response.
+  full_name: williamrhancock/Interflow
+  html_url: https://github.com/williamrhancock/Interflow
   stargazers_count: 6
+- created_at: '2025-11-07T17:30:25Z'
+  description: A web browser for LLMs that automatically turns every page into rich
+    markdown
+  full_name: Dicklesworthstone/markdown_web_browser
+  html_url: https://github.com/Dicklesworthstone/markdown_web_browser
+  stargazers_count: 5
 - created_at: '2025-11-10T05:40:08Z'
   description: 'This repository contains the official implementation of the paper:
     "EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language
@@ -92,25 +113,9 @@ items:
   full_name: YXNTU/EHRStruct
   html_url: https://github.com/YXNTU/EHRStruct
   stargazers_count: 5
-- created_at: '2025-11-06T20:58:56Z'
-  description: LLM plugin for local apple-foundation-models available on macOS 26
-  full_name: btucker/llm-apple
-  html_url: https://github.com/btucker/llm-apple
+- created_at: '2025-11-11T03:35:39Z'
+  description: High Performance KV Cache Store for LLM
+  full_name: aibrix/PrisKV
+  html_url: https://github.com/aibrix/PrisKV
   stargazers_count: 5
-- created_at: '2025-11-10T19:17:06Z'
-  description: A Bash framework following UNIX philosophy for building LLM-powered
-    agent workflows with prompt chaining, orchestration, and intelligent routing patterns.
-  full_name: limyewjin/llm-bash
-  html_url: https://github.com/limyewjin/llm-bash
-  stargazers_count: 5
-- created_at: '2025-11-10T21:02:07Z'
-  description: Functional programming and category theory in LLM interactions
-  full_name: roguetrainer/functional-programming-in-llm-interactions
-  html_url: https://github.com/roguetrainer/functional-programming-in-llm-interactions
-  stargazers_count: 5
-- created_at: '2025-11-09T21:09:31Z'
-  description: Financial Dataset Generation Library for Large Language Models
-  full_name: usmansafdarktk/Findodo
-  html_url: https://github.com/usmansafdarktk/Findodo
-  stargazers_count: 4
 source_url: https://api.github.com/search/repositories

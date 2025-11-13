@@ -1,45 +1,45 @@
-fetched_at: '2025-11-12T05:33:10Z'
-generated_at: '2025-11-12T05:33:10Z'
-hash: 6df26ffcf9d1b2b98e07b90e7b75f17534656aef0e5d0e24e6019caf5ff776e5
+fetched_at: '2025-11-13T05:33:08Z'
+generated_at: '2025-11-13T05:33:08Z'
+hash: 78aa07fb3bde7b004ea63055169354d102ace2c5c7834710a0bb2b2d658068b0
 items:
 - cvss: 0.0
   id: null
-  published: '2025-11-12T04:37:36Z'
-  summary: Malicious code in live-magenta-porcupine (npm)
+  published: '2025-11-13T05:33:08Z'
+  summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-12T04:37:36Z'
-  summary: Malicious code in busy-chocolate-parakeet (npm)
+  published: '2025-11-13T05:33:08Z'
+  summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-12T04:37:36Z'
-  summary: Malicious code in zonal-sapphire-antlion (npm)
+  published: '2025-11-13T05:33:08Z'
+  summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-12T04:37:36Z'
-  summary: Malicious code in preliminary-indigo-junglefowl (npm)
+  published: '2025-11-13T05:33:08Z'
+  summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-12T04:37:36Z'
-  summary: Malicious code in naughty-peach-tortoise (npm)
+  published: '2025-11-13T05:33:08Z'
+  summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-12T04:37:36Z'
-  summary: Malicious code in eager-aquamarine-aardwolf (npm)
+  published: '2025-11-13T05:33:08Z'
+  summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-12T04:37:36Z'
-  summary: Malicious code in classical-blush-goose (npm)
+  published: '2025-11-13T05:33:08Z'
+  summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-12T04:37:36Z'
-  summary: Malicious code in careful_wren_blush-12 (npm)
+  published: '2025-11-13T05:33:08Z'
+  summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-12T04:37:36Z'
-  summary: Malicious code in breezy-crimson-marten (npm)
+  published: '2025-11-13T05:33:08Z'
+  summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-12T04:37:36Z'
-  summary: Malicious code in yielding-tan-aardwolf (npm)
+  published: '2025-11-13T05:33:08Z'
+  summary: ''
 source_url: https://cve.circl.lu/api/last

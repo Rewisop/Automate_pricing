@@ -1,41 +1,65 @@
-fetched_at: '2025-11-12T05:33:10Z'
-generated_at: '2025-11-12T05:33:10Z'
-hash: 383260e1b35d38c6b086733d86e81059aaadb42a3d3aa05a448fbc3223341e0e
+fetched_at: '2025-11-13T05:33:08Z'
+generated_at: '2025-11-13T05:33:08Z'
+hash: 8a220b0c5c79c7a3ebb71f31b190d2cb7fdd71211e22b3a158a505b1d5b978ab
 items:
-- id: 45886131
-  score: 209
-  time: '2025-11-11T11:20:55Z'
-  title: OpenAI may not use lyrics without license, German court rules
-  url: https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/
-- id: 45890186
-  score: 130
-  time: '2025-11-11T17:26:54Z'
-  title: We ran over 600 image generations to compare AI image models
-  url: https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/
-- id: 45891968
-  score: 60
-  time: '2025-11-11T19:52:55Z'
-  title: 'Adk-go: code-first Go toolkit for building, evaluating, and deploying AI
-    agents'
-  url: https://github.com/google/adk-go
-- id: 45886217
-  score: 57
-  time: '2025-11-11T11:38:32Z'
-  title: Meta chief AI scientist Yann LeCun plans to exit and launch own startup
-  url: https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de
-- id: 45888878
-  score: 55
-  time: '2025-11-11T16:03:22Z'
-  title: Yann LeCun reportedly leaving Meta to launch new AI startup
-  url: https://the-decoder.com/yann-lecun-reportedly-leaving-meta-to-launch-new-ai-startup/
-- id: 45890394
-  score: 31
-  time: '2025-11-11T17:44:21Z'
-  title: 'Show HN: Data Formulator – interactive AI agents for data analysis (Microsoft)'
-  url: https://data-formulator.ai/
-- id: 45891801
-  score: 10
-  time: '2025-11-11T19:38:59Z'
-  title: 'How to Train an LLM: Part 1'
-  url: https://omkaark.com/posts/llm-1b-1.html
+- id: 45897271
+  score: 808
+  time: '2025-11-12T07:25:30Z'
+  title: Yann LeCun to depart Meta and launch AI startup focused on 'world models'
+  url: https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models
+- id: 45898789
+  score: 477
+  time: '2025-11-12T11:17:06Z'
+  title: Pakistani newspaper mistakenly prints AI prompt with the article
+  url: https://twitter.com/omar_quraishi/status/1988518627859951986
+- id: 45904551
+  score: 247
+  time: '2025-11-12T19:05:41Z'
+  title: 'GPT-5.1: A smarter, more conversational ChatGPT'
+  url: https://openai.com/index/gpt-5-1/
+- id: 45896707
+  score: 192
+  time: '2025-11-12T05:36:41Z'
+  title: Hard drives on backorder for two years as AI data centers trigger HDD shortage
+  url: https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds
+- id: 45907541
+  score: 153
+  time: '2025-11-12T22:11:14Z'
+  title: 'Marble: A Multimodal World Model'
+  url: https://www.worldlabs.ai/blog/marble-world-model
+- id: 45901543
+  score: 102
+  time: '2025-11-12T15:42:35Z'
+  title: Anthropic invests $50B in US AI infrastructure
+  url: https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure
+- id: 45902732
+  score: 44
+  time: '2025-11-12T17:13:30Z'
+  title: 'Marble by World Labs: Multimodal world model to create and edit 3D worlds'
+  url: http://marble.worldlabs.ai/
+- id: 45905254
+  score: 33
+  time: '2025-11-12T19:41:35Z'
+  title: How high are OpenAI's compute costs? Possibly a lot higher than we thought
+  url: https://www.ft.com/content/fce77ba4-6231-4920-9e99-693a6c38e7d5
+- id: 45905451
+  score: 22
+  time: '2025-11-12T19:53:25Z'
+  title: 'LLM Output Drift in Financial Workflows: Validation and Mitigation (arXiv)'
+  url: https://arxiv.org/abs/2511.07585
+- id: 45906925
+  score: 22
+  time: '2025-11-12T21:23:40Z'
+  title: OpenAI's viability called into question by reported spending with Microsoft
+  url: https://www.theregister.com/2025/11/12/openai_spending_report/
+- id: 45910648
+  score: 13
+  time: '2025-11-13T04:31:02Z'
+  title: The New Brutality of OpenAI
+  url: https://www.theatlantic.com/technology/2025/11/openai-lawsuit-subpoenas/684861/
+- id: 45902010
+  score: 3
+  time: '2025-11-12T16:19:30Z'
+  title: 'Tiny Model, Big Logic: Large-Model Reasoning Ability in VibeThinker-1.5B'
+  url: https://arxiv.org/abs/2511.06221
 source_url: https://hacker-news.firebaseio.com/
