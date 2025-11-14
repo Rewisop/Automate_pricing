@@ -1,118 +1,114 @@
-fetched_at: '2025-11-13T05:33:08Z'
-generated_at: '2025-11-13T05:33:08Z'
-hash: 731331997298ba4243c7b13acd28dbf3c0b0f790e9dcfe1d5d27ca15f8701f2a
+fetched_at: '2025-11-14T05:32:29Z'
+generated_at: '2025-11-14T05:32:29Z'
+hash: a861d8f2d6fd1f3c62281d715b216dad455eeb0c8b8a2ef98821ba3943db5a29
 items:
-- id: oai:arXiv.org:2511.07436v1
-  link: https://arxiv.org/abs/2511.07436
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07436v1 Announce Type: new  Abstract: The integration of AI
-    tools into medical applications has aimed to improve the efficiency of diagnosis.
-    The em…'
-  title: Analysing Environmental Efficiency in AI for X-Ray Diagnosis
-- id: oai:arXiv.org:2511.07437v1
-  link: https://arxiv.org/abs/2511.07437
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07437v1 Announce Type: new  Abstract: Addressing educational
-    inequity in Sub-Saharan Africa, this research presents an autonomous agent-orchestrated…'
-  title: Agentic Educational Content Generation for African Languages on Edge Devices
-- id: oai:arXiv.org:2511.07483v1
-  link: https://arxiv.org/abs/2511.07483
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07483v1 Announce Type: new  Abstract: Recent advancements in
-    large language models (LLMs) have shifted the post-training paradigm from traditional
-    i…'
-  title: 'Beyond Correctness: Confidence-Aware Reward Modeling for Enhancing Large
-    Language Model Reasoning'
-- id: oai:arXiv.org:2511.07568v1
-  link: https://arxiv.org/abs/2511.07568
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07568v1 Announce Type: new  Abstract: Large language models
-    (LLMs) often struggle when performing agentic tasks without substantial tool support,
-    pr…'
-  title: Procedural Knowledge Improves Agentic LLM Workflows
-- id: oai:arXiv.org:2511.07581v1
-  link: https://arxiv.org/abs/2511.07581
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07581v1 Announce Type: new  Abstract: Effective information
-    retrieval requires reasoning over partial evidence and refining strategies as
-    informatio…'
-  title: 'Think Before You Retrieve: Learning Test-Time Adaptive Search with Small
-    Language Models'
-- id: oai:arXiv.org:2511.07587v1
-  link: https://arxiv.org/abs/2511.07587
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07587v1 Announce Type: new  Abstract: Large Language Models
-    (LLMs) face fundamental challenges in long-context reasoning: many documents exceed
-    thei…'
-  title: 'Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic
-    Workspaces'
-- id: oai:arXiv.org:2511.07667v1
-  link: https://arxiv.org/abs/2511.07667
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07667v1 Announce Type: new  Abstract: The equitable assessment
-    of individual contribution in teams remains a persistent challenge, where conflict
-    an…'
-  title: 'AI-Driven Contribution Evaluation and Conflict Resolution: A Framework &
-    Design for Group Workload Investigation'
-- id: oai:arXiv.org:2511.07669v1
-  link: https://arxiv.org/abs/2511.07669
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07669v1 Announce Type: new  Abstract: Current large language
-    models (LLMs) excel in verifiable domains where outputs can be checked before
-    action bu…'
-  title: 'Making LLMs Reliable When It Matters Most: A Five-Layer Architecture for
-    High-Stakes Decisions'
-- id: oai:arXiv.org:2511.07678v1
-  link: https://arxiv.org/abs/2511.07678
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07678v1 Announce Type: new  Abstract: This technical report
-    describes the AIA Forecaster, a Large Language Model (LLM)-based system for judgmental
+- id: oai:arXiv.org:2511.09563v1
+  link: https://arxiv.org/abs/2511.09563
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09563v1 Announce Type: new  Abstract: The Joint Routing-Assignment
+    (JRA) optimization problem simultaneously determines the assignment of items to
+    p…'
+  title: An Efficient and Almost Optimal Solver for the Joint Routing-Assignment Problem
+    via Partial JRA and Large-{\alpha} Optimization
+- id: oai:arXiv.org:2511.09570v1
+  link: https://arxiv.org/abs/2511.09570
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09570v1 Announce Type: new  Abstract: The Electric Vehicle
+    Routing Problem (EVRP) extends the classical Vehicle Routing Problem (VRP) to
+    reflect the…'
+  title: Variable Neighborhood Search for the Electric Vehicle Routing Problem
+- id: oai:arXiv.org:2511.09572v1
+  link: https://arxiv.org/abs/2511.09572
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09572v1 Announce Type: new  Abstract: AI agents increasingly
+    rely on external tools to solve complex, long-horizon tasks. Advancing such agents
+    requ…'
+  title: 'SynthTools: A Framework for Scaling Synthetic Tools for Agent Development'
+- id: oai:arXiv.org:2511.09575v1
+  link: https://arxiv.org/abs/2511.09575
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09575v1 Announce Type: new  Abstract: Reasoning is an essential
+    component of human intelligence in that it plays a fundamental role in our ability
+    t…'
+  title: Proceedings of the Second International Workshop on Next-Generation Language
+    Models for Knowledge Representation and Reasoning (NeLaMKRR 2025)
+- id: oai:arXiv.org:2511.09600v1
+  link: https://arxiv.org/abs/2511.09600
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09600v1 Announce Type: new  Abstract: In this research note,
+    we show the relationship between two non-admissible argumentation framework semantics:…'
+  title: Cogent argument extensions are weakly admissible but not vice versa
+- id: oai:arXiv.org:2511.09682v1
+  link: https://arxiv.org/abs/2511.09682
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09682v1 Announce Type: new  Abstract: Instilling reasoning
+    capabilities in large models (LMs) using reasoning training (RT) significantly
+    improves L…'
+  title: 'Rebellion: Noise-Robust Reasoning Training for Audio Reasoning Models'
+- id: oai:arXiv.org:2511.09710v1
+  link: https://arxiv.org/abs/2511.09710
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09710v1 Announce Type: new  Abstract: As large language model
+    (LLM) based agents interact autonomously with one another, a new class of failures
+    eme…'
+  title: 'Echoing: Identity Failures when LLM Agents Talk to Each Other'
+- id: oai:arXiv.org:2511.09768v1
+  link: https://arxiv.org/abs/2511.09768
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09768v1 Announce Type: new  Abstract: Operationalizing definitions
+    of fairness is difficult in practice, as multiple definitions can be incompatible…'
+  title: 'ProbLog4Fairness: A Neurosymbolic Approach to Modeling and Mitigating Bias'
+- id: oai:arXiv.org:2511.09785v1
+  link: https://arxiv.org/abs/2511.09785
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09785v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) are increasingly used to annotate learning interactions, yet concerns about
+    relia…'
+  title: 'AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality
+    of LLM Annotations in Learning Analytics'
+- id: oai:arXiv.org:2511.09788v1
+  link: https://arxiv.org/abs/2511.09788
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09788v1 Announce Type: new  Abstract: This position paper argues
+    for the importance of open small AI models in creative independence for interactive…'
+  title: Why Open Small AI Models Matter for Interactive Art
+- id: oai:arXiv.org:2511.09804v1
+  link: https://arxiv.org/abs/2511.09804
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09804v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) have shown immense potential in education, automating tasks like quiz generation…'
+  title: 'SlideBot: A Multi-Agent Framework for Generating Informative, Reliable,
+    Multi-Modal Presentations'
+- id: oai:arXiv.org:2511.09822v1
+  link: https://arxiv.org/abs/2511.09822
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09822v1 Announce Type: new  Abstract: Gradient Boosting Decision
+    Trees (GBDTs) are widely used in industry and academia for their high accuracy
+    and…'
+  title: Robust Watermarking on Gradient Boosting Decision Trees
+- id: oai:arXiv.org:2511.09829v1
+  link: https://arxiv.org/abs/2511.09829
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09829v1 Announce Type: new  Abstract: Adversarial patches have
+    emerged as a popular privacy-preserving approach for resisting AI-driven surveillance…'
+  title: Thermally Activated Dual-Modal Adversarial Clothing against AI Surveillance
+    Systems
+- id: oai:arXiv.org:2511.09884v1
+  link: https://arxiv.org/abs/2511.09884
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09884v1 Announce Type: new  Abstract: Mission critical (MC)
+    applications such as defense operations, energy management, cybersecurity, and
+    aerospace…'
+  title: 'Quantum Artificial Intelligence (QAI): Foundations, Architectural Elements,
+    and Future Directions'
+- id: oai:arXiv.org:2511.09894v1
+  link: https://arxiv.org/abs/2511.09894
+  published: '2025-11-14T05:00:00Z'
+  summary: 'arXiv:2511.09894v1 Announce Type: new  Abstract: Emergency Medical Services
+    (EMS) are critical to patient survival in emergencies, but first responders often
     f…'
-  title: 'AIA Forecaster: Technical Report'
-- id: oai:arXiv.org:2511.07685v1
-  link: https://arxiv.org/abs/2511.07685
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07685v1 Announce Type: new  Abstract: Deep Research (DR) is
-    an emerging agent application that leverages large language models (LLMs) to address
-    ope…'
-  title: 'ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep
-    Research Agents'
-- id: oai:arXiv.org:2511.07690v1
-  link: https://arxiv.org/abs/2511.07690
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07690v1 Announce Type: new  Abstract: Achieving expert-level
-    performance in simulation-based training relies on the creation of complex, adaptable
-    s…'
-  title: Towards AI-Assisted Generation of Military Training Scenarios
-- id: oai:arXiv.org:2511.07719v1
-  link: https://arxiv.org/abs/2511.07719
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07719v1 Announce Type: new  Abstract: Mitigating anthropogenic
-    methane sources is one the most cost-effective levers to slow down global warming.
-    Wh…'
-  title: Operational machine learning for remote spectroscopic detection of CH$_{4}$
-    point sources
-- id: oai:arXiv.org:2511.07842v1
-  link: https://arxiv.org/abs/2511.07842
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07842v1 Announce Type: new  Abstract: Safety and efficiency
-    are both important factors when deploying large language models(LLMs). LLMs are
-    trained…'
-  title: Alignment-Aware Quantization for LLM Safety
-- id: oai:arXiv.org:2511.07850v1
-  link: https://arxiv.org/abs/2511.07850
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07850v1 Announce Type: new  Abstract: Recent advances in neural
-    neighborhood search methods have shown potential in tackling Vehicle Routing Problem…'
-  title: 'GAMA: A Neural Neighborhood Search Method with Graph-aware Multi-modal Attention
-    for Vehicle Routing Problem'
-- id: oai:arXiv.org:2511.07863v1
-  link: https://arxiv.org/abs/2511.07863
-  published: '2025-11-13T05:00:00Z'
-  summary: 'arXiv:2511.07863v1 Announce Type: new  Abstract: Large language models
-    now draft news, legal analyses, and software code with human-level fluency. At
-    the same…'
-  title: 'WaterMod: Modular Token-Rank Partitioning for Probability-Balanced LLM Watermarking'
+  title: 'EgoEMS: A High-Fidelity Multimodal Egocentric Dataset for Cognitive Assistance
+    in Emergency Medical Services'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

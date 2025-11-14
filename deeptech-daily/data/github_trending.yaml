@@ -1,59 +1,72 @@
-fetched_at: '2025-11-13T05:33:08Z'
-generated_at: '2025-11-13T05:33:08Z'
-hash: 511afc20664d24623ecf5dc8d4e43fcd959f173606e3c2a61ee50ed684e1b832
+fetched_at: '2025-11-14T05:32:29Z'
+generated_at: '2025-11-14T05:32:29Z'
+hash: 006fd2a2a013e13247b372397226e3d34540b0d2cd55c224ba964f208012881d
 items:
 - created_at: '2025-11-11T02:58:33Z'
   description: 'Toonify: Compact data format reducing LLM token usage by 30-60%'
   full_name: ScrapeGraphAI/toonify
   html_url: https://github.com/ScrapeGraphAI/toonify
-  stargazers_count: 100
+  stargazers_count: 134
 - created_at: '2025-11-09T11:47:15Z'
   description: Learning LLM by doing
   full_name: glidea/tinygpt
   html_url: https://github.com/glidea/tinygpt
-  stargazers_count: 62
-- created_at: '2025-11-07T06:41:02Z'
-  description: Holistic Evaluation of Multimodal LLMs on Spatial Intelligence
-  full_name: EvolvingLMMs-Lab/EASI
-  html_url: https://github.com/EvolvingLMMs-Lab/EASI
-  stargazers_count: 32
+  stargazers_count: 63
 - created_at: '2025-11-11T17:50:02Z'
   description: 'The open-source code for the NeurIPS 2025 paper, "Beyond the 80/20
     Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for
     LLM Reasoning."'
   full_name: Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR
   html_url: https://github.com/Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR
-  stargazers_count: 17
-- created_at: '2025-11-07T05:27:59Z'
-  description: A simple, yet handy, LLM gateway.
-  full_name: zhixiangxue/chak-ai
-  html_url: https://github.com/zhixiangxue/chak-ai
-  stargazers_count: 14
+  stargazers_count: 23
+- created_at: '2025-11-13T09:45:37Z'
+  description: 'Official implementation of URaG: Unified Retrieval and Generation
+    in Multimodal LLMs for Efficient Long Document Understanding (AAAI 2026 Oral).'
+  full_name: shi-yx/URaG
+  html_url: https://github.com/shi-yx/URaG
+  stargazers_count: 19
 - created_at: '2025-11-11T02:57:18Z'
   description: 'Token-efficient MCP client: TypeScript schemas instead of JSON, LLM-friendly
     syntax, batch calls, TOON output. Built for Claude/GPT automations.'
   full_name: AIGC-Hackers/mcpx
   html_url: https://github.com/AIGC-Hackers/mcpx
+  stargazers_count: 14
+- created_at: '2025-11-12T12:52:17Z'
+  description: high-fidelity book translation with large language models, synchronizing
+    chapters, context, and revisions for multilingual publishing.
+  full_name: metacore-stack/hololingo
+  html_url: https://github.com/metacore-stack/hololingo
   stargazers_count: 13
 - created_at: '2025-11-10T06:43:56Z'
   description: '🔥[AAAI 2026, Official Code] Regression Over Classification: Assessing
     Image Aesthetics via Multimodal Large Language Models. 克服大模型在美学评估过程中对分数不敏感的问题'
   full_name: woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models
   html_url: https://github.com/woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models
-  stargazers_count: 12
-- created_at: '2025-11-07T08:28:51Z'
-  description: Jupiter is a fast, scalable, and resource-efficient collaborative edge-AI
-    system for generative LLM inference.
-  full_name: ysyisyourbrother/Jupiter
-  html_url: https://github.com/ysyisyourbrother/Jupiter
-  stargazers_count: 12
+  stargazers_count: 13
 - created_at: '2025-11-11T01:09:33Z'
   description: Step_Audio_EditX：the first open-source LLM-based audio model excelling
     at expressive and iterative audio editing—encompassing emotion, speaking style,
     and para…
   full_name: smthemex/ComfyUI_Step_Audio_EditX_SM
   html_url: https://github.com/smthemex/ComfyUI_Step_Audio_EditX_SM
+  stargazers_count: 11
+- created_at: '2025-11-13T10:06:42Z'
+  description: A Claude Code plugin that optimizes documentation for AI coding assistants
+    like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through…
+  full_name: alonw0/llm-docs-optimizer
+  html_url: https://github.com/alonw0/llm-docs-optimizer
   stargazers_count: 10
+- created_at: '2025-11-12T09:59:45Z'
+  description: Exploring how large language models can learn, interpret, and forecast
+    complex time-series patterns.
+  full_name: metacore-stack/llm-temporal-intel
+  html_url: https://github.com/metacore-stack/llm-temporal-intel
+  stargazers_count: 10
+- created_at: '2025-11-11T11:34:01Z'
+  description: Evolution of Heuristic Set using LLMs for Automated Heuristic Design
+  full_name: FeiLiu36/EoH-S
+  html_url: https://github.com/FeiLiu36/EoH-S
+  stargazers_count: 9
 - created_at: '2025-11-10T07:45:49Z'
   description: The MedEQBench is the first evaluation suite specifically designed
     for medical contexts to assess Large Language Models' (LLMs) capabilities in emotional
@@ -67,28 +80,35 @@ items:
   full_name: P-Bhanu-Sohan/DataVault
   html_url: https://github.com/P-Bhanu-Sohan/DataVault
   stargazers_count: 8
+- created_at: '2025-11-12T20:05:27Z'
+  description: Bloat Free, Portable and Lightweight LLM Frontend (Single HTML file).
+  full_name: Unmortan-Ellary/Vascura-FRONT
+  html_url: https://github.com/Unmortan-Ellary/Vascura-FRONT
+  stargazers_count: 8
+- created_at: '2025-11-11T03:35:39Z'
+  description: High Performance KV Cache Store for LLM
+  full_name: aibrix/PrisKV
+  html_url: https://github.com/aibrix/PrisKV
+  stargazers_count: 8
+- created_at: '2025-11-13T13:52:57Z'
+  description: A collection of awesome AI Security, LLM Security, and Prompt Injection
+    tools and resources.
+  full_name: brinhosa/awesome-ai-security
+  html_url: https://github.com/brinhosa/awesome-ai-security
+  stargazers_count: 8
+- created_at: '2025-11-12T03:23:10Z'
+  description: LLM-driven food ordering demo that pairs an autonomous voice assistant
+    with function-calling, RAG-powered restaurant search, and a full-stack UI to simulate
+    en…
+  full_name: metacore-stack/llm-automate-food-ordering
+  html_url: https://github.com/metacore-stack/llm-automate-food-ordering
+  stargazers_count: 8
 - created_at: '2025-11-10T19:17:06Z'
   description: A Bash framework following UNIX philosophy for building LLM-powered
     agent workflows with prompt chaining, orchestration, and intelligent routing patterns.
   full_name: limyewjin/llm-bash
   html_url: https://github.com/limyewjin/llm-bash
   stargazers_count: 7
-- created_at: '2025-11-07T18:45:47Z'
-  description: Systematic evaluation of hallucination risks in Large Language Models
-    (GPT-4, Claude 3, Gemini Pro) for clinical proteomics and mass spectrometry interpretatio…
-  full_name: olaflaitinen/llm-proteomics-hallucination
-  html_url: https://github.com/olaflaitinen/llm-proteomics-hallucination
-  stargazers_count: 7
-- created_at: '2025-11-11T11:34:01Z'
-  description: Evolution of Heuristic Set using LLMs for Automated Heuristic Design
-  full_name: FeiLiu36/EoH-S
-  html_url: https://github.com/FeiLiu36/EoH-S
-  stargazers_count: 6
-- created_at: '2025-11-10T21:02:07Z'
-  description: Functional programming and category theory in LLM interactions
-  full_name: roguetrainer/functional-programming-in-llm-interactions
-  html_url: https://github.com/roguetrainer/functional-programming-in-llm-interactions
-  stargazers_count: 6
 - created_at: '2025-11-09T02:35:55Z'
   description: Ultralytics LLM-related experiments
   full_name: ultralytics/llm
@@ -100,22 +120,4 @@ items:
   full_name: williamrhancock/Interflow
   html_url: https://github.com/williamrhancock/Interflow
   stargazers_count: 6
-- created_at: '2025-11-07T17:30:25Z'
-  description: A web browser for LLMs that automatically turns every page into rich
-    markdown
-  full_name: Dicklesworthstone/markdown_web_browser
-  html_url: https://github.com/Dicklesworthstone/markdown_web_browser
-  stargazers_count: 5
-- created_at: '2025-11-10T05:40:08Z'
-  description: 'This repository contains the official implementation of the paper:
-    "EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language
-    Models on Stru…'
-  full_name: YXNTU/EHRStruct
-  html_url: https://github.com/YXNTU/EHRStruct
-  stargazers_count: 5
-- created_at: '2025-11-11T03:35:39Z'
-  description: High Performance KV Cache Store for LLM
-  full_name: aibrix/PrisKV
-  html_url: https://github.com/aibrix/PrisKV
-  stargazers_count: 5
 source_url: https://api.github.com/search/repositories

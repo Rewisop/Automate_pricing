@@ -1,45 +1,45 @@
-fetched_at: '2025-11-13T05:33:08Z'
-generated_at: '2025-11-13T05:33:08Z'
-hash: 78aa07fb3bde7b004ea63055169354d102ace2c5c7834710a0bb2b2d658068b0
+fetched_at: '2025-11-14T05:32:29Z'
+generated_at: '2025-11-14T05:32:29Z'
+hash: 4126a1b972d28ad9b62d14b1d0ee92169e12e852cc4074f0a62fde269b3b12f8
 items:
 - cvss: 0.0
+  id: MAL-2025-190496
+  published: '2025-11-14T03:48:20Z'
+  summary: Malicious code in loger-parser (npm)
+- cvss: 0.0
   id: null
-  published: '2025-11-13T05:33:08Z'
+  published: '2025-11-14T05:32:29Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-13T05:33:08Z'
+  published: '2025-11-14T05:32:29Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-13T05:33:08Z'
+  published: '2025-11-14T05:32:29Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-13T05:33:08Z'
+  published: '2025-11-14T05:32:29Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-13T05:33:08Z'
+  published: '2025-11-14T05:32:29Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-13T05:33:08Z'
+  published: '2025-11-14T05:32:29Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-13T05:33:08Z'
+  published: '2025-11-14T05:32:29Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-13T05:33:08Z'
+  published: '2025-11-14T05:32:29Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-13T05:33:08Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2025-11-13T05:33:08Z'
+  published: '2025-11-14T05:32:29Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last
