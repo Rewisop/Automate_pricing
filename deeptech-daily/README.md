@@ -36,17 +36,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -143,6 +145,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [Thermally Activated Dual-Modal Adversarial Clothing against AI Surveillance Systems](https://arxiv.org/abs/2511.09829) — arXiv:2511.09829v1 Announce Type: new  Abstract: Adversarial patches have emerged as a popular privacy-preserving approach for resisting AI-driven surveillance…
 - [Quantum Artificial Intelligence (QAI): Foundations, Architectural Elements, and Future Directions](https://arxiv.org/abs/2511.09884) — arXiv:2511.09884v1 Announce Type: new  Abstract: Mission critical (MC) applications such as defense operations, energy management, cybersecurity, and aerospace…
 - [EgoEMS: A High-Fidelity Multimodal Egocentric Dataset for Cognitive Assistance in Emergency Medical Services](https://arxiv.org/abs/2511.09894) — arXiv:2511.09894v1 Announce Type: new  Abstract: Emergency Medical Services (EMS) are critical to patient survival in emergencies, but first responders often f…
+
+_Showing cached data from 2025-11-14T05:32:29Z. Refresh failed: no arXiv entries retrieved._
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -172,26 +176,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                                                  |   Stars | Description                                                                                                                                                      |
 |-----------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ScrapeGraphAI/toonify                                                       |     134 | Toonify: Compact data format reducing LLM token usage by 30-60%                                                                                                  |
-| glidea/tinygpt                                                              |      63 | Learning LLM by doing                                                                                                                                            |
-| Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR                                     |      23 | The open-source code for the NeurIPS 2025 paper, "Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning." |
-| shi-yx/URaG                                                                 |      19 | Official implementation of URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding (AAAI 2026 Oral).                 |
-| AIGC-Hackers/mcpx                                                           |      14 | Token-efficient MCP client: TypeScript schemas instead of JSON, LLM-friendly syntax, batch calls, TOON output. Built for Claude/GPT automations.                 |
+| ScrapeGraphAI/toonify                                                       |     157 | Toonify: Compact data format reducing LLM token usage by 30-60%                                                                                                  |
+| glidea/tinygpt                                                              |      64 | Learning LLM by doing                                                                                                                                            |
+| Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR                                     |      25 | The open-source code for the NeurIPS 2025 paper, "Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning." |
+| shi-yx/URaG                                                                 |      20 | Official implementation of URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding (AAAI 2026 Oral).                 |
+| AIGC-Hackers/mcpx                                                           |      15 | Token-efficient MCP client: TypeScript schemas instead of JSON, LLM-friendly syntax, batch calls, TOON output. Built for Claude/GPT automations.                 |
+| alonw0/llm-docs-optimizer                                                   |      15 | A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through…  |
 | metacore-stack/hololingo                                                    |      13 | high-fidelity book translation with large language models, synchronizing chapters, context, and revisions for multilingual publishing.                           |
+| smthemex/ComfyUI_Step_Audio_EditX_SM                                        |      13 | Step_Audio_EditX：the first open-source LLM-based audio model excelling at expressive and iterative audio editing—encompassing emotion, speaking style, and para… |
 | woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models |      13 | 🔥[AAAI 2026, Official Code] Regression Over Classification: Assessing Image Aesthetics via Multimodal Large Language Models. 克服大模型在美学评估过程中对分数不敏感的问题              |
-| smthemex/ComfyUI_Step_Audio_EditX_SM                                        |      11 | Step_Audio_EditX：the first open-source LLM-based audio model excelling at expressive and iterative audio editing—encompassing emotion, speaking style, and para… |
-| alonw0/llm-docs-optimizer                                                   |      10 | A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through…  |
+| Unmortan-Ellary/Vascura-FRONT                                               |      11 | Bloat Free, Portable and Lightweight LLM Frontend (Single HTML file).                                                                                            |
+| aibrix/PrisKV                                                               |      10 | High Performance KV Cache Store for LLM                                                                                                                          |
+| brinhosa/awesome-ai-security                                                |      10 | A collection of awesome AI Security, LLM Security, and Prompt Injection tools and resources.                                                                     |
 | metacore-stack/llm-temporal-intel                                           |      10 | Exploring how large language models can learn, interpret, and forecast complex time-series patterns.                                                             |
+| AQ-MedAI/MedEQBench                                                         |       9 | The MedEQBench is the first evaluation suite specifically designed for medical contexts to assess Large Language Models' (LLMs) capabilities in emotional perce… |
 | FeiLiu36/EoH-S                                                              |       9 | Evolution of Heuristic Set using LLMs for Automated Heuristic Design                                                                                             |
-| AQ-MedAI/MedEQBench                                                         |       8 | The MedEQBench is the first evaluation suite specifically designed for medical contexts to assess Large Language Models' (LLMs) capabilities in emotional perce… |
-| P-Bhanu-Sohan/DataVault                                                     |       8 | HACK UMASS XIII - Winner!: Best use of Vultr Cloud. A framework to allow training of LLMs on sensitive data while maintaining privacy                            |
-| Unmortan-Ellary/Vascura-FRONT                                               |       8 | Bloat Free, Portable and Lightweight LLM Frontend (Single HTML file).                                                                                            |
-| aibrix/PrisKV                                                               |       8 | High Performance KV Cache Store for LLM                                                                                                                          |
-| brinhosa/awesome-ai-security                                                |       8 | A collection of awesome AI Security, LLM Security, and Prompt Injection tools and resources.                                                                     |
 | metacore-stack/llm-automate-food-ordering                                   |       8 | LLM-driven food ordering demo that pairs an autonomous voice assistant with function-calling, RAG-powered restaurant search, and a full-stack UI to simulate en… |
 | limyewjin/llm-bash                                                          |       7 | A Bash framework following UNIX philosophy for building LLM-powered agent workflows with prompt chaining, orchestration, and intelligent routing patterns.       |
+| YXNTU/EHRStruct                                                             |       6 | This repository contains the official implementation of the paper: "EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language Models on Stru… |
+| lorine93s/polymarket-ai-market-suggestor                                    |       6 | Polymarket AI market suggestor that blends real-time news, social sentiment, and on-chain trends to propose new prediction markets with LLM reasoning, analytic… |
 | ultralytics/llm                                                             |       6 | Ultralytics LLM-related experiments                                                                                                                              |
-| williamrhancock/Interflow                                                   |       6 | A visual chained LLM response system, allowing you to drill in to specifics within the LLM response.                                                             |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -201,34 +205,28 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/) — 543 points
-- [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop) — 359 points
-- [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage) — 204 points
-- [IBM Patented Euler's 200 Year Old Math Technique for 'AI Interpretability'](https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions) — 155 points
-- [GPT-5.1 for Developers](https://openai.com/index/gpt-5-1-for-developers/) — 77 points
-- [Judge Orders OpenAI to Give Lawyers 20M Private Chats – 'Anonymization'](https://www.techdirt.com/2025/11/13/judge-orders-openai-to-give-lawyers-20-million-private-chats-thinks-anonymization-can-keep-them-private/) — 40 points
-- [Intel CEO to oversee its AI efforts after executive departs for OpenAI](https://www.reuters.com/business/intel-ceo-oversee-companys-ai-efforts-after-departure-exec-openai-2025-11-10/) — 20 points
-- [Firefox suggests tab groups with local AI](https://blog.mozilla.org/en/firefox/ai-tab-groups/) — 19 points
-- [OpenAI: Understanding neural networks through sparse circuits](https://openai.com/index/understanding-neural-networks-through-sparse-circuits/) — 9 points
-- [OpenAI lost a court battle against the New York Times](https://www.businessinsider.com/openai-new-york-times-copyright-infringement-lawsuit-chatgpt-logs-private-2025-11) — 9 points
-- [Happy holidays: AI-enabled toys teach kids how to play with fire, sharp objects](https://www.theregister.com/2025/11/13/ai_toys_fmatches_knives_kink/) — 8 points
-- [Writing is probably the worst use case of AI](https://www.sitepoint.com/worst-use-case-of-ai/) — 6 points
+- [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/) — 1170 points
+- [AI World Clocks](https://clocks.brianmoore.com/) — 861 points
+- [Oracle hit hard in Wall Street's tech sell-off over its AI bet](https://www.ft.com/content/583e9391-bdd0-433e-91e0-b1b93038d51e) — 206 points
+- [AI note-taking startup Fireflies was really two guys typing notes by hand](https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/) — 60 points
+- [Anthropic Rides an Artificial Wave](https://berryvilleiml.com/2025/11/14/houston-we-have-a-problem-anthropic-rides-an-artificial-wave/) — 56 points
+- [If the AI bubble does burst, taxpayers could end up with the bill](https://phys.org/news/2025-11-ai-taxpayers-bill.html) — 25 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE             |   CVSS | Summary                              |
-|-----------------|--------|--------------------------------------|
-| MAL-2025-190496 |      0 | Malicious code in loger-parser (npm) |
-|                 |      0 |                                      |
-|                 |      0 |                                      |
-|                 |      0 |                                      |
-|                 |      0 |                                      |
-|                 |      0 |                                      |
-|                 |      0 |                                      |
-|                 |      0 |                                      |
-|                 |      0 |                                      |
-|                 |      0 |                                      |
+| CVE                 |   CVSS | Summary                                                                                                                        |
+|---------------------|--------|--------------------------------------------------------------------------------------------------------------------------------|
+| GHSA-85rf-xh54-whp3 |      0 | Malicious URL drafting attack against iodines static file server may allow path traversal                                      |
+| GHSA-f3f8-vx3w-hp5q |      0 | codechecker vulnerable to authentication bypass when using specifically crafted URLs                                           |
+| GHSA-fpm5-2wcj-vfr7 |      0 | codechecker authentication method confusion vulnerability allows logging in as the built-in root user from an external service |
+| GHSA-jv9m-vf54-chjj |      0 | Flowise is vulnerable to arbitrary file write through its WriteFileTool                                                        |
+| GHSA-cf57-c578-7jvv |      0 | Anubis vulnerable to possible XSS via redir parameter when using subrequest auth mode                                          |
+| GHSA-j2pc-v64r-mv4f |      0 | Protobuf Maven Plugin protocDigest is ignored when using protoc from PATH                                                      |
+| GHSA-jc85-fpwf-qm7x |      0 | expr-eval does not restrict functions passed to the evaluate function                                                          |
+| GHSA-39hr-239p-fhqc |      0 | OpenAM: Using arbitrary OIDC requested claims values in id_token and user_info is allowed                                      |
+| GHSA-c978-wq47-pvvw |      0 | sudo-rs: Partial password reveal is possible after timeout                                                                     |
+| GHSA-3rg7-wf37-54rm |      0 | Symfony's incorrect parsing of PATH_INFO can lead to limited authorization bypass                                              |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
