@@ -1,35 +1,41 @@
-fetched_at: '2025-11-15T05:31:23Z'
-generated_at: '2025-11-15T05:31:23Z'
-hash: 06e5c92246a591301791d1e55c02947be3d187e74fb9b9fcef2798d182b3eab4
+fetched_at: '2025-11-16T05:31:37Z'
+generated_at: '2025-11-16T05:31:37Z'
+hash: 863161abf7792bcd5d1605d56a925d0a7934d1668bd09b90fa143eb480006d3a
 items:
-- id: 45926779
-  score: 1170
-  time: '2025-11-14T14:05:00Z'
-  title: I think nobody wants AI in Firefox, Mozilla
-  url: https://manualdousuario.net/en/mozilla-firefox-window-ai/
-- id: 45930151
-  score: 861
-  time: '2025-11-14T18:35:22Z'
-  title: AI World Clocks
-  url: https://clocks.brianmoore.com/
-- id: 45927435
-  score: 206
-  time: '2025-11-14T15:04:22Z'
-  title: Oracle hit hard in Wall Street's tech sell-off over its AI bet
-  url: https://www.ft.com/content/583e9391-bdd0-433e-91e0-b1b93038d51e
-- id: 45934447
-  score: 60
-  time: '2025-11-15T02:11:43Z'
-  title: AI note-taking startup Fireflies was really two guys typing notes by hand
-  url: https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/
-- id: 45931552
-  score: 56
-  time: '2025-11-14T20:06:31Z'
-  title: Anthropic Rides an Artificial Wave
-  url: https://berryvilleiml.com/2025/11/14/houston-we-have-a-problem-anthropic-rides-an-artificial-wave/
-- id: 45932474
-  score: 25
-  time: '2025-11-14T21:36:00Z'
-  title: If the AI bubble does burst, taxpayers could end up with the bill
-  url: https://phys.org/news/2025-11-ai-taxpayers-bill.html
+- id: 45941441
+  score: 86
+  time: '2025-11-15T23:30:04Z'
+  title: Blocking LLM crawlers without JavaScript
+  url: https://www.owl.is/blogg/blocking-crawlers-without-javascript/
+- id: 45938815
+  score: 33
+  time: '2025-11-15T17:04:23Z'
+  title: I implemented an ISO 42001-certified AI Governance program in 6 months
+  url: https://beabytes.com/iso42001-certified-ai-governance/
+- id: 45935970
+  score: 13
+  time: '2025-11-15T08:42:33Z'
+  title: 'EyesOff: How I built a screen contact detection model'
+  url: https://ym2132.github.io/building_EyesOff_part2_model_training
+- id: 45942581
+  score: 11
+  time: '2025-11-16T03:42:54Z'
+  title: Yann LeCun Has Been Right About AI for 40 Years. Now He Thinks Everyone Is
+    Wrong
+  url: https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c
+- id: 45935582
+  score: 7
+  time: '2025-11-15T07:03:08Z'
+  title: 'Correction: Anthropic attack did not have 1000/s requests'
+  url: https://www.anthropic.com/news/disrupting-AI-espionage?correction
+- id: 45937432
+  score: 6
+  time: '2025-11-15T13:46:41Z'
+  title: 'Reauthoring and Converting models for edge inference: MambaV2 on LiteRT'
+  url: https://sachinjoglekar.substack.com/p/reauthoring-and-converting-models
+- id: 45941168
+  score: 3
+  time: '2025-11-15T22:42:45Z'
+  title: 'Shattering the Illusion: Maker Achieves Million-Step, Zero-Error LLM Reasoning'
+  url: https://www.cognizant.com/us/en/ai-lab/blog/maker
 source_url: https://hacker-news.firebaseio.com/

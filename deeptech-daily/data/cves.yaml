@@ -1,51 +1,45 @@
-fetched_at: '2025-11-15T05:31:23Z'
-generated_at: '2025-11-15T05:31:23Z'
-hash: 0852ef2bbc69ba73962d50b414822435fa54c261c5b479fc154aa789d7857458
+fetched_at: '2025-11-16T05:31:37Z'
+generated_at: '2025-11-16T05:31:37Z'
+hash: 18409ad9655308fb4402c483f8e868f3d93c460c04849c5f988777fbdffb2f6d
 items:
 - cvss: 0.0
-  id: GHSA-85rf-xh54-whp3
-  published: '2019-10-07T16:52:13Z'
-  summary: Malicious URL drafting attack against iodines static file server may allow
-    path traversal
+  id: null
+  published: '2025-11-16T05:31:37Z'
+  summary: ''
 - cvss: 0.0
-  id: GHSA-f3f8-vx3w-hp5q
-  published: '2024-11-06T15:57:08Z'
-  summary: codechecker vulnerable to authentication bypass when using specifically
-    crafted URLs
+  id: null
+  published: '2025-11-16T05:31:37Z'
+  summary: ''
 - cvss: 0.0
-  id: GHSA-fpm5-2wcj-vfr7
-  published: '2024-11-06T15:57:57Z'
-  summary: codechecker authentication method confusion vulnerability allows logging
-    in as the built-in root user from an external service
+  id: null
+  published: '2025-11-16T05:31:37Z'
+  summary: ''
 - cvss: 0.0
-  id: GHSA-jv9m-vf54-chjj
-  published: '2025-10-09T15:21:39Z'
-  summary: Flowise is vulnerable to arbitrary file write through its WriteFileTool
+  id: null
+  published: '2025-11-16T05:31:37Z'
+  summary: ''
 - cvss: 0.0
-  id: GHSA-cf57-c578-7jvv
-  published: '2025-10-30T17:08:12Z'
-  summary: Anubis vulnerable to possible XSS via redir parameter when using subrequest
-    auth mode
+  id: null
+  published: '2025-11-16T05:31:37Z'
+  summary: ''
 - cvss: 0.0
-  id: GHSA-j2pc-v64r-mv4f
-  published: '2025-11-04T15:48:09Z'
-  summary: Protobuf Maven Plugin protocDigest is ignored when using protoc from PATH
+  id: null
+  published: '2025-11-16T05:31:37Z'
+  summary: ''
 - cvss: 0.0
-  id: GHSA-jc85-fpwf-qm7x
-  published: '2025-11-05T03:30:23Z'
-  summary: expr-eval does not restrict functions passed to the evaluate function
+  id: null
+  published: '2025-11-16T05:31:37Z'
+  summary: ''
 - cvss: 0.0
-  id: GHSA-39hr-239p-fhqc
-  published: '2025-11-12T21:27:22Z'
-  summary: 'OpenAM: Using arbitrary OIDC requested claims values in id_token and user_info
-    is allowed'
+  id: null
+  published: '2025-11-16T05:31:37Z'
+  summary: ''
 - cvss: 0.0
-  id: GHSA-c978-wq47-pvvw
-  published: '2025-11-12T21:30:11Z'
-  summary: 'sudo-rs: Partial password reveal is possible after timeout'
+  id: null
+  published: '2025-11-16T05:31:37Z'
+  summary: ''
 - cvss: 0.0
-  id: GHSA-3rg7-wf37-54rm
-  published: '2025-11-12T21:50:37Z'
-  summary: Symfony's incorrect parsing of PATH_INFO can lead to limited authorization
-    bypass
+  id: null
+  published: '2025-11-16T05:31:37Z'
+  summary: ''
 source_url: https://cve.circl.lu/api/last
