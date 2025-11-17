@@ -1,12 +1,12 @@
-fetched_at: '2025-11-16T05:31:37Z'
-generated_at: '2025-11-16T05:31:37Z'
-hash: 6c35ebdb3fffad169eccce29e721b5c6b47769f3834383c50807a9bf32603a0e
+fetched_at: '2025-11-17T05:33:26Z'
+generated_at: '2025-11-17T05:33:26Z'
+hash: 9fd2b863b529bb93a949bc82d338ab83be40c054ecb64dd3ba15ef8324bad678
 items:
 - created_at: '2025-11-11T02:58:33Z'
   description: 'Toonify: Compact data format reducing LLM token usage by 30-60%'
   full_name: ScrapeGraphAI/toonify
   html_url: https://github.com/ScrapeGraphAI/toonify
-  stargazers_count: 171
+  stargazers_count: 180
 - created_at: '2025-11-11T17:50:02Z'
   description: 'The open-source code for the NeurIPS 2025 paper, "Beyond the 80/20
     Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for
@@ -14,29 +14,42 @@ items:
   full_name: Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR
   html_url: https://github.com/Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR
   stargazers_count: 26
-- created_at: '2025-11-13T10:06:42Z'
-  description: A Claude Code plugin that optimizes documentation for AI coding assistants
-    like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through…
-  full_name: alonw0/llm-docs-optimizer
-  html_url: https://github.com/alonw0/llm-docs-optimizer
-  stargazers_count: 24
 - created_at: '2025-11-13T09:45:37Z'
   description: 'Official implementation of URaG: Unified Retrieval and Generation
     in Multimodal LLMs for Efficient Long Document Understanding (AAAI 2026 Oral).'
   full_name: shi-yx/URaG
   html_url: https://github.com/shi-yx/URaG
-  stargazers_count: 23
+  stargazers_count: 26
+- created_at: '2025-11-13T10:06:42Z'
+  description: A Claude Code plugin that optimizes documentation for AI coding assistants
+    like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through…
+  full_name: alonw0/llm-docs-optimizer
+  html_url: https://github.com/alonw0/llm-docs-optimizer
+  stargazers_count: 25
+- created_at: '2025-11-13T07:05:28Z'
+  description: Polymarket AI market suggestor that blends real-time news, social sentiment,
+    and on-chain trends to propose new prediction markets with LLM reasoning, analytic…
+  full_name: lorine93s/polymarket-ai-market-suggestor
+  html_url: https://github.com/lorine93s/polymarket-ai-market-suggestor
+  stargazers_count: 16
 - created_at: '2025-11-11T02:57:18Z'
   description: 'Token-efficient MCP client: TypeScript schemas instead of JSON, LLM-friendly
     syntax, batch calls, TOON output. Built for Claude/GPT automations.'
   full_name: AIGC-Hackers/mcpx
   html_url: https://github.com/AIGC-Hackers/mcpx
   stargazers_count: 15
-- created_at: '2025-11-13T07:05:28Z'
-  description: Polymarket AI market suggestor that blends real-time news, social sentiment,
-    and on-chain trends to propose new prediction markets with LLM reasoning, analytic…
-  full_name: lorine93s/polymarket-ai-market-suggestor
-  html_url: https://github.com/lorine93s/polymarket-ai-market-suggestor
+- created_at: '2025-11-11T01:09:33Z'
+  description: Step_Audio_EditX：the first open-source LLM-based audio model excelling
+    at expressive and iterative audio editing—encompassing emotion, speaking style,
+    and para…
+  full_name: smthemex/ComfyUI_Step_Audio_EditX_SM
+  html_url: https://github.com/smthemex/ComfyUI_Step_Audio_EditX_SM
+  stargazers_count: 15
+- created_at: '2025-11-13T13:52:57Z'
+  description: A collection of awesome AI Security, LLM Security, and Prompt Injection
+    tools and resources.
+  full_name: brinhosa/awesome-ai-security
+  html_url: https://github.com/brinhosa/awesome-ai-security
   stargazers_count: 13
 - created_at: '2025-11-12T12:52:17Z'
   description: high-fidelity book translation with large language models, synchronizing
@@ -44,35 +57,28 @@ items:
   full_name: metacore-stack/hololingo
   html_url: https://github.com/metacore-stack/hololingo
   stargazers_count: 13
-- created_at: '2025-11-11T01:09:33Z'
-  description: Step_Audio_EditX：the first open-source LLM-based audio model excelling
-    at expressive and iterative audio editing—encompassing emotion, speaking style,
-    and para…
-  full_name: smthemex/ComfyUI_Step_Audio_EditX_SM
-  html_url: https://github.com/smthemex/ComfyUI_Step_Audio_EditX_SM
-  stargazers_count: 13
-- created_at: '2025-11-10T06:43:56Z'
-  description: '🔥[AAAI 2026, Official Code] Regression Over Classification: Assessing
-    Image Aesthetics via Multimodal Large Language Models. 克服大模型在美学评估过程中对分数不敏感的问题'
-  full_name: woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models
-  html_url: https://github.com/woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models
-  stargazers_count: 13
 - created_at: '2025-11-13T07:00:23Z'
   description: 'FLUX: Format for LLM Understanding and eXchange'
   full_name: namakshenas/FLUX
   html_url: https://github.com/namakshenas/FLUX
   stargazers_count: 12
+- created_at: '2025-11-17T03:01:50Z'
+  description: '"FastAgent: Simple, Fast, and Strong LLM Agents"'
+  full_name: HKUDS/FastAgent
+  html_url: https://github.com/HKUDS/FastAgent
+  stargazers_count: 11
 - created_at: '2025-11-12T20:05:27Z'
   description: Bloat Free, Portable and Lightweight LLM Frontend (Single HTML file).
   full_name: Unmortan-Ellary/Vascura-FRONT
   html_url: https://github.com/Unmortan-Ellary/Vascura-FRONT
   stargazers_count: 11
-- created_at: '2025-11-13T13:52:57Z'
-  description: A collection of awesome AI Security, LLM Security, and Prompt Injection
-    tools and resources.
-  full_name: brinhosa/awesome-ai-security
-  html_url: https://github.com/brinhosa/awesome-ai-security
-  stargazers_count: 11
+- created_at: '2025-11-16T05:14:45Z'
+  description: Kylin-OM (银河麒麟操作系统智能运维软件) is an intelligent O&M platform designed for
+    the Kylin operating system, integrating AI large language models, multi-agent
+    architectur…
+  full_name: WilliamLCui/Kylin-OM
+  html_url: https://github.com/WilliamLCui/Kylin-OM
+  stargazers_count: 10
 - created_at: '2025-11-11T03:35:39Z'
   description: High Performance KV Cache Store for LLM
   full_name: aibrix/PrisKV
@@ -84,13 +90,13 @@ items:
   full_name: metacore-stack/llm-temporal-intel
   html_url: https://github.com/metacore-stack/llm-temporal-intel
   stargazers_count: 10
-- created_at: '2025-11-10T07:45:49Z'
-  description: The MedEQBench is the first evaluation suite specifically designed
-    for medical contexts to assess Large Language Models' (LLMs) capabilities in emotional
-    perce…
-  full_name: AQ-MedAI/MedEQBench
-  html_url: https://github.com/AQ-MedAI/MedEQBench
-  stargazers_count: 9
+- created_at: '2025-11-15T17:05:22Z'
+  description: This project demonstrates how to build a multi-agent AI automation
+    framework using the Model Context Protocol (MCP). The setup enables LLMs (Claude
+    AI in this…
+  full_name: sarthak1095/Redefining-QA-Multi-Agent-AI-Automation-Using-MCP-Protocol
+  html_url: https://github.com/sarthak1095/Redefining-QA-Multi-Agent-AI-Automation-Using-MCP-Protocol
+  stargazers_count: 10
 - created_at: '2025-11-11T11:34:01Z'
   description: Evolution of Heuristic Set using LLMs for Automated Heuristic Design
   full_name: FeiLiu36/EoH-S
@@ -109,17 +115,11 @@ items:
   full_name: metacore-stack/llm-automate-food-ordering
   html_url: https://github.com/metacore-stack/llm-automate-food-ordering
   stargazers_count: 8
-- created_at: '2025-11-10T19:17:06Z'
-  description: A Bash framework following UNIX philosophy for building LLM-powered
-    agent workflows with prompt chaining, orchestration, and intelligent routing patterns.
-  full_name: limyewjin/llm-bash
-  html_url: https://github.com/limyewjin/llm-bash
-  stargazers_count: 7
-- created_at: '2025-11-10T05:40:08Z'
-  description: 'This repository contains the official implementation of the paper:
-    "EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language
-    Models on Stru…'
-  full_name: YXNTU/EHRStruct
-  html_url: https://github.com/YXNTU/EHRStruct
+- created_at: '2025-11-11T02:48:11Z'
+  description: ASON (Aliased Serialization Object Notation) is a serialization format
+    designed to optimize token consumption in LLM (Large Language Model) contexts
+    while main…
+  full_name: ason-format/ason
+  html_url: https://github.com/ason-format/ason
   stargazers_count: 6
 source_url: https://api.github.com/search/repositories

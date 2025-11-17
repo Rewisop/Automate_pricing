@@ -38,17 +38,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -132,23 +134,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [An Efficient and Almost Optimal Solver for the Joint Routing-Assignment Problem via Partial JRA and Large-{lpha} Optimization](https://arxiv.org/abs/2511.09563) — arXiv:2511.09563v1 Announce Type: new  Abstract: The Joint Routing-Assignment (JRA) optimization problem simultaneously determines the assignment of items to p…
-- [Variable Neighborhood Search for the Electric Vehicle Routing Problem](https://arxiv.org/abs/2511.09570) — arXiv:2511.09570v1 Announce Type: new  Abstract: The Electric Vehicle Routing Problem (EVRP) extends the classical Vehicle Routing Problem (VRP) to reflect the…
-- [SynthTools: A Framework for Scaling Synthetic Tools for Agent Development](https://arxiv.org/abs/2511.09572) — arXiv:2511.09572v1 Announce Type: new  Abstract: AI agents increasingly rely on external tools to solve complex, long-horizon tasks. Advancing such agents requ…
-- [Proceedings of the Second International Workshop on Next-Generation Language Models for Knowledge Representation and Reasoning (NeLaMKRR 2025)](https://arxiv.org/abs/2511.09575) — arXiv:2511.09575v1 Announce Type: new  Abstract: Reasoning is an essential component of human intelligence in that it plays a fundamental role in our ability t…
-- [Cogent argument extensions are weakly admissible but not vice versa](https://arxiv.org/abs/2511.09600) — arXiv:2511.09600v1 Announce Type: new  Abstract: In this research note, we show the relationship between two non-admissible argumentation framework semantics:…
-- [Rebellion: Noise-Robust Reasoning Training for Audio Reasoning Models](https://arxiv.org/abs/2511.09682) — arXiv:2511.09682v1 Announce Type: new  Abstract: Instilling reasoning capabilities in large models (LMs) using reasoning training (RT) significantly improves L…
-- [Echoing: Identity Failures when LLM Agents Talk to Each Other](https://arxiv.org/abs/2511.09710) — arXiv:2511.09710v1 Announce Type: new  Abstract: As large language model (LLM) based agents interact autonomously with one another, a new class of failures eme…
-- [ProbLog4Fairness: A Neurosymbolic Approach to Modeling and Mitigating Bias](https://arxiv.org/abs/2511.09768) — arXiv:2511.09768v1 Announce Type: new  Abstract: Operationalizing definitions of fairness is difficult in practice, as multiple definitions can be incompatible…
-- [AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics](https://arxiv.org/abs/2511.09785) — arXiv:2511.09785v1 Announce Type: new  Abstract: Large Language Models (LLMs) are increasingly used to annotate learning interactions, yet concerns about relia…
-- [Why Open Small AI Models Matter for Interactive Art](https://arxiv.org/abs/2511.09788) — arXiv:2511.09788v1 Announce Type: new  Abstract: This position paper argues for the importance of open small AI models in creative independence for interactive…
-- [SlideBot: A Multi-Agent Framework for Generating Informative, Reliable, Multi-Modal Presentations](https://arxiv.org/abs/2511.09804) — arXiv:2511.09804v1 Announce Type: new  Abstract: Large Language Models (LLMs) have shown immense potential in education, automating tasks like quiz generation…
-- [Robust Watermarking on Gradient Boosting Decision Trees](https://arxiv.org/abs/2511.09822) — arXiv:2511.09822v1 Announce Type: new  Abstract: Gradient Boosting Decision Trees (GBDTs) are widely used in industry and academia for their high accuracy and…
-- [Thermally Activated Dual-Modal Adversarial Clothing against AI Surveillance Systems](https://arxiv.org/abs/2511.09829) — arXiv:2511.09829v1 Announce Type: new  Abstract: Adversarial patches have emerged as a popular privacy-preserving approach for resisting AI-driven surveillance…
-- [Quantum Artificial Intelligence (QAI): Foundations, Architectural Elements, and Future Directions](https://arxiv.org/abs/2511.09884) — arXiv:2511.09884v1 Announce Type: new  Abstract: Mission critical (MC) applications such as defense operations, energy management, cybersecurity, and aerospace…
-- [EgoEMS: A High-Fidelity Multimodal Egocentric Dataset for Cognitive Assistance in Emergency Medical Services](https://arxiv.org/abs/2511.09894) — arXiv:2511.09894v1 Announce Type: new  Abstract: Emergency Medical Services (EMS) are critical to patient survival in emergencies, but first responders often f…
-
-_Showing cached data from 2025-11-14T05:32:29Z. Refresh failed: no arXiv entries retrieved._
+- [The Second Law of Intelligence: Controlling Ethical Entropy in Autonomous Systems](https://arxiv.org/abs/2511.10704) — arXiv:2511.10704v1 Announce Type: new  Abstract: We propose that unconstrained artificial intelligence obeys a Second Law analogous to thermodynamics, where et…
+- [Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents](https://arxiv.org/abs/2511.10705) — arXiv:2511.10705v1 Announce Type: new  Abstract: Graphical User Interface (GUI) task automation constitutes a critical frontier in artificial intelligence rese…
+- [Picking a Representative Set of Solutions in Multiobjective Optimization: Axioms, Algorithms, and Experiments](https://arxiv.org/abs/2511.10716) — arXiv:2511.10716v1 Announce Type: new  Abstract: Many real-world decision-making problems involve optimizing multiple objectives simultaneously, rendering the…
+- [Structure-Aware Encodings of Argumentation Properties for Clique-width](https://arxiv.org/abs/2511.10767) — arXiv:2511.10767v1 Announce Type: new  Abstract: Structural measures of graphs, such as treewidth, are central tools in computational complexity resulting in e…
+- [Potential Outcome Rankings for Counterfactual Decision Making](https://arxiv.org/abs/2511.10776) — arXiv:2511.10776v1 Announce Type: new  Abstract: Counterfactual decision-making in the face of uncertainty involves selecting the optimal action from several a…
+- [From Efficiency to Adaptivity: A Deeper Look at Adaptive Reasoning in Large Language Models](https://arxiv.org/abs/2511.10788) — arXiv:2511.10788v1 Announce Type: new  Abstract: Recent advances in large language models (LLMs) have made reasoning a central benchmark for evaluating intelli…
+- [HARNESS: Human-Agent Risk Navigation and Event Safety System for Proactive Hazard Forecasting in High-Risk DOE Environments](https://arxiv.org/abs/2511.10810) — arXiv:2511.10810v1 Announce Type: new  Abstract: Operational safety at mission-critical work sites is a top priority given the complex and hazardous nature of…
+- [HyperComplEx: Adaptive Multi-Space Knowledge Graph Embeddings](https://arxiv.org/abs/2511.10842) — arXiv:2511.10842v1 Announce Type: new  Abstract: Knowledge graphs have emerged as fundamental structures for representing complex relational data across scient…
+- [Advanced Tool for Traffic Crash Analysis: An AI-Driven Multi-Agent Approach to Pre-Crash Reconstruction](https://arxiv.org/abs/2511.10853) — arXiv:2511.10853v1 Announce Type: new  Abstract: Traffic collision reconstruction traditionally relies on human expertise, often yielding inconsistent results…
+- [Enhancing Demand-Oriented Regionalization with Agentic AI and Local Heterogeneous Data for Adaptation Planning](https://arxiv.org/abs/2511.10857) — arXiv:2511.10857v1 Announce Type: new  Abstract: Conventional planning units or urban regions, such as census tracts, zip codes, or neighborhoods, often do not…
+- [LLM enhanced graph inference for long-term disease progression modelling](https://arxiv.org/abs/2511.10890) — arXiv:2511.10890v1 Announce Type: new  Abstract: Understanding the interactions between biomarkers among brain regions during neurodegenerative disease is esse…
+- [Multi-Agent Legal Verifier Systems for Data Transfer Planning](https://arxiv.org/abs/2511.10925) — arXiv:2511.10925v1 Announce Type: new  Abstract: Legal compliance in AI-driven data transfer planning is becoming increasingly critical under stringent privacy…
+- [Requirements for Aligned, Dynamic Resolution of Conflicts in Operational Constraints](https://arxiv.org/abs/2511.10952) — arXiv:2511.10952v1 Announce Type: new  Abstract: Deployed, autonomous AI systems must often evaluate multiple plausible courses of action (extended sequences o…
+- [AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce](https://arxiv.org/abs/2511.11017) — arXiv:2511.11017v1 Announce Type: new  Abstract: The rapid expansion of e-commerce platforms generates vast amounts of unstructured product data, creating sign…
+- [Faster Symmetry Breaking Constraints for Abstract Structures](https://arxiv.org/abs/2511.11029) — arXiv:2511.11029v1 Announce Type: new  Abstract: In constraint programming and related paradigms, a modeller specifies their problem in a modelling language fo…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -176,28 +176,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                                                  |   Stars | Description                                                                                                                                                      |
-|-----------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ScrapeGraphAI/toonify                                                       |     171 | Toonify: Compact data format reducing LLM token usage by 30-60%                                                                                                  |
-| Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR                                     |      26 | The open-source code for the NeurIPS 2025 paper, "Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning." |
-| alonw0/llm-docs-optimizer                                                   |      24 | A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through…  |
-| shi-yx/URaG                                                                 |      23 | Official implementation of URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding (AAAI 2026 Oral).                 |
-| AIGC-Hackers/mcpx                                                           |      15 | Token-efficient MCP client: TypeScript schemas instead of JSON, LLM-friendly syntax, batch calls, TOON output. Built for Claude/GPT automations.                 |
-| lorine93s/polymarket-ai-market-suggestor                                    |      13 | Polymarket AI market suggestor that blends real-time news, social sentiment, and on-chain trends to propose new prediction markets with LLM reasoning, analytic… |
-| metacore-stack/hololingo                                                    |      13 | high-fidelity book translation with large language models, synchronizing chapters, context, and revisions for multilingual publishing.                           |
-| smthemex/ComfyUI_Step_Audio_EditX_SM                                        |      13 | Step_Audio_EditX：the first open-source LLM-based audio model excelling at expressive and iterative audio editing—encompassing emotion, speaking style, and para… |
-| woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models |      13 | 🔥[AAAI 2026, Official Code] Regression Over Classification: Assessing Image Aesthetics via Multimodal Large Language Models. 克服大模型在美学评估过程中对分数不敏感的问题              |
-| namakshenas/FLUX                                                            |      12 | FLUX: Format for LLM Understanding and eXchange                                                                                                                  |
-| Unmortan-Ellary/Vascura-FRONT                                               |      11 | Bloat Free, Portable and Lightweight LLM Frontend (Single HTML file).                                                                                            |
-| brinhosa/awesome-ai-security                                                |      11 | A collection of awesome AI Security, LLM Security, and Prompt Injection tools and resources.                                                                     |
-| aibrix/PrisKV                                                               |      10 | High Performance KV Cache Store for LLM                                                                                                                          |
-| metacore-stack/llm-temporal-intel                                           |      10 | Exploring how large language models can learn, interpret, and forecast complex time-series patterns.                                                             |
-| AQ-MedAI/MedEQBench                                                         |       9 | The MedEQBench is the first evaluation suite specifically designed for medical contexts to assess Large Language Models' (LLMs) capabilities in emotional perce… |
-| FeiLiu36/EoH-S                                                              |       9 | Evolution of Heuristic Set using LLMs for Automated Heuristic Design                                                                                             |
-| h9-tec/lumina-ai                                                            |       9 | AI-powered meeting assistant that auto-joins Google Meet, records,   transcribes , and generates structured minutes using local   LLMs                           |
-| metacore-stack/llm-automate-food-ordering                                   |       8 | LLM-driven food ordering demo that pairs an autonomous voice assistant with function-calling, RAG-powered restaurant search, and a full-stack UI to simulate en… |
-| limyewjin/llm-bash                                                          |       7 | A Bash framework following UNIX philosophy for building LLM-powered agent workflows with prompt chaining, orchestration, and intelligent routing patterns.       |
-| YXNTU/EHRStruct                                                             |       6 | This repository contains the official implementation of the paper: "EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language Models on Stru… |
+| Repository                                                             |   Stars | Description                                                                                                                                                      |
+|------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ScrapeGraphAI/toonify                                                  |     180 | Toonify: Compact data format reducing LLM token usage by 30-60%                                                                                                  |
+| Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR                                |      26 | The open-source code for the NeurIPS 2025 paper, "Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning." |
+| shi-yx/URaG                                                            |      26 | Official implementation of URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding (AAAI 2026 Oral).                 |
+| alonw0/llm-docs-optimizer                                              |      25 | A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through…  |
+| lorine93s/polymarket-ai-market-suggestor                               |      16 | Polymarket AI market suggestor that blends real-time news, social sentiment, and on-chain trends to propose new prediction markets with LLM reasoning, analytic… |
+| AIGC-Hackers/mcpx                                                      |      15 | Token-efficient MCP client: TypeScript schemas instead of JSON, LLM-friendly syntax, batch calls, TOON output. Built for Claude/GPT automations.                 |
+| smthemex/ComfyUI_Step_Audio_EditX_SM                                   |      15 | Step_Audio_EditX：the first open-source LLM-based audio model excelling at expressive and iterative audio editing—encompassing emotion, speaking style, and para… |
+| brinhosa/awesome-ai-security                                           |      13 | A collection of awesome AI Security, LLM Security, and Prompt Injection tools and resources.                                                                     |
+| metacore-stack/hololingo                                               |      13 | high-fidelity book translation with large language models, synchronizing chapters, context, and revisions for multilingual publishing.                           |
+| namakshenas/FLUX                                                       |      12 | FLUX: Format for LLM Understanding and eXchange                                                                                                                  |
+| HKUDS/FastAgent                                                        |      11 | "FastAgent: Simple, Fast, and Strong LLM Agents"                                                                                                                 |
+| Unmortan-Ellary/Vascura-FRONT                                          |      11 | Bloat Free, Portable and Lightweight LLM Frontend (Single HTML file).                                                                                            |
+| WilliamLCui/Kylin-OM                                                   |      10 | Kylin-OM (银河麒麟操作系统智能运维软件) is an intelligent O&M platform designed for the Kylin operating system, integrating AI large language models, multi-agent architectur… |
+| aibrix/PrisKV                                                          |      10 | High Performance KV Cache Store for LLM                                                                                                                          |
+| metacore-stack/llm-temporal-intel                                      |      10 | Exploring how large language models can learn, interpret, and forecast complex time-series patterns.                                                             |
+| sarthak1095/Redefining-QA-Multi-Agent-AI-Automation-Using-MCP-Protocol |      10 | This project demonstrates how to build a multi-agent AI automation framework using the Model Context Protocol (MCP). The setup enables LLMs (Claude AI in this…  |
+| FeiLiu36/EoH-S                                                         |       9 | Evolution of Heuristic Set using LLMs for Automated Heuristic Design                                                                                             |
+| h9-tec/lumina-ai                                                       |       9 | AI-powered meeting assistant that auto-joins Google Meet, records,   transcribes , and generates structured minutes using local   LLMs                           |
+| metacore-stack/llm-automate-food-ordering                              |       8 | LLM-driven food ordering demo that pairs an autonomous voice assistant with function-calling, RAG-powered restaurant search, and a full-stack UI to simulate en… |
+| ason-format/ason                                                       |       6 | ASON (Aliased Serialization Object Notation) is a serialization format designed to optimize token consumption in LLM (Large Language Model) contexts while main… |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -207,29 +207,32 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Blocking LLM crawlers without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/) — 86 points
-- [I implemented an ISO 42001-certified AI Governance program in 6 months](https://beabytes.com/iso42001-certified-ai-governance/) — 33 points
-- [EyesOff: How I built a screen contact detection model](https://ym2132.github.io/building_EyesOff_part2_model_training) — 13 points
-- [Yann LeCun Has Been Right About AI for 40 Years. Now He Thinks Everyone Is Wrong](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c) — 11 points
-- [Correction: Anthropic attack did not have 1000/s requests](https://www.anthropic.com/news/disrupting-AI-espionage?correction) — 7 points
-- [Reauthoring and Converting models for edge inference: MambaV2 on LiteRT](https://sachinjoglekar.substack.com/p/reauthoring-and-converting-models) — 6 points
-- [Shattering the Illusion: Maker Achieves Million-Step, Zero-Error LLM Reasoning](https://www.cognizant.com/us/en/ai-lab/blog/maker) — 3 points
+- [Anthropic’s paper smells like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/) — 917 points
+- [Three kinds of AI products work](https://www.seangoedecke.com/ai-products/) — 117 points
+- [AI is killing privacy. We can't let that happen](https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps) — 94 points
+- [AI Is the Bubble to Burst Them All](https://www.wired.com/story/ai-bubble-will-burst/) — 48 points
+- [Windows president addresses current state of Windows 11 after AI backlash](https://www.windowscentral.com/microsoft/windows-11/windows-president-addresses-current-state-of-windows-11-after-ai-backlash-we-know-we-have-a-lot-of-work-to-do) — 26 points
+- [Meta is about to start grading workers on their AI skills](https://www.businessinsider.com/meta-ai-employee-performance-review-overhaul-2025-11) — 25 points
+- [How to turn off Copilot and protect your data from Microsoft's AI](https://proton.me/blog/turn-off-copilot) — 21 points
+- [The US AI Bubble Reminds Me of the Eve of China's Real Estate Collapse](https://jonathancc.substack.com/p/the-us-ai-bubble-reminds-me-of-the) — 19 points
+- [MCP: Model Context Pitfalls in an agentic world](https://hiddenlayer.com/innovation-hub/mcp-model-context-pitfalls-in-an-agentic-world/) — 11 points
+- [Private AI Compute](https://blog.google/technology/ai/google-private-ai-compute/) — 10 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE   |   CVSS | Summary   |
-|-------|--------|-----------|
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| GHSA-qc8j-wvjf-7jfj |      0 |           |
+| GHSA-6m34-78r8-ppcg |      0 |           |
+| GHSA-357h-9gq8-42jr |      0 |           |
+| GHSA-5fjw-vh88-cccm |      0 |           |
+| GHSA-mqq2-8v99-x556 |      0 |           |
+| GHSA-rpqm-qpjq-22jm |      0 |           |
+| GHSA-fp54-556c-2q63 |      0 |           |
+| GHSA-q53m-jpj6-g58x |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
