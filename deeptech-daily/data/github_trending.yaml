@@ -1,50 +1,52 @@
-fetched_at: '2025-11-17T05:33:26Z'
-generated_at: '2025-11-17T05:33:26Z'
-hash: 9fd2b863b529bb93a949bc82d338ab83be40c054ecb64dd3ba15ef8324bad678
+fetched_at: '2025-11-18T05:32:38Z'
+generated_at: '2025-11-18T05:32:38Z'
+hash: d9fb0dda6d7e266808d1cffd40ab2b781acf6eb1fd6ac30e68fbc86d7ea6c66a
 items:
-- created_at: '2025-11-11T02:58:33Z'
-  description: 'Toonify: Compact data format reducing LLM token usage by 30-60%'
-  full_name: ScrapeGraphAI/toonify
-  html_url: https://github.com/ScrapeGraphAI/toonify
-  stargazers_count: 180
-- created_at: '2025-11-11T17:50:02Z'
-  description: 'The open-source code for the NeurIPS 2025 paper, "Beyond the 80/20
-    Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for
-    LLM Reasoning."'
-  full_name: Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR
-  html_url: https://github.com/Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR
-  stargazers_count: 26
+- created_at: '2025-11-18T02:37:00Z'
+  description: Quick illustration of how one can easily read books together with LLMs.
+    It's great and I highly recommend it.
+  full_name: karpathy/reader3
+  html_url: https://github.com/karpathy/reader3
+  stargazers_count: 193
+- created_at: '2025-11-16T10:57:16Z'
+  description: The plug-and-play memory layer for LLMs. Add persistent, intelligent,
+    human-like memory and recall to any model in minutes.
+  full_name: divagr18/memlayer
+  html_url: https://github.com/divagr18/memlayer
+  stargazers_count: 73
 - created_at: '2025-11-13T09:45:37Z'
   description: 'Official implementation of URaG: Unified Retrieval and Generation
     in Multimodal LLMs for Efficient Long Document Understanding (AAAI 2026 Oral).'
   full_name: shi-yx/URaG
   html_url: https://github.com/shi-yx/URaG
-  stargazers_count: 26
+  stargazers_count: 28
 - created_at: '2025-11-13T10:06:42Z'
   description: A Claude Code plugin that optimizes documentation for AI coding assistants
     like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through…
   full_name: alonw0/llm-docs-optimizer
   html_url: https://github.com/alonw0/llm-docs-optimizer
-  stargazers_count: 25
+  stargazers_count: 26
 - created_at: '2025-11-13T07:05:28Z'
   description: Polymarket AI market suggestor that blends real-time news, social sentiment,
     and on-chain trends to propose new prediction markets with LLM reasoning, analytic…
   full_name: lorine93s/polymarket-ai-market-suggestor
   html_url: https://github.com/lorine93s/polymarket-ai-market-suggestor
-  stargazers_count: 16
-- created_at: '2025-11-11T02:57:18Z'
-  description: 'Token-efficient MCP client: TypeScript schemas instead of JSON, LLM-friendly
-    syntax, batch calls, TOON output. Built for Claude/GPT automations.'
-  full_name: AIGC-Hackers/mcpx
-  html_url: https://github.com/AIGC-Hackers/mcpx
-  stargazers_count: 15
-- created_at: '2025-11-11T01:09:33Z'
-  description: Step_Audio_EditX：the first open-source LLM-based audio model excelling
-    at expressive and iterative audio editing—encompassing emotion, speaking style,
-    and para…
-  full_name: smthemex/ComfyUI_Step_Audio_EditX_SM
-  html_url: https://github.com/smthemex/ComfyUI_Step_Audio_EditX_SM
-  stargazers_count: 15
+  stargazers_count: 22
+- created_at: '2025-11-14T18:06:17Z'
+  description: 2026 대입 수능 시험 LLM 풀이 결과 모음
+  full_name: hehee9/2026-CSAT
+  html_url: https://github.com/hehee9/2026-CSAT
+  stargazers_count: 19
+- created_at: '2025-11-17T03:01:50Z'
+  description: '"FastAgent: Simple, Fast, and Strong LLM Agents"'
+  full_name: HKUDS/FastAgent
+  html_url: https://github.com/HKUDS/FastAgent
+  stargazers_count: 13
+- created_at: '2025-11-12T20:05:27Z'
+  description: Bloat Free, Portable and Lightweight LLM Frontend (Single HTML file).
+  full_name: Unmortan-Ellary/Vascura-FRONT
+  html_url: https://github.com/Unmortan-Ellary/Vascura-FRONT
+  stargazers_count: 13
 - created_at: '2025-11-13T13:52:57Z'
   description: A collection of awesome AI Security, LLM Security, and Prompt Injection
     tools and resources.
@@ -57,21 +59,29 @@ items:
   full_name: metacore-stack/hololingo
   html_url: https://github.com/metacore-stack/hololingo
   stargazers_count: 13
+- created_at: '2025-11-14T18:44:30Z'
+  description: AI-powered meeting assistant that auto-joins Google Meet, records,   transcribes
+    , and generates structured minutes using local   LLMs
+  full_name: h9-tec/lumina-ai
+  html_url: https://github.com/h9-tec/lumina-ai
+  stargazers_count: 12
 - created_at: '2025-11-13T07:00:23Z'
   description: 'FLUX: Format for LLM Understanding and eXchange'
   full_name: namakshenas/FLUX
   html_url: https://github.com/namakshenas/FLUX
   stargazers_count: 12
-- created_at: '2025-11-17T03:01:50Z'
-  description: '"FastAgent: Simple, Fast, and Strong LLM Agents"'
-  full_name: HKUDS/FastAgent
-  html_url: https://github.com/HKUDS/FastAgent
+- created_at: '2025-11-15T17:05:22Z'
+  description: This project demonstrates how to build a multi-agent AI automation
+    framework using the Model Context Protocol (MCP). The setup enables LLMs (Claude
+    AI in this…
+  full_name: sarthak1095/Redefining-QA-Multi-Agent-AI-Automation-Using-MCP-Protocol
+  html_url: https://github.com/sarthak1095/Redefining-QA-Multi-Agent-AI-Automation-Using-MCP-Protocol
   stargazers_count: 11
-- created_at: '2025-11-12T20:05:27Z'
-  description: Bloat Free, Portable and Lightweight LLM Frontend (Single HTML file).
-  full_name: Unmortan-Ellary/Vascura-FRONT
-  html_url: https://github.com/Unmortan-Ellary/Vascura-FRONT
-  stargazers_count: 11
+- created_at: '2025-11-15T08:37:30Z'
+  description: 易金经——LLM驱动下融合数据底座和智能投资的金融服务解决方案
+  full_name: CUEB-QF-ZQS/YiJinJing
+  html_url: https://github.com/CUEB-QF-ZQS/YiJinJing
+  stargazers_count: 10
 - created_at: '2025-11-16T05:14:45Z'
   description: Kylin-OM (银河麒麟操作系统智能运维软件) is an intelligent O&M platform designed for
     the Kylin operating system, integrating AI large language models, multi-agent
@@ -79,34 +89,17 @@ items:
   full_name: WilliamLCui/Kylin-OM
   html_url: https://github.com/WilliamLCui/Kylin-OM
   stargazers_count: 10
-- created_at: '2025-11-11T03:35:39Z'
-  description: High Performance KV Cache Store for LLM
-  full_name: aibrix/PrisKV
-  html_url: https://github.com/aibrix/PrisKV
-  stargazers_count: 10
 - created_at: '2025-11-12T09:59:45Z'
   description: Exploring how large language models can learn, interpret, and forecast
     complex time-series patterns.
   full_name: metacore-stack/llm-temporal-intel
   html_url: https://github.com/metacore-stack/llm-temporal-intel
   stargazers_count: 10
-- created_at: '2025-11-15T17:05:22Z'
-  description: This project demonstrates how to build a multi-agent AI automation
-    framework using the Model Context Protocol (MCP). The setup enables LLMs (Claude
-    AI in this…
-  full_name: sarthak1095/Redefining-QA-Multi-Agent-AI-Automation-Using-MCP-Protocol
-  html_url: https://github.com/sarthak1095/Redefining-QA-Multi-Agent-AI-Automation-Using-MCP-Protocol
-  stargazers_count: 10
-- created_at: '2025-11-11T11:34:01Z'
-  description: Evolution of Heuristic Set using LLMs for Automated Heuristic Design
-  full_name: FeiLiu36/EoH-S
-  html_url: https://github.com/FeiLiu36/EoH-S
-  stargazers_count: 9
-- created_at: '2025-11-14T18:44:30Z'
-  description: AI-powered meeting assistant that auto-joins Google Meet, records,   transcribes
-    , and generates structured minutes using local   LLMs
-  full_name: h9-tec/lumina-ai
-  html_url: https://github.com/h9-tec/lumina-ai
+- created_at: '2025-11-15T11:05:50Z'
+  description: AI-powered autonomous trading agents for Polymarket prediction markets.
+    This framework enables developers to build sophisticated trading bots using state-of-th…
+  full_name: Eirik-star/PolyMarket-AI-agent-trading
+  html_url: https://github.com/Eirik-star/PolyMarket-AI-agent-trading
   stargazers_count: 9
 - created_at: '2025-11-12T03:23:10Z'
   description: LLM-driven food ordering demo that pairs an autonomous voice assistant
@@ -115,11 +108,16 @@ items:
   full_name: metacore-stack/llm-automate-food-ordering
   html_url: https://github.com/metacore-stack/llm-automate-food-ordering
   stargazers_count: 8
-- created_at: '2025-11-11T02:48:11Z'
-  description: ASON (Aliased Serialization Object Notation) is a serialization format
-    designed to optimize token consumption in LLM (Large Language Model) contexts
-    while main…
-  full_name: ason-format/ason
-  html_url: https://github.com/ason-format/ason
+- created_at: '2025-11-13T15:46:16Z'
+  description: Grounded Visual Token Sampling (GroundVTS), a Vid-LLM architecture
+    designed to enhance VTG performance through adaptive and efficient visual token
+    utilization.
+  full_name: Florence365/GroundVTS
+  html_url: https://github.com/Florence365/GroundVTS
   stargazers_count: 6
+- created_at: '2025-11-12T10:49:57Z'
+  description: A reading list for trustworthy audio large language models.
+  full_name: Kwwwww74/Awesome-Trustworthy-AudioLLMs
+  html_url: https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs
+  stargazers_count: 5
 source_url: https://api.github.com/search/repositories

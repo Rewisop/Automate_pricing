@@ -1,55 +1,37 @@
-fetched_at: '2025-11-17T05:33:26Z'
-generated_at: '2025-11-17T05:33:26Z'
-hash: 7b43b1768f3f3df96a4ddf4ff5b32c29ddabb11422ede79fda762a6c39cb0d73
+fetched_at: '2025-11-18T05:32:38Z'
+generated_at: '2025-11-18T05:32:38Z'
+hash: bc2e3e3caf162a61e47c3561bf433c34304b95117509ad2996f2b24bd409a00c
 items:
-- id: 45944296
-  score: 917
-  time: '2025-11-16T11:32:39Z'
-  title: Anthropic’s paper smells like bullshit
-  url: https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/
-- id: 45946498
-  score: 117
-  time: '2025-11-16T16:56:47Z'
-  title: Three kinds of AI products work
-  url: https://www.seangoedecke.com/ai-products/
-- id: 45947434
-  score: 94
-  time: '2025-11-16T18:56:31Z'
-  title: AI is killing privacy. We can't let that happen
-  url: https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps
-- id: 45947771
-  score: 48
-  time: '2025-11-16T19:39:56Z'
-  title: AI Is the Bubble to Burst Them All
-  url: https://www.wired.com/story/ai-bubble-will-burst/
-- id: 45945242
-  score: 26
-  time: '2025-11-16T14:05:40Z'
-  title: Windows president addresses current state of Windows 11 after AI backlash
-  url: https://www.windowscentral.com/microsoft/windows-11/windows-president-addresses-current-state-of-windows-11-after-ai-backlash-we-know-we-have-a-lot-of-work-to-do
-- id: 45947938
-  score: 25
-  time: '2025-11-16T20:00:03Z'
-  title: Meta is about to start grading workers on their AI skills
-  url: https://www.businessinsider.com/meta-ai-employee-performance-review-overhaul-2025-11
-- id: 45950104
-  score: 21
-  time: '2025-11-17T01:30:09Z'
-  title: How to turn off Copilot and protect your data from Microsoft's AI
-  url: https://proton.me/blog/turn-off-copilot
-- id: 45945321
-  score: 19
-  time: '2025-11-16T14:18:12Z'
-  title: The US AI Bubble Reminds Me of the Eve of China's Real Estate Collapse
-  url: https://jonathancc.substack.com/p/the-us-ai-bubble-reminds-me-of-the
-- id: 45944881
-  score: 11
-  time: '2025-11-16T13:13:12Z'
-  title: 'MCP: Model Context Pitfalls in an agentic world'
-  url: https://hiddenlayer.com/innovation-hub/mcp-model-context-pitfalls-in-an-agentic-world/
-- id: 45949338
-  score: 10
-  time: '2025-11-16T23:16:59Z'
-  title: Private AI Compute
-  url: https://blog.google/technology/ai/google-private-ai-compute/
+- id: 45959795
+  score: 230
+  time: '2025-11-17T23:47:27Z'
+  title: Windows 11 adds AI agent that runs in background with access to personal
+    folders
+  url: https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/
+- id: 45954210
+  score: 227
+  time: '2025-11-17T15:04:26Z'
+  title: 'WeatherNext 2: Our most advanced weather forecasting model'
+  url: https://blog.google/technology/google-deepmind/weathernext-2/
+- id: 45961150
+  score: 16
+  time: '2025-11-18T03:41:49Z'
+  title: CoreWeave, the AI industry's ticking time bomb
+  url: https://www.niemanlab.org/reading/meet-coreweave-the-ai-industrys-ticking-time-bomb/
+- id: 45959177
+  score: 15
+  time: '2025-11-17T22:33:19Z'
+  title: '''I''m nervous'': Klarna founder challenges trillion-dollar spending on
+    AI'
+  url: https://www.ft.com/content/61ce397b-968c-403e-aecf-16d4b2ff08cd
+- id: 45955817
+  score: 14
+  time: '2025-11-17T17:31:19Z'
+  title: Build a DeepSeek model from scratch
+  url: https://www.manning.com/books/build-a-deepseek-model-from-scratch
+- id: 45957518
+  score: 5
+  time: '2025-11-17T19:54:17Z'
+  title: 'ParallelKittens: Simple and Fast Multi-GPU AI Kernels'
+  url: https://hazyresearch.stanford.edu/blog/2025-11-17-pk
 source_url: https://hacker-news.firebaseio.com/

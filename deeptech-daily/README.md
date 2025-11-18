@@ -39,17 +39,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -178,26 +180,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                                             |   Stars | Description                                                                                                                                                      |
 |------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ScrapeGraphAI/toonify                                                  |     180 | Toonify: Compact data format reducing LLM token usage by 30-60%                                                                                                  |
-| Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR                                |      26 | The open-source code for the NeurIPS 2025 paper, "Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning." |
-| shi-yx/URaG                                                            |      26 | Official implementation of URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding (AAAI 2026 Oral).                 |
-| alonw0/llm-docs-optimizer                                              |      25 | A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through…  |
-| lorine93s/polymarket-ai-market-suggestor                               |      16 | Polymarket AI market suggestor that blends real-time news, social sentiment, and on-chain trends to propose new prediction markets with LLM reasoning, analytic… |
-| AIGC-Hackers/mcpx                                                      |      15 | Token-efficient MCP client: TypeScript schemas instead of JSON, LLM-friendly syntax, batch calls, TOON output. Built for Claude/GPT automations.                 |
-| smthemex/ComfyUI_Step_Audio_EditX_SM                                   |      15 | Step_Audio_EditX：the first open-source LLM-based audio model excelling at expressive and iterative audio editing—encompassing emotion, speaking style, and para… |
+| karpathy/reader3                                                       |     193 | Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.                                                    |
+| divagr18/memlayer                                                      |      73 | The plug-and-play memory layer for LLMs. Add persistent, intelligent, human-like memory and recall to any model in minutes.                                      |
+| shi-yx/URaG                                                            |      28 | Official implementation of URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding (AAAI 2026 Oral).                 |
+| alonw0/llm-docs-optimizer                                              |      26 | A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through…  |
+| lorine93s/polymarket-ai-market-suggestor                               |      22 | Polymarket AI market suggestor that blends real-time news, social sentiment, and on-chain trends to propose new prediction markets with LLM reasoning, analytic… |
+| hehee9/2026-CSAT                                                       |      19 | 2026 대입 수능 시험 LLM 풀이 결과 모음                                                                                                                                       |
+| HKUDS/FastAgent                                                        |      13 | "FastAgent: Simple, Fast, and Strong LLM Agents"                                                                                                                 |
+| Unmortan-Ellary/Vascura-FRONT                                          |      13 | Bloat Free, Portable and Lightweight LLM Frontend (Single HTML file).                                                                                            |
 | brinhosa/awesome-ai-security                                           |      13 | A collection of awesome AI Security, LLM Security, and Prompt Injection tools and resources.                                                                     |
 | metacore-stack/hololingo                                               |      13 | high-fidelity book translation with large language models, synchronizing chapters, context, and revisions for multilingual publishing.                           |
+| h9-tec/lumina-ai                                                       |      12 | AI-powered meeting assistant that auto-joins Google Meet, records,   transcribes , and generates structured minutes using local   LLMs                           |
 | namakshenas/FLUX                                                       |      12 | FLUX: Format for LLM Understanding and eXchange                                                                                                                  |
-| HKUDS/FastAgent                                                        |      11 | "FastAgent: Simple, Fast, and Strong LLM Agents"                                                                                                                 |
-| Unmortan-Ellary/Vascura-FRONT                                          |      11 | Bloat Free, Portable and Lightweight LLM Frontend (Single HTML file).                                                                                            |
+| sarthak1095/Redefining-QA-Multi-Agent-AI-Automation-Using-MCP-Protocol |      11 | This project demonstrates how to build a multi-agent AI automation framework using the Model Context Protocol (MCP). The setup enables LLMs (Claude AI in this…  |
+| CUEB-QF-ZQS/YiJinJing                                                  |      10 | 易金经——LLM驱动下融合数据底座和智能投资的金融服务解决方案                                                                                                                                  |
 | WilliamLCui/Kylin-OM                                                   |      10 | Kylin-OM (银河麒麟操作系统智能运维软件) is an intelligent O&M platform designed for the Kylin operating system, integrating AI large language models, multi-agent architectur… |
-| aibrix/PrisKV                                                          |      10 | High Performance KV Cache Store for LLM                                                                                                                          |
 | metacore-stack/llm-temporal-intel                                      |      10 | Exploring how large language models can learn, interpret, and forecast complex time-series patterns.                                                             |
-| sarthak1095/Redefining-QA-Multi-Agent-AI-Automation-Using-MCP-Protocol |      10 | This project demonstrates how to build a multi-agent AI automation framework using the Model Context Protocol (MCP). The setup enables LLMs (Claude AI in this…  |
-| FeiLiu36/EoH-S                                                         |       9 | Evolution of Heuristic Set using LLMs for Automated Heuristic Design                                                                                             |
-| h9-tec/lumina-ai                                                       |       9 | AI-powered meeting assistant that auto-joins Google Meet, records,   transcribes , and generates structured minutes using local   LLMs                           |
+| Eirik-star/PolyMarket-AI-agent-trading                                 |       9 | AI-powered autonomous trading agents for Polymarket prediction markets. This framework enables developers to build sophisticated trading bots using state-of-th… |
 | metacore-stack/llm-automate-food-ordering                              |       8 | LLM-driven food ordering demo that pairs an autonomous voice assistant with function-calling, RAG-powered restaurant search, and a full-stack UI to simulate en… |
-| ason-format/ason                                                       |       6 | ASON (Aliased Serialization Object Notation) is a serialization format designed to optimize token consumption in LLM (Large Language Model) contexts while main… |
+| Florence365/GroundVTS                                                  |       6 | Grounded Visual Token Sampling (GroundVTS), a Vid-LLM architecture designed to enhance VTG performance through adaptive and efficient visual token utilization.  |
+| Kwwwww74/Awesome-Trustworthy-AudioLLMs                                 |       5 | A reading list for trustworthy audio large language models.                                                                                                      |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -207,32 +209,28 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Anthropic’s paper smells like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/) — 917 points
-- [Three kinds of AI products work](https://www.seangoedecke.com/ai-products/) — 117 points
-- [AI is killing privacy. We can't let that happen](https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps) — 94 points
-- [AI Is the Bubble to Burst Them All](https://www.wired.com/story/ai-bubble-will-burst/) — 48 points
-- [Windows president addresses current state of Windows 11 after AI backlash](https://www.windowscentral.com/microsoft/windows-11/windows-president-addresses-current-state-of-windows-11-after-ai-backlash-we-know-we-have-a-lot-of-work-to-do) — 26 points
-- [Meta is about to start grading workers on their AI skills](https://www.businessinsider.com/meta-ai-employee-performance-review-overhaul-2025-11) — 25 points
-- [How to turn off Copilot and protect your data from Microsoft's AI](https://proton.me/blog/turn-off-copilot) — 21 points
-- [The US AI Bubble Reminds Me of the Eve of China's Real Estate Collapse](https://jonathancc.substack.com/p/the-us-ai-bubble-reminds-me-of-the) — 19 points
-- [MCP: Model Context Pitfalls in an agentic world](https://hiddenlayer.com/innovation-hub/mcp-model-context-pitfalls-in-an-agentic-world/) — 11 points
-- [Private AI Compute](https://blog.google/technology/ai/google-private-ai-compute/) — 10 points
+- [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/) — 230 points
+- [WeatherNext 2: Our most advanced weather forecasting model](https://blog.google/technology/google-deepmind/weathernext-2/) — 227 points
+- [CoreWeave, the AI industry's ticking time bomb](https://www.niemanlab.org/reading/meet-coreweave-the-ai-industrys-ticking-time-bomb/) — 16 points
+- ['I'm nervous': Klarna founder challenges trillion-dollar spending on AI](https://www.ft.com/content/61ce397b-968c-403e-aecf-16d4b2ff08cd) — 15 points
+- [Build a DeepSeek model from scratch](https://www.manning.com/books/build-a-deepseek-model-from-scratch) — 14 points
+- [ParallelKittens: Simple and Fast Multi-GPU AI Kernels](https://hazyresearch.stanford.edu/blog/2025-11-17-pk) — 5 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary   |
-|---------------------|--------|-----------|
-| GHSA-qc8j-wvjf-7jfj |      0 |           |
-| GHSA-6m34-78r8-ppcg |      0 |           |
-| GHSA-357h-9gq8-42jr |      0 |           |
-| GHSA-5fjw-vh88-cccm |      0 |           |
-| GHSA-mqq2-8v99-x556 |      0 |           |
-| GHSA-rpqm-qpjq-22jm |      0 |           |
-| GHSA-fp54-556c-2q63 |      0 |           |
-| GHSA-q53m-jpj6-g58x |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
+| CVE             |   CVSS | Summary                                      |
+|-----------------|--------|----------------------------------------------|
+| MAL-2024-9283   |      0 | Malicious code in mmpp (npm)                 |
+| MAL-2025-190516 |      0 | Malicious code in node-calculator-0f50 (npm) |
+| MAL-2025-190551 |      0 | Malicious code in node-calculator-36ae (npm) |
+|                 |      0 |                                              |
+|                 |      0 |                                              |
+|                 |      0 |                                              |
+|                 |      0 |                                              |
+|                 |      0 |                                              |
+|                 |      0 |                                              |
+|                 |      0 |                                              |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
