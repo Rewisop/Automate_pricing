@@ -40,17 +40,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -136,21 +138,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [The Second Law of Intelligence: Controlling Ethical Entropy in Autonomous Systems](https://arxiv.org/abs/2511.10704) — arXiv:2511.10704v1 Announce Type: new  Abstract: We propose that unconstrained artificial intelligence obeys a Second Law analogous to thermodynamics, where et…
-- [Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents](https://arxiv.org/abs/2511.10705) — arXiv:2511.10705v1 Announce Type: new  Abstract: Graphical User Interface (GUI) task automation constitutes a critical frontier in artificial intelligence rese…
-- [Picking a Representative Set of Solutions in Multiobjective Optimization: Axioms, Algorithms, and Experiments](https://arxiv.org/abs/2511.10716) — arXiv:2511.10716v1 Announce Type: new  Abstract: Many real-world decision-making problems involve optimizing multiple objectives simultaneously, rendering the…
-- [Structure-Aware Encodings of Argumentation Properties for Clique-width](https://arxiv.org/abs/2511.10767) — arXiv:2511.10767v1 Announce Type: new  Abstract: Structural measures of graphs, such as treewidth, are central tools in computational complexity resulting in e…
-- [Potential Outcome Rankings for Counterfactual Decision Making](https://arxiv.org/abs/2511.10776) — arXiv:2511.10776v1 Announce Type: new  Abstract: Counterfactual decision-making in the face of uncertainty involves selecting the optimal action from several a…
-- [From Efficiency to Adaptivity: A Deeper Look at Adaptive Reasoning in Large Language Models](https://arxiv.org/abs/2511.10788) — arXiv:2511.10788v1 Announce Type: new  Abstract: Recent advances in large language models (LLMs) have made reasoning a central benchmark for evaluating intelli…
-- [HARNESS: Human-Agent Risk Navigation and Event Safety System for Proactive Hazard Forecasting in High-Risk DOE Environments](https://arxiv.org/abs/2511.10810) — arXiv:2511.10810v1 Announce Type: new  Abstract: Operational safety at mission-critical work sites is a top priority given the complex and hazardous nature of…
-- [HyperComplEx: Adaptive Multi-Space Knowledge Graph Embeddings](https://arxiv.org/abs/2511.10842) — arXiv:2511.10842v1 Announce Type: new  Abstract: Knowledge graphs have emerged as fundamental structures for representing complex relational data across scient…
-- [Advanced Tool for Traffic Crash Analysis: An AI-Driven Multi-Agent Approach to Pre-Crash Reconstruction](https://arxiv.org/abs/2511.10853) — arXiv:2511.10853v1 Announce Type: new  Abstract: Traffic collision reconstruction traditionally relies on human expertise, often yielding inconsistent results…
-- [Enhancing Demand-Oriented Regionalization with Agentic AI and Local Heterogeneous Data for Adaptation Planning](https://arxiv.org/abs/2511.10857) — arXiv:2511.10857v1 Announce Type: new  Abstract: Conventional planning units or urban regions, such as census tracts, zip codes, or neighborhoods, often do not…
-- [LLM enhanced graph inference for long-term disease progression modelling](https://arxiv.org/abs/2511.10890) — arXiv:2511.10890v1 Announce Type: new  Abstract: Understanding the interactions between biomarkers among brain regions during neurodegenerative disease is esse…
-- [Multi-Agent Legal Verifier Systems for Data Transfer Planning](https://arxiv.org/abs/2511.10925) — arXiv:2511.10925v1 Announce Type: new  Abstract: Legal compliance in AI-driven data transfer planning is becoming increasingly critical under stringent privacy…
-- [Requirements for Aligned, Dynamic Resolution of Conflicts in Operational Constraints](https://arxiv.org/abs/2511.10952) — arXiv:2511.10952v1 Announce Type: new  Abstract: Deployed, autonomous AI systems must often evaluate multiple plausible courses of action (extended sequences o…
-- [AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce](https://arxiv.org/abs/2511.11017) — arXiv:2511.11017v1 Announce Type: new  Abstract: The rapid expansion of e-commerce platforms generates vast amounts of unstructured product data, creating sign…
-- [Faster Symmetry Breaking Constraints for Abstract Structures](https://arxiv.org/abs/2511.11029) — arXiv:2511.11029v1 Announce Type: new  Abstract: In constraint programming and related paradigms, a modeller specifies their problem in a modelling language fo…
+- [The Illusion of Procedural Reasoning: Measuring Long-Horizon FSM Execution in LLMs](https://arxiv.org/abs/2511.14777) — arXiv:2511.14777v1 Announce Type: new  Abstract: Large language models (LLMs) have achieved remarkable results on tasks framed as reasoning problems, yet their…
+- [Learning Interestingness in Automated Mathematical Theory Formation](https://arxiv.org/abs/2511.14778) — arXiv:2511.14778v1 Announce Type: new  Abstract: We take two key steps in automating the open-ended discovery of new mathematical theories, a grand challenge i…
+- [Ask WhAI:Probing Belief Formation in Role-Primed LLM Agents](https://arxiv.org/abs/2511.14780) — arXiv:2511.14780v1 Announce Type: new  Abstract: We present Ask WhAI, a systems-level framework for inspecting and perturbing belief states in multi-agent inte…
+- [Subnational Geocoding of Global Disasters Using Large Language Models](https://arxiv.org/abs/2511.14788) — arXiv:2511.14788v1 Announce Type: new  Abstract: Subnational location data of disaster events are critical for risk assessment and disaster risk reduction. Dis…
+- [Project Rachel: Can an AI Become a Scholarly Author?](https://arxiv.org/abs/2511.14819) — arXiv:2511.14819v1 Announce Type: new  Abstract: This paper documents Project Rachel, an action research study that created and tracked a complete AI academic…
+- [Uncertainty-Aware Measurement of Scenario Suite Representativeness for Autonomous Systems](https://arxiv.org/abs/2511.14853) — arXiv:2511.14853v1 Announce Type: new  Abstract: Assuring the trustworthiness and safety of AI systems, e.g., autonomous vehicles (AV), depends critically on t…
+- [Task Specific Sharpness Aware O-RAN Resource Management using Multi Agent Reinforcement Learning](https://arxiv.org/abs/2511.15002) — arXiv:2511.15002v1 Announce Type: new  Abstract: Next-generation networks utilize the Open Radio Access Network (O-RAN) architecture to enable dynamic resource…
+- [Learning Human-Like RL Agents Through Trajectory Optimization With Action Quantization](https://arxiv.org/abs/2511.15055) — arXiv:2511.15055v1 Announce Type: new  Abstract: Human-like agents have long been one of the goals in pursuing artificial intelligence. Although reinforcement…
+- [Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering](https://arxiv.org/abs/2511.15061) — arXiv:2511.15061v1 Announce Type: new  Abstract: Genomic question answering often requires complex reasoning and integration across diverse biomedical sources.…
+- [ProRAC: A Neuro-symbolic Method for Reasoning about Actions with LLM-based Progression](https://arxiv.org/abs/2511.15069) — arXiv:2511.15069v1 Announce Type: new  Abstract: In this paper, we propose ProRAC (Progression-based Reasoning about Actions and Change), a neuro-symbolic fram…
+- [Knowledge-Informed Automatic Feature Extraction via Collaborative Large Language Model Agents](https://arxiv.org/abs/2511.15074) — arXiv:2511.15074v1 Announce Type: new  Abstract: The performance of machine learning models on tabular data is critically dependent on high-quality feature eng…
+- [SafeRBench: A Comprehensive Benchmark for Safety Assessment in Large Reasoning Models](https://arxiv.org/abs/2511.15169) — arXiv:2511.15169v2 Announce Type: new  Abstract: Large Reasoning Models (LRMs) improve answer quality through explicit chain-of-thought, yet this very capabili…
+- [HISE-KT: Synergizing Heterogeneous Information Networks and LLMs for Explainable Knowledge Tracing with Meta-Path Optimization](https://arxiv.org/abs/2511.15191) — arXiv:2511.15191v1 Announce Type: new  Abstract: Knowledge Tracing (KT) aims to mine students' evolving knowledge states and predict their future question-answ…
+- [As If We've Met Before: LLMs Exhibit Certainty in Recognizing Seen Files](https://arxiv.org/abs/2511.15192) — arXiv:2511.15192v2 Announce Type: new  Abstract: The remarkable language ability of Large Language Models (LLMs) stems from extensive training on vast datasets…
+- [SOLID: a Framework of Synergizing Optimization and LLMs for Intelligent Decision-Making](https://arxiv.org/abs/2511.15202) — arXiv:2511.15202v1 Announce Type: new  Abstract: This paper introduces SOLID (Synergizing Optimization and Large Language Models for Intelligent Decision-Makin…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -180,26 +182,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                                             |   Stars | Description                                                                                                                                                      |
 |------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| karpathy/reader3                                                       |     193 | Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.                                                    |
-| divagr18/memlayer                                                      |      73 | The plug-and-play memory layer for LLMs. Add persistent, intelligent, human-like memory and recall to any model in minutes.                                      |
-| shi-yx/URaG                                                            |      28 | Official implementation of URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding (AAAI 2026 Oral).                 |
-| alonw0/llm-docs-optimizer                                              |      26 | A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through…  |
-| lorine93s/polymarket-ai-market-suggestor                               |      22 | Polymarket AI market suggestor that blends real-time news, social sentiment, and on-chain trends to propose new prediction markets with LLM reasoning, analytic… |
-| hehee9/2026-CSAT                                                       |      19 | 2026 대입 수능 시험 LLM 풀이 결과 모음                                                                                                                                       |
-| HKUDS/FastAgent                                                        |      13 | "FastAgent: Simple, Fast, and Strong LLM Agents"                                                                                                                 |
-| Unmortan-Ellary/Vascura-FRONT                                          |      13 | Bloat Free, Portable and Lightweight LLM Frontend (Single HTML file).                                                                                            |
-| brinhosa/awesome-ai-security                                           |      13 | A collection of awesome AI Security, LLM Security, and Prompt Injection tools and resources.                                                                     |
-| metacore-stack/hololingo                                               |      13 | high-fidelity book translation with large language models, synchronizing chapters, context, and revisions for multilingual publishing.                           |
-| h9-tec/lumina-ai                                                       |      12 | AI-powered meeting assistant that auto-joins Google Meet, records,   transcribes , and generates structured minutes using local   LLMs                           |
-| namakshenas/FLUX                                                       |      12 | FLUX: Format for LLM Understanding and eXchange                                                                                                                  |
-| sarthak1095/Redefining-QA-Multi-Agent-AI-Automation-Using-MCP-Protocol |      11 | This project demonstrates how to build a multi-agent AI automation framework using the Model Context Protocol (MCP). The setup enables LLMs (Claude AI in this…  |
+| karpathy/reader3                                                       |    1659 | Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.                                                    |
+| divagr18/memlayer                                                      |     145 | The plug-and-play memory layer for LLMs. Add persistent, intelligent, human-like memory and recall to any model in minutes.                                      |
+| mega002/llm-interp-tau                                                 |     141 | Course Materials for Interpretability of Large Language Models (0368.4264) at Tel Aviv University                                                                |
+| wilpel/caveman-compression                                             |      98 | Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that…  |
+| AiEson/Part-X-MLLM                                                     |      57 | Part-X-MLLM: Part-aware 3D Multimodal Large Language Model                                                                                                       |
+| asker-kurtelli/scroll                                                  |      40 | chrome extension for better LLM chat navigation                                                                                                                  |
+| BeRo1985/pasllm                                                        |      29 | PasLLM - LLM inference engine in Object Pascal (synced from my private work repository)                                                                          |
+| Vyntral/god-eye                                                        |      22 | AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs                                                          |
+| KD-TAO/OmniZip                                                         |      20 | OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models                                                                         |
+| jobmetric/laravel-toon                                                 |      18 | Laravel integration for TOON format: encode/decode JSON data into a token-optimized notation for LLMs.                                                           |
+| HKUDS/FastAgent                                                        |      17 | "FastAgent: Simple, Fast, and Strong LLM Agents"                                                                                                                 |
+| Eirik-star/PolyMarket-AI-agent-trading                                 |      12 | AI-powered autonomous trading agents for Polymarket prediction markets. This framework enables developers to build sophisticated trading bots using state-of-th… |
+| WilliamLCui/Kylin-OM                                                   |      12 | Kylin-OM (银河麒麟操作系统智能运维软件) is an intelligent O&M platform designed for the Kylin operating system, integrating AI large language models, multi-agent architectur… |
+| sarthak1095/Redefining-QA-Multi-Agent-AI-Automation-Using-MCP-Protocol |      12 | This project demonstrates how to build a multi-agent AI automation framework using the Model Context Protocol (MCP). The setup enables LLMs (Claude AI in this…  |
 | CUEB-QF-ZQS/YiJinJing                                                  |      10 | 易金经——LLM驱动下融合数据底座和智能投资的金融服务解决方案                                                                                                                                  |
-| WilliamLCui/Kylin-OM                                                   |      10 | Kylin-OM (银河麒麟操作系统智能运维软件) is an intelligent O&M platform designed for the Kylin operating system, integrating AI large language models, multi-agent architectur… |
-| metacore-stack/llm-temporal-intel                                      |      10 | Exploring how large language models can learn, interpret, and forecast complex time-series patterns.                                                             |
-| Eirik-star/PolyMarket-AI-agent-trading                                 |       9 | AI-powered autonomous trading agents for Polymarket prediction markets. This framework enables developers to build sophisticated trading bots using state-of-th… |
-| metacore-stack/llm-automate-food-ordering                              |       8 | LLM-driven food ordering demo that pairs an autonomous voice assistant with function-calling, RAG-powered restaurant search, and a full-stack UI to simulate en… |
-| Florence365/GroundVTS                                                  |       6 | Grounded Visual Token Sampling (GroundVTS), a Vid-LLM architecture designed to enhance VTG performance through adaptive and efficient visual token utilization.  |
-| Kwwwww74/Awesome-Trustworthy-AudioLLMs                                 |       5 | A reading list for trustworthy audio large language models.                                                                                                      |
+| jahnavik186/AI-Mental-Health-Companion                                 |       8 | An intelligent, interactive mental health companion that uses Large Language Models (LLMs) combined with RAG to provide context-aware mental wellness guidance,… |
+| mouna23/AI-driven-MITRE-Attack                                         |       8 | This repository demonstrates a machine learning pipeline for detecting MITRE ATT&CK techniques from logs and enriching the output using a local LLM.             |
+| R44VC0RP/gitcom.dev                                                    |       7 | Gitcom -> LLM ready Github PR comments in markdown.                                                                                                              |
+| agus-official/inferx-sdk                                               |       7 | Privacy‑first, on‑device LLM SDK powered by llama.cpp — unified C API with Android/iOS/Flutter bindings, low‑latency streaming, OpenAI‑compatible chat/function… |
+| davidesantangelo/cton                                                  |       7 | CTON provides a JSON-compatible, token-efficient text representation optimized for LLM prompts.                                                                  |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -209,28 +211,28 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/) — 230 points
-- [WeatherNext 2: Our most advanced weather forecasting model](https://blog.google/technology/google-deepmind/weathernext-2/) — 227 points
-- [CoreWeave, the AI industry's ticking time bomb](https://www.niemanlab.org/reading/meet-coreweave-the-ai-industrys-ticking-time-bomb/) — 16 points
-- ['I'm nervous': Klarna founder challenges trillion-dollar spending on AI](https://www.ft.com/content/61ce397b-968c-403e-aecf-16d4b2ff08cd) — 15 points
-- [Build a DeepSeek model from scratch](https://www.manning.com/books/build-a-deepseek-model-from-scratch) — 14 points
-- [ParallelKittens: Simple and Fast Multi-GPU AI Kernels](https://hazyresearch.stanford.edu/blog/2025-11-17-pk) — 5 points
+- [Gmail can read your emails and attachments to train its AI, unless you opt out](https://www.malwarebytes.com/blog/news/2025/11/gmail-is-reading-your-emails-and-attachments-to-train-its-ai-unless-you-turn-it-off) — 85 points
+- [The AI bubble is bigger than you think](https://prospect.org/2025/11/19/ai-bubble-bigger-than-you-think/) — 40 points
+- [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3) — 16 points
+- [Early experiments in accelerating science with GPT-5](https://openai.com/index/accelerating-science-gpt-5/) — 12 points
+- [Show HN: GitPulse – AI-powered tool to discover open source projects](https://git-pulsee.vercel.app) — 5 points
+- [Early science acceleration experiments with GPT-5 [pdf]](https://cdn.openai.com/pdf/4a25f921-e4e0-479a-9b38-5367b47e8fd0/early-science-acceleration-experiments-with-gpt-5.pdf) — 3 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE             |   CVSS | Summary                                      |
-|-----------------|--------|----------------------------------------------|
-| MAL-2024-9283   |      0 | Malicious code in mmpp (npm)                 |
-| MAL-2025-190516 |      0 | Malicious code in node-calculator-0f50 (npm) |
-| MAL-2025-190551 |      0 | Malicious code in node-calculator-36ae (npm) |
-|                 |      0 |                                              |
-|                 |      0 |                                              |
-|                 |      0 |                                              |
-|                 |      0 |                                              |
-|                 |      0 |                                              |
-|                 |      0 |                                              |
-|                 |      0 |                                              |
+| CVE                 |   CVSS | Summary                                      |
+|---------------------|--------|----------------------------------------------|
+| CVE-2025-59288      |      0 |                                              |
+| CVE-2025-64310      |      0 |                                              |
+| GHSA-qvqx-7f9m-r2gq |      0 |                                              |
+| MAL-2025-190599     |      0 | Malicious code in @vreden-team/baileys (npm) |
+|                     |      0 |                                              |
+|                     |      0 |                                              |
+|                     |      0 |                                              |
+|                     |      0 |                                              |
+|                     |      0 |                                              |
+|                     |      0 |                                              |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

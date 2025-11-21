@@ -1,117 +1,117 @@
-fetched_at: '2025-11-18T05:32:38Z'
-generated_at: '2025-11-18T05:32:38Z'
-hash: 0cb2d55cb58e1b541dda9e5e39e0e7f5d26c1f3dbc6cfa1d4b9aa2e65f520a7a
+fetched_at: '2025-11-21T05:33:21Z'
+generated_at: '2025-11-21T05:33:21Z'
+hash: eb8233661b5390b22f657f848e479c5a94b615c9491e590c2d51117e48e9146a
 items:
-- id: oai:arXiv.org:2511.10704v1
-  link: https://arxiv.org/abs/2511.10704
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10704v1 Announce Type: new  Abstract: We propose that unconstrained
-    artificial intelligence obeys a Second Law analogous to thermodynamics, where
-    et…'
-  title: 'The Second Law of Intelligence: Controlling Ethical Entropy in Autonomous
-    Systems'
-- id: oai:arXiv.org:2511.10705v1
-  link: https://arxiv.org/abs/2511.10705
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10705v1 Announce Type: new  Abstract: Graphical User Interface
-    (GUI) task automation constitutes a critical frontier in artificial intelligence
-    rese…'
-  title: 'Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous
-    GUI Agents'
-- id: oai:arXiv.org:2511.10716v1
-  link: https://arxiv.org/abs/2511.10716
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10716v1 Announce Type: new  Abstract: Many real-world decision-making
-    problems involve optimizing multiple objectives simultaneously, rendering the…'
-  title: 'Picking a Representative Set of Solutions in Multiobjective Optimization:
-    Axioms, Algorithms, and Experiments'
-- id: oai:arXiv.org:2511.10767v1
-  link: https://arxiv.org/abs/2511.10767
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10767v1 Announce Type: new  Abstract: Structural measures of
-    graphs, such as treewidth, are central tools in computational complexity resulting
-    in e…'
-  title: Structure-Aware Encodings of Argumentation Properties for Clique-width
-- id: oai:arXiv.org:2511.10776v1
-  link: https://arxiv.org/abs/2511.10776
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10776v1 Announce Type: new  Abstract: Counterfactual decision-making
-    in the face of uncertainty involves selecting the optimal action from several
-    a…'
-  title: Potential Outcome Rankings for Counterfactual Decision Making
-- id: oai:arXiv.org:2511.10788v1
-  link: https://arxiv.org/abs/2511.10788
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10788v1 Announce Type: new  Abstract: Recent advances in large
-    language models (LLMs) have made reasoning a central benchmark for evaluating
-    intelli…'
-  title: 'From Efficiency to Adaptivity: A Deeper Look at Adaptive Reasoning in Large
-    Language Models'
-- id: oai:arXiv.org:2511.10810v1
-  link: https://arxiv.org/abs/2511.10810
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10810v1 Announce Type: new  Abstract: Operational safety at
-    mission-critical work sites is a top priority given the complex and hazardous
-    nature of…'
-  title: 'HARNESS: Human-Agent Risk Navigation and Event Safety System for Proactive
-    Hazard Forecasting in High-Risk DOE Environments'
-- id: oai:arXiv.org:2511.10842v1
-  link: https://arxiv.org/abs/2511.10842
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10842v1 Announce Type: new  Abstract: Knowledge graphs have
-    emerged as fundamental structures for representing complex relational data across
-    scient…'
-  title: 'HyperComplEx: Adaptive Multi-Space Knowledge Graph Embeddings'
-- id: oai:arXiv.org:2511.10853v1
-  link: https://arxiv.org/abs/2511.10853
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10853v1 Announce Type: new  Abstract: Traffic collision reconstruction
-    traditionally relies on human expertise, often yielding inconsistent results…'
-  title: 'Advanced Tool for Traffic Crash Analysis: An AI-Driven Multi-Agent Approach
-    to Pre-Crash Reconstruction'
-- id: oai:arXiv.org:2511.10857v1
-  link: https://arxiv.org/abs/2511.10857
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10857v1 Announce Type: new  Abstract: Conventional planning
-    units or urban regions, such as census tracts, zip codes, or neighborhoods, often
-    do not…'
-  title: Enhancing Demand-Oriented Regionalization with Agentic AI and Local Heterogeneous
-    Data for Adaptation Planning
-- id: oai:arXiv.org:2511.10890v1
-  link: https://arxiv.org/abs/2511.10890
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10890v1 Announce Type: new  Abstract: Understanding the interactions
-    between biomarkers among brain regions during neurodegenerative disease is esse…'
-  title: LLM enhanced graph inference for long-term disease progression modelling
-- id: oai:arXiv.org:2511.10925v1
-  link: https://arxiv.org/abs/2511.10925
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10925v1 Announce Type: new  Abstract: Legal compliance in AI-driven
-    data transfer planning is becoming increasingly critical under stringent privacy…'
-  title: Multi-Agent Legal Verifier Systems for Data Transfer Planning
-- id: oai:arXiv.org:2511.10952v1
-  link: https://arxiv.org/abs/2511.10952
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.10952v1 Announce Type: new  Abstract: Deployed, autonomous
-    AI systems must often evaluate multiple plausible courses of action (extended
-    sequences o…'
-  title: Requirements for Aligned, Dynamic Resolution of Conflicts in Operational
-    Constraints
-- id: oai:arXiv.org:2511.11017v1
-  link: https://arxiv.org/abs/2511.11017
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.11017v1 Announce Type: new  Abstract: The rapid expansion of
-    e-commerce platforms generates vast amounts of unstructured product data, creating
-    sign…'
-  title: AI Agent-Driven Framework for Automated Product Knowledge Graph Construction
-    in E-Commerce
-- id: oai:arXiv.org:2511.11029v1
-  link: https://arxiv.org/abs/2511.11029
-  published: '2025-11-18T05:00:00Z'
-  summary: 'arXiv:2511.11029v1 Announce Type: new  Abstract: In constraint programming
-    and related paradigms, a modeller specifies their problem in a modelling language
-    fo…'
-  title: Faster Symmetry Breaking Constraints for Abstract Structures
+- id: oai:arXiv.org:2511.14777v1
+  link: https://arxiv.org/abs/2511.14777
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.14777v1 Announce Type: new  Abstract: Large language models
+    (LLMs) have achieved remarkable results on tasks framed as reasoning problems,
+    yet their…'
+  title: 'The Illusion of Procedural Reasoning: Measuring Long-Horizon FSM Execution
+    in LLMs'
+- id: oai:arXiv.org:2511.14778v1
+  link: https://arxiv.org/abs/2511.14778
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.14778v1 Announce Type: new  Abstract: We take two key steps
+    in automating the open-ended discovery of new mathematical theories, a grand challenge
+    i…'
+  title: Learning Interestingness in Automated Mathematical Theory Formation
+- id: oai:arXiv.org:2511.14780v1
+  link: https://arxiv.org/abs/2511.14780
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.14780v1 Announce Type: new  Abstract: We present Ask WhAI,
+    a systems-level framework for inspecting and perturbing belief states in multi-agent
+    inte…'
+  title: Ask WhAI:Probing Belief Formation in Role-Primed LLM Agents
+- id: oai:arXiv.org:2511.14788v1
+  link: https://arxiv.org/abs/2511.14788
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.14788v1 Announce Type: new  Abstract: Subnational location
+    data of disaster events are critical for risk assessment and disaster risk reduction.
+    Dis…'
+  title: Subnational Geocoding of Global Disasters Using Large Language Models
+- id: oai:arXiv.org:2511.14819v1
+  link: https://arxiv.org/abs/2511.14819
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.14819v1 Announce Type: new  Abstract: This paper documents
+    Project Rachel, an action research study that created and tracked a complete AI
+    academic…'
+  title: 'Project Rachel: Can an AI Become a Scholarly Author?'
+- id: oai:arXiv.org:2511.14853v1
+  link: https://arxiv.org/abs/2511.14853
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.14853v1 Announce Type: new  Abstract: Assuring the trustworthiness
+    and safety of AI systems, e.g., autonomous vehicles (AV), depends critically on
+    t…'
+  title: Uncertainty-Aware Measurement of Scenario Suite Representativeness for Autonomous
+    Systems
+- id: oai:arXiv.org:2511.15002v1
+  link: https://arxiv.org/abs/2511.15002
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.15002v1 Announce Type: new  Abstract: Next-generation networks
+    utilize the Open Radio Access Network (O-RAN) architecture to enable dynamic resource…'
+  title: Task Specific Sharpness Aware O-RAN Resource Management using Multi Agent
+    Reinforcement Learning
+- id: oai:arXiv.org:2511.15055v1
+  link: https://arxiv.org/abs/2511.15055
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.15055v1 Announce Type: new  Abstract: Human-like agents have
+    long been one of the goals in pursuing artificial intelligence. Although reinforcement…'
+  title: Learning Human-Like RL Agents Through Trajectory Optimization With Action
+    Quantization
+- id: oai:arXiv.org:2511.15061v1
+  link: https://arxiv.org/abs/2511.15061
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.15061v1 Announce Type: new  Abstract: Genomic question answering
+    often requires complex reasoning and integration across diverse biomedical sources.…'
+  title: 'Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced
+    Genomic Question Answering'
+- id: oai:arXiv.org:2511.15069v1
+  link: https://arxiv.org/abs/2511.15069
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.15069v1 Announce Type: new  Abstract: In this paper, we propose
+    ProRAC (Progression-based Reasoning about Actions and Change), a neuro-symbolic
+    fram…'
+  title: 'ProRAC: A Neuro-symbolic Method for Reasoning about Actions with LLM-based
+    Progression'
+- id: oai:arXiv.org:2511.15074v1
+  link: https://arxiv.org/abs/2511.15074
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.15074v1 Announce Type: new  Abstract: The performance of machine
+    learning models on tabular data is critically dependent on high-quality feature
+    eng…'
+  title: Knowledge-Informed Automatic Feature Extraction via Collaborative Large Language
+    Model Agents
+- id: oai:arXiv.org:2511.15169v2
+  link: https://arxiv.org/abs/2511.15169
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.15169v2 Announce Type: new  Abstract: Large Reasoning Models
+    (LRMs) improve answer quality through explicit chain-of-thought, yet this very
+    capabili…'
+  title: 'SafeRBench: A Comprehensive Benchmark for Safety Assessment in Large Reasoning
+    Models'
+- id: oai:arXiv.org:2511.15191v1
+  link: https://arxiv.org/abs/2511.15191
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.15191v1 Announce Type: new  Abstract: Knowledge Tracing (KT)
+    aims to mine students'' evolving knowledge states and predict their future question-answ…'
+  title: 'HISE-KT: Synergizing Heterogeneous Information Networks and LLMs for Explainable
+    Knowledge Tracing with Meta-Path Optimization'
+- id: oai:arXiv.org:2511.15192v2
+  link: https://arxiv.org/abs/2511.15192
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.15192v2 Announce Type: new  Abstract: The remarkable language
+    ability of Large Language Models (LLMs) stems from extensive training on vast
+    datasets…'
+  title: 'As If We''ve Met Before: LLMs Exhibit Certainty in Recognizing Seen Files'
+- id: oai:arXiv.org:2511.15202v1
+  link: https://arxiv.org/abs/2511.15202
+  published: '2025-11-21T05:00:00Z'
+  summary: 'arXiv:2511.15202v1 Announce Type: new  Abstract: This paper introduces
+    SOLID (Synergizing Optimization and Large Language Models for Intelligent Decision-Makin…'
+  title: 'SOLID: a Framework of Synergizing Optimization and LLMs for Intelligent
+    Decision-Making'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

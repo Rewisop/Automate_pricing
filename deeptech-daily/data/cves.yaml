@@ -1,45 +1,45 @@
-fetched_at: '2025-11-18T05:32:38Z'
-generated_at: '2025-11-18T05:32:38Z'
-hash: 526a211501706786445db0e030bab090ab66e4e9a718d2a8ba639b64e65c7e57
+fetched_at: '2025-11-21T05:33:21Z'
+generated_at: '2025-11-21T05:33:21Z'
+hash: 29b840352ace5e787d0497de8114f8b1994901ba992543a26ab00353b9b652e1
 items:
 - cvss: 0.0
-  id: MAL-2024-9283
-  published: '2024-10-12T17:44:57Z'
-  summary: Malicious code in mmpp (npm)
+  id: CVE-2025-59288
+  published: '2025-10-14T17:16:11Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-190516
-  published: '2025-11-17T10:35:36Z'
-  summary: Malicious code in node-calculator-0f50 (npm)
+  id: CVE-2025-64310
+  published: '2025-11-21T03:16:10Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-190551
-  published: '2025-11-18T04:20:09Z'
-  summary: Malicious code in node-calculator-36ae (npm)
+  id: GHSA-qvqx-7f9m-r2gq
+  published: '2025-11-21T03:31:15Z'
+  summary: ''
+- cvss: 0.0
+  id: MAL-2025-190599
+  published: '2025-11-21T03:58:09Z'
+  summary: Malicious code in @vreden-team/baileys (npm)
 - cvss: 0.0
   id: null
-  published: '2025-11-18T05:32:38Z'
+  published: '2025-11-21T05:33:21Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-18T05:32:38Z'
+  published: '2025-11-21T05:33:21Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-18T05:32:38Z'
+  published: '2025-11-21T05:33:21Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-18T05:32:38Z'
+  published: '2025-11-21T05:33:21Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-18T05:32:38Z'
+  published: '2025-11-21T05:33:21Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-18T05:32:38Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2025-11-18T05:32:38Z'
+  published: '2025-11-21T05:33:21Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

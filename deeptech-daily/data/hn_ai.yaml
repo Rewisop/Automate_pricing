@@ -1,37 +1,36 @@
-fetched_at: '2025-11-18T05:32:38Z'
-generated_at: '2025-11-18T05:32:38Z'
-hash: bc2e3e3caf162a61e47c3561bf433c34304b95117509ad2996f2b24bd409a00c
+fetched_at: '2025-11-21T05:33:21Z'
+generated_at: '2025-11-21T05:33:21Z'
+hash: 9e5998bbbdddbaff4d8444616a1c8ad22e7b3887685bc5a020aae501a47fc731
 items:
-- id: 45959795
-  score: 230
-  time: '2025-11-17T23:47:27Z'
-  title: Windows 11 adds AI agent that runs in background with access to personal
-    folders
-  url: https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/
-- id: 45954210
-  score: 227
-  time: '2025-11-17T15:04:26Z'
-  title: 'WeatherNext 2: Our most advanced weather forecasting model'
-  url: https://blog.google/technology/google-deepmind/weathernext-2/
-- id: 45961150
+- id: 45998531
+  score: 85
+  time: '2025-11-20T22:10:23Z'
+  title: Gmail can read your emails and attachments to train its AI, unless you opt
+    out
+  url: https://www.malwarebytes.com/blog/news/2025/11/gmail-is-reading-your-emails-and-attachments-to-train-its-ai-unless-you-turn-it-off
+- id: 45996921
+  score: 40
+  time: '2025-11-20T19:58:25Z'
+  title: The AI bubble is bigger than you think
+  url: https://prospect.org/2025/11/19/ai-bubble-bigger-than-you-think/
+- id: 45993118
   score: 16
-  time: '2025-11-18T03:41:49Z'
-  title: CoreWeave, the AI industry's ticking time bomb
-  url: https://www.niemanlab.org/reading/meet-coreweave-the-ai-industrys-ticking-time-bomb/
-- id: 45959177
-  score: 15
-  time: '2025-11-17T22:33:19Z'
-  title: '''I''m nervous'': Klarna founder challenges trillion-dollar spending on
-    AI'
-  url: https://www.ft.com/content/61ce397b-968c-403e-aecf-16d4b2ff08cd
-- id: 45955817
-  score: 14
-  time: '2025-11-17T17:31:19Z'
-  title: Build a DeepSeek model from scratch
-  url: https://www.manning.com/books/build-a-deepseek-model-from-scratch
-- id: 45957518
+  time: '2025-11-20T14:49:51Z'
+  title: 'Olmo 3: Charting a path through the model flow to lead open-source AI'
+  url: https://allenai.org/blog/olmo3
+- id: 45995605
+  score: 12
+  time: '2025-11-20T18:04:58Z'
+  title: Early experiments in accelerating science with GPT-5
+  url: https://openai.com/index/accelerating-science-gpt-5/
+- id: 45997613
   score: 5
-  time: '2025-11-17T19:54:17Z'
-  title: 'ParallelKittens: Simple and Fast Multi-GPU AI Kernels'
-  url: https://hazyresearch.stanford.edu/blog/2025-11-17-pk
+  time: '2025-11-20T20:57:11Z'
+  title: 'Show HN: GitPulse – AI-powered tool to discover open source projects'
+  url: https://git-pulsee.vercel.app
+- id: 45996889
+  score: 3
+  time: '2025-11-20T19:55:31Z'
+  title: Early science acceleration experiments with GPT-5 [pdf]
+  url: https://cdn.openai.com/pdf/4a25f921-e4e0-479a-9b38-5367b47e8fd0/early-science-acceleration-experiments-with-gpt-5.pdf
 source_url: https://hacker-news.firebaseio.com/
