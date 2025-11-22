@@ -1,45 +1,45 @@
-fetched_at: '2025-11-21T05:33:21Z'
-generated_at: '2025-11-21T05:33:21Z'
-hash: 29b840352ace5e787d0497de8114f8b1994901ba992543a26ab00353b9b652e1
+fetched_at: '2025-11-22T05:30:56Z'
+generated_at: '2025-11-22T05:30:56Z'
+hash: 1fc7d529bc1fc0613bcfd7e039fda60734010c0b654b78e0c3122fb76337a0c1
 items:
 - cvss: 0.0
-  id: CVE-2025-59288
-  published: '2025-10-14T17:16:11Z'
-  summary: ''
-- cvss: 0.0
-  id: CVE-2025-64310
-  published: '2025-11-21T03:16:10Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-qvqx-7f9m-r2gq
-  published: '2025-11-21T03:31:15Z'
-  summary: ''
-- cvss: 0.0
-  id: MAL-2025-190599
-  published: '2025-11-21T03:58:09Z'
-  summary: Malicious code in @vreden-team/baileys (npm)
-- cvss: 0.0
   id: null
-  published: '2025-11-21T05:33:21Z'
+  published: '2025-11-22T05:30:56Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-21T05:33:21Z'
+  published: '2025-11-22T05:30:56Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-21T05:33:21Z'
+  published: '2025-11-22T05:30:56Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-21T05:33:21Z'
+  published: '2025-11-22T05:30:56Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-21T05:33:21Z'
+  published: '2025-11-22T05:30:56Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-21T05:33:21Z'
+  published: '2025-11-22T05:30:56Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-11-22T05:30:56Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-11-22T05:30:56Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-11-22T05:30:56Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-11-22T05:30:56Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

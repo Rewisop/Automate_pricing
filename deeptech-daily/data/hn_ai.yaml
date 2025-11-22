@@ -1,36 +1,50 @@
-fetched_at: '2025-11-21T05:33:21Z'
-generated_at: '2025-11-21T05:33:21Z'
-hash: 9e5998bbbdddbaff4d8444616a1c8ad22e7b3887685bc5a020aae501a47fc731
+fetched_at: '2025-11-22T05:30:56Z'
+generated_at: '2025-11-22T05:30:56Z'
+hash: 2b4f0c97bf1a9e1533e8a6faa8e0a5921d32fab43716000546fb51d71c4c11dc
 items:
-- id: 45998531
-  score: 85
-  time: '2025-11-20T22:10:23Z'
-  title: Gmail can read your emails and attachments to train its AI, unless you opt
-    out
-  url: https://www.malwarebytes.com/blog/news/2025/11/gmail-is-reading-your-emails-and-attachments-to-train-its-ai-unless-you-turn-it-off
-- id: 45996921
-  score: 40
-  time: '2025-11-20T19:58:25Z'
-  title: The AI bubble is bigger than you think
-  url: https://prospect.org/2025/11/19/ai-bubble-bigger-than-you-think/
-- id: 45993118
-  score: 16
-  time: '2025-11-20T14:49:51Z'
+- id: 46001889
+  score: 371
+  time: '2025-11-21T06:50:14Z'
   title: 'Olmo 3: Charting a path through the model flow to lead open-source AI'
   url: https://allenai.org/blog/olmo3
-- id: 45995605
+- id: 46005928
+  score: 129
+  time: '2025-11-21T16:25:48Z'
+  title: The New AI Consciousness Paper
+  url: https://www.astralcodexten.com/p/the-new-ai-consciousness-paper
+- id: 46008628
+  score: 125
+  time: '2025-11-21T20:30:51Z'
+  title: Boom, bubble, bust, boom. Why should AI be different?
+  url: https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/
+- id: 46010806
+  score: 37
+  time: '2025-11-22T00:30:26Z'
+  title: Sharper MRI scans may be on horizon thanks to new physics-based model
+  url: https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model
+- id: 46007588
+  score: 19
+  time: '2025-11-21T18:53:24Z'
+  title: Google must double AI serving capacity every 6 months to meet demand
+  url: https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html
+- id: 46012119
   score: 12
-  time: '2025-11-20T18:04:58Z'
-  title: Early experiments in accelerating science with GPT-5
-  url: https://openai.com/index/accelerating-science-gpt-5/
-- id: 45997613
-  score: 5
-  time: '2025-11-20T20:57:11Z'
-  title: 'Show HN: GitPulse – AI-powered tool to discover open source projects'
-  url: https://git-pulsee.vercel.app
-- id: 45996889
-  score: 3
-  time: '2025-11-20T19:55:31Z'
-  title: Early science acceleration experiments with GPT-5 [pdf]
-  url: https://cdn.openai.com/pdf/4a25f921-e4e0-479a-9b38-5367b47e8fd0/early-science-acceleration-experiments-with-gpt-5.pdf
+  time: '2025-11-22T04:33:34Z'
+  title: Microsoft's head of AI doesn't understand why people don't like AI
+  url: https://www.pcgamer.com/software/ai/microsofts-head-of-ai-doesnt-understand-why-people-dont-like-ai-and-i-dont-understand-why-he-doesnt-understand-because-its-pretty-obvious/
+- id: 46007087
+  score: 10
+  time: '2025-11-21T18:16:10Z'
+  title: A Non-Obvious Answer to Why the AI Bubble Will Burst
+  url: https://brodzinski.com/2025/11/ai-bubble-non-obvious-answer.html
+- id: 46008657
+  score: 9
+  time: '2025-11-21T20:34:08Z'
+  title: AlphaXiv raises $7M in funding to become the GitHub of AI research
+  url: https://siliconangle.com/2025/11/19/alphaxiv-raises-7m-funding-become-github-ai-research/
+- id: 46012183
+  score: 7
+  time: '2025-11-22T04:44:33Z'
+  title: AI Exponentializes Your Tech Debt
+  url: https://www.vincentschmalbach.com/ai-exponentializes-your-tech-debt/
 source_url: https://hacker-news.firebaseio.com/

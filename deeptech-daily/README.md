@@ -41,17 +41,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -153,6 +155,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [HISE-KT: Synergizing Heterogeneous Information Networks and LLMs for Explainable Knowledge Tracing with Meta-Path Optimization](https://arxiv.org/abs/2511.15191) — arXiv:2511.15191v1 Announce Type: new  Abstract: Knowledge Tracing (KT) aims to mine students' evolving knowledge states and predict their future question-answ…
 - [As If We've Met Before: LLMs Exhibit Certainty in Recognizing Seen Files](https://arxiv.org/abs/2511.15192) — arXiv:2511.15192v2 Announce Type: new  Abstract: The remarkable language ability of Large Language Models (LLMs) stems from extensive training on vast datasets…
 - [SOLID: a Framework of Synergizing Optimization and LLMs for Intelligent Decision-Making](https://arxiv.org/abs/2511.15202) — arXiv:2511.15202v1 Announce Type: new  Abstract: This paper introduces SOLID (Synergizing Optimization and Large Language Models for Intelligent Decision-Makin…
+
+_Showing cached data from 2025-11-21T05:33:21Z. Refresh failed: no arXiv entries retrieved._
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -180,28 +184,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                                             |   Stars | Description                                                                                                                                                      |
-|------------------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| karpathy/reader3                                                       |    1659 | Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.                                                    |
-| divagr18/memlayer                                                      |     145 | The plug-and-play memory layer for LLMs. Add persistent, intelligent, human-like memory and recall to any model in minutes.                                      |
-| mega002/llm-interp-tau                                                 |     141 | Course Materials for Interpretability of Large Language Models (0368.4264) at Tel Aviv University                                                                |
-| wilpel/caveman-compression                                             |      98 | Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that…  |
-| AiEson/Part-X-MLLM                                                     |      57 | Part-X-MLLM: Part-aware 3D Multimodal Large Language Model                                                                                                       |
-| asker-kurtelli/scroll                                                  |      40 | chrome extension for better LLM chat navigation                                                                                                                  |
-| BeRo1985/pasllm                                                        |      29 | PasLLM - LLM inference engine in Object Pascal (synced from my private work repository)                                                                          |
-| Vyntral/god-eye                                                        |      22 | AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs                                                          |
-| KD-TAO/OmniZip                                                         |      20 | OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models                                                                         |
-| jobmetric/laravel-toon                                                 |      18 | Laravel integration for TOON format: encode/decode JSON data into a token-optimized notation for LLMs.                                                           |
-| HKUDS/FastAgent                                                        |      17 | "FastAgent: Simple, Fast, and Strong LLM Agents"                                                                                                                 |
-| Eirik-star/PolyMarket-AI-agent-trading                                 |      12 | AI-powered autonomous trading agents for Polymarket prediction markets. This framework enables developers to build sophisticated trading bots using state-of-th… |
-| WilliamLCui/Kylin-OM                                                   |      12 | Kylin-OM (银河麒麟操作系统智能运维软件) is an intelligent O&M platform designed for the Kylin operating system, integrating AI large language models, multi-agent architectur… |
-| sarthak1095/Redefining-QA-Multi-Agent-AI-Automation-Using-MCP-Protocol |      12 | This project demonstrates how to build a multi-agent AI automation framework using the Model Context Protocol (MCP). The setup enables LLMs (Claude AI in this…  |
-| CUEB-QF-ZQS/YiJinJing                                                  |      10 | 易金经——LLM驱动下融合数据底座和智能投资的金融服务解决方案                                                                                                                                  |
-| jahnavik186/AI-Mental-Health-Companion                                 |       8 | An intelligent, interactive mental health companion that uses Large Language Models (LLMs) combined with RAG to provide context-aware mental wellness guidance,… |
-| mouna23/AI-driven-MITRE-Attack                                         |       8 | This repository demonstrates a machine learning pipeline for detecting MITRE ATT&CK techniques from logs and enriching the output using a local LLM.             |
-| R44VC0RP/gitcom.dev                                                    |       7 | Gitcom -> LLM ready Github PR comments in markdown.                                                                                                              |
-| agus-official/inferx-sdk                                               |       7 | Privacy‑first, on‑device LLM SDK powered by llama.cpp — unified C API with Android/iOS/Flutter bindings, low‑latency streaming, OpenAI‑compatible chat/function… |
-| davidesantangelo/cton                                                  |       7 | CTON provides a JSON-compatible, token-efficient text representation optimized for LLM prompts.                                                                  |
+| Repository                                                 |   Stars | Description                                                                                                                                                      |
+|------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| karpathy/reader3                                           |    1738 | Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.                                                    |
+| divagr18/memlayer                                          |     162 | Plug-and-play memory for LLMs in 3 lines of code. Add persistent, intelligent, human-like memory and recall to any model in minutes.                             |
+| mega002/llm-interp-tau                                     |     148 | Course Materials for Interpretability of Large Language Models (0368.4264) at Tel Aviv University                                                                |
+| wilpel/caveman-compression                                 |     137 | Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that…  |
+| asker-kurtelli/scroll                                      |      63 | chrome extension for better LLM chat navigation                                                                                                                  |
+| Vyntral/god-eye                                            |      62 | AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs                                                          |
+| mouna23/OSINT-with-LLM                                     |      36 | It’s an OSINT reconnaissance poc powered by Local LLMs (Ollama). You can feed it an email, domain, or IP, and it automatically performs multiple types of recon… |
+| BeRo1985/pasllm                                            |      32 | PasLLM - LLM inference engine in Object Pascal (synced from my private work repository)                                                                          |
+| KD-TAO/OmniZip                                             |      20 | OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models                                                                         |
+| HKUDS/FastAgent                                            |      19 | "FastAgent: Simple, Fast, and Strong LLM Agents"                                                                                                                 |
+| WilliamLCui/Kylin-OM                                       |      12 | Kylin-OM (银河麒麟操作系统智能运维软件) is an intelligent O&M platform designed for the Kylin operating system, integrating AI large language models, multi-agent architectur… |
+| Dr-AneeshJoseph/Claude-Metacognitive-Skills                |      11 | Various research skill packages to explore LLM Metacognition, mainly Claude AI including substrate access and texture discrimination                             |
+| davidesantangelo/cton                                      |      11 | CTON provides a JSON-compatible, token-efficient text representation optimized for LLM prompts.                                                                  |
+| jahnavik186/AI-Mental-Health-Companion                     |       9 | An intelligent, interactive mental health companion that uses Large Language Models (LLMs) combined with RAG to provide context-aware mental wellness guidance,… |
+| kylehughes/the-unofficial-swift-programming-language-skill |       8 | The Swift Programming Language, packaged as a Skill for LLMs.                                                                                                    |
+| mouna23/AI-driven-MITRE-Attack                             |       8 | This repository demonstrates a machine learning pipeline for detecting MITRE ATT&CK techniques from logs and enriching the output using a local LLM.             |
+| R44VC0RP/gitcom.dev                                        |       7 | Gitcom -> LLM ready Github PR comments in markdown.                                                                                                              |
+| agus-official/inferx-sdk                                   |       7 | Privacy‑first, on‑device LLM SDK powered by llama.cpp — unified C API with Android/iOS/Flutter bindings, low‑latency streaming, OpenAI‑compatible chat/function… |
+| Mmorgan-ML/Neuromodulatory-Control-Networks                |       6 | Neuromodulatory Control Networks (NCNs), a novel LLM architectural modification inspired by the neuromodulatory systems in the vertebrate brain.                 |
+| Odysseia-Arena/OdysseiaUI                                  |       6 | LLM frontend                                                                                                                                                     |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -211,28 +215,31 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Gmail can read your emails and attachments to train its AI, unless you opt out](https://www.malwarebytes.com/blog/news/2025/11/gmail-is-reading-your-emails-and-attachments-to-train-its-ai-unless-you-turn-it-off) — 85 points
-- [The AI bubble is bigger than you think](https://prospect.org/2025/11/19/ai-bubble-bigger-than-you-think/) — 40 points
-- [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3) — 16 points
-- [Early experiments in accelerating science with GPT-5](https://openai.com/index/accelerating-science-gpt-5/) — 12 points
-- [Show HN: GitPulse – AI-powered tool to discover open source projects](https://git-pulsee.vercel.app) — 5 points
-- [Early science acceleration experiments with GPT-5 [pdf]](https://cdn.openai.com/pdf/4a25f921-e4e0-479a-9b38-5367b47e8fd0/early-science-acceleration-experiments-with-gpt-5.pdf) — 3 points
+- [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3) — 371 points
+- [The New AI Consciousness Paper](https://www.astralcodexten.com/p/the-new-ai-consciousness-paper) — 129 points
+- [Boom, bubble, bust, boom. Why should AI be different?](https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/) — 125 points
+- [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model) — 37 points
+- [Google must double AI serving capacity every 6 months to meet demand](https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html) — 19 points
+- [Microsoft's head of AI doesn't understand why people don't like AI](https://www.pcgamer.com/software/ai/microsofts-head-of-ai-doesnt-understand-why-people-dont-like-ai-and-i-dont-understand-why-he-doesnt-understand-because-its-pretty-obvious/) — 12 points
+- [A Non-Obvious Answer to Why the AI Bubble Will Burst](https://brodzinski.com/2025/11/ai-bubble-non-obvious-answer.html) — 10 points
+- [AlphaXiv raises $7M in funding to become the GitHub of AI research](https://siliconangle.com/2025/11/19/alphaxiv-raises-7m-funding-become-github-ai-research/) — 9 points
+- [AI Exponentializes Your Tech Debt](https://www.vincentschmalbach.com/ai-exponentializes-your-tech-debt/) — 7 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                                      |
-|---------------------|--------|----------------------------------------------|
-| CVE-2025-59288      |      0 |                                              |
-| CVE-2025-64310      |      0 |                                              |
-| GHSA-qvqx-7f9m-r2gq |      0 |                                              |
-| MAL-2025-190599     |      0 | Malicious code in @vreden-team/baileys (npm) |
-|                     |      0 |                                              |
-|                     |      0 |                                              |
-|                     |      0 |                                              |
-|                     |      0 |                                              |
-|                     |      0 |                                              |
-|                     |      0 |                                              |
+| CVE   |   CVSS | Summary   |
+|-------|--------|-----------|
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
