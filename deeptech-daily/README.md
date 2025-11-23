@@ -42,17 +42,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -186,26 +188,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                                 |   Stars | Description                                                                                                                                                      |
 |------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| karpathy/reader3                                           |    1738 | Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.                                                    |
-| divagr18/memlayer                                          |     162 | Plug-and-play memory for LLMs in 3 lines of code. Add persistent, intelligent, human-like memory and recall to any model in minutes.                             |
-| mega002/llm-interp-tau                                     |     148 | Course Materials for Interpretability of Large Language Models (0368.4264) at Tel Aviv University                                                                |
-| wilpel/caveman-compression                                 |     137 | Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that…  |
-| asker-kurtelli/scroll                                      |      63 | chrome extension for better LLM chat navigation                                                                                                                  |
-| Vyntral/god-eye                                            |      62 | AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs                                                          |
-| mouna23/OSINT-with-LLM                                     |      36 | It’s an OSINT reconnaissance poc powered by Local LLMs (Ollama). You can feed it an email, domain, or IP, and it automatically performs multiple types of recon… |
-| BeRo1985/pasllm                                            |      32 | PasLLM - LLM inference engine in Object Pascal (synced from my private work repository)                                                                          |
-| KD-TAO/OmniZip                                             |      20 | OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models                                                                         |
+| karpathy/reader3                                           |    1830 | Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.                                                    |
+| karpathy/llm-council                                       |     471 | LLM Council works together to answer your hardest questions                                                                                                      |
+| mega002/llm-interp-tau                                     |     153 | Course Materials for Interpretability of Large Language Models (0368.4264) at Tel Aviv University                                                                |
+| wilpel/caveman-compression                                 |     153 | Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that…  |
+| Vyntral/god-eye                                            |      81 | AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs                                                          |
+| asker-kurtelli/scroll                                      |      72 | chrome extension for better LLM chat navigation                                                                                                                  |
+| mouna23/OSINT-with-LLM                                     |      41 | It’s an OSINT reconnaissance poc powered by Local LLMs (Ollama). You can feed it an email, domain, or IP, and it automatically performs multiple types of recon… |
+| BeRo1985/pasllm                                            |      38 | PasLLM - LLM inference engine in Object Pascal (synced from my private work repository)                                                                          |
+| KD-TAO/OmniZip                                             |      23 | OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models                                                                         |
 | HKUDS/FastAgent                                            |      19 | "FastAgent: Simple, Fast, and Strong LLM Agents"                                                                                                                 |
-| WilliamLCui/Kylin-OM                                       |      12 | Kylin-OM (银河麒麟操作系统智能运维软件) is an intelligent O&M platform designed for the Kylin operating system, integrating AI large language models, multi-agent architectur… |
 | Dr-AneeshJoseph/Claude-Metacognitive-Skills                |      11 | Various research skill packages to explore LLM Metacognition, mainly Claude AI including substrate access and texture discrimination                             |
 | davidesantangelo/cton                                      |      11 | CTON provides a JSON-compatible, token-efficient text representation optimized for LLM prompts.                                                                  |
+| kylehughes/the-unofficial-swift-programming-language-skill |      10 | The Swift Programming Language, packaged as a Skill for LLMs.                                                                                                    |
+| uwejan/tokio-actors                                        |      10 | Zero-ceremony, Tokio-native actors with strong typing and production-ready edge case handling, perfect for AI/LLM Applications.                                  |
 | jahnavik186/AI-Mental-Health-Companion                     |       9 | An intelligent, interactive mental health companion that uses Large Language Models (LLMs) combined with RAG to provide context-aware mental wellness guidance,… |
-| kylehughes/the-unofficial-swift-programming-language-skill |       8 | The Swift Programming Language, packaged as a Skill for LLMs.                                                                                                    |
 | mouna23/AI-driven-MITRE-Attack                             |       8 | This repository demonstrates a machine learning pipeline for detecting MITRE ATT&CK techniques from logs and enriching the output using a local LLM.             |
+| OpenCausaLab/DEPO                                          |       7 | [AAAI 2026] Code and Data for Paper "DEPO: Dual-Efficiency Preference Optimization for LLM Agents"                                                               |
 | R44VC0RP/gitcom.dev                                        |       7 | Gitcom -> LLM ready Github PR comments in markdown.                                                                                                              |
 | agus-official/inferx-sdk                                   |       7 | Privacy‑first, on‑device LLM SDK powered by llama.cpp — unified C API with Android/iOS/Flutter bindings, low‑latency streaming, OpenAI‑compatible chat/function… |
-| Mmorgan-ML/Neuromodulatory-Control-Networks                |       6 | Neuromodulatory Control Networks (NCNs), a novel LLM architectural modification inspired by the neuromodulatory systems in the vertebrate brain.                 |
-| Odysseia-Arena/OdysseiaUI                                  |       6 | LLM frontend                                                                                                                                                     |
+| toxy4ny/redteam-ai-benchmark                               |       6 | Red Team AI Benchmark: Evaluating Uncensored LLMs for Offensive Security                                                                                         |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -215,15 +217,10 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3) — 371 points
-- [The New AI Consciousness Paper](https://www.astralcodexten.com/p/the-new-ai-consciousness-paper) — 129 points
-- [Boom, bubble, bust, boom. Why should AI be different?](https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/) — 125 points
-- [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model) — 37 points
-- [Google must double AI serving capacity every 6 months to meet demand](https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html) — 19 points
-- [Microsoft's head of AI doesn't understand why people don't like AI](https://www.pcgamer.com/software/ai/microsofts-head-of-ai-doesnt-understand-why-people-dont-like-ai-and-i-dont-understand-why-he-doesnt-understand-because-its-pretty-obvious/) — 12 points
-- [A Non-Obvious Answer to Why the AI Bubble Will Burst](https://brodzinski.com/2025/11/ai-bubble-non-obvious-answer.html) — 10 points
-- [AlphaXiv raises $7M in funding to become the GitHub of AI research](https://siliconangle.com/2025/11/19/alphaxiv-raises-7m-funding-become-github-ai-research/) — 9 points
-- [AI Exponentializes Your Tech Debt](https://www.vincentschmalbach.com/ai-exponentializes-your-tech-debt/) — 7 points
+- [Google tells employees it must double capacity every 6 months to meet AI demand](https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/) — 47 points
+- [Show HN: I built a wizard to turn ideas into AI coding agent-ready specs](https://vibescaffold.dev/) — 40 points
+- [An Economy of AI Agents](https://arxiv.org/abs/2509.01063) — 34 points
+- [Terence Tao: At the Erdos problem website, AI assistance now becoming routine](https://mathstodon.xyz/@tao/115591487350860999) — 28 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)

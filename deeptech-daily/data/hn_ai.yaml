@@ -1,50 +1,26 @@
-fetched_at: '2025-11-22T05:30:56Z'
-generated_at: '2025-11-22T05:30:56Z'
-hash: 2b4f0c97bf1a9e1533e8a6faa8e0a5921d32fab43716000546fb51d71c4c11dc
+fetched_at: '2025-11-23T05:32:06Z'
+generated_at: '2025-11-23T05:32:06Z'
+hash: c21a03434078e839eb70d83d359f5f0a66816845014f3022ded03ee7a76c77ce
 items:
-- id: 46001889
-  score: 371
-  time: '2025-11-21T06:50:14Z'
-  title: 'Olmo 3: Charting a path through the model flow to lead open-source AI'
-  url: https://allenai.org/blog/olmo3
-- id: 46005928
-  score: 129
-  time: '2025-11-21T16:25:48Z'
-  title: The New AI Consciousness Paper
-  url: https://www.astralcodexten.com/p/the-new-ai-consciousness-paper
-- id: 46008628
-  score: 125
-  time: '2025-11-21T20:30:51Z'
-  title: Boom, bubble, bust, boom. Why should AI be different?
-  url: https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/
-- id: 46010806
-  score: 37
-  time: '2025-11-22T00:30:26Z'
-  title: Sharper MRI scans may be on horizon thanks to new physics-based model
-  url: https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model
-- id: 46007588
-  score: 19
-  time: '2025-11-21T18:53:24Z'
-  title: Google must double AI serving capacity every 6 months to meet demand
-  url: https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html
-- id: 46012119
-  score: 12
-  time: '2025-11-22T04:33:34Z'
-  title: Microsoft's head of AI doesn't understand why people don't like AI
-  url: https://www.pcgamer.com/software/ai/microsofts-head-of-ai-doesnt-understand-why-people-dont-like-ai-and-i-dont-understand-why-he-doesnt-understand-because-its-pretty-obvious/
-- id: 46007087
-  score: 10
-  time: '2025-11-21T18:16:10Z'
-  title: A Non-Obvious Answer to Why the AI Bubble Will Burst
-  url: https://brodzinski.com/2025/11/ai-bubble-non-obvious-answer.html
-- id: 46008657
-  score: 9
-  time: '2025-11-21T20:34:08Z'
-  title: AlphaXiv raises $7M in funding to become the GitHub of AI research
-  url: https://siliconangle.com/2025/11/19/alphaxiv-raises-7m-funding-become-github-ai-research/
-- id: 46012183
-  score: 7
-  time: '2025-11-22T04:44:33Z'
-  title: AI Exponentializes Your Tech Debt
-  url: https://www.vincentschmalbach.com/ai-exponentializes-your-tech-debt/
+- id: 46013463
+  score: 47
+  time: '2025-11-22T09:39:11Z'
+  title: Google tells employees it must double capacity every 6 months to meet AI
+    demand
+  url: https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/
+- id: 46018229
+  score: 40
+  time: '2025-11-22T21:02:34Z'
+  title: 'Show HN: I built a wizard to turn ideas into AI coding agent-ready specs'
+  url: https://vibescaffold.dev/
+- id: 46020096
+  score: 34
+  time: '2025-11-23T02:08:00Z'
+  title: An Economy of AI Agents
+  url: https://arxiv.org/abs/2509.01063
+- id: 46017972
+  score: 28
+  time: '2025-11-22T20:27:41Z'
+  title: 'Terence Tao: At the Erdos problem website, AI assistance now becoming routine'
+  url: https://mathstodon.xyz/@tao/115591487350860999
 source_url: https://hacker-news.firebaseio.com/
