@@ -1,117 +1,108 @@
-fetched_at: '2025-11-21T05:33:21Z'
-generated_at: '2025-11-21T05:33:21Z'
-hash: eb8233661b5390b22f657f848e479c5a94b615c9491e590c2d51117e48e9146a
+fetched_at: '2025-11-24T05:34:43Z'
+generated_at: '2025-11-24T05:34:43Z'
+hash: 24d0c69d61bd9492788e9f83db120f49e8f1155fcca0a4d5a93c044dfc123849
 items:
-- id: oai:arXiv.org:2511.14777v1
-  link: https://arxiv.org/abs/2511.14777
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.14777v1 Announce Type: new  Abstract: Large language models
-    (LLMs) have achieved remarkable results on tasks framed as reasoning problems,
-    yet their…'
-  title: 'The Illusion of Procedural Reasoning: Measuring Long-Horizon FSM Execution
-    in LLMs'
-- id: oai:arXiv.org:2511.14778v1
-  link: https://arxiv.org/abs/2511.14778
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.14778v1 Announce Type: new  Abstract: We take two key steps
-    in automating the open-ended discovery of new mathematical theories, a grand challenge
-    i…'
-  title: Learning Interestingness in Automated Mathematical Theory Formation
-- id: oai:arXiv.org:2511.14780v1
-  link: https://arxiv.org/abs/2511.14780
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.14780v1 Announce Type: new  Abstract: We present Ask WhAI,
-    a systems-level framework for inspecting and perturbing belief states in multi-agent
-    inte…'
-  title: Ask WhAI:Probing Belief Formation in Role-Primed LLM Agents
-- id: oai:arXiv.org:2511.14788v1
-  link: https://arxiv.org/abs/2511.14788
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.14788v1 Announce Type: new  Abstract: Subnational location
-    data of disaster events are critical for risk assessment and disaster risk reduction.
-    Dis…'
-  title: Subnational Geocoding of Global Disasters Using Large Language Models
-- id: oai:arXiv.org:2511.14819v1
-  link: https://arxiv.org/abs/2511.14819
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.14819v1 Announce Type: new  Abstract: This paper documents
-    Project Rachel, an action research study that created and tracked a complete AI
-    academic…'
-  title: 'Project Rachel: Can an AI Become a Scholarly Author?'
-- id: oai:arXiv.org:2511.14853v1
-  link: https://arxiv.org/abs/2511.14853
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.14853v1 Announce Type: new  Abstract: Assuring the trustworthiness
-    and safety of AI systems, e.g., autonomous vehicles (AV), depends critically on
-    t…'
-  title: Uncertainty-Aware Measurement of Scenario Suite Representativeness for Autonomous
-    Systems
-- id: oai:arXiv.org:2511.15002v1
-  link: https://arxiv.org/abs/2511.15002
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.15002v1 Announce Type: new  Abstract: Next-generation networks
-    utilize the Open Radio Access Network (O-RAN) architecture to enable dynamic resource…'
-  title: Task Specific Sharpness Aware O-RAN Resource Management using Multi Agent
-    Reinforcement Learning
-- id: oai:arXiv.org:2511.15055v1
-  link: https://arxiv.org/abs/2511.15055
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.15055v1 Announce Type: new  Abstract: Human-like agents have
-    long been one of the goals in pursuing artificial intelligence. Although reinforcement…'
-  title: Learning Human-Like RL Agents Through Trajectory Optimization With Action
-    Quantization
-- id: oai:arXiv.org:2511.15061v1
-  link: https://arxiv.org/abs/2511.15061
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.15061v1 Announce Type: new  Abstract: Genomic question answering
-    often requires complex reasoning and integration across diverse biomedical sources.…'
-  title: 'Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced
-    Genomic Question Answering'
-- id: oai:arXiv.org:2511.15069v1
-  link: https://arxiv.org/abs/2511.15069
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.15069v1 Announce Type: new  Abstract: In this paper, we propose
-    ProRAC (Progression-based Reasoning about Actions and Change), a neuro-symbolic
-    fram…'
-  title: 'ProRAC: A Neuro-symbolic Method for Reasoning about Actions with LLM-based
-    Progression'
-- id: oai:arXiv.org:2511.15074v1
-  link: https://arxiv.org/abs/2511.15074
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.15074v1 Announce Type: new  Abstract: The performance of machine
-    learning models on tabular data is critically dependent on high-quality feature
-    eng…'
-  title: Knowledge-Informed Automatic Feature Extraction via Collaborative Large Language
-    Model Agents
-- id: oai:arXiv.org:2511.15169v2
-  link: https://arxiv.org/abs/2511.15169
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.15169v2 Announce Type: new  Abstract: Large Reasoning Models
-    (LRMs) improve answer quality through explicit chain-of-thought, yet this very
-    capabili…'
-  title: 'SafeRBench: A Comprehensive Benchmark for Safety Assessment in Large Reasoning
-    Models'
-- id: oai:arXiv.org:2511.15191v1
-  link: https://arxiv.org/abs/2511.15191
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.15191v1 Announce Type: new  Abstract: Knowledge Tracing (KT)
-    aims to mine students'' evolving knowledge states and predict their future question-answ…'
-  title: 'HISE-KT: Synergizing Heterogeneous Information Networks and LLMs for Explainable
-    Knowledge Tracing with Meta-Path Optimization'
-- id: oai:arXiv.org:2511.15192v2
-  link: https://arxiv.org/abs/2511.15192
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.15192v2 Announce Type: new  Abstract: The remarkable language
-    ability of Large Language Models (LLMs) stems from extensive training on vast
-    datasets…'
-  title: 'As If We''ve Met Before: LLMs Exhibit Certainty in Recognizing Seen Files'
-- id: oai:arXiv.org:2511.15202v1
-  link: https://arxiv.org/abs/2511.15202
-  published: '2025-11-21T05:00:00Z'
-  summary: 'arXiv:2511.15202v1 Announce Type: new  Abstract: This paper introduces
-    SOLID (Synergizing Optimization and Large Language Models for Intelligent Decision-Makin…'
-  title: 'SOLID: a Framework of Synergizing Optimization and LLMs for Intelligent
-    Decision-Making'
+- id: oai:arXiv.org:2511.16814v1
+  link: https://arxiv.org/abs/2511.16814
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.16814v1 Announce Type: new  Abstract: While recent research
+    suggests Large Language Models match human creative performance in divergent thinking
+    ta…'
+  title: Stable diffusion models reveal a persisting human and AI gap in visual creativity
+- id: oai:arXiv.org:2511.16837v1
+  link: https://arxiv.org/abs/2511.16837
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.16837v1 Announce Type: new  Abstract: Cognitive BASIC is a
+    minimal, BASIC-style prompting language and in-model interpreter that structures
+    large la…'
+  title: 'Cognitive BASIC: An In-Model Interpreted Reasoning Language for LLMs'
+- id: oai:arXiv.org:2511.16842v1
+  link: https://arxiv.org/abs/2511.16842
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.16842v1 Announce Type: new  Abstract: Benchmarks are pivotal
+    in driving AI progress, and invalid benchmark questions frequently undermine their
+    reli…'
+  title: Fantastic Bugs and Where to Find Them in AI Benchmarks
+- id: oai:arXiv.org:2511.16916v1
+  link: https://arxiv.org/abs/2511.16916
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.16916v1 Announce Type: new  Abstract: In multi-vehicle cooperative
+    driving tasks involving high-frequency continuous control, traditional state-base…'
+  title: 'Hybrid Differential Reward: Combining Temporal Difference and Action Gradients
+    for Efficient Multi-Agent Reinforcement Learning in Cooperative Driving'
+- id: oai:arXiv.org:2511.16961v1
+  link: https://arxiv.org/abs/2511.16961
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.16961v1 Announce Type: new  Abstract: Bayesian Networks (BNs)
+    are an important tool for assisting probabilistic reasoning, but despite being
+    conside…'
+  title: Comparing verbal, visual and combined explanations for Bayesian Network inferences
+- id: oai:arXiv.org:2511.16997v1
+  link: https://arxiv.org/abs/2511.16997
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.16997v1 Announce Type: new  Abstract: The emergence of AI Scientists
+    has demonstrated remarkable potential in automating scientific research. Howeve…'
+  title: 'MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective
+    Knowledge of Human Scientists'
+- id: oai:arXiv.org:2511.17006v1
+  link: https://arxiv.org/abs/2511.17006
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.17006v1 Announce Type: new  Abstract: Scaling test-time computation
+    improves performance across different tasks on large language models (LLMs), whi…'
+  title: Budget-Aware Tool-Use Enables Effective Agent Scaling
+- id: oai:arXiv.org:2511.17038v1
+  link: https://arxiv.org/abs/2511.17038
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.17038v1 Announce Type: new  Abstract: From a Bayesian perspective,
+    score-based diffusion solves inverse problems through joint inference, embedding…'
+  title: 'DAPS++: Rethinking Diffusion Inverse Problems with Decoupled Posterior Annealing'
+- id: oai:arXiv.org:2511.17056v1
+  link: https://arxiv.org/abs/2511.17056
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.17056v1 Announce Type: new  Abstract: Electronic health records
+    (EHRs) form an invaluable resource for training clinical decision support systems.
+    T…'
+  title: Patient-level Information Extraction by Consistent Integration of Textual
+    and Tabular Evidence with Bayesian Networks
+- id: oai:arXiv.org:2511.17162v1
+  link: https://arxiv.org/abs/2511.17162
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.17162v1 Announce Type: new  Abstract: The Belief-Desire-Intention
+    (BDI) model is a cornerstone for representing rational agency in artificial intell…'
+  title: The Belief-Desire-Intention Ontology for modelling mental reality and agency
+- id: oai:arXiv.org:2511.17165v1
+  link: https://arxiv.org/abs/2511.17165
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.17165v1 Announce Type: new  Abstract: Episodic rewards present
+    a significant challenge in reinforcement learning. While intrinsic reward methods
+    hav…'
+  title: 'MIR: Efficient Exploration in Episodic Multi-Agent Reinforcement Learning
+    via Mutual Intrinsic Reward'
+- id: oai:arXiv.org:2511.17198v1
+  link: https://arxiv.org/abs/2511.17198
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.17198v1 Announce Type: new  Abstract: LLM-driven agents, particularly
+    those using general frameworks like ReAct or human-inspired role-playing, ofte…'
+  title: Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism
+- id: oai:arXiv.org:2511.17332v1
+  link: https://arxiv.org/abs/2511.17332
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.17332v1 Announce Type: new  Abstract: Agentic AI seeks to endow
+    systems with sustained autonomy, reasoning, and interaction capabilities. To realize…'
+  title: Agentifying Agentic AI
+- id: oai:arXiv.org:2511.17408v1
+  link: https://arxiv.org/abs/2511.17408
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.17408v1 Announce Type: new  Abstract: Probing has emerged as
+    a promising method for monitoring Large Language Models (LLMs), enabling inference-time…'
+  title: 'That''s not natural: The Impact of Off-Policy Training Data on Probe Performance'
+- id: oai:arXiv.org:2511.17461v1
+  link: https://arxiv.org/abs/2511.17461
+  published: '2025-11-24T05:00:00Z'
+  summary: 'arXiv:2511.17461v1 Announce Type: new  Abstract: Cooperative perception
+    (CP) offers significant potential to overcome the limitations of single-vehicle
+    sensing…'
+  title: 'SRA-CP: Spontaneous Risk-Aware Selective Cooperative Perception'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

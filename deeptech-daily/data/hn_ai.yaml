@@ -1,26 +1,41 @@
-fetched_at: '2025-11-23T05:32:06Z'
-generated_at: '2025-11-23T05:32:06Z'
-hash: c21a03434078e839eb70d83d359f5f0a66816845014f3022ded03ee7a76c77ce
+fetched_at: '2025-11-24T05:34:43Z'
+generated_at: '2025-11-24T05:34:43Z'
+hash: 5388a5966a6ef605b6700bfc86cc855e464112270ce46dca3d730c83b089da1d
 items:
-- id: 46013463
-  score: 47
-  time: '2025-11-22T09:39:11Z'
-  title: Google tells employees it must double capacity every 6 months to meet AI
-    demand
-  url: https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/
-- id: 46018229
-  score: 40
-  time: '2025-11-22T21:02:34Z'
-  title: 'Show HN: I built a wizard to turn ideas into AI coding agent-ready specs'
-  url: https://vibescaffold.dev/
-- id: 46020096
-  score: 34
-  time: '2025-11-23T02:08:00Z'
-  title: An Economy of AI Agents
-  url: https://arxiv.org/abs/2509.01063
-- id: 46017972
-  score: 28
-  time: '2025-11-22T20:27:41Z'
-  title: 'Terence Tao: At the Erdos problem website, AI assistance now becoming routine'
-  url: https://mathstodon.xyz/@tao/115591487350860999
+- id: 46027290
+  score: 50
+  time: '2025-11-23T21:01:26Z'
+  title: Meet the AI workers who tell their friends and family to stay away from AI
+  url: https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away
+- id: 46023531
+  score: 43
+  time: '2025-11-23T13:43:24Z'
+  title: Tosijs-schema is a super lightweight schema-first LLM-native JSON schema
+    library
+  url: https://www.npmjs.com/package/tosijs-schema
+- id: 46026315
+  score: 18
+  time: '2025-11-23T19:05:22Z'
+  title: AI trained on bacterial genomes produces never-before-seen proteins
+  url: https://arstechnica.com/science/2025/11/generative-ai-meets-the-genome/
+- id: 46024884
+  score: 16
+  time: '2025-11-23T16:43:59Z'
+  title: '''Is AI creating a new code review bottleneck for senior engineers?'''
+  url: https://thenewstack.io/is-ai-creating-a-new-code-review-bottleneck-for-senior-engineers/
+- id: 46030360
+  score: 13
+  time: '2025-11-24T04:22:12Z'
+  title: Insurers retreat from AI cover as risk of multibillion-dollar claims mounts
+  url: https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62
+- id: 46028650
+  score: 10
+  time: '2025-11-23T23:54:58Z'
+  title: 'Supertonic: Ultra-lightweight on-device TTS model open source by Supertone'
+  url: https://huggingface.co/spaces/Supertone/supertonic
+- id: 46021135
+  score: 6
+  time: '2025-11-23T05:54:32Z'
+  title: 'Show HN: Dank-AI – Ship production AI agents 10x faster'
+  url: https://www.dank-ai.xyz/
 source_url: https://hacker-news.firebaseio.com/
