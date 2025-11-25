@@ -1,45 +1,45 @@
-fetched_at: '2025-11-24T05:34:43Z'
-generated_at: '2025-11-24T05:34:43Z'
-hash: e0c55fe23528304194678c5a08cb0fd3a3949f319c554d40e9d695e3a606c3f4
+fetched_at: '2025-11-25T05:33:44Z'
+generated_at: '2025-11-25T05:33:44Z'
+hash: e87fdedbf81f3aef265aed8de76d376408f4844c496533b93a8b45bac7bf02bc
 items:
 - cvss: 0.0
-  id: MAL-2025-190623
-  published: '2025-11-24T03:18:56Z'
-  summary: Malicious code in cbre-flow-common (npm)
-- cvss: 0.0
-  id: MAL-2025-190624
-  published: '2025-11-24T03:27:37Z'
-  summary: Malicious code in base62-58x (npm)
-- cvss: 0.0
-  id: MAL-2025-190625
-  published: '2025-11-24T03:27:37Z'
-  summary: Malicious code in lion-second-package (npm)
-- cvss: 0.0
-  id: GHSA-g62q-chj4-h9wq
-  published: '2025-11-24T03:31:19Z'
+  id: CVE-2025-66183
+  published: '2025-11-25T04:15:46Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-m83v-rwh2-8cwf
-  published: '2025-11-24T03:31:19Z'
+  id: CVE-2025-66184
+  published: '2025-11-25T04:15:46Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-q2cr-96j4-c73w
-  published: '2025-11-24T03:31:19Z'
+  id: CVE-2025-66185
+  published: '2025-11-25T04:15:46Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-vcmm-whq7-r33v
-  published: '2025-11-24T03:31:19Z'
+  id: CVE-2025-66186
+  published: '2025-11-25T04:15:46Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-9966-qw6r-4xwx
-  published: '2025-11-24T03:31:20Z'
+  id: CVE-2025-66187
+  published: '2025-11-25T04:15:46Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-rwcf-q33h-h6vh
-  published: '2025-11-24T03:31:20Z'
+  id: null
+  published: '2025-11-25T05:33:44Z'
   summary: ''
 - cvss: 0.0
-  id: MAL-2025-190626
-  published: '2025-11-24T04:00:47Z'
-  summary: Malicious code in vue3-transpiler (npm)
+  id: null
+  published: '2025-11-25T05:33:44Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-11-25T05:33:44Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-11-25T05:33:44Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-11-25T05:33:44Z'
+  summary: ''
 source_url: https://cve.circl.lu/api/last
