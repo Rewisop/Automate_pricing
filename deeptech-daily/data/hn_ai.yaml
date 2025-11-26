@@ -1,60 +1,36 @@
-fetched_at: '2025-11-25T05:33:44Z'
-generated_at: '2025-11-25T05:33:44Z'
-hash: 7bbe1aaa307a6366b6bbf3a7b9ef747e6cd45f629210c942a9422fb339073b25
+fetched_at: '2025-11-26T05:32:55Z'
+generated_at: '2025-11-26T05:32:55Z'
+hash: 5deb5e0e4f0b563cfb6948ca747ae6d176dc6995f24217a474b101e26505b166
 items:
-- id: 46036878
-  score: 152
-  time: '2025-11-24T17:51:02Z'
-  title: Implications of AI to schools
-  url: https://twitter.com/karpathy/status/1993010584175141038
-- id: 46030799
-  score: 150
-  time: '2025-11-24T05:58:08Z'
-  title: What OpenAI did when ChatGPT users lost touch with reality
-  url: https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html
-- id: 46037343
-  score: 100
-  time: '2025-11-24T18:32:27Z'
-  title: The Bitter Lesson of LLM Extensions
-  url: https://www.sawyerhood.com/blog/llm-extension
-- id: 46032513
-  score: 92
-  time: '2025-11-24T10:37:05Z'
-  title: General principles for the use of AI at CERN
-  url: https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern
-- id: 46039274
-  score: 49
-  time: '2025-11-24T21:03:22Z'
-  title: AI has a deep understanding of how this code works
-  url: https://github.com/ocaml/ocaml/pull/14369
-- id: 46034209
-  score: 28
-  time: '2025-11-24T14:03:24Z'
-  title: AI Meets Aggressive Accounting at Meta's Gigantic New Data Center
-  url: https://www.wsj.com/tech/meta-ai-data-center-finances-d3a6b464
-- id: 46038417
-  score: 25
-  time: '2025-11-24T19:50:47Z'
-  title: PRC Elites Voice AI-Skepticism
-  url: https://jamestown.org/prc-elites-voice-ai-skepticism/
-- id: 46031208
-  score: 20
-  time: '2025-11-24T07:11:38Z'
-  title: Syd – An offline-first, AI-augmented workstation for blue teams
-  url: https://www.sydsec.co.uk
-- id: 46037065
-  score: 12
-  time: '2025-11-24T18:08:41Z'
-  title: 'Show HN: I built an interactive map of jobs at top AI companies'
-  url: https://map.stapply.ai
-- id: 46041351
-  score: 9
-  time: '2025-11-25T01:23:21Z'
-  title: A mathematical ceiling limits generative AI to amateur-level creativity
-  url: https://www.psypost.org/a-mathematical-ceiling-limits-generative-ai-to-amateur-level-creativity/
-- id: 46040751
-  score: 3
-  time: '2025-11-24T23:42:05Z'
-  title: 'AWS''s Project Rainier: the most powerful computer for training AI'
-  url: https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster
+- id: 46043354
+  score: 22
+  time: '2025-11-25T07:49:29Z'
+  title: 'Show HN: We cut RAG latency ~2× by switching embedding model'
+  url: https://www.myclone.is/blog/voyage-embedding-migration/
+- id: 46048915
+  score: 22
+  time: '2025-11-25T18:24:23Z'
+  title: In leaked recording, Nvidia CEO says its insane managers aren't using AI
+    enough
+  url: https://www.businessinsider.com/nvidia-ceo-employees-use-ai-every-task-possible-2025-11
+- id: 46054092
+  score: 10
+  time: '2025-11-26T04:06:32Z'
+  title: OpenAI needs to raise $207B by 2030 so it can continue to lose money
+  url: https://www.ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad
+- id: 46054057
+  score: 5
+  time: '2025-11-26T04:00:42Z'
+  title: HP to sack up to 6000 staff under AI adoption plan, fresh round of cost-cutting
+  url: https://www.theregister.com/2025/11/26/hp_inc_q4_2025/
+- id: 46047173
+  score: 4
+  time: '2025-11-25T16:08:38Z'
+  title: One weird trick makes the AI a better writer
+  url: https://blog.fsck.com/2025/10/13/this-one-weird-trick-makes-the-ai-a-better-writer/
+- id: 46048670
+  score: 4
+  time: '2025-11-25T18:04:51Z'
+  title: Feedback on an open source Ruby – LLM project
+  url: https://github.com/pcarolan/magic
 source_url: https://hacker-news.firebaseio.com/

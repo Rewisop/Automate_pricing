@@ -45,17 +45,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -150,7 +152,7 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [Fluid Grey 2: How Well Does Generative Adversarial Network Learn Deeper Topology Structure in Architecture That Matches Images?](https://arxiv.org/abs/2511.17643) — arXiv:2511.17643v1 Announce Type: new  Abstract: Taking into account the regional characteristics of intrinsic and extrinsic properties of space is an essentia…
 - [Hybrid Neuro-Symbolic Models for Ethical AI in Risk-Sensitive Domains](https://arxiv.org/abs/2511.17644) — arXiv:2511.17644v1 Announce Type: new  Abstract: Artificial intelligence deployed in risk-sensitive domains such as healthcare, finance, and security must not…
 - [Cognitive Inception: Agentic Reasoning against Visual Deceptions by Injecting Skepticism](https://arxiv.org/abs/2511.17672) — arXiv:2511.17672v1 Announce Type: new  Abstract: As the development of AI-generated contents (AIGC), multi-modal Large Language Models (LLM) struggle to identi…
-- [Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured Cognitive Loop](https://arxiv.org/abs/2511.17673) — arXiv:2511.17673v1 Announce Type: new  Abstract: Large language model agents suffer from fundamental architectural problems: entangled reasoning and execution,…
+- [Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured Cognitive Loop](https://arxiv.org/abs/2511.17673) — arXiv:2511.17673v2 Announce Type: new  Abstract: Large language model agents suffer from fundamental architectural problems: entangled reasoning and execution,…
 - [Learning the Value of Value Learning](https://arxiv.org/abs/2511.17714) — arXiv:2511.17714v1 Announce Type: new  Abstract: Standard decision frameworks addresses uncertainty about facts but assumes fixed values. We extend the Jeffrey…
 - [M3-Bench: Multi-Modal, Multi-Hop, Multi-Threaded Tool-Using MLLM Agent Benchmark](https://arxiv.org/abs/2511.17729) — arXiv:2511.17729v1 Announce Type: new  Abstract: We present M^3-Bench, the first benchmark for evaluating multimodal tool use under the Model Context Protocol.…
 - [AI- and Ontology-Based Enhancements to FMEA for Advanced Systems Engineering: Current Developments and Future Directions](https://arxiv.org/abs/2511.17743) — arXiv:2511.17743v1 Announce Type: new  Abstract: This article presents a state-of-the-art review of recent advances aimed at transforming traditional Failure M…
@@ -190,26 +192,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                                 |   Stars | Description                                                                                                                                                      |
 |------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| karpathy/llm-council                                       |    4926 | LLM Council works together to answer your hardest questions                                                                                                      |
-| asker-kurtelli/scroll                                      |     109 | chrome extension for better LLM chat navigation                                                                                                                  |
-| Vyntral/god-eye                                            |     102 | AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs                                                          |
-| mouna23/OSINT-with-LLM                                     |      51 | It’s an OSINT reconnaissance poc powered by Local LLMs (Ollama). You can feed it an email, domain, or IP, and it automatically performs multiple types of recon… |
-| BeRo1985/pasllm                                            |      49 | PasLLM - LLM inference engine in Object Pascal (synced from my private work repository)                                                                          |
-| Siyou-Li/QTSplus                                           |      37 | Query-aware Token Selector (QTSplus), a lightweight yet powerful visual token selection module that serves as an information gate between the vision encoder an… |
-| messkan/prompt-cache                                       |      31 | Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching. A drop-in OpenAI-compatible proxy written in Go.              |
-| kylehughes/the-unofficial-swift-programming-language-skill |      15 | The Swift Programming Language, packaged as a Skill for LLMs.                                                                                                    |
+| karpathy/llm-council                                       |    6104 | LLM Council works together to answer your hardest questions                                                                                                      |
+| asker-kurtelli/scroll                                      |     117 | chrome extension for better LLM chat navigation                                                                                                                  |
+| Siyou-Li/QTSplus                                           |      63 | Query-aware Token Selector (QTSplus), a lightweight yet powerful visual token selection module that serves as an information gate between the vision encoder an… |
+| mouna23/OSINT-with-LLM                                     |      53 | It’s an OSINT reconnaissance poc powered by Local LLMs (Ollama). You can feed it an email, domain, or IP, and it automatically performs multiple types of recon… |
+| messkan/prompt-cache                                       |      33 | Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching. A drop-in OpenAI-compatible proxy written in Go.              |
+| kylehughes/the-unofficial-swift-programming-language-skill |      16 | The Swift Programming Language, packaged as a Skill for LLMs.                                                                                                    |
+| MaximeRivest/brepl                                         |      14 | Universal REPL Bridge for LLMs - Tab completion, interactive prompts, TUI support                                                                                |
+| RAprogramm/sql-query-analyzer                              |      13 | Static analysis and LLM-powered optimization for SQL queries. 18 built-in rules, SARIF output, CI/CD ready.                                                      |
 | Dr-AneeshJoseph/Claude-Metacognitive-Skills                |      12 | Various research skill packages to explore LLM Metacognition, mainly Claude AI including substrate access and texture discrimination                             |
 | uwejan/tokio-actors                                        |      11 | Zero-ceremony, Tokio-native actors with strong typing and production-ready edge case handling, perfect for AI/LLM Applications.                                  |
-| jahnavik186/AI-Mental-Health-Companion                     |       9 | An intelligent, interactive mental health companion that uses Large Language Models (LLMs) combined with RAG to provide context-aware mental wellness guidance,… |
-| RAprogramm/sql-query-analyzer                              |       8 | Static analysis and LLM-powered optimization for SQL queries. 18 built-in rules, SARIF output, CI/CD ready.                                                      |
+| chenxingqiang/YiRage                                       |       9 | YiRage (Yield Revolutionary AGile Engine) - Multi-Backend LLM Inference Optimization. Extends Mirage with comprehensive support for CUDA, MPS, CPU, Triton, NKI… |
 | jesbnc100/celarium                                         |       8 | Privacy middleware for multi-agent LLM systems                                                                                                                   |
 | JordanCoin/codemap                                         |       7 | a project brain for your AI. Give LLMs instant architectural context without burning tokens                                                                      |
 | OpenCausaLab/DEPO                                          |       7 | [AAAI 2026] Code and Data for Paper "DEPO: Dual-Efficiency Preference Optimization for LLM Agents"                                                               |
-| R44VC0RP/gitcom.dev                                        |       7 | Gitcom -> LLM ready Github PR comments in markdown.                                                                                                              |
-| ikramagix/gitmeup                                          |       7 | Turns your current git changes into Conventional Commit git add/commit commands using LLMs.                                                                      |
+| ikramagix/gitmeup                                          |       7 | CLI tool that turns your current git changes into conventional git add/commit commands using LLMs.                                                               |
+| ktock/llmlet                                               |       7 | P2P distributed LLM inference on browsers                                                                                                                        |
 | shekh-2810/DocInferX                                       |       7 | DocInferX is a fully-local, privacy-focused document intelligence system. It ingests PDFs and images, performs OCR, cleans text, chunks content, embeds it into… |
 | Flexiana/3TL                                               |       6 | 3TL means Typed Talking To LLMs: Enriched CSV AIs naturall understand and that removes ambiguity.                                                                |
-| MaximeRivest/brepl                                         |       6 | Universal REPL Bridge for LLMs - Tab completion, interactive prompts, TUI support                                                                                |
+| ZON-Format/ZON                                             |       6 | Compact, human-readable serialization designed for high-performance data interchange and efficient LLM prompts, New JSON for LLMs.                               |
+| theshi-1128/awesome-agent-communication-security           |       6 | A curated collection of research and techniques on securing agent communication in Large Language Model (LLM)–based agent systems, including protocols, securit… |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -219,29 +221,24 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Implications of AI to schools](https://twitter.com/karpathy/status/1993010584175141038) — 152 points
-- [What OpenAI did when ChatGPT users lost touch with reality](https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html) — 150 points
-- [The Bitter Lesson of LLM Extensions](https://www.sawyerhood.com/blog/llm-extension) — 100 points
-- [General principles for the use of AI at CERN](https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern) — 92 points
-- [AI has a deep understanding of how this code works](https://github.com/ocaml/ocaml/pull/14369) — 49 points
-- [AI Meets Aggressive Accounting at Meta's Gigantic New Data Center](https://www.wsj.com/tech/meta-ai-data-center-finances-d3a6b464) — 28 points
-- [PRC Elites Voice AI-Skepticism](https://jamestown.org/prc-elites-voice-ai-skepticism/) — 25 points
-- [Syd – An offline-first, AI-augmented workstation for blue teams](https://www.sydsec.co.uk) — 20 points
-- [Show HN: I built an interactive map of jobs at top AI companies](https://map.stapply.ai) — 12 points
-- [A mathematical ceiling limits generative AI to amateur-level creativity](https://www.psypost.org/a-mathematical-ceiling-limits-generative-ai-to-amateur-level-creativity/) — 9 points
-- [AWS's Project Rainier: the most powerful computer for training AI](https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster) — 3 points
+- [Show HN: We cut RAG latency ~2× by switching embedding model](https://www.myclone.is/blog/voyage-embedding-migration/) — 22 points
+- [In leaked recording, Nvidia CEO says its insane managers aren't using AI enough](https://www.businessinsider.com/nvidia-ceo-employees-use-ai-every-task-possible-2025-11) — 22 points
+- [OpenAI needs to raise $207B by 2030 so it can continue to lose money](https://www.ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad) — 10 points
+- [HP to sack up to 6000 staff under AI adoption plan, fresh round of cost-cutting](https://www.theregister.com/2025/11/26/hp_inc_q4_2025/) — 5 points
+- [One weird trick makes the AI a better writer](https://blog.fsck.com/2025/10/13/this-one-weird-trick-makes-the-ai-a-better-writer/) — 4 points
+- [Feedback on an open source Ruby – LLM project](https://github.com/pcarolan/magic) — 4 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
 | CVE            |   CVSS | Summary   |
 |----------------|--------|-----------|
-| CVE-2025-66183 |      0 |           |
-| CVE-2025-66184 |      0 |           |
-| CVE-2025-66185 |      0 |           |
-| CVE-2025-66186 |      0 |           |
-| CVE-2025-66187 |      0 |           |
-|                |      0 |           |
+| CVE-2025-66230 |      0 |           |
+| CVE-2025-66231 |      0 |           |
+| CVE-2025-66232 |      0 |           |
+| CVE-2025-66233 |      0 |           |
+| CVE-2025-66234 |      0 |           |
+| CVE-2025-66235 |      0 |           |
 |                |      0 |           |
 |                |      0 |           |
 |                |      0 |           |

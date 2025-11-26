@@ -1,54 +1,54 @@
-fetched_at: '2025-11-25T05:33:44Z'
-generated_at: '2025-11-25T05:33:44Z'
-hash: 9dcb840fdc72c2525a5d97a7f963bf7bd419b1b3c51ed46a2f14945eff8d7730
+fetched_at: '2025-11-26T05:32:55Z'
+generated_at: '2025-11-26T05:32:55Z'
+hash: 7c10e9cfc267a2cde04a75b52cfe15228c338ecd5583f0c2ea6f799f1ab4408b
 items:
 - created_at: '2025-11-22T23:24:14Z'
   description: LLM Council works together to answer your hardest questions
   full_name: karpathy/llm-council
   html_url: https://github.com/karpathy/llm-council
-  stargazers_count: 4926
+  stargazers_count: 6104
 - created_at: '2025-11-20T14:41:04Z'
   description: chrome extension for better LLM chat navigation
   full_name: asker-kurtelli/scroll
   html_url: https://github.com/asker-kurtelli/scroll
-  stargazers_count: 109
-- created_at: '2025-11-19T16:49:56Z'
-  description: AI-powered subdomain enumeration tool with local LLM analysis via Ollama
-    - 100% private, zero API costs
-  full_name: Vyntral/god-eye
-  html_url: https://github.com/Vyntral/god-eye
-  stargazers_count: 102
-- created_at: '2025-11-20T09:00:17Z'
-  description: It’s an OSINT reconnaissance poc powered by Local LLMs (Ollama). You
-    can feed it an email, domain, or IP, and it automatically performs multiple types
-    of recon…
-  full_name: mouna23/OSINT-with-LLM
-  html_url: https://github.com/mouna23/OSINT-with-LLM
-  stargazers_count: 51
-- created_at: '2025-11-19T11:39:11Z'
-  description: PasLLM - LLM inference engine in Object Pascal (synced from my private
-    work repository)
-  full_name: BeRo1985/pasllm
-  html_url: https://github.com/BeRo1985/pasllm
-  stargazers_count: 49
+  stargazers_count: 117
 - created_at: '2025-11-22T14:11:11Z'
   description: Query-aware Token Selector (QTSplus), a lightweight yet powerful visual
     token selection module that serves as an information gate between the vision encoder
     an…
   full_name: Siyou-Li/QTSplus
   html_url: https://github.com/Siyou-Li/QTSplus
-  stargazers_count: 37
+  stargazers_count: 63
+- created_at: '2025-11-20T09:00:17Z'
+  description: It’s an OSINT reconnaissance poc powered by Local LLMs (Ollama). You
+    can feed it an email, domain, or IP, and it automatically performs multiple types
+    of recon…
+  full_name: mouna23/OSINT-with-LLM
+  html_url: https://github.com/mouna23/OSINT-with-LLM
+  stargazers_count: 53
 - created_at: '2025-11-22T23:20:23Z'
   description: Cut LLM costs by up to 80% and unlock sub-millisecond responses with
     intelligent semantic caching. A drop-in OpenAI-compatible proxy written in Go.
   full_name: messkan/prompt-cache
   html_url: https://github.com/messkan/prompt-cache
-  stargazers_count: 31
+  stargazers_count: 33
 - created_at: '2025-11-21T00:16:45Z'
   description: The Swift Programming Language, packaged as a Skill for LLMs.
   full_name: kylehughes/the-unofficial-swift-programming-language-skill
   html_url: https://github.com/kylehughes/the-unofficial-swift-programming-language-skill
-  stargazers_count: 15
+  stargazers_count: 16
+- created_at: '2025-11-24T13:46:18Z'
+  description: Universal REPL Bridge for LLMs - Tab completion, interactive prompts,
+    TUI support
+  full_name: MaximeRivest/brepl
+  html_url: https://github.com/MaximeRivest/brepl
+  stargazers_count: 14
+- created_at: '2025-11-24T09:37:45Z'
+  description: Static analysis and LLM-powered optimization for SQL queries. 18 built-in
+    rules, SARIF output, CI/CD ready.
+  full_name: RAprogramm/sql-query-analyzer
+  html_url: https://github.com/RAprogramm/sql-query-analyzer
+  stargazers_count: 13
 - created_at: '2025-11-21T10:10:29Z'
   description: Various research skill packages to explore LLM Metacognition, mainly
     Claude AI including substrate access and texture discrimination
@@ -61,19 +61,13 @@ items:
   full_name: uwejan/tokio-actors
   html_url: https://github.com/uwejan/tokio-actors
   stargazers_count: 11
-- created_at: '2025-11-19T00:19:48Z'
-  description: An intelligent, interactive mental health companion that uses Large
-    Language Models (LLMs) combined with RAG to provide context-aware mental wellness
-    guidance,…
-  full_name: jahnavik186/AI-Mental-Health-Companion
-  html_url: https://github.com/jahnavik186/AI-Mental-Health-Companion
+- created_at: '2025-11-22T12:29:44Z'
+  description: YiRage (Yield Revolutionary AGile Engine) - Multi-Backend LLM Inference
+    Optimization. Extends Mirage with comprehensive support for CUDA, MPS, CPU, Triton,
+    NKI…
+  full_name: chenxingqiang/YiRage
+  html_url: https://github.com/chenxingqiang/YiRage
   stargazers_count: 9
-- created_at: '2025-11-24T09:37:45Z'
-  description: Static analysis and LLM-powered optimization for SQL queries. 18 built-in
-    rules, SARIF output, CI/CD ready.
-  full_name: RAprogramm/sql-query-analyzer
-  html_url: https://github.com/RAprogramm/sql-query-analyzer
-  stargazers_count: 8
 - created_at: '2025-11-20T16:42:51Z'
   description: Privacy middleware for multi-agent LLM systems
   full_name: jesbnc100/celarium
@@ -91,16 +85,16 @@ items:
   full_name: OpenCausaLab/DEPO
   html_url: https://github.com/OpenCausaLab/DEPO
   stargazers_count: 7
-- created_at: '2025-11-19T14:18:20Z'
-  description: Gitcom -> LLM ready Github PR comments in markdown.
-  full_name: R44VC0RP/gitcom.dev
-  html_url: https://github.com/R44VC0RP/gitcom.dev
-  stargazers_count: 7
 - created_at: '2025-11-20T17:16:33Z'
-  description: Turns your current git changes into Conventional Commit git add/commit
-    commands using LLMs.
+  description: CLI tool that turns your current git changes into conventional git
+    add/commit commands using LLMs.
   full_name: ikramagix/gitmeup
   html_url: https://github.com/ikramagix/gitmeup
+  stargazers_count: 7
+- created_at: '2025-11-25T06:46:07Z'
+  description: P2P distributed LLM inference on browsers
+  full_name: ktock/llmlet
+  html_url: https://github.com/ktock/llmlet
   stargazers_count: 7
 - created_at: '2025-11-23T06:04:06Z'
   description: DocInferX is a fully-local, privacy-focused document intelligence system.
@@ -115,10 +109,16 @@ items:
   full_name: Flexiana/3TL
   html_url: https://github.com/Flexiana/3TL
   stargazers_count: 6
-- created_at: '2025-11-24T13:46:18Z'
-  description: Universal REPL Bridge for LLMs - Tab completion, interactive prompts,
-    TUI support
-  full_name: MaximeRivest/brepl
-  html_url: https://github.com/MaximeRivest/brepl
+- created_at: '2025-11-23T01:52:39Z'
+  description: Compact, human-readable serialization designed for high-performance
+    data interchange and efficient LLM prompts, New JSON for LLMs.
+  full_name: ZON-Format/ZON
+  html_url: https://github.com/ZON-Format/ZON
+  stargazers_count: 6
+- created_at: '2025-11-23T04:05:12Z'
+  description: A curated collection of research and techniques on securing agent communication
+    in Large Language Model (LLM)–based agent systems, including protocols, securit…
+  full_name: theshi-1128/awesome-agent-communication-security
+  html_url: https://github.com/theshi-1128/awesome-agent-communication-security
   stargazers_count: 6
 source_url: https://api.github.com/search/repositories

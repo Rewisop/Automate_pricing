@@ -1,45 +1,45 @@
-fetched_at: '2025-11-25T05:33:44Z'
-generated_at: '2025-11-25T05:33:44Z'
-hash: e87fdedbf81f3aef265aed8de76d376408f4844c496533b93a8b45bac7bf02bc
+fetched_at: '2025-11-26T05:32:55Z'
+generated_at: '2025-11-26T05:32:55Z'
+hash: d77a7032deecc7100ae7006c82fc25861e84666997e0f22ec2824d44aed04022
 items:
 - cvss: 0.0
-  id: CVE-2025-66183
-  published: '2025-11-25T04:15:46Z'
+  id: CVE-2025-66230
+  published: '2025-11-26T04:15:57Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-66184
-  published: '2025-11-25T04:15:46Z'
+  id: CVE-2025-66231
+  published: '2025-11-26T04:15:57Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-66185
-  published: '2025-11-25T04:15:46Z'
+  id: CVE-2025-66232
+  published: '2025-11-26T04:15:57Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-66186
-  published: '2025-11-25T04:15:46Z'
+  id: CVE-2025-66233
+  published: '2025-11-26T04:15:57Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-66187
-  published: '2025-11-25T04:15:46Z'
+  id: CVE-2025-66234
+  published: '2025-11-26T04:15:57Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-11-25T05:33:44Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2025-11-25T05:33:44Z'
+  id: CVE-2025-66235
+  published: '2025-11-26T04:15:57Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-25T05:33:44Z'
+  published: '2025-11-26T05:32:55Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-25T05:33:44Z'
+  published: '2025-11-26T05:32:55Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2025-11-25T05:33:44Z'
+  published: '2025-11-26T05:32:55Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2025-11-26T05:32:55Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

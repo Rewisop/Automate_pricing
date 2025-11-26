@@ -1,10 +1,10 @@
-fetched_at: '2025-11-25T05:33:44Z'
-generated_at: '2025-11-25T05:33:44Z'
-hash: 61da5b0f63d4db5535138d09ef7bb9c2cf3fb3f8008fdf8082777dcac5142ba0
+fetched_at: '2025-11-26T05:32:55Z'
+generated_at: '2025-11-26T05:32:55Z'
+hash: 9f35518d12517a50f769df8f25c2d71872e2d9c09468c38917d2c954aa5ce4d6
 items:
 - id: oai:arXiv.org:2511.17541v1
   link: https://arxiv.org/abs/2511.17541
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17541v1 Announce Type: new  Abstract: This paper develops a
     mathematically rigorous, philosophically grounded framework for evaluating artificial
     me…'
@@ -12,7 +12,7 @@ items:
     Architecture for Al Memory Evaluation'
 - id: oai:arXiv.org:2511.17643v1
   link: https://arxiv.org/abs/2511.17643
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17643v1 Announce Type: new  Abstract: Taking into account the
     regional characteristics of intrinsic and extrinsic properties of space is an
     essentia…'
@@ -20,43 +20,43 @@ items:
     Topology Structure in Architecture That Matches Images?'
 - id: oai:arXiv.org:2511.17644v1
   link: https://arxiv.org/abs/2511.17644
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17644v1 Announce Type: new  Abstract: Artificial intelligence
     deployed in risk-sensitive domains such as healthcare, finance, and security must
     not…'
   title: Hybrid Neuro-Symbolic Models for Ethical AI in Risk-Sensitive Domains
 - id: oai:arXiv.org:2511.17672v1
   link: https://arxiv.org/abs/2511.17672
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17672v1 Announce Type: new  Abstract: As the development of
     AI-generated contents (AIGC), multi-modal Large Language Models (LLM) struggle
     to identi…'
   title: 'Cognitive Inception: Agentic Reasoning against Visual Deceptions by Injecting
     Skepticism'
-- id: oai:arXiv.org:2511.17673v1
+- id: oai:arXiv.org:2511.17673v2
   link: https://arxiv.org/abs/2511.17673
-  published: '2025-11-25T05:00:00Z'
-  summary: 'arXiv:2511.17673v1 Announce Type: new  Abstract: Large language model
+  published: '2025-11-26T05:00:00Z'
+  summary: 'arXiv:2511.17673v2 Announce Type: new  Abstract: Large language model
     agents suffer from fundamental architectural problems: entangled reasoning and
     execution,…'
   title: 'Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured
     Cognitive Loop'
 - id: oai:arXiv.org:2511.17714v1
   link: https://arxiv.org/abs/2511.17714
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17714v1 Announce Type: new  Abstract: Standard decision frameworks
     addresses uncertainty about facts but assumes fixed values. We extend the Jeffrey…'
   title: Learning the Value of Value Learning
 - id: oai:arXiv.org:2511.17729v1
   link: https://arxiv.org/abs/2511.17729
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17729v1 Announce Type: new  Abstract: We present M^3-Bench,
     the first benchmark for evaluating multimodal tool use under the Model Context
     Protocol.…'
   title: 'M3-Bench: Multi-Modal, Multi-Hop, Multi-Threaded Tool-Using MLLM Agent Benchmark'
 - id: oai:arXiv.org:2511.17743v1
   link: https://arxiv.org/abs/2511.17743
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17743v1 Announce Type: new  Abstract: This article presents
     a state-of-the-art review of recent advances aimed at transforming traditional
     Failure M…'
@@ -64,7 +64,7 @@ items:
     Current Developments and Future Directions'
 - id: oai:arXiv.org:2511.17833v1
   link: https://arxiv.org/abs/2511.17833
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17833v1 Announce Type: new  Abstract: Debugging is the dominant
     cost in modern hardware verification, where assertion failures are among the most
     fr…'
@@ -72,7 +72,7 @@ items:
     Failures'
 - id: oai:arXiv.org:2511.17855v1
   link: https://arxiv.org/abs/2511.17855
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17855v1 Announce Type: new  Abstract: Robots must learn from
     both what people do and what they say, but either modality alone is often incomplete:
     p…'
@@ -80,7 +80,7 @@ items:
     Agents'
 - id: oai:arXiv.org:2511.17876v1
   link: https://arxiv.org/abs/2511.17876
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17876v1 Announce Type: new  Abstract: Associative thinking--the
     ability to connect seemingly unrelated ideas--is a foundational element of human
     cre…'
@@ -88,14 +88,14 @@ items:
     to Creative Thinking in Language Models'
 - id: oai:arXiv.org:2511.17909v1
   link: https://arxiv.org/abs/2511.17909
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17909v1 Announce Type: new  Abstract: Chemical reasoning inherently
     integrates visual, textual, and symbolic modalities, yet existing benchmarks rar…'
   title: 'ChemVTS-Bench: Evaluating Visual-Textual-Symbolic Reasoning of Multimodal
     Large Language Models in Chemistry'
 - id: oai:arXiv.org:2511.17937v1
   link: https://arxiv.org/abs/2511.17937
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17937v1 Announce Type: new  Abstract: Alignment faking is a
     form of strategic deception in AI in which models selectively comply with training
     objec…'
@@ -103,14 +103,14 @@ items:
     Lens with Bayesian-Stackelberg Equilibria'
 - id: oai:arXiv.org:2511.17939v1
   link: https://arxiv.org/abs/2511.17939
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17939v1 Announce Type: new  Abstract: Subgraph matching, a
     cornerstone of relational pattern detection in domains ranging from biochemical
     systems t…'
   title: Neural Graph Navigation for Intelligent Subgraph Matching
 - id: oai:arXiv.org:2511.17947v1
   link: https://arxiv.org/abs/2511.17947
-  published: '2025-11-25T05:00:00Z'
+  published: '2025-11-26T05:00:00Z'
   summary: 'arXiv:2511.17947v1 Announce Type: new  Abstract: Large language models
     (LLMs) show promise in automating clinical diagnosis, yet their non-transparent
     decision…'
