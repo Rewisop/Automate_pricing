@@ -1,36 +1,40 @@
-fetched_at: '2025-11-26T05:32:55Z'
-generated_at: '2025-11-26T05:32:55Z'
-hash: 5deb5e0e4f0b563cfb6948ca747ae6d176dc6995f24217a474b101e26505b166
+fetched_at: '2025-11-27T05:33:54Z'
+generated_at: '2025-11-27T05:33:54Z'
+hash: 77ec7f42ee79aa87f4b4e5e8a23cb63103e8c6423200e0facd87a2ed0d715f2a
 items:
-- id: 46043354
-  score: 22
-  time: '2025-11-25T07:49:29Z'
-  title: 'Show HN: We cut RAG latency ~2× by switching embedding model'
-  url: https://www.myclone.is/blog/voyage-embedding-migration/
-- id: 46048915
-  score: 22
-  time: '2025-11-25T18:24:23Z'
-  title: In leaked recording, Nvidia CEO says its insane managers aren't using AI
-    enough
-  url: https://www.businessinsider.com/nvidia-ceo-employees-use-ai-every-task-possible-2025-11
-- id: 46054092
-  score: 10
-  time: '2025-11-26T04:06:32Z'
-  title: OpenAI needs to raise $207B by 2030 so it can continue to lose money
-  url: https://www.ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad
-- id: 46054057
-  score: 5
-  time: '2025-11-26T04:00:42Z'
-  title: HP to sack up to 6000 staff under AI adoption plan, fresh round of cost-cutting
-  url: https://www.theregister.com/2025/11/26/hp_inc_q4_2025/
-- id: 46047173
+- id: 46058065
+  score: 526
+  time: '2025-11-26T15:06:37Z'
+  title: OpenAI needs to raise at least $207B by 2030
+  url: https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad
+- id: 46061208
+  score: 103
+  time: '2025-11-26T19:10:24Z'
+  title: 'Fara-7B: An efficient agentic model for computer use'
+  url: https://github.com/microsoft/fara
+- id: 46057000
+  score: 77
+  time: '2025-11-26T13:05:33Z'
+  title: 'Indie game developers have a new sales pitch: being ''AI free'''
+  url: https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders
+- id: 46064456
+  score: 71
+  time: '2025-11-27T01:33:39Z'
+  title: The Tesla Model Y Just Scored the Worst Reliability Rating in a Decade
+  url: https://www.autoblog.com/news/the-bestselling-tesla-model-y-just-scored-the-worst-reliability-rating-in-a-decade
+- id: 46064019
+  score: 21
+  time: '2025-11-27T00:35:47Z'
+  title: Has the bailout of generative AI begun?
+  url: https://garymarcus.substack.com/p/has-the-bailout-of-generative-ai
+- id: 46062212
+  score: 6
+  time: '2025-11-26T20:55:05Z'
+  title: 'Where the flower grows: Local LLMs and the case for private AI'
+  url: https://garden3d.substack.com/p/where-the-flower-grows
+- id: 46064258
   score: 4
-  time: '2025-11-25T16:08:38Z'
-  title: One weird trick makes the AI a better writer
-  url: https://blog.fsck.com/2025/10/13/this-one-weird-trick-makes-the-ai-a-better-writer/
-- id: 46048670
-  score: 4
-  time: '2025-11-25T18:04:51Z'
-  title: Feedback on an open source Ruby – LLM project
-  url: https://github.com/pcarolan/magic
+  time: '2025-11-27T01:05:05Z'
+  title: 'Warning: The Fed Can''t Rescue AI'
+  url: https://paulkrugman.substack.com/p/warning-the-fed-cant-rescue-ai
 source_url: https://hacker-news.firebaseio.com/
