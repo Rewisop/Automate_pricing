@@ -1,45 +1,45 @@
-fetched_at: '2025-11-27T05:33:54Z'
-generated_at: '2025-11-27T05:33:54Z'
-hash: 5016c6bb04b082ff3086f956cd5db49b9769675a920e34d808869f63c170ddaf
+fetched_at: '2025-11-28T05:33:40Z'
+generated_at: '2025-11-28T05:33:40Z'
+hash: b9b0099a1d8016668e60811aeee86090ec5d9be8a610e5d972e0c37c28e51725
 items:
 - cvss: 0.0
-  id: null
-  published: '2025-11-27T05:33:54Z'
+  id: CVE-2025-12390
+  published: '2025-10-28T14:15:57Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-11-27T05:33:54Z'
+  id: MAL-2025-190650
+  published: '2025-11-24T12:40:41Z'
+  summary: Malicious code in signup-failover (npm)
+- cvss: 0.0
+  id: MAL-2025-191477
+  published: '2025-11-26T10:15:45Z'
+  summary: Malicious code in bitcoin-main-lib (npm)
+- cvss: 0.0
+  id: CVE-2025-13737
+  published: '2025-11-28T04:16:00Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-11-27T05:33:54Z'
+  id: CVE-2025-58302
+  published: '2025-11-28T04:16:00Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-11-27T05:33:54Z'
+  id: CVE-2025-58304
+  published: '2025-11-28T04:16:00Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-11-27T05:33:54Z'
+  id: CVE-2025-58305
+  published: '2025-11-28T04:16:00Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-11-27T05:33:54Z'
+  id: CVE-2025-58308
+  published: '2025-11-28T04:16:00Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-11-27T05:33:54Z'
+  id: CVE-2025-58311
+  published: '2025-11-28T04:16:00Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-11-27T05:33:54Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2025-11-27T05:33:54Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2025-11-27T05:33:54Z'
+  id: CVE-2025-64312
+  published: '2025-11-28T04:16:00Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

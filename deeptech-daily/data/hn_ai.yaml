@@ -1,40 +1,60 @@
-fetched_at: '2025-11-27T05:33:54Z'
-generated_at: '2025-11-27T05:33:54Z'
-hash: 77ec7f42ee79aa87f4b4e5e8a23cb63103e8c6423200e0facd87a2ed0d715f2a
+fetched_at: '2025-11-28T05:33:40Z'
+generated_at: '2025-11-28T05:33:40Z'
+hash: 1512e66f57cc1cfd675511d3192f917daa28d1df19f5576e0010f384f4dc53ad
 items:
-- id: 46058065
-  score: 526
-  time: '2025-11-26T15:06:37Z'
-  title: OpenAI needs to raise at least $207B by 2030
-  url: https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad
-- id: 46061208
-  score: 103
-  time: '2025-11-26T19:10:24Z'
-  title: 'Fara-7B: An efficient agentic model for computer use'
-  url: https://github.com/microsoft/fara
-- id: 46057000
-  score: 77
-  time: '2025-11-26T13:05:33Z'
-  title: 'Indie game developers have a new sales pitch: being ''AI free'''
-  url: https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders
-- id: 46064456
-  score: 71
-  time: '2025-11-27T01:33:39Z'
-  title: The Tesla Model Y Just Scored the Worst Reliability Rating in a Decade
-  url: https://www.autoblog.com/news/the-bestselling-tesla-model-y-just-scored-the-worst-reliability-rating-in-a-decade
-- id: 46064019
-  score: 21
-  time: '2025-11-27T00:35:47Z'
-  title: Has the bailout of generative AI begun?
-  url: https://garymarcus.substack.com/p/has-the-bailout-of-generative-ai
-- id: 46062212
+- id: 46072002
+  score: 390
+  time: '2025-11-27T18:37:41Z'
+  title: AI CEO – Replace your boss before they replace you
+  url: https://replaceyourboss.ai/
+- id: 46069048
+  score: 316
+  time: '2025-11-27T13:28:34Z'
+  title: TPUs vs. GPUs and why Google is positioned to win AI race in the long term
+  url: https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference
+- id: 46068777
+  score: 196
+  time: '2025-11-27T12:48:12Z'
+  title: The current state of the theory that GPL propagates to AI models
+  url: https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/
+- id: 46074111
+  score: 55
+  time: '2025-11-27T23:30:11Z'
+  title: Vsora Jotunn-8 5nm European inference chip
+  url: https://vsora.com/products/jotunn-8/
+- id: 46072838
+  score: 22
+  time: '2025-11-27T20:11:43Z'
+  title: The AI boom is based on a fundamental mistake
+  url: https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems
+- id: 46073761
+  score: 18
+  time: '2025-11-27T22:30:54Z'
+  title: Tesla Model Y Is the Most Defective Car This Year, Germany Says
+  url: https://www.jalopnik.com/2035447/tesla-model-y-most-defective-car-in-germany/
+- id: 46074663
+  score: 17
+  time: '2025-11-28T01:08:42Z'
+  title: OpenAI confirms new data breach, exposing names, emails, more
+  url: https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-confirms-major-data-breach-exposing-users-names-email-addresses-and-more-transparency-is-important-to-us
+- id: 46070676
+  score: 12
+  time: '2025-11-27T16:19:55Z'
+  title: 'Show HN: ZigFormer – An LLM implemented in pure Zig'
+  url: https://news.ycombinator.com/item?id=46070676
+- id: 46074315
   score: 6
-  time: '2025-11-26T20:55:05Z'
-  title: 'Where the flower grows: Local LLMs and the case for private AI'
-  url: https://garden3d.substack.com/p/where-the-flower-grows
-- id: 46064258
+  time: '2025-11-28T00:02:42Z'
+  title: DeepSeek-AI/DeepSeek-Math-V2
+  url: https://huggingface.co/deepseek-ai/DeepSeek-Math-V2
+- id: 46066381
   score: 4
-  time: '2025-11-27T01:05:05Z'
-  title: 'Warning: The Fed Can''t Rescue AI'
-  url: https://paulkrugman.substack.com/p/warning-the-fed-cant-rescue-ai
+  time: '2025-11-27T06:36:16Z'
+  title: Elevating Intelligence via Efficient Model and Tool Orchestration
+  url: https://arxiv.org/abs/2511.21689
+- id: 46074729
+  score: 3
+  time: '2025-11-28T01:22:13Z'
+  title: 'Overlord: AI accountability that watches over you'
+  url: https://overlord.app/
 source_url: https://hacker-news.firebaseio.com/

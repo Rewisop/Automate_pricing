@@ -47,17 +47,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -165,6 +167,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [Improving Procedural Skill Explanations via Constrained Generation: A Symbolic-LLM Hybrid Architecture](https://arxiv.org/abs/2511.20942) — arXiv:2511.20942v1 Announce Type: new  Abstract: In procedural skill learning, instructional explanations must convey not just steps, but the causal, goal-dire…
 - [ICPO: Intrinsic Confidence-Driven Group Relative Preference Optimization for Efficient Reinforcement Learning](https://arxiv.org/abs/2511.21005) — arXiv:2511.21005v1 Announce Type: new  Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) demonstrates significant potential in enhancing the reas…
 - [Towards Trustworthy Legal AI through LLM Agents and Formal Reasoning](https://arxiv.org/abs/2511.21033) — arXiv:2511.21033v1 Announce Type: new  Abstract: The rationality of law manifests in two forms: substantive rationality, which concerns the fairness or moral d…
+
+_Showing cached data from 2025-11-27T05:33:54Z. Refresh failed: no arXiv entries retrieved._
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -192,28 +196,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                                 |   Stars | Description                                                                                                                                                      |
-|------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| karpathy/llm-council                                       |    6783 | LLM Council works together to answer your hardest questions                                                                                                      |
-| Siyou-Li/QTSplus                                           |      74 | Query-aware Token Selector (QTSplus), a lightweight yet powerful visual token selection module that serves as an information gate between the vision encoder an… |
-| messkan/prompt-cache                                       |      34 | Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching. A drop-in OpenAI-compatible proxy written in Go.              |
-| rajansagarwal/compression                                  |      24 | llms can learn their own context compression via RL                                                                                                              |
-| MaximeRivest/brepl                                         |      16 | Universal REPL Bridge for LLMs - Tab completion, interactive prompts, TUI support                                                                                |
-| kylehughes/the-unofficial-swift-programming-language-skill |      16 | The Swift Programming Language, packaged as a Skill for LLMs.                                                                                                    |
-| RAprogramm/sql-query-analyzer                              |      15 | Static analysis and LLM-powered optimization for SQL queries. 18 built-in rules, SARIF output, CI/CD ready.                                                      |
-| chenxingqiang/YiRage                                       |      13 | YiRage (Yield Revolutionary AGile Engine) - Multi-Backend LLM Inference Optimization. Extends Mirage with comprehensive support for CUDA, MPS, CPU, Triton, NKI… |
-| Dr-AneeshJoseph/Claude-Metacognitive-Skills                |      12 | Various research skill packages to explore LLM Metacognition, mainly Claude AI including substrate access and texture discrimination                             |
-| uwejan/tokio-actors                                        |      11 | Zero-ceremony, Tokio-native actors with strong typing and production-ready edge case handling, perfect for AI/LLM Applications.                                  |
-| ktock/llmlet                                               |      10 | P2P distributed LLM inference on browsers                                                                                                                        |
-| JordanCoin/codemap                                         |       8 | a project brain for your AI. Give LLMs instant architectural context without burning tokens                                                                      |
-| UW-Madison-Lee-Lab/LLM-judge-reporting                     |       8 | A simple plug-in framework that corrects bias and computes confidence intervals in reporting LLM-as-a-judge evaluation, and an adaptive algorithm that efficien… |
-| hengzzzhou/FigForge                                        |       8 | AI-powered scientific figure generator using LLM analysis and nano banana for publication-quality visualizations                                                 |
-| shekh-2810/DocInferX                                       |       7 | DocInferX is a fully-local, privacy-focused document intelligence system. It ingests PDFs and images, performs OCR, cleans text, chunks content, embeds it into… |
-| theshi-1128/awesome-agent-communication-security           |       7 | A curated collection of research and techniques on securing agent communication in Large Language Model (LLM)–based agent systems, including protocols, securit… |
-| AlpinDale/sillytui                                         |       6 | LLM RP TUI for Power Users.                                                                                                                                      |
-| ZON-Format/ZON                                             |       6 | Compact, human-readable serialization designed for high-performance data interchange and efficient LLM prompts, New JSON for LLMs.                               |
-| chunxubioinfor/DailyJobMatch                               |       6 | An n8n-powered workflow that scrapes new LinkedIn jobs, compares them to your CV with an LLM, ranks them by fit, and emails you a daily digest of the best matc… |
-| paulcbogdan/Sentences                                      |       6 | Utilities for sentence-level text segmentation and tokenization tailored to LLM tokenizers.  This package is designed to support sentence-level (“Thought Ancho… |
+| Repository                                       |   Stars | Description                                                                                                                                                      |
+|--------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| karpathy/llm-council                             |    7213 | LLM Council works together to answer your hardest questions                                                                                                      |
+| Siyou-Li/QTSplus                                 |      86 | Query-aware Token Selector (QTSplus), a lightweight yet powerful visual token selection module that serves as an information gate between the vision encoder an… |
+| Shiva108/ai-llm-red-team-handbook                |      41 | AI / LLM Red Team Field Manual & Consultant’s Handbook                                                                                                           |
+| messkan/prompt-cache                             |      34 | Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching. A drop-in OpenAI-compatible proxy written in Go.              |
+| rajansagarwal/compression                        |      26 | llms can learn their own context compression via RL                                                                                                              |
+| UW-Madison-Lee-Lab/LLM-judge-reporting           |      18 | A simple plug-in framework that corrects bias and computes confidence intervals in reporting LLM-as-a-judge evaluation, and an adaptive algorithm that efficien… |
+| chenxingqiang/YiRage                             |      18 | YiRage (Yield Revolutionary AGile Engine) - Multi-Backend LLM Inference Optimization. Extends Mirage with comprehensive support for CUDA, MPS, CPU, Triton, NKI… |
+| MaximeRivest/brepl                               |      17 | Universal REPL Bridge for LLMs - Tab completion, interactive prompts, TUI support                                                                                |
+| RAprogramm/sql-query-analyzer                    |      17 | Static analysis and LLM-powered optimization for SQL queries. 18 built-in rules, SARIF output, CI/CD ready.                                                      |
+| Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine         |      10 | LLM Fine-tuning Engine with GUI and ML Core                                                                                                                      |
+| AlpinDale/sillytui                               |      10 | LLM RP TUI for Power Users.                                                                                                                                      |
+| chunxubioinfor/DailyJobMatch                     |      10 | An n8n-powered workflow that scrapes new LinkedIn jobs, compares them to your CV with an LLM, ranks them by fit, and emails you a daily digest of the best matc… |
+| klei30/tinker-ui                                 |      10 | A user-friendly interface built on Tinker API that lets you fine-tune LLMs, chat with your trained model, and deploy to Hugging Face.                            |
+| ktock/llmlet                                     |      10 | P2P distributed LLM inference on browsers                                                                                                                        |
+| JordanCoin/codemap                               |       9 | a project brain for your AI. Give LLMs instant architectural context without burning tokens                                                                      |
+| eastsea17/GraphRAG_with_Ollama                   |       9 | A local-LLM based Graph RAG agent using FalkorDB                                                                                                                 |
+| hengzzzhou/FigForge                              |       9 | AI-powered scientific figure generator using LLM analysis and nano banana for publication-quality visualizations                                                 |
+| theshi-1128/awesome-agent-communication-security |       9 | A curated collection of research and techniques on securing agent communication in Large Language Model (LLM)–based agent systems, including protocols, securit… |
+| teo-mateo/llm-dock                               |       8 | Manage your local LLM inference services with Docker Compose                                                                                                     |
+| shekh-2810/DocInferX                             |       7 | DocInferX is a fully-local, privacy-focused document intelligence system. It ingests PDFs and images, performs OCR, cleans text, chunks content, embeds it into… |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -223,29 +227,33 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [OpenAI needs to raise at least $207B by 2030](https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad) — 526 points
-- [Fara-7B: An efficient agentic model for computer use](https://github.com/microsoft/fara) — 103 points
-- [Indie game developers have a new sales pitch: being 'AI free'](https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders) — 77 points
-- [The Tesla Model Y Just Scored the Worst Reliability Rating in a Decade](https://www.autoblog.com/news/the-bestselling-tesla-model-y-just-scored-the-worst-reliability-rating-in-a-decade) — 71 points
-- [Has the bailout of generative AI begun?](https://garymarcus.substack.com/p/has-the-bailout-of-generative-ai) — 21 points
-- [Where the flower grows: Local LLMs and the case for private AI](https://garden3d.substack.com/p/where-the-flower-grows) — 6 points
-- [Warning: The Fed Can't Rescue AI](https://paulkrugman.substack.com/p/warning-the-fed-cant-rescue-ai) — 4 points
+- [AI CEO – Replace your boss before they replace you](https://replaceyourboss.ai/) — 390 points
+- [TPUs vs. GPUs and why Google is positioned to win AI race in the long term](https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference) — 316 points
+- [The current state of the theory that GPL propagates to AI models](https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/) — 196 points
+- [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/) — 55 points
+- [The AI boom is based on a fundamental mistake](https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems) — 22 points
+- [Tesla Model Y Is the Most Defective Car This Year, Germany Says](https://www.jalopnik.com/2035447/tesla-model-y-most-defective-car-in-germany/) — 18 points
+- [OpenAI confirms new data breach, exposing names, emails, more](https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-confirms-major-data-breach-exposing-users-names-email-addresses-and-more-transparency-is-important-to-us) — 17 points
+- [Show HN: ZigFormer – An LLM implemented in pure Zig](https://news.ycombinator.com/item?id=46070676) — 12 points
+- [DeepSeek-AI/DeepSeek-Math-V2](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2) — 6 points
+- [Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689) — 4 points
+- [Overlord: AI accountability that watches over you](https://overlord.app/) — 3 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE   |   CVSS | Summary   |
-|-------|--------|-----------|
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
+| CVE             |   CVSS | Summary                                  |
+|-----------------|--------|------------------------------------------|
+| CVE-2025-12390  |      0 |                                          |
+| MAL-2025-190650 |      0 | Malicious code in signup-failover (npm)  |
+| MAL-2025-191477 |      0 | Malicious code in bitcoin-main-lib (npm) |
+| CVE-2025-13737  |      0 |                                          |
+| CVE-2025-58302  |      0 |                                          |
+| CVE-2025-58304  |      0 |                                          |
+| CVE-2025-58305  |      0 |                                          |
+| CVE-2025-58308  |      0 |                                          |
+| CVE-2025-58311  |      0 |                                          |
+| CVE-2025-64312  |      0 |                                          |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
