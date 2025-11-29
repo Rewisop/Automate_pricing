@@ -1,45 +1,45 @@
-fetched_at: '2025-11-28T05:33:40Z'
-generated_at: '2025-11-28T05:33:40Z'
-hash: b9b0099a1d8016668e60811aeee86090ec5d9be8a610e5d972e0c37c28e51725
+fetched_at: '2025-11-29T05:32:29Z'
+generated_at: '2025-11-29T05:32:29Z'
+hash: 5927222b9f8c4c8dcb67c0883e83abf9efe338174538c5b9af03af5cea87105f
 items:
 - cvss: 0.0
-  id: CVE-2025-12390
-  published: '2025-10-28T14:15:57Z'
+  id: GHSA-wp4m-7hpj-8qp8
+  published: '2024-01-20T00:30:27Z'
   summary: ''
 - cvss: 0.0
-  id: MAL-2025-190650
-  published: '2025-11-24T12:40:41Z'
-  summary: Malicious code in signup-failover (npm)
-- cvss: 0.0
-  id: MAL-2025-191477
-  published: '2025-11-26T10:15:45Z'
-  summary: Malicious code in bitcoin-main-lib (npm)
-- cvss: 0.0
-  id: CVE-2025-13737
-  published: '2025-11-28T04:16:00Z'
+  id: GHSA-32vr-5hxf-x93f
+  published: '2025-06-12T15:31:22Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-58302
-  published: '2025-11-28T04:16:00Z'
+  id: GHSA-65gg-3w2w-hr4h
+  published: '2025-06-25T21:57:00Z'
+  summary: Podman Improper Certificate Validation; machine missing TLS verification
+- cvss: 0.0
+  id: CVE-2025-66217
+  published: '2025-11-29T03:15:59Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-58304
-  published: '2025-11-28T04:16:00Z'
+  id: CVE-2025-66221
+  published: '2025-11-29T03:16:00Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-58305
-  published: '2025-11-28T04:16:00Z'
+  id: CVE-2025-66223
+  published: '2025-11-29T03:16:00Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-58308
-  published: '2025-11-28T04:16:00Z'
+  id: CVE-2025-65540
+  published: '2025-11-29T04:15:56Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-58311
-  published: '2025-11-28T04:16:00Z'
+  id: CVE-2025-65892
+  published: '2025-11-29T04:15:57Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-64312
-  published: '2025-11-28T04:16:00Z'
+  id: CVE-2025-66224
+  published: '2025-11-29T04:15:57Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-66225
+  published: '2025-11-29T04:15:57Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

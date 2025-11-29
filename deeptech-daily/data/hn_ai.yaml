@@ -1,60 +1,36 @@
-fetched_at: '2025-11-28T05:33:40Z'
-generated_at: '2025-11-28T05:33:40Z'
-hash: 1512e66f57cc1cfd675511d3192f917daa28d1df19f5576e0010f384f4dc53ad
+fetched_at: '2025-11-29T05:32:29Z'
+generated_at: '2025-11-29T05:32:29Z'
+hash: 90220965d2e47220a4dba2e3f33e517b86e0d496a36ba348d1fa07d3c078866c
 items:
-- id: 46072002
-  score: 390
-  time: '2025-11-27T18:37:41Z'
-  title: AI CEO – Replace your boss before they replace you
-  url: https://replaceyourboss.ai/
-- id: 46069048
-  score: 316
-  time: '2025-11-27T13:28:34Z'
-  title: TPUs vs. GPUs and why Google is positioned to win AI race in the long term
-  url: https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference
-- id: 46068777
-  score: 196
-  time: '2025-11-27T12:48:12Z'
-  title: The current state of the theory that GPL propagates to AI models
-  url: https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/
-- id: 46074111
-  score: 55
-  time: '2025-11-27T23:30:11Z'
-  title: Vsora Jotunn-8 5nm European inference chip
-  url: https://vsora.com/products/jotunn-8/
-- id: 46072838
-  score: 22
-  time: '2025-11-27T20:11:43Z'
-  title: The AI boom is based on a fundamental mistake
-  url: https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems
-- id: 46073761
-  score: 18
-  time: '2025-11-27T22:30:54Z'
-  title: Tesla Model Y Is the Most Defective Car This Year, Germany Says
-  url: https://www.jalopnik.com/2035447/tesla-model-y-most-defective-car-in-germany/
-- id: 46074663
-  score: 17
-  time: '2025-11-28T01:08:42Z'
-  title: OpenAI confirms new data breach, exposing names, emails, more
-  url: https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-confirms-major-data-breach-exposing-users-names-email-addresses-and-more-transparency-is-important-to-us
-- id: 46070676
-  score: 12
-  time: '2025-11-27T16:19:55Z'
-  title: 'Show HN: ZigFormer – An LLM implemented in pure Zig'
-  url: https://news.ycombinator.com/item?id=46070676
-- id: 46074315
+- id: 46077038
+  score: 192
+  time: '2025-11-28T09:21:55Z'
+  title: Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation
+  url: https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1
+- id: 46079987
+  score: 171
+  time: '2025-11-28T16:21:09Z'
+  title: AI Adoption Rates Starting to Flatten Out
+  url: https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/
+- id: 46078046
+  score: 40
+  time: '2025-11-28T12:27:33Z'
+  title: OpenAI won't make money by 2030 and needs another $207B, HSBC estimates
+  url: https://fortune.com/2025/11/26/is-openai-profitable-forecast-data-center-200-billion-shortfall-hsbc/
+- id: 46080737
+  score: 40
+  time: '2025-11-28T17:30:41Z'
+  title: 'Show HN: An LLM-Powered Tool to Catch PCB Schematic Mistakes'
+  url: https://netlist.io/
+- id: 46081682
+  score: 9
+  time: '2025-11-28T19:03:38Z'
+  title: US Energy Department Launches "Genesis Mission" to Transform Science Through
+    AI
+  url: https://www.energy.gov/articles/energy-department-launches-genesis-mission-transform-american-science-and-innovation
+- id: 46083162
   score: 6
-  time: '2025-11-28T00:02:42Z'
-  title: DeepSeek-AI/DeepSeek-Math-V2
-  url: https://huggingface.co/deepseek-ai/DeepSeek-Math-V2
-- id: 46066381
-  score: 4
-  time: '2025-11-27T06:36:16Z'
-  title: Elevating Intelligence via Efficient Model and Tool Orchestration
-  url: https://arxiv.org/abs/2511.21689
-- id: 46074729
-  score: 3
-  time: '2025-11-28T01:22:13Z'
-  title: 'Overlord: AI accountability that watches over you'
-  url: https://overlord.app/
+  time: '2025-11-28T22:00:51Z'
+  title: 'A Tale of Two AI Failures: Debugging a Simple Bug with LLMs'
+  url: https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/
 source_url: https://hacker-news.firebaseio.com/

@@ -1,49 +1,24 @@
-fetched_at: '2025-11-28T05:33:40Z'
-generated_at: '2025-11-28T05:33:40Z'
-hash: d6234a2b86cc4c69afb2f1f440af3b98341995b2d0ec8de94b4adc5d2200cddc
+fetched_at: '2025-11-29T05:32:29Z'
+generated_at: '2025-11-29T05:32:29Z'
+hash: be33e7cf46ddaa850e02c308e22576e4112522a31499ea33fa2fffe06d52d64c
 items:
-- created_at: '2025-11-22T23:24:14Z'
-  description: LLM Council works together to answer your hardest questions
-  full_name: karpathy/llm-council
-  html_url: https://github.com/karpathy/llm-council
-  stargazers_count: 7213
-- created_at: '2025-11-22T14:11:11Z'
-  description: Query-aware Token Selector (QTSplus), a lightweight yet powerful visual
-    token selection module that serves as an information gate between the vision encoder
-    an…
-  full_name: Siyou-Li/QTSplus
-  html_url: https://github.com/Siyou-Li/QTSplus
-  stargazers_count: 86
 - created_at: '2025-11-27T08:36:30Z'
   description: AI / LLM Red Team Field Manual & Consultant’s Handbook
   full_name: Shiva108/ai-llm-red-team-handbook
   html_url: https://github.com/Shiva108/ai-llm-red-team-handbook
-  stargazers_count: 41
-- created_at: '2025-11-22T23:20:23Z'
-  description: Cut LLM costs by up to 80% and unlock sub-millisecond responses with
-    intelligent semantic caching. A drop-in OpenAI-compatible proxy written in Go.
-  full_name: messkan/prompt-cache
-  html_url: https://github.com/messkan/prompt-cache
-  stargazers_count: 34
+  stargazers_count: 80
 - created_at: '2025-11-24T07:51:05Z'
   description: llms can learn their own context compression via RL
   full_name: rajansagarwal/compression
   html_url: https://github.com/rajansagarwal/compression
-  stargazers_count: 26
+  stargazers_count: 29
 - created_at: '2025-11-26T18:26:18Z'
   description: A simple plug-in framework that corrects bias and computes confidence
     intervals in reporting LLM-as-a-judge evaluation, and an adaptive algorithm that
     efficien…
   full_name: UW-Madison-Lee-Lab/LLM-judge-reporting
   html_url: https://github.com/UW-Madison-Lee-Lab/LLM-judge-reporting
-  stargazers_count: 18
-- created_at: '2025-11-22T12:29:44Z'
-  description: YiRage (Yield Revolutionary AGile Engine) - Multi-Backend LLM Inference
-    Optimization. Extends Mirage with comprehensive support for CUDA, MPS, CPU, Triton,
-    NKI…
-  full_name: chenxingqiang/YiRage
-  html_url: https://github.com/chenxingqiang/YiRage
-  stargazers_count: 18
+  stargazers_count: 27
 - created_at: '2025-11-24T13:46:18Z'
   description: Universal REPL Bridge for LLMs - Tab completion, interactive prompts,
     TUI support
@@ -51,55 +26,69 @@ items:
   html_url: https://github.com/MaximeRivest/brepl
   stargazers_count: 17
 - created_at: '2025-11-24T09:37:45Z'
-  description: Static analysis and LLM-powered optimization for SQL queries. 18 built-in
+  description: Static analysis and LLM-powered optimization for SQL queries. built-in
     rules, SARIF output, CI/CD ready.
   full_name: RAprogramm/sql-query-analyzer
   html_url: https://github.com/RAprogramm/sql-query-analyzer
   stargazers_count: 17
+- created_at: '2025-11-27T19:11:50Z'
+  description: This app uses a large language model to generate a semantic keyword
+    Universe (EAV-based) for SEO/content strategy. It returns a structured keyword
+    list and let…
+  full_name: VitoKon/Semantic-Keyword-Builder
+  html_url: https://github.com/VitoKon/Semantic-Keyword-Builder
+  stargazers_count: 16
+- created_at: '2025-11-26T19:54:29Z'
+  description: A user-friendly interface built on Tinker API that lets you fine-tune
+    LLMs, chat with your trained model, and deploy to Hugging Face.
+  full_name: klei30/tinker-ui
+  html_url: https://github.com/klei30/tinker-ui
+  stargazers_count: 13
 - created_at: '2025-11-27T09:22:20Z'
   description: LLM Fine-tuning Engine with GUI and ML Core
   full_name: Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine
   html_url: https://github.com/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine
-  stargazers_count: 10
+  stargazers_count: 12
 - created_at: '2025-11-24T23:49:04Z'
   description: LLM RP TUI for Power Users.
   full_name: AlpinDale/sillytui
   html_url: https://github.com/AlpinDale/sillytui
-  stargazers_count: 10
+  stargazers_count: 12
 - created_at: '2025-11-24T12:30:14Z'
   description: An n8n-powered workflow that scrapes new LinkedIn jobs, compares them
     to your CV with an LLM, ranks them by fit, and emails you a daily digest of the
     best matc…
   full_name: chunxubioinfor/DailyJobMatch
   html_url: https://github.com/chunxubioinfor/DailyJobMatch
-  stargazers_count: 10
-- created_at: '2025-11-26T19:54:29Z'
-  description: A user-friendly interface built on Tinker API that lets you fine-tune
-    LLMs, chat with your trained model, and deploy to Hugging Face.
-  full_name: klei30/tinker-ui
-  html_url: https://github.com/klei30/tinker-ui
-  stargazers_count: 10
+  stargazers_count: 11
 - created_at: '2025-11-25T06:46:07Z'
   description: P2P distributed LLM inference on browsers
   full_name: ktock/llmlet
   html_url: https://github.com/ktock/llmlet
-  stargazers_count: 10
+  stargazers_count: 11
 - created_at: '2025-11-24T07:08:15Z'
   description: a project brain for your AI. Give LLMs instant architectural context
     without burning tokens
   full_name: JordanCoin/codemap
   html_url: https://github.com/JordanCoin/codemap
-  stargazers_count: 9
-- created_at: '2025-11-27T02:35:37Z'
-  description: A local-LLM based Graph RAG agent using FalkorDB
-  full_name: eastsea17/GraphRAG_with_Ollama
-  html_url: https://github.com/eastsea17/GraphRAG_with_Ollama
-  stargazers_count: 9
+  stargazers_count: 10
 - created_at: '2025-11-25T12:25:05Z'
   description: AI-powered scientific figure generator using LLM analysis and nano
     banana for publication-quality visualizations
   full_name: hengzzzhou/FigForge
   html_url: https://github.com/hengzzzhou/FigForge
+  stargazers_count: 10
+- created_at: '2025-11-27T02:35:37Z'
+  description: A local-LLM based Graph RAG agent using FalkorDB
+  full_name: eastsea17/GraphRAG_with_Ollama
+  html_url: https://github.com/eastsea17/GraphRAG_with_Ollama
+  stargazers_count: 9
+- created_at: '2025-11-23T23:02:04Z'
+  description: A framework bridging cognitive science and LLM reasoning research to
+    diagnose and improve how large language models reason, based on analysis of 192K
+    model tra…
+  full_name: pkargupta/cognitive_foundations
+  html_url: https://github.com/pkargupta/cognitive_foundations
   stargazers_count: 9
 - created_at: '2025-11-23T04:05:12Z'
   description: A curated collection of research and techniques on securing agent communication
@@ -107,16 +96,26 @@ items:
   full_name: theshi-1128/awesome-agent-communication-security
   html_url: https://github.com/theshi-1128/awesome-agent-communication-security
   stargazers_count: 9
+- created_at: '2025-11-24T23:09:48Z'
+  description: A lightweight Python library for optimizing and cleaning LLM inputs.
+    Reduce token usage, improve prompt quality, and lower API costs.
+  full_name: JacobHuang91/prompt-refiner
+  html_url: https://github.com/JacobHuang91/prompt-refiner
+  stargazers_count: 8
+- created_at: '2025-11-25T12:56:01Z'
+  description: Awesome papers for affective computing with llm and mllm
+  full_name: nku-zhichengzhang/Awesome-emotion_llm_and_mllm
+  html_url: https://github.com/nku-zhichengzhang/Awesome-emotion_llm_and_mllm
+  stargazers_count: 8
 - created_at: '2025-11-24T23:22:07Z'
   description: Manage your local LLM inference services with Docker Compose
   full_name: teo-mateo/llm-dock
   html_url: https://github.com/teo-mateo/llm-dock
   stargazers_count: 8
-- created_at: '2025-11-23T06:04:06Z'
-  description: DocInferX is a fully-local, privacy-focused document intelligence system.
-    It ingests PDFs and images, performs OCR, cleans text, chunks content, embeds
-    it into…
-  full_name: shekh-2810/DocInferX
-  html_url: https://github.com/shekh-2810/DocInferX
+- created_at: '2025-11-23T01:52:39Z'
+  description: Compact, human-readable serialization designed for high-performance
+    data interchange and efficient LLM prompts, New JSON for LLMs.
+  full_name: ZON-Format/ZON
+  html_url: https://github.com/ZON-Format/ZON
   stargazers_count: 7
 source_url: https://api.github.com/search/repositories
