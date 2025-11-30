@@ -49,17 +49,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -198,28 +200,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                       |   Stars | Description                                                                                                                                                      |
-|--------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Shiva108/ai-llm-red-team-handbook                |      80 | AI / LLM Red Team Field Manual & Consultant’s Handbook                                                                                                           |
-| rajansagarwal/compression                        |      29 | llms can learn their own context compression via RL                                                                                                              |
-| UW-Madison-Lee-Lab/LLM-judge-reporting           |      27 | A simple plug-in framework that corrects bias and computes confidence intervals in reporting LLM-as-a-judge evaluation, and an adaptive algorithm that efficien… |
-| MaximeRivest/brepl                               |      17 | Universal REPL Bridge for LLMs - Tab completion, interactive prompts, TUI support                                                                                |
-| RAprogramm/sql-query-analyzer                    |      17 | Static analysis and LLM-powered optimization for SQL queries. built-in rules, SARIF output, CI/CD ready.                                                         |
-| VitoKon/Semantic-Keyword-Builder                 |      16 | This app uses a large language model to generate a semantic keyword Universe (EAV-based) for SEO/content strategy. It returns a structured keyword list and let… |
-| klei30/tinker-ui                                 |      13 | A user-friendly interface built on Tinker API that lets you fine-tune LLMs, chat with your trained model, and deploy to Hugging Face.                            |
-| Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine         |      12 | LLM Fine-tuning Engine with GUI and ML Core                                                                                                                      |
-| AlpinDale/sillytui                               |      12 | LLM RP TUI for Power Users.                                                                                                                                      |
-| chunxubioinfor/DailyJobMatch                     |      11 | An n8n-powered workflow that scrapes new LinkedIn jobs, compares them to your CV with an LLM, ranks them by fit, and emails you a daily digest of the best matc… |
-| ktock/llmlet                                     |      11 | P2P distributed LLM inference on browsers                                                                                                                        |
-| JordanCoin/codemap                               |      10 | a project brain for your AI. Give LLMs instant architectural context without burning tokens                                                                      |
-| hengzzzhou/FigForge                              |      10 | AI-powered scientific figure generator using LLM analysis and nano banana for publication-quality visualizations                                                 |
-| eastsea17/GraphRAG_with_Ollama                   |       9 | A local-LLM based Graph RAG agent using FalkorDB                                                                                                                 |
-| pkargupta/cognitive_foundations                  |       9 | A framework bridging cognitive science and LLM reasoning research to diagnose and improve how large language models reason, based on analysis of 192K model tra… |
-| theshi-1128/awesome-agent-communication-security |       9 | A curated collection of research and techniques on securing agent communication in Large Language Model (LLM)–based agent systems, including protocols, securit… |
-| JacobHuang91/prompt-refiner                      |       8 | A lightweight Python library for optimizing and cleaning LLM inputs. Reduce token usage, improve prompt quality, and lower API costs.                            |
-| nku-zhichengzhang/Awesome-emotion_llm_and_mllm   |       8 | Awesome papers for affective computing with llm and mllm                                                                                                         |
-| teo-mateo/llm-dock                               |       8 | Manage your local LLM inference services with Docker Compose                                                                                                     |
-| ZON-Format/ZON                                   |       7 | Compact, human-readable serialization designed for high-performance data interchange and efficient LLM prompts, New JSON for LLMs.                               |
+| Repository                                     |   Stars | Description                                                                                                                                                      |
+|------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Shiva108/ai-llm-red-team-handbook              |      92 | AI / LLM Red Team Field Manual & Consultant’s Handbook                                                                                                           |
+| UW-Madison-Lee-Lab/LLM-judge-reporting         |      30 | A simple plug-in framework that corrects bias and computes confidence intervals in reporting LLM-as-a-judge evaluation, and an adaptive algorithm that efficien… |
+| rajansagarwal/compression                      |      30 | llms can learn their own context compression via RL                                                                                                              |
+| JordanCoin/codemap                             |      17 | a project brain for your AI. Give LLMs instant architectural context without burning tokens                                                                      |
+| MaximeRivest/brepl                             |      17 | Universal REPL Bridge for LLMs - Tab completion, interactive prompts, TUI support                                                                                |
+| RAprogramm/sql-query-analyzer                  |      17 | Static analysis and LLM-powered optimization for SQL queries. built-in rules, SARIF output, CI/CD ready.                                                         |
+| VitoKon/Semantic-Keyword-Builder               |      17 | This app uses a large language model to generate a semantic keyword Universe (EAV-based) for SEO/content strategy. It returns a structured keyword list and let… |
+| klei30/tinker-ui                               |      15 | A user-friendly interface built on top of Thinking Machines Tinker API that lets you fine-tune LLMs, chat with your trained model, and deploy to Hugging Face.   |
+| Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine       |      13 | LLM Fine-tuning Engine with GUI and ML Core                                                                                                                      |
+| chunxubioinfor/DailyJobMatch                   |      13 | An n8n-powered workflow that scrapes new LinkedIn jobs, compares them to your CV with an LLM, ranks them by fit, and emails you a daily digest of the best matc… |
+| AlpinDale/sillytui                             |      12 | LLM RP TUI for Power Users.                                                                                                                                      |
+| Koko-boya/Comfyui-Z-Image-Utilities            |      11 | ComfyUI utility nodes for Z-Image model. Features LLM-powered prompt enhancement using the official Z-Image system prompt.                                       |
+| jart/zipalign                                  |      11 | PKZip for LLMs                                                                                                                                                   |
+| ktock/llmlet                                   |      11 | P2P distributed LLM inference on browsers                                                                                                                        |
+| JacobHuang91/prompt-refiner                    |      10 | A lightweight Python library for optimizing and cleaning LLM inputs. Reduce token usage, improve prompt quality, and lower API costs.                            |
+| eastsea17/GraphRAG_with_Ollama                 |      10 | A local-LLM based Graph RAG agent using FalkorDB                                                                                                                 |
+| hengzzzhou/FigForge                            |      10 | AI-powered scientific figure generator using LLM analysis and nano banana for publication-quality visualizations                                                 |
+| ZON-Format/zon-TS                              |       8 | ZON → 35-70% cheaper LLM prompts than JSON/TOON. Zero overhead.                                                                                                  |
+| nku-zhichengzhang/Awesome-emotion_llm_and_mllm |       8 | Awesome papers for affective computing with llm and mllm                                                                                                         |
+| teo-mateo/llm-dock                             |       8 | Manage your local LLM inference services with Docker Compose                                                                                                     |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -229,28 +231,28 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation](https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1) — 192 points
-- [AI Adoption Rates Starting to Flatten Out](https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/) — 171 points
-- [OpenAI won't make money by 2030 and needs another $207B, HSBC estimates](https://fortune.com/2025/11/26/is-openai-profitable-forecast-data-center-200-billion-shortfall-hsbc/) — 40 points
-- [Show HN: An LLM-Powered Tool to Catch PCB Schematic Mistakes](https://netlist.io/) — 40 points
-- [US Energy Department Launches "Genesis Mission" to Transform Science Through AI](https://www.energy.gov/articles/energy-department-launches-genesis-mission-transform-american-science-and-innovation) — 9 points
-- [A Tale of Two AI Failures: Debugging a Simple Bug with LLMs](https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/) — 6 points
+- [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/) — 581 points
+- [Major AI conference flooded with peer reviews written by AI](https://www.nature.com/articles/d41586-025-03506-6) — 186 points
+- [Student perceptions of AI coding assistants in learning](https://arxiv.org/abs/2507.22900) — 69 points
+- [Show HN: Zero-power photonic language model–code](https://zenodo.org/records/17764289) — 11 points
+- [AI doubted a female developer's work until she switched profile to a white man](https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/) — 7 points
+- [MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI](https://iceberg.mit.edu/) — 6 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                                                                  |
-|---------------------|--------|--------------------------------------------------------------------------|
-| GHSA-wp4m-7hpj-8qp8 |      0 |                                                                          |
-| GHSA-32vr-5hxf-x93f |      0 |                                                                          |
-| GHSA-65gg-3w2w-hr4h |      0 | Podman Improper Certificate Validation; machine missing TLS verification |
-| CVE-2025-66217      |      0 |                                                                          |
-| CVE-2025-66221      |      0 |                                                                          |
-| CVE-2025-66223      |      0 |                                                                          |
-| CVE-2025-65540      |      0 |                                                                          |
-| CVE-2025-65892      |      0 |                                                                          |
-| CVE-2025-66224      |      0 |                                                                          |
-| CVE-2025-66225      |      0 |                                                                          |
+| CVE             |   CVSS | Summary                                                     |
+|-----------------|--------|-------------------------------------------------------------|
+| CVE-2025-54236  |      0 |                                                             |
+| MAL-2025-191479 |      0 | Malicious code in chia-gaming-lobby-connection (npm)        |
+| MAL-2025-191487 |      0 | Malicious code in chain-selectors (npm)                     |
+| MAL-2025-191488 |      0 | Malicious code in eslint-plugin-react-hooks-published (npm) |
+| MAL-2025-191489 |      0 | Malicious code in liblynxtextra.so (npm)                    |
+| MAL-2025-191490 |      0 | Malicious code in com.unity.sharp-zip-lib (npm)             |
+| CVE-2025-13615  |      0 |                                                             |
+| CVE-2025-66420  |      0 |                                                             |
+| CVE-2025-66421  |      0 |                                                             |
+| CVE-2025-66422  |      0 |                                                             |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

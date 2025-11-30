@@ -1,36 +1,36 @@
-fetched_at: '2025-11-29T05:32:29Z'
-generated_at: '2025-11-29T05:32:29Z'
-hash: 90220965d2e47220a4dba2e3f33e517b86e0d496a36ba348d1fa07d3c078866c
+fetched_at: '2025-11-30T05:33:01Z'
+generated_at: '2025-11-30T05:33:01Z'
+hash: f28c9f447e0d6695e3c7f57f2e02777760a3c1de7f6b28ecd915674227c664f2
 items:
-- id: 46077038
-  score: 192
-  time: '2025-11-28T09:21:55Z'
-  title: Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation
-  url: https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1
-- id: 46079987
-  score: 171
-  time: '2025-11-28T16:21:09Z'
-  title: AI Adoption Rates Starting to Flatten Out
-  url: https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/
-- id: 46078046
-  score: 40
-  time: '2025-11-28T12:27:33Z'
-  title: OpenAI won't make money by 2030 and needs another $207B, HSBC estimates
-  url: https://fortune.com/2025/11/26/is-openai-profitable-forecast-data-center-200-billion-shortfall-hsbc/
-- id: 46080737
-  score: 40
-  time: '2025-11-28T17:30:41Z'
-  title: 'Show HN: An LLM-Powered Tool to Catch PCB Schematic Mistakes'
-  url: https://netlist.io/
-- id: 46081682
-  score: 9
-  time: '2025-11-28T19:03:38Z'
-  title: US Energy Department Launches "Genesis Mission" to Transform Science Through
-    AI
-  url: https://www.energy.gov/articles/energy-department-launches-genesis-mission-transform-american-science-and-innovation
-- id: 46083162
+- id: 46086771
+  score: 581
+  time: '2025-11-29T11:31:58Z'
+  title: Leak confirms OpenAI is preparing ads on ChatGPT for public roll out
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/
+- id: 46088236
+  score: 186
+  time: '2025-11-29T15:26:58Z'
+  title: Major AI conference flooded with peer reviews written by AI
+  url: https://www.nature.com/articles/d41586-025-03506-6
+- id: 46089546
+  score: 69
+  time: '2025-11-29T18:14:21Z'
+  title: Student perceptions of AI coding assistants in learning
+  url: https://arxiv.org/abs/2507.22900
+- id: 46089764
+  score: 11
+  time: '2025-11-29T18:45:49Z'
+  title: 'Show HN: Zero-power photonic language model–code'
+  url: https://zenodo.org/records/17764289
+- id: 46093422
+  score: 7
+  time: '2025-11-30T03:38:12Z'
+  title: AI doubted a female developer's work until she switched profile to a white
+    man
+  url: https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/
+- id: 46093458
   score: 6
-  time: '2025-11-28T22:00:51Z'
-  title: 'A Tale of Two AI Failures: Debugging a Simple Bug with LLMs'
-  url: https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/
+  time: '2025-11-30T03:44:22Z'
+  title: MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI
+  url: https://iceberg.mit.edu/
 source_url: https://hacker-news.firebaseio.com/

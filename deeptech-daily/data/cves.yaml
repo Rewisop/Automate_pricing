@@ -1,45 +1,45 @@
-fetched_at: '2025-11-29T05:32:29Z'
-generated_at: '2025-11-29T05:32:29Z'
-hash: 5927222b9f8c4c8dcb67c0883e83abf9efe338174538c5b9af03af5cea87105f
+fetched_at: '2025-11-30T05:33:01Z'
+generated_at: '2025-11-30T05:33:01Z'
+hash: 51ee262b9e159f518b5762337b350774e0c03a2fe430148fed3dfa174295cab9
 items:
 - cvss: 0.0
-  id: GHSA-wp4m-7hpj-8qp8
-  published: '2024-01-20T00:30:27Z'
+  id: CVE-2025-54236
+  published: '2025-09-09T14:15:46Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-32vr-5hxf-x93f
-  published: '2025-06-12T15:31:22Z'
+  id: MAL-2025-191479
+  published: '2025-11-27T15:17:54Z'
+  summary: Malicious code in chia-gaming-lobby-connection (npm)
+- cvss: 0.0
+  id: MAL-2025-191487
+  published: '2025-11-29T17:20:34Z'
+  summary: Malicious code in chain-selectors (npm)
+- cvss: 0.0
+  id: MAL-2025-191488
+  published: '2025-11-29T17:40:37Z'
+  summary: Malicious code in eslint-plugin-react-hooks-published (npm)
+- cvss: 0.0
+  id: MAL-2025-191489
+  published: '2025-11-29T17:45:40Z'
+  summary: Malicious code in liblynxtextra.so (npm)
+- cvss: 0.0
+  id: MAL-2025-191490
+  published: '2025-11-29T18:25:43Z'
+  summary: Malicious code in com.unity.sharp-zip-lib (npm)
+- cvss: 0.0
+  id: CVE-2025-13615
+  published: '2025-11-30T02:15:58Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-65gg-3w2w-hr4h
-  published: '2025-06-25T21:57:00Z'
-  summary: Podman Improper Certificate Validation; machine missing TLS verification
-- cvss: 0.0
-  id: CVE-2025-66217
-  published: '2025-11-29T03:15:59Z'
+  id: CVE-2025-66420
+  published: '2025-11-30T03:15:46Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-66221
-  published: '2025-11-29T03:16:00Z'
+  id: CVE-2025-66421
+  published: '2025-11-30T03:15:47Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-66223
-  published: '2025-11-29T03:16:00Z'
-  summary: ''
-- cvss: 0.0
-  id: CVE-2025-65540
-  published: '2025-11-29T04:15:56Z'
-  summary: ''
-- cvss: 0.0
-  id: CVE-2025-65892
-  published: '2025-11-29T04:15:57Z'
-  summary: ''
-- cvss: 0.0
-  id: CVE-2025-66224
-  published: '2025-11-29T04:15:57Z'
-  summary: ''
-- cvss: 0.0
-  id: CVE-2025-66225
-  published: '2025-11-29T04:15:57Z'
+  id: CVE-2025-66422
+  published: '2025-11-30T03:15:47Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last
