@@ -1,36 +1,36 @@
-fetched_at: '2025-11-30T05:33:01Z'
-generated_at: '2025-11-30T05:33:01Z'
-hash: f28c9f447e0d6695e3c7f57f2e02777760a3c1de7f6b28ecd915674227c664f2
+fetched_at: '2025-12-01T05:43:03Z'
+generated_at: '2025-12-01T05:43:03Z'
+hash: 12c602e8b1f6792b20a4e4fe1d76a8c57f20bc312e16e3a0ddda47528b1ee2a9
 items:
-- id: 46086771
-  score: 581
-  time: '2025-11-29T11:31:58Z'
-  title: Leak confirms OpenAI is preparing ads on ChatGPT for public roll out
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/
-- id: 46088236
-  score: 186
-  time: '2025-11-29T15:26:58Z'
-  title: Major AI conference flooded with peer reviews written by AI
-  url: https://www.nature.com/articles/d41586-025-03506-6
-- id: 46089546
-  score: 69
-  time: '2025-11-29T18:14:21Z'
-  title: Student perceptions of AI coding assistants in learning
-  url: https://arxiv.org/abs/2507.22900
-- id: 46089764
-  score: 11
-  time: '2025-11-29T18:45:49Z'
-  title: 'Show HN: Zero-power photonic language model–code'
-  url: https://zenodo.org/records/17764289
-- id: 46093422
-  score: 7
-  time: '2025-11-30T03:38:12Z'
-  title: AI doubted a female developer's work until she switched profile to a white
-    man
-  url: https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/
-- id: 46093458
-  score: 6
-  time: '2025-11-30T03:44:22Z'
-  title: MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI
-  url: https://iceberg.mit.edu/
+- id: 46098992
+  score: 381
+  time: '2025-11-30T18:17:13Z'
+  title: Don't push AI down our throats
+  url: https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats
+- id: 46097773
+  score: 167
+  time: '2025-11-30T16:07:11Z'
+  title: The Thinking Game Film – Google DeepMind documentary
+  url: https://thinkinggamefilm.com
+- id: 46095873
+  score: 51
+  time: '2025-11-30T11:48:42Z'
+  title: 'Tell HN: It''s now impossible to disable all AI features in Firefox 145
+    (latest)'
+  url: https://news.ycombinator.com/item?id=46095873
+- id: 46103078
+  score: 21
+  time: '2025-12-01T03:09:35Z'
+  title: I Tested the M5 iPad Pro's Neural-Accelerated AI, and the Hype Is Real
+  url: https://www.macstories.net/stories/ipad-pro-m5-neural-benchmarks-mlx/
+- id: 46100815
+  score: 18
+  time: '2025-11-30T21:55:15Z'
+  title: Did Nvidia Just Prove There Is No AI Bubble
+  url: https://www.planetearthandbeyond.co/p/did-nvidia-just-prove-there-is-no
+- id: 46099838
+  score: 15
+  time: '2025-11-30T19:58:48Z'
+  title: AI rendering of Roman war scenes from Trajan's Column
+  url: https://trajancolumn.com
 source_url: https://hacker-news.firebaseio.com/

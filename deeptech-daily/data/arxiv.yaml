@@ -1,115 +1,119 @@
-fetched_at: '2025-11-27T05:33:54Z'
-generated_at: '2025-11-27T05:33:54Z'
-hash: 8f498328ac45b620fcf1b10ddc4fc935b76d45646289d52c90b30315c31e253e
+fetched_at: '2025-12-01T05:43:03Z'
+generated_at: '2025-12-01T05:43:03Z'
+hash: 4c1404bd392e86929ee96ead21940cb65353e501f4f99136a4ef9000d6426c36
 items:
-- id: oai:arXiv.org:2511.20679v1
-  link: https://arxiv.org/abs/2511.20679
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20679v1 Announce Type: new  Abstract: Hyperbolic geometry is
-    an effective geometry for embedding hierarchical data structures. Hyperbolic learning
-    h…'
-  title: Minimizing Hyperbolic Embedding Distortion with LLM-Guided Hierarchy Restructuring
-- id: oai:arXiv.org:2511.20686v1
-  link: https://arxiv.org/abs/2511.20686
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20686v1 Announce Type: new  Abstract: The rapid evolution of
-    generative AI necessitates robust safety evaluations. However, current safety
-    datasets…'
-  title: 'AssurAI: Experience with Constructing Korean Socio-cultural Datasets to
-    Discover Potential Risks of Generative AI'
-- id: oai:arXiv.org:2511.20693v1
-  link: https://arxiv.org/abs/2511.20693
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20693v1 Announce Type: new  Abstract: Large language models
-    (LLMs) have shown strong potential in automating the design of agentic workflows.
-    Howeve…'
-  title: $A^2Flow:$ Automating Agentic Workflow Generation via Self-Adaptive Abstraction
-    Operators
-- id: oai:arXiv.org:2511.20694v1
-  link: https://arxiv.org/abs/2511.20694
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20694v1 Announce Type: new  Abstract: Scientific reasoning
-    through Large Language Models in heliophysics involves more than just recalling
-    facts: it…'
-  title: 'Reasoning With a Star: A Heliophysics Dataset and Benchmark for Agentic
-    Scientific Reasoning'
-- id: oai:arXiv.org:2511.20695v1
-  link: https://arxiv.org/abs/2511.20695
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20695v1 Announce Type: new  Abstract: Emerging from NASA''s
-    spacecraft simulations in the 1960s, digital twin technology has advanced through
-    industr…'
-  title: A Brief History of Digital Twin Technology
-- id: oai:arXiv.org:2511.20700v1
-  link: https://arxiv.org/abs/2511.20700
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20700v1 Announce Type: new  Abstract: This paper introduces
-    Paraconsistent-Lib, an open-source, easy-to-use Python library for building PAL2v
-    algori…'
-  title: 'Paraconsistent-Lib: an intuitive PAL2v algorithm Python Library'
-- id: oai:arXiv.org:2511.20701v1
-  link: https://arxiv.org/abs/2511.20701
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20701v1 Announce Type: new  Abstract: While recent work has
-    extended CoT to multimodal settings, achieving state-of-the-art results on science
-    quest…'
-  title: Cross Domain Evaluation of Multimodal Chain-of-Thought Reasoning of different
-    datasets into the Amazon CoT Framework
-- id: oai:arXiv.org:2511.20719v1
-  link: https://arxiv.org/abs/2511.20719
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20719v1 Announce Type: new  Abstract: Multi-access point coordination
-    (MAPC) is a key technology for enhancing throughput in next-generation Wi-Fi w…'
-  title: Learning Multi-Access Point Coordination in Agentic AI Wi-Fi with Large Language
-    Models
-- id: oai:arXiv.org:2511.20766v1
-  link: https://arxiv.org/abs/2511.20766
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20766v1 Announce Type: new  Abstract: Reliability is key to
-    realizing the promise of autonomous UI-Agents, multimodal agents that directly
-    interact…'
-  title: 'OpenApps: Simulating Environment Variations to Measure UI-Agent Reliability'
-- id: oai:arXiv.org:2511.20892v1
-  link: https://arxiv.org/abs/2511.20892
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20892v1 Announce Type: new  Abstract: Large language models
-    (LLMs) often produce incorrect or outdated content. Updating their knowledge efficiently…'
-  title: Representation Interventions Enable Lifelong Unstructured Knowledge Control
-- id: oai:arXiv.org:2511.20934v1
-  link: https://arxiv.org/abs/2511.20934
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20934v1 Announce Type: new  Abstract: While neurons are the
-    basic units of deep neural networks, it is still unclear what they learn and if
-    their kn…'
-  title: Guaranteed Optimal Compositional Explanations for Neurons
-- id: oai:arXiv.org:2511.20937v1
-  link: https://arxiv.org/abs/2511.20937
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20937v1 Announce Type: new  Abstract: Embodied cognition argues
-    that intelligence arises from sensorimotor interaction rather than passive observati…'
-  title: 'ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction'
-- id: oai:arXiv.org:2511.20942v1
-  link: https://arxiv.org/abs/2511.20942
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.20942v1 Announce Type: new  Abstract: In procedural skill learning,
-    instructional explanations must convey not just steps, but the causal, goal-dire…'
-  title: 'Improving Procedural Skill Explanations via Constrained Generation: A Symbolic-LLM
-    Hybrid Architecture'
-- id: oai:arXiv.org:2511.21005v1
-  link: https://arxiv.org/abs/2511.21005
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.21005v1 Announce Type: new  Abstract: Reinforcement Learning
-    with Verifiable Rewards (RLVR) demonstrates significant potential in enhancing
-    the reas…'
-  title: 'ICPO: Intrinsic Confidence-Driven Group Relative Preference Optimization
-    for Efficient Reinforcement Learning'
-- id: oai:arXiv.org:2511.21033v1
-  link: https://arxiv.org/abs/2511.21033
-  published: '2025-11-27T05:00:00Z'
-  summary: 'arXiv:2511.21033v1 Announce Type: new  Abstract: The rationality of law
-    manifests in two forms: substantive rationality, which concerns the fairness or
-    moral d…'
-  title: Towards Trustworthy Legal AI through LLM Agents and Formal Reasoning
+- id: oai:arXiv.org:2511.21779v1
+  link: https://arxiv.org/abs/2511.21779
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.21779v1 Announce Type: new  Abstract: We propose a novel protocol
+    for aligning artificial superintelligence (ASI) based on mutual verification among…'
+  title: Aligning Artificial Superintelligence via a Multi-Box Protocol
+- id: oai:arXiv.org:2511.21827v1
+  link: https://arxiv.org/abs/2511.21827
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.21827v1 Announce Type: new  Abstract: Multimodal (MM) learning
+    is emerging as a promising paradigm in biomedical artificial intelligence (AI)
+    applic…'
+  title: Evaluating Strategies for Synthesizing Clinical Notes for Medical Multimodal
+    AI
+- id: oai:arXiv.org:2511.22033v1
+  link: https://arxiv.org/abs/2511.22033
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22033v1 Announce Type: new  Abstract: Diabetic retinopathy
+    (DR) grading plays a critical role in early clinical intervention and vision preservation…'
+  title: Pathology-Aware Prototype Evolution via LLM-Driven Semantic Disambiguation
+    for Multicenter Diabetic Retinopathy Diagnosis
+- id: oai:arXiv.org:2511.22074v1
+  link: https://arxiv.org/abs/2511.22074
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22074v1 Announce Type: new  Abstract: Learning how to do things
+    from trial and error in real time is a hallmark of biological intelligence, yet
+    most…'
+  title: Real-Time Procedural Learning From Experience for AI Agents
+- id: oai:arXiv.org:2511.22076v1
+  link: https://arxiv.org/abs/2511.22076
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22076v1 Announce Type: new  Abstract: The Internet of Agents
+    (IoA) is rapidly gaining prominence as a foundational architecture for interconnected
+    i…'
+  title: Hybrid Stackelberg Game and Diffusion-based Auction for Two-tier Agentic
+    AI Task Offloading in Internet of Agents
+- id: oai:arXiv.org:2511.22151v1
+  link: https://arxiv.org/abs/2511.22151
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22151v1 Announce Type: new  Abstract: Can machines think? This
+    is a central question in artificial intelligence research. However, there is a
+    substa…'
+  title: A perceptual bias of AI Logical Argumentation Ability in Writing
+- id: oai:arXiv.org:2511.22154v1
+  link: https://arxiv.org/abs/2511.22154
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22154v1 Announce Type: new  Abstract: We introduce WearVQA,
+    the first benchmark specifically designed to evaluate the Visual Question Answering
+    (VQA…'
+  title: 'WearVQA: A Visual Question Answering Benchmark for Wearables in Egocentric
+    Authentic Real-world scenarios'
+- id: oai:arXiv.org:2511.22226v1
+  link: https://arxiv.org/abs/2511.22226
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22226v1 Announce Type: new  Abstract: The standard theory of
+    model-free reinforcement learning assumes that the environment dynamics are stationary…'
+  title: 'Embedded Universal Predictive Intelligence: a coherent framework for multi-agent
+    learning'
+- id: oai:arXiv.org:2511.22235v1
+  link: https://arxiv.org/abs/2511.22235
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22235v1 Announce Type: new  Abstract: The rapid development
+    of large vision-language model (VLM) has greatly promoted the research of GUI
+    agent. How…'
+  title: Training High-Level Schedulers with Execution-Feedback Reinforcement Learning
+    for Long-Horizon GUI Automation
+- id: oai:arXiv.org:2511.22254v1
+  link: https://arxiv.org/abs/2511.22254
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22254v1 Announce Type: new  Abstract: The rapid progress of
+    large foundation models has accelerated the development of task-specialized agents
+    acros…'
+  title: 'Co-Evolving Agents: Learning from Failures as Hard Negatives'
+- id: oai:arXiv.org:2511.22275v1
+  link: https://arxiv.org/abs/2511.22275
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22275v1 Announce Type: new  Abstract: Large Language models
+    are revolutionizing the conversational recommender systems through their impressive
+    capa…'
+  title: 'RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational
+    Recommender Systems'
+- id: oai:arXiv.org:2511.22302v1
+  link: https://arxiv.org/abs/2511.22302
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22302v1 Announce Type: new  Abstract: Numerical simulations
+    have revolutionized the industrial design process by reducing prototyping costs,
+    design…'
+  title: 'When AI Bends Metal: AI-Assisted Optimization of Design Parameters in Sheet
+    Metal Forming'
+- id: oai:arXiv.org:2511.22307v1
+  link: https://arxiv.org/abs/2511.22307
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22307v1 Announce Type: new  Abstract: Double perovskites (DPs)
+    are promising candidates for sustainable energy technologies due to their composition…'
+  title: Enhanced Conditional Generation of Double Perovskite by Knowledge-Guided
+    Language Model Feedback
+- id: oai:arXiv.org:2511.22311v1
+  link: https://arxiv.org/abs/2511.22311
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22311v1 Announce Type: new  Abstract: Designing proteins de
+    novo with tailored structural, physicochemical, and functional properties remains
+    a gran…'
+  title: Swarms of Large Language Model Agents for Protein Sequence Design with Experimental
+    Validation
+- id: oai:arXiv.org:2511.22325v1
+  link: https://arxiv.org/abs/2511.22325
+  published: '2025-12-01T05:00:00Z'
+  summary: 'arXiv:2511.22325v1 Announce Type: new  Abstract: Urban economic vitality
+    is a crucial indicator of a city''s long-term growth potential, comprising key
+    metrics…'
+  title: 'Tracing Footsteps of Similar Cities: Modeling Urban Economic Vitality with
+    Dynamic Inter-City Graph Embeddings'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

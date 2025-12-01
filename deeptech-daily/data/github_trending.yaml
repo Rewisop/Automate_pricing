@@ -1,49 +1,55 @@
-fetched_at: '2025-11-30T05:33:01Z'
-generated_at: '2025-11-30T05:33:01Z'
-hash: b4ce687293a08fecab6d519c96940e030fbdd0b5047eea1c72c8f69649d1c738
+fetched_at: '2025-12-01T05:43:03Z'
+generated_at: '2025-12-01T05:43:03Z'
+hash: 0249036fe13f90378ebb86fc0e4d92ce0f324c52a686f8389895f9e3b1e8d680
 items:
 - created_at: '2025-11-27T08:36:30Z'
   description: AI / LLM Red Team Field Manual & Consultant’s Handbook
   full_name: Shiva108/ai-llm-red-team-handbook
   html_url: https://github.com/Shiva108/ai-llm-red-team-handbook
-  stargazers_count: 92
+  stargazers_count: 95
 - created_at: '2025-11-26T18:26:18Z'
   description: A simple plug-in framework that corrects bias and computes confidence
     intervals in reporting LLM-as-a-judge evaluation, and an adaptive algorithm that
     efficien…
   full_name: UW-Madison-Lee-Lab/LLM-judge-reporting
   html_url: https://github.com/UW-Madison-Lee-Lab/LLM-judge-reporting
-  stargazers_count: 30
-- created_at: '2025-11-24T07:51:05Z'
-  description: llms can learn their own context compression via RL
-  full_name: rajansagarwal/compression
-  html_url: https://github.com/rajansagarwal/compression
-  stargazers_count: 30
-- created_at: '2025-11-24T07:08:15Z'
-  description: a project brain for your AI. Give LLMs instant architectural context
-    without burning tokens
-  full_name: JordanCoin/codemap
-  html_url: https://github.com/JordanCoin/codemap
-  stargazers_count: 17
-- created_at: '2025-11-24T13:46:18Z'
-  description: Universal REPL Bridge for LLMs - Tab completion, interactive prompts,
-    TUI support
-  full_name: MaximeRivest/brepl
-  html_url: https://github.com/MaximeRivest/brepl
-  stargazers_count: 17
-- created_at: '2025-11-24T09:37:45Z'
-  description: Static analysis and LLM-powered optimization for SQL queries. built-in
-    rules, SARIF output, CI/CD ready.
-  full_name: RAprogramm/sql-query-analyzer
-  html_url: https://github.com/RAprogramm/sql-query-analyzer
-  stargazers_count: 17
+  stargazers_count: 36
+- created_at: '2025-11-28T17:09:01Z'
+  description: ComfyUI utility nodes for Z-Image model. Features LLM-powered prompt
+    enhancement using the official Z-Image system prompt.
+  full_name: Koko-boya/Comfyui-Z-Image-Utilities
+  html_url: https://github.com/Koko-boya/Comfyui-Z-Image-Utilities
+  stargazers_count: 32
+- created_at: '2025-11-26T01:43:50Z'
+  description: ZON → 35-70% cheaper LLM prompts than JSON/TOON. Zero overhead.
+  full_name: ZON-Format/zon-TS
+  html_url: https://github.com/ZON-Format/zon-TS
+  stargazers_count: 31
+- created_at: '2025-11-30T15:57:38Z'
+  description: 现代化，模块化，强大的LLM对话前端
+  full_name: NullStarrySky/Pulsar
+  html_url: https://github.com/NullStarrySky/Pulsar
+  stargazers_count: 22
 - created_at: '2025-11-27T19:11:50Z'
   description: This app uses a large language model to generate a semantic keyword
     Universe (EAV-based) for SEO/content strategy. It returns a structured keyword
     list and let…
   full_name: VitoKon/Semantic-Keyword-Builder
   html_url: https://github.com/VitoKon/Semantic-Keyword-Builder
-  stargazers_count: 17
+  stargazers_count: 19
+- created_at: '2025-11-30T11:29:58Z'
+  description: 지시 불이행(Instruction Non-Compliance) 현상을 유발하는 프롬프트 패턴 11가지(A-K) - ChatGPT,
+    Gemini 등 주요 LLM 모델들의 취약성 및 정책 충돌 대응 방식을 비교 분석 프로젝트
+  full_name: maruhan12-max/AI-Compliance-Failure-Patterns
+  html_url: https://github.com/maruhan12-max/AI-Compliance-Failure-Patterns
+  stargazers_count: 18
+- created_at: '2025-11-30T03:15:55Z'
+  description: A fully-local, fully-automated system that turns your chaotic Docker
+    logs into clean, structured, actionable intelligence, every night, powered by
+    your own loc…
+  full_name: WhiskeyCoder/HomeLab-Log-Analyzer
+  html_url: https://github.com/WhiskeyCoder/HomeLab-Log-Analyzer
+  stargazers_count: 16
 - created_at: '2025-11-26T19:54:29Z'
   description: A user-friendly interface built on top of Thinking Machines Tinker
     API that lets you fine-tune LLMs, chat with your trained model, and deploy to
@@ -56,23 +62,10 @@ items:
   full_name: Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine
   html_url: https://github.com/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine
   stargazers_count: 13
-- created_at: '2025-11-24T12:30:14Z'
-  description: An n8n-powered workflow that scrapes new LinkedIn jobs, compares them
-    to your CV with an LLM, ranks them by fit, and emails you a daily digest of the
-    best matc…
-  full_name: chunxubioinfor/DailyJobMatch
-  html_url: https://github.com/chunxubioinfor/DailyJobMatch
-  stargazers_count: 13
-- created_at: '2025-11-24T23:49:04Z'
-  description: LLM RP TUI for Power Users.
-  full_name: AlpinDale/sillytui
-  html_url: https://github.com/AlpinDale/sillytui
-  stargazers_count: 12
-- created_at: '2025-11-28T17:09:01Z'
-  description: ComfyUI utility nodes for Z-Image model. Features LLM-powered prompt
-    enhancement using the official Z-Image system prompt.
-  full_name: Koko-boya/Comfyui-Z-Image-Utilities
-  html_url: https://github.com/Koko-boya/Comfyui-Z-Image-Utilities
+- created_at: '2025-11-27T02:35:37Z'
+  description: A local-LLM based Graph RAG agent using FalkorDB
+  full_name: eastsea17/GraphRAG_with_Ollama
+  html_url: https://github.com/eastsea17/GraphRAG_with_Ollama
   stargazers_count: 11
 - created_at: '2025-11-28T06:39:17Z'
   description: PKZip for LLMs
@@ -84,36 +77,46 @@ items:
   full_name: ktock/llmlet
   html_url: https://github.com/ktock/llmlet
   stargazers_count: 11
-- created_at: '2025-11-24T23:09:48Z'
-  description: A lightweight Python library for optimizing and cleaning LLM inputs.
-    Reduce token usage, improve prompt quality, and lower API costs.
-  full_name: JacobHuang91/prompt-refiner
-  html_url: https://github.com/JacobHuang91/prompt-refiner
-  stargazers_count: 10
-- created_at: '2025-11-27T02:35:37Z'
-  description: A local-LLM based Graph RAG agent using FalkorDB
-  full_name: eastsea17/GraphRAG_with_Ollama
-  html_url: https://github.com/eastsea17/GraphRAG_with_Ollama
-  stargazers_count: 10
 - created_at: '2025-11-25T12:25:05Z'
   description: AI-powered scientific figure generator using LLM analysis and nano
     banana for publication-quality visualizations
   full_name: hengzzzhou/FigForge
   html_url: https://github.com/hengzzzhou/FigForge
   stargazers_count: 10
-- created_at: '2025-11-26T01:43:50Z'
-  description: ZON → 35-70% cheaper LLM prompts than JSON/TOON. Zero overhead.
-  full_name: ZON-Format/zon-TS
-  html_url: https://github.com/ZON-Format/zon-TS
-  stargazers_count: 8
 - created_at: '2025-11-25T12:56:01Z'
   description: Awesome papers for affective computing with llm and mllm
   full_name: nku-zhichengzhang/Awesome-emotion_llm_and_mllm
   html_url: https://github.com/nku-zhichengzhang/Awesome-emotion_llm_and_mllm
   stargazers_count: 8
-- created_at: '2025-11-24T23:22:07Z'
-  description: Manage your local LLM inference services with Docker Compose
-  full_name: teo-mateo/llm-dock
-  html_url: https://github.com/teo-mateo/llm-dock
-  stargazers_count: 8
+- created_at: '2025-11-27T12:32:44Z'
+  description: 下一代 LLM 驱动的所见即所得 Markdown 翻译工作台
+  full_name: Shepherd010/MDtranslator
+  html_url: https://github.com/Shepherd010/MDtranslator
+  stargazers_count: 7
+- created_at: '2025-11-30T22:41:35Z'
+  description: Drawing inspiration from Andrej Karpathy's LLM Council, this is an
+    implementation for coding. LLMs evaluate each other and generate the best result
+    rather than…
+  full_name: ibrahim-ansari-code/LLM-Council-IDE
+  html_url: https://github.com/ibrahim-ansari-code/LLM-Council-IDE
+  stargazers_count: 7
+- created_at: '2025-11-26T09:56:34Z'
+  description: 'Towards Efficient Multimodal Large Language Models: A Survey on Token
+    Compression'
+  full_name: yaolinli/MLLM-Token-Compression
+  html_url: https://github.com/yaolinli/MLLM-Token-Compression
+  stargazers_count: 7
+- created_at: '2025-11-26T08:23:13Z'
+  description: Analysis of LLM generalization across difficulty levels using Item
+    Response Theory
+  full_name: BatsResearch/cross-difficulty
+  html_url: https://github.com/BatsResearch/cross-difficulty
+  stargazers_count: 6
+- created_at: '2025-11-28T18:56:48Z'
+  description: This is an AI-Gemini Chatbot LLM And Large Image Model Application.
+    You can use this project run into local and ask you images like your talking with
+    in realti…
+  full_name: Blockly-Anice/AI-image-recognition-chatbot-LLM-model
+  html_url: https://github.com/Blockly-Anice/AI-image-recognition-chatbot-LLM-model
+  stargazers_count: 6
 source_url: https://api.github.com/search/repositories
