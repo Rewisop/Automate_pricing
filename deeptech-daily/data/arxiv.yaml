@@ -1,119 +1,116 @@
-fetched_at: '2025-12-01T05:43:03Z'
-generated_at: '2025-12-01T05:43:03Z'
-hash: 4c1404bd392e86929ee96ead21940cb65353e501f4f99136a4ef9000d6426c36
+fetched_at: '2025-12-05T05:34:18Z'
+generated_at: '2025-12-05T05:34:18Z'
+hash: 4172185625bf96567cb8c981ba97a3dedec5b850c6fdbfcc42c3c1ae26d7583d
 items:
-- id: oai:arXiv.org:2511.21779v1
-  link: https://arxiv.org/abs/2511.21779
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.21779v1 Announce Type: new  Abstract: We propose a novel protocol
-    for aligning artificial superintelligence (ASI) based on mutual verification among…'
-  title: Aligning Artificial Superintelligence via a Multi-Box Protocol
-- id: oai:arXiv.org:2511.21827v1
-  link: https://arxiv.org/abs/2511.21827
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.21827v1 Announce Type: new  Abstract: Multimodal (MM) learning
-    is emerging as a promising paradigm in biomedical artificial intelligence (AI)
-    applic…'
-  title: Evaluating Strategies for Synthesizing Clinical Notes for Medical Multimodal
-    AI
-- id: oai:arXiv.org:2511.22033v1
-  link: https://arxiv.org/abs/2511.22033
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22033v1 Announce Type: new  Abstract: Diabetic retinopathy
-    (DR) grading plays a critical role in early clinical intervention and vision preservation…'
-  title: Pathology-Aware Prototype Evolution via LLM-Driven Semantic Disambiguation
-    for Multicenter Diabetic Retinopathy Diagnosis
-- id: oai:arXiv.org:2511.22074v1
-  link: https://arxiv.org/abs/2511.22074
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22074v1 Announce Type: new  Abstract: Learning how to do things
-    from trial and error in real time is a hallmark of biological intelligence, yet
-    most…'
-  title: Real-Time Procedural Learning From Experience for AI Agents
-- id: oai:arXiv.org:2511.22076v1
-  link: https://arxiv.org/abs/2511.22076
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22076v1 Announce Type: new  Abstract: The Internet of Agents
-    (IoA) is rapidly gaining prominence as a foundational architecture for interconnected
-    i…'
-  title: Hybrid Stackelberg Game and Diffusion-based Auction for Two-tier Agentic
-    AI Task Offloading in Internet of Agents
-- id: oai:arXiv.org:2511.22151v1
-  link: https://arxiv.org/abs/2511.22151
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22151v1 Announce Type: new  Abstract: Can machines think? This
-    is a central question in artificial intelligence research. However, there is a
-    substa…'
-  title: A perceptual bias of AI Logical Argumentation Ability in Writing
-- id: oai:arXiv.org:2511.22154v1
-  link: https://arxiv.org/abs/2511.22154
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22154v1 Announce Type: new  Abstract: We introduce WearVQA,
-    the first benchmark specifically designed to evaluate the Visual Question Answering
-    (VQA…'
-  title: 'WearVQA: A Visual Question Answering Benchmark for Wearables in Egocentric
-    Authentic Real-world scenarios'
-- id: oai:arXiv.org:2511.22226v1
-  link: https://arxiv.org/abs/2511.22226
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22226v1 Announce Type: new  Abstract: The standard theory of
-    model-free reinforcement learning assumes that the environment dynamics are stationary…'
-  title: 'Embedded Universal Predictive Intelligence: a coherent framework for multi-agent
-    learning'
-- id: oai:arXiv.org:2511.22235v1
-  link: https://arxiv.org/abs/2511.22235
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22235v1 Announce Type: new  Abstract: The rapid development
-    of large vision-language model (VLM) has greatly promoted the research of GUI
-    agent. How…'
-  title: Training High-Level Schedulers with Execution-Feedback Reinforcement Learning
-    for Long-Horizon GUI Automation
-- id: oai:arXiv.org:2511.22254v1
-  link: https://arxiv.org/abs/2511.22254
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22254v1 Announce Type: new  Abstract: The rapid progress of
-    large foundation models has accelerated the development of task-specialized agents
-    acros…'
-  title: 'Co-Evolving Agents: Learning from Failures as Hard Negatives'
-- id: oai:arXiv.org:2511.22275v1
-  link: https://arxiv.org/abs/2511.22275
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22275v1 Announce Type: new  Abstract: Large Language models
-    are revolutionizing the conversational recommender systems through their impressive
-    capa…'
-  title: 'RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational
-    Recommender Systems'
-- id: oai:arXiv.org:2511.22302v1
-  link: https://arxiv.org/abs/2511.22302
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22302v1 Announce Type: new  Abstract: Numerical simulations
-    have revolutionized the industrial design process by reducing prototyping costs,
-    design…'
-  title: 'When AI Bends Metal: AI-Assisted Optimization of Design Parameters in Sheet
-    Metal Forming'
-- id: oai:arXiv.org:2511.22307v1
-  link: https://arxiv.org/abs/2511.22307
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22307v1 Announce Type: new  Abstract: Double perovskites (DPs)
-    are promising candidates for sustainable energy technologies due to their composition…'
-  title: Enhanced Conditional Generation of Double Perovskite by Knowledge-Guided
-    Language Model Feedback
-- id: oai:arXiv.org:2511.22311v1
-  link: https://arxiv.org/abs/2511.22311
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22311v1 Announce Type: new  Abstract: Designing proteins de
-    novo with tailored structural, physicochemical, and functional properties remains
-    a gran…'
-  title: Swarms of Large Language Model Agents for Protein Sequence Design with Experimental
-    Validation
-- id: oai:arXiv.org:2511.22325v1
-  link: https://arxiv.org/abs/2511.22325
-  published: '2025-12-01T05:00:00Z'
-  summary: 'arXiv:2511.22325v1 Announce Type: new  Abstract: Urban economic vitality
-    is a crucial indicator of a city''s long-term growth potential, comprising key
-    metrics…'
-  title: 'Tracing Footsteps of Similar Cities: Modeling Urban Economic Vitality with
-    Dynamic Inter-City Graph Embeddings'
+- id: oai:arXiv.org:2512.03048v1
+  link: https://arxiv.org/abs/2512.03048
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03048v1 Announce Type: new  Abstract: I argue that AI alignment
+    should be reconceived as architecting syntropic, reasons-responsive agents through
+    p…'
+  title: 'Exploring Syntropic Frameworks in AI Alignment: A Philosophical Investigation'
+- id: oai:arXiv.org:2512.03072v1
+  link: https://arxiv.org/abs/2512.03072
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03072v1 Announce Type: new  Abstract: Current AI paradigms,
+    as "architects of experience," face fundamental challenges in explainability and
+    value a…'
+  title: 'Beyond the Black Box: A Cognitive Architecture for Explainable and Aligned
+    AI'
+- id: oai:arXiv.org:2512.03272v1
+  link: https://arxiv.org/abs/2512.03272
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03272v1 Announce Type: new  Abstract: Large Reasoning Models
+    (LRMs) achieve strong performance on complex reasoning tasks by generating long
+    Chains…'
+  title: When Do Symbolic Solvers Enhance Reasoning in Large Language Models?
+- id: oai:arXiv.org:2512.03293v1
+  link: https://arxiv.org/abs/2512.03293
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03293v1 Announce Type: new  Abstract: Active inference proposes
+    expected free energy as an objective for planning and decision-making to adequately…'
+  title: 'Prior preferences in active inference agents: soft, hard, and goal shaping'
+- id: oai:arXiv.org:2512.03318v1
+  link: https://arxiv.org/abs/2512.03318
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03318v1 Announce Type: new  Abstract: Large Language Model
+    (LLM) agents have demonstrated impressive capabilities for social interaction
+    and are inc…'
+  title: Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive
+    Scenarios Using Concordia
+- id: oai:arXiv.org:2512.03438v1
+  link: https://arxiv.org/abs/2512.03438
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03438v1 Announce Type: new  Abstract: Agentic reasoning models
+    trained with multimodal reinforcement learning (MMRL) have become increasingly
+    capabl…'
+  title: Multimodal Reinforcement Learning with Agentic Verifier for AI Agents
+- id: oai:arXiv.org:2512.03528v1
+  link: https://arxiv.org/abs/2512.03528
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03528v1 Announce Type: new  Abstract: Communication is one
+    of the effective means to improve the learning of cooperative policy in multi-agent
+    syste…'
+  title: Multi-Agent Reinforcement Learning with Communication-Constrained Priors
+- id: oai:arXiv.org:2512.03549v1
+  link: https://arxiv.org/abs/2512.03549
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03549v1 Announce Type: new  Abstract: We introduce PARC, a
+    coding agent for the autonomous and robust execution of long-horizon computational
+    tasks.…'
+  title: 'PARC: An Autonomous Self-Reflective Coding Agent for Robust Execution of
+    Long-Horizon Tasks'
+- id: oai:arXiv.org:2512.03560v1
+  link: https://arxiv.org/abs/2512.03560
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03560v1 Announce Type: new  Abstract: Despite recent advances,
+    autonomous agents often struggle to solve complex tasks in enterprise domains
+    that re…'
+  title: 'Reason-Plan-ReAct: A Reasoner-Planner Supervising a ReAct Executor for Complex
+    Enterprise Tasks'
+- id: oai:arXiv.org:2512.03571v1
+  link: https://arxiv.org/abs/2512.03571
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03571v1 Announce Type: new  Abstract: We introduce a new approach
+    to agent programming, the development of LLM-based agents. Current approaches
+    to a…'
+  title: 'EnCompass: Enhancing Agent Programming with Search Over Program Execution
+    Paths'
+- id: oai:arXiv.org:2512.03607v1
+  link: https://arxiv.org/abs/2512.03607
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03607v1 Announce Type: new  Abstract: This paper proposes DeepRule,
+    an integrated framework for automated business rule generation in retail assortm…'
+  title: 'DeepRule: An Integrated Framework for Automated Business Rule Generation
+    via Deep Predictive Modeling and Hybrid Search Optimization'
+- id: oai:arXiv.org:2512.03627v1
+  link: https://arxiv.org/abs/2512.03627
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03627v1 Announce Type: new  Abstract: Despite rapid progress
+    in large-scale language and vision models, AI agents still suffer from a fundamental
+    li…'
+  title: 'MemVerse: Multimodal Memory for Lifelong Learning Agents'
+- id: oai:arXiv.org:2512.03762v2
+  link: https://arxiv.org/abs/2512.03762
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03762v2 Announce Type: new  Abstract: Automatic Heuristic Design
+    (AHD) has gained traction as a promising solution for solving combinatorial optimiz…'
+  title: 'RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design'
+- id: oai:arXiv.org:2512.03783v2
+  link: https://arxiv.org/abs/2512.03783
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03783v2 Announce Type: new  Abstract: Recent advances in Omni
+    models have enabled unified multimodal perception and generation. However, most
+    existi…'
+  title: 'Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning'
+- id: oai:arXiv.org:2512.03887v2
+  link: https://arxiv.org/abs/2512.03887
+  published: '2025-12-05T05:00:00Z'
+  summary: 'arXiv:2512.03887v2 Announce Type: new  Abstract: The advancement in Large
+    Language Models has driven the creation of complex agentic systems, such as Deep
+    Rese…'
+  title: A Hierarchical Tree-based approach for creating Configurable and Static Deep
+    Research Agent (Static-DRA)
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

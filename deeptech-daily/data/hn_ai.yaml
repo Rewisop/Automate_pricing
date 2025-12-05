@@ -1,36 +1,35 @@
-fetched_at: '2025-12-01T05:43:03Z'
-generated_at: '2025-12-01T05:43:03Z'
-hash: 12c602e8b1f6792b20a4e4fe1d76a8c57f20bc312e16e3a0ddda47528b1ee2a9
+fetched_at: '2025-12-05T05:34:18Z'
+generated_at: '2025-12-05T05:34:18Z'
+hash: a915818dcfe34ad96e14ec71bf1e439fc71d2eb631a0bb760f2236e944fba021
 items:
-- id: 46098992
-  score: 381
-  time: '2025-11-30T18:17:13Z'
-  title: Don't push AI down our throats
-  url: https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats
-- id: 46097773
-  score: 167
-  time: '2025-11-30T16:07:11Z'
-  title: The Thinking Game Film – Google DeepMind documentary
-  url: https://thinkinggamefilm.com
-- id: 46095873
-  score: 51
-  time: '2025-11-30T11:48:42Z'
-  title: 'Tell HN: It''s now impossible to disable all AI features in Firefox 145
-    (latest)'
-  url: https://news.ycombinator.com/item?id=46095873
-- id: 46103078
+- id: 46145180
+  score: 528
+  time: '2025-12-04T08:38:17Z'
+  title: How elites could shape mass preferences as AI reduces persuasion costs
+  url: https://arxiv.org/abs/2512.04047
+- id: 46148748
+  score: 386
+  time: '2025-12-04T15:31:52Z'
+  title: Microsoft drops AI sales targets in half after salespeople miss their quotas
+  url: https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/
+- id: 46154022
+  score: 147
+  time: '2025-12-04T22:26:43Z'
+  title: 'State of AI: An Empirical 100T Token Study with OpenRouter'
+  url: https://openrouter.ai/state-of-ai
+- id: 46148686
+  score: 28
+  time: '2025-12-04T15:26:29Z'
+  title: The Math Legend Who Just Left Academia–For an AI Startup Run by a 24-Year-Old
+  url: https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417
+- id: 46147989
+  score: 22
+  time: '2025-12-04T14:25:51Z'
+  title: 'Show HN: I analyzed 8k near-death experiences with AI and made them listenable'
+  url: https://www.noeticmap.com/
+- id: 46155959
   score: 21
-  time: '2025-12-01T03:09:35Z'
-  title: I Tested the M5 iPad Pro's Neural-Accelerated AI, and the Hype Is Real
-  url: https://www.macstories.net/stories/ipad-pro-m5-neural-benchmarks-mlx/
-- id: 46100815
-  score: 18
-  time: '2025-11-30T21:55:15Z'
-  title: Did Nvidia Just Prove There Is No AI Bubble
-  url: https://www.planetearthandbeyond.co/p/did-nvidia-just-prove-there-is-no
-- id: 46099838
-  score: 15
-  time: '2025-11-30T19:58:48Z'
-  title: AI rendering of Roman war scenes from Trajan's Column
-  url: https://trajancolumn.com
+  time: '2025-12-05T01:52:12Z'
+  title: The Disappearance of an Anti-AI Activist
+  url: https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/
 source_url: https://hacker-news.firebaseio.com/

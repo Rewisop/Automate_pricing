@@ -1,45 +1,45 @@
-fetched_at: '2025-12-01T05:43:03Z'
-generated_at: '2025-12-01T05:43:03Z'
-hash: 65c6462a484bde2018771227dda2b5cd2057adb276cdc4e00a70a8b5b87e2bac
+fetched_at: '2025-12-05T05:34:18Z'
+generated_at: '2025-12-05T05:34:18Z'
+hash: 926db3d2bc19fdce78f4cb4a12f5cc6e0661411d38cc161c9dc9d2a5e39eac1f
 items:
 - cvss: 0.0
-  id: MAL-2025-191156
-  published: '2025-11-24T22:23:48Z'
-  summary: Malicious code in zuper-sdk (npm)
+  id: GHSA-wvj6-fjwf-f68m
+  published: '2025-10-22T03:30:42Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-191155
-  published: '2025-11-24T22:25:09Z'
-  summary: Malicious code in wenk (npm)
+  id: CVE-2025-11759
+  published: '2025-12-05T03:15:56Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-191438
-  published: '2025-11-24T23:38:27Z'
-  summary: Malicious code in typeface-antonio-complete (npm)
+  id: CVE-2025-12804
+  published: '2025-12-05T03:15:56Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-191437
-  published: '2025-11-24T23:38:42Z'
-  summary: Malicious code in ts-relay-cursor-paging (npm)
+  id: GHSA-h6h5-r757-667h
+  published: '2025-12-05T03:30:12Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-191436
-  published: '2025-11-24T23:38:57Z'
-  summary: Malicious code in toonfetch (npm)
+  id: GHSA-rf7x-r95c-4wf6
+  published: '2025-12-05T03:30:12Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-191435
-  published: '2025-11-24T23:39:32Z'
-  summary: Malicious code in tiptap-shadcn-vue (npm)
+  id: GHSA-vvm8-x223-29qp
+  published: '2025-12-05T03:30:12Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-191434
-  published: '2025-11-24T23:40:02Z'
-  summary: Malicious code in test23112222-api (npm)
+  id: CVE-2025-13066
+  published: '2025-12-05T04:15:59Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-191432
-  published: '2025-11-24T23:40:17Z'
-  summary: Malicious code in tavily-module (npm)
+  id: CVE-2025-27389
+  published: '2025-12-05T04:16:00Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-191439
-  published: '2025-11-24T23:44:59Z'
-  summary: Malicious code in unadapter (npm)
+  id: CVE-2025-66536
+  published: '2025-12-05T04:16:00Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-191440
-  published: '2025-11-24T23:45:44Z'
-  summary: Malicious code in unemail (npm)
+  id: CVE-2025-66537
+  published: '2025-12-05T04:16:00Z'
+  summary: ''
 source_url: https://cve.circl.lu/api/last

@@ -51,17 +51,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -158,21 +160,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [Aligning Artificial Superintelligence via a Multi-Box Protocol](https://arxiv.org/abs/2511.21779) — arXiv:2511.21779v1 Announce Type: new  Abstract: We propose a novel protocol for aligning artificial superintelligence (ASI) based on mutual verification among…
-- [Evaluating Strategies for Synthesizing Clinical Notes for Medical Multimodal AI](https://arxiv.org/abs/2511.21827) — arXiv:2511.21827v1 Announce Type: new  Abstract: Multimodal (MM) learning is emerging as a promising paradigm in biomedical artificial intelligence (AI) applic…
-- [Pathology-Aware Prototype Evolution via LLM-Driven Semantic Disambiguation for Multicenter Diabetic Retinopathy Diagnosis](https://arxiv.org/abs/2511.22033) — arXiv:2511.22033v1 Announce Type: new  Abstract: Diabetic retinopathy (DR) grading plays a critical role in early clinical intervention and vision preservation…
-- [Real-Time Procedural Learning From Experience for AI Agents](https://arxiv.org/abs/2511.22074) — arXiv:2511.22074v1 Announce Type: new  Abstract: Learning how to do things from trial and error in real time is a hallmark of biological intelligence, yet most…
-- [Hybrid Stackelberg Game and Diffusion-based Auction for Two-tier Agentic AI Task Offloading in Internet of Agents](https://arxiv.org/abs/2511.22076) — arXiv:2511.22076v1 Announce Type: new  Abstract: The Internet of Agents (IoA) is rapidly gaining prominence as a foundational architecture for interconnected i…
-- [A perceptual bias of AI Logical Argumentation Ability in Writing](https://arxiv.org/abs/2511.22151) — arXiv:2511.22151v1 Announce Type: new  Abstract: Can machines think? This is a central question in artificial intelligence research. However, there is a substa…
-- [WearVQA: A Visual Question Answering Benchmark for Wearables in Egocentric Authentic Real-world scenarios](https://arxiv.org/abs/2511.22154) — arXiv:2511.22154v1 Announce Type: new  Abstract: We introduce WearVQA, the first benchmark specifically designed to evaluate the Visual Question Answering (VQA…
-- [Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning](https://arxiv.org/abs/2511.22226) — arXiv:2511.22226v1 Announce Type: new  Abstract: The standard theory of model-free reinforcement learning assumes that the environment dynamics are stationary…
-- [Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](https://arxiv.org/abs/2511.22235) — arXiv:2511.22235v1 Announce Type: new  Abstract: The rapid development of large vision-language model (VLM) has greatly promoted the research of GUI agent. How…
-- [Co-Evolving Agents: Learning from Failures as Hard Negatives](https://arxiv.org/abs/2511.22254) — arXiv:2511.22254v1 Announce Type: new  Abstract: The rapid progress of large foundation models has accelerated the development of task-specialized agents acros…
-- [RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems](https://arxiv.org/abs/2511.22275) — arXiv:2511.22275v1 Announce Type: new  Abstract: Large Language models are revolutionizing the conversational recommender systems through their impressive capa…
-- [When AI Bends Metal: AI-Assisted Optimization of Design Parameters in Sheet Metal Forming](https://arxiv.org/abs/2511.22302) — arXiv:2511.22302v1 Announce Type: new  Abstract: Numerical simulations have revolutionized the industrial design process by reducing prototyping costs, design…
-- [Enhanced Conditional Generation of Double Perovskite by Knowledge-Guided Language Model Feedback](https://arxiv.org/abs/2511.22307) — arXiv:2511.22307v1 Announce Type: new  Abstract: Double perovskites (DPs) are promising candidates for sustainable energy technologies due to their composition…
-- [Swarms of Large Language Model Agents for Protein Sequence Design with Experimental Validation](https://arxiv.org/abs/2511.22311) — arXiv:2511.22311v1 Announce Type: new  Abstract: Designing proteins de novo with tailored structural, physicochemical, and functional properties remains a gran…
-- [Tracing Footsteps of Similar Cities: Modeling Urban Economic Vitality with Dynamic Inter-City Graph Embeddings](https://arxiv.org/abs/2511.22325) — arXiv:2511.22325v1 Announce Type: new  Abstract: Urban economic vitality is a crucial indicator of a city's long-term growth potential, comprising key metrics…
+- [Exploring Syntropic Frameworks in AI Alignment: A Philosophical Investigation](https://arxiv.org/abs/2512.03048) — arXiv:2512.03048v1 Announce Type: new  Abstract: I argue that AI alignment should be reconceived as architecting syntropic, reasons-responsive agents through p…
+- [Beyond the Black Box: A Cognitive Architecture for Explainable and Aligned AI](https://arxiv.org/abs/2512.03072) — arXiv:2512.03072v1 Announce Type: new  Abstract: Current AI paradigms, as "architects of experience," face fundamental challenges in explainability and value a…
+- [When Do Symbolic Solvers Enhance Reasoning in Large Language Models?](https://arxiv.org/abs/2512.03272) — arXiv:2512.03272v1 Announce Type: new  Abstract: Large Reasoning Models (LRMs) achieve strong performance on complex reasoning tasks by generating long Chains…
+- [Prior preferences in active inference agents: soft, hard, and goal shaping](https://arxiv.org/abs/2512.03293) — arXiv:2512.03293v1 Announce Type: new  Abstract: Active inference proposes expected free energy as an objective for planning and decision-making to adequately…
+- [Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://arxiv.org/abs/2512.03318) — arXiv:2512.03318v1 Announce Type: new  Abstract: Large Language Model (LLM) agents have demonstrated impressive capabilities for social interaction and are inc…
+- [Multimodal Reinforcement Learning with Agentic Verifier for AI Agents](https://arxiv.org/abs/2512.03438) — arXiv:2512.03438v1 Announce Type: new  Abstract: Agentic reasoning models trained with multimodal reinforcement learning (MMRL) have become increasingly capabl…
+- [Multi-Agent Reinforcement Learning with Communication-Constrained Priors](https://arxiv.org/abs/2512.03528) — arXiv:2512.03528v1 Announce Type: new  Abstract: Communication is one of the effective means to improve the learning of cooperative policy in multi-agent syste…
+- [PARC: An Autonomous Self-Reflective Coding Agent for Robust Execution of Long-Horizon Tasks](https://arxiv.org/abs/2512.03549) — arXiv:2512.03549v1 Announce Type: new  Abstract: We introduce PARC, a coding agent for the autonomous and robust execution of long-horizon computational tasks.…
+- [Reason-Plan-ReAct: A Reasoner-Planner Supervising a ReAct Executor for Complex Enterprise Tasks](https://arxiv.org/abs/2512.03560) — arXiv:2512.03560v1 Announce Type: new  Abstract: Despite recent advances, autonomous agents often struggle to solve complex tasks in enterprise domains that re…
+- [EnCompass: Enhancing Agent Programming with Search Over Program Execution Paths](https://arxiv.org/abs/2512.03571) — arXiv:2512.03571v1 Announce Type: new  Abstract: We introduce a new approach to agent programming, the development of LLM-based agents. Current approaches to a…
+- [DeepRule: An Integrated Framework for Automated Business Rule Generation via Deep Predictive Modeling and Hybrid Search Optimization](https://arxiv.org/abs/2512.03607) — arXiv:2512.03607v1 Announce Type: new  Abstract: This paper proposes DeepRule, an integrated framework for automated business rule generation in retail assortm…
+- [MemVerse: Multimodal Memory for Lifelong Learning Agents](https://arxiv.org/abs/2512.03627) — arXiv:2512.03627v1 Announce Type: new  Abstract: Despite rapid progress in large-scale language and vision models, AI agents still suffer from a fundamental li…
+- [RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design](https://arxiv.org/abs/2512.03762) — arXiv:2512.03762v2 Announce Type: new  Abstract: Automatic Heuristic Design (AHD) has gained traction as a promising solution for solving combinatorial optimiz…
+- [Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning](https://arxiv.org/abs/2512.03783) — arXiv:2512.03783v2 Announce Type: new  Abstract: Recent advances in Omni models have enabled unified multimodal perception and generation. However, most existi…
+- [A Hierarchical Tree-based approach for creating Configurable and Static Deep Research Agent (Static-DRA)](https://arxiv.org/abs/2512.03887) — arXiv:2512.03887v2 Announce Type: new  Abstract: The advancement in Large Language Models has driven the creation of complex agentic systems, such as Deep Rese…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -200,28 +202,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                           |   Stars | Description                                                                                                                                                      |
-|------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Shiva108/ai-llm-red-team-handbook                    |      95 | AI / LLM Red Team Field Manual & Consultant’s Handbook                                                                                                           |
-| UW-Madison-Lee-Lab/LLM-judge-reporting               |      36 | A simple plug-in framework that corrects bias and computes confidence intervals in reporting LLM-as-a-judge evaluation, and an adaptive algorithm that efficien… |
-| Koko-boya/Comfyui-Z-Image-Utilities                  |      32 | ComfyUI utility nodes for Z-Image model. Features LLM-powered prompt enhancement using the official Z-Image system prompt.                                       |
-| ZON-Format/zon-TS                                    |      31 | ZON → 35-70% cheaper LLM prompts than JSON/TOON. Zero overhead.                                                                                                  |
-| NullStarrySky/Pulsar                                 |      22 | 现代化，模块化，强大的LLM对话前端                                                                                                                                               |
-| VitoKon/Semantic-Keyword-Builder                     |      19 | This app uses a large language model to generate a semantic keyword Universe (EAV-based) for SEO/content strategy. It returns a structured keyword list and let… |
-| maruhan12-max/AI-Compliance-Failure-Patterns         |      18 | 지시 불이행(Instruction Non-Compliance) 현상을 유발하는 프롬프트 패턴 11가지(A-K) - ChatGPT, Gemini 등 주요 LLM 모델들의 취약성 및 정책 충돌 대응 방식을 비교 분석 프로젝트                                      |
-| WhiskeyCoder/HomeLab-Log-Analyzer                    |      16 | A fully-local, fully-automated system that turns your chaotic Docker logs into clean, structured, actionable intelligence, every night, powered by your own loc… |
-| klei30/tinker-ui                                     |      15 | A user-friendly interface built on top of Thinking Machines Tinker API that lets you fine-tune LLMs, chat with your trained model, and deploy to Hugging Face.   |
-| Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine             |      13 | LLM Fine-tuning Engine with GUI and ML Core                                                                                                                      |
-| eastsea17/GraphRAG_with_Ollama                       |      11 | A local-LLM based Graph RAG agent using FalkorDB                                                                                                                 |
-| jart/zipalign                                        |      11 | PKZip for LLMs                                                                                                                                                   |
-| ktock/llmlet                                         |      11 | P2P distributed LLM inference on browsers                                                                                                                        |
-| hengzzzhou/FigForge                                  |      10 | AI-powered scientific figure generator using LLM analysis and nano banana for publication-quality visualizations                                                 |
-| nku-zhichengzhang/Awesome-emotion_llm_and_mllm       |       8 | Awesome papers for affective computing with llm and mllm                                                                                                         |
-| Shepherd010/MDtranslator                             |       7 | 下一代 LLM 驱动的所见即所得 Markdown 翻译工作台                                                                                                                                  |
-| ibrahim-ansari-code/LLM-Council-IDE                  |       7 | Drawing inspiration from Andrej Karpathy's LLM Council, this is an implementation for coding. LLMs evaluate each other and generate the best result rather than… |
-| yaolinli/MLLM-Token-Compression                      |       7 | Towards Efficient Multimodal Large Language Models: A Survey on Token Compression                                                                                |
-| BatsResearch/cross-difficulty                        |       6 | Analysis of LLM generalization across difficulty levels using Item Response Theory                                                                               |
-| Blockly-Anice/AI-image-recognition-chatbot-LLM-model |       6 | This is an AI-Gemini Chatbot LLM And Large Image Model Application. You can use this project run into local and ask you images like your talking with in realti… |
+| Repository                                   |   Stars | Description                                                                                                                                                      |
+|----------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| aeitroc/claude-select                        |      86 | A unified launcher for Claude Code that lets you interactively choose which LLM backend to use.                                                                  |
+| maruhan12-max/AI-Compliance-Failure-Patterns |      63 | 지시 불이행(Instruction Non-Compliance) 현상을 유발하는 프롬프트 패턴 11가지(A-K) - ChatGPT, Gemini 등 주요 LLM 모델들의 취약성 및 정책 충돌 대응 방식을 비교 분석 프로젝트                                      |
+| m-sec-org/ez-xbow-platform-mcp               |      57 | 一个用于 AI 驱动的渗透测试竞赛的**模型上下文协议 (MCP)** 服务器。该工 具提供了一个完整的 API 接口，使 LLM 能够自主参与 CTF 挑战。                                                                                 |
+| NullStarrySky/Pulsar                         |      40 | 现代化，模块化，强大的LLM对话前端                                                                                                                                               |
+| broalantaps/Awesome-Context-Compression-LLMs |      32 | 🚀 A curated list of awesome resources focusing on Context Compression techniques for Large Language Models(LLMs).                                                |
+| ZJU-LLMs/Agent-Kernel                        |      27 | A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs                                                                       |
+| WhiskeyCoder/HomeLab-Log-Analyzer            |      18 | A fully-local, fully-automated system that turns your chaotic Docker logs into clean, structured, actionable intelligence, every night, powered by your own loc… |
+| JhCircle/Kardia-R1                           |      16 | Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning                           |
+| lern-to-write/STC                            |      15 | Accelerating Streaming Video Large Language Models via Hierarchical Token Compression                                                                            |
+| wisent-ai/uncensorbench                      |      15 | A benchmark for measuring LLM censorship removal effectiveness                                                                                                   |
+| facebookresearch/prompt-siren                |      14 | A research workbench for developing and testing attacks against large language models, with a focus on prompt injection vulnerabilities and defenses.            |
+| STAR-173/LLMSession-Docker                   |      11 | A unified REST API that wraps web-based LLM sessions (ChatGPT, Claude, Google AI Studio) into a standard interface using headless automation. Access your web-t… |
+| ibrahim-ansari-code/LLM-Council-IDE          |      11 | Drawing inspiration from Andrej Karpathy's LLM Council, this is an implementation for coding. LLMs evaluate each other and generate the best result rather than… |
+| Ge-limin/ai-native-engineering-manifesto     |       9 | A manifesto and playbook for AI-native software engineering in the LLM era / AI-Native的软件工程宣言                                                                    |
+| Mohamedsaleh14/ContextGit                    |       6 | Context and requirement Management tool for CLI LLM tools                                                                                                        |
+| btitkin/ComfyUI-RandomPromptBuilder          |       6 | Random Prompt Builder LLM for ComfyUI                                                                                                                            |
+| ethicals7s/awesome-local-ai                  |       6 | 152 open-source tools to run LLMs 100% locally – no cloud, no API keys, no censorship                                                                            |
+| matte1782/binary_semantic_cache              |       6 | High‑performance semantic cache for LLMs with a Rust core, 256‑bit binary embeddings, ~10 ms index load at 1M entries, and native OpenAI/Ollama integration.     |
+| TakatoHonda/sui-lang                         |       5 | 粋 (Sui) - A programming language optimized for LLM code generation                                                                                               |
+| rohandaxini/llm-basics-for-beginners         |       5 | Beginner-friendly guide to Transformer LLMs: from text tokenization through attention to predictions.                                                            |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -231,28 +233,28 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Don't push AI down our throats](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats) — 381 points
-- [The Thinking Game Film – Google DeepMind documentary](https://thinkinggamefilm.com) — 167 points
-- [Tell HN: It's now impossible to disable all AI features in Firefox 145 (latest)](https://news.ycombinator.com/item?id=46095873) — 51 points
-- [I Tested the M5 iPad Pro's Neural-Accelerated AI, and the Hype Is Real](https://www.macstories.net/stories/ipad-pro-m5-neural-benchmarks-mlx/) — 21 points
-- [Did Nvidia Just Prove There Is No AI Bubble](https://www.planetearthandbeyond.co/p/did-nvidia-just-prove-there-is-no) — 18 points
-- [AI rendering of Roman war scenes from Trajan's Column](https://trajancolumn.com) — 15 points
+- [How elites could shape mass preferences as AI reduces persuasion costs](https://arxiv.org/abs/2512.04047) — 528 points
+- [Microsoft drops AI sales targets in half after salespeople miss their quotas](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/) — 386 points
+- [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai) — 147 points
+- [The Math Legend Who Just Left Academia–For an AI Startup Run by a 24-Year-Old](https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417) — 28 points
+- [Show HN: I analyzed 8k near-death experiences with AI and made them listenable](https://www.noeticmap.com/) — 22 points
+- [The Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) — 21 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE             |   CVSS | Summary                                           |
-|-----------------|--------|---------------------------------------------------|
-| MAL-2025-191156 |      0 | Malicious code in zuper-sdk (npm)                 |
-| MAL-2025-191155 |      0 | Malicious code in wenk (npm)                      |
-| MAL-2025-191438 |      0 | Malicious code in typeface-antonio-complete (npm) |
-| MAL-2025-191437 |      0 | Malicious code in ts-relay-cursor-paging (npm)    |
-| MAL-2025-191436 |      0 | Malicious code in toonfetch (npm)                 |
-| MAL-2025-191435 |      0 | Malicious code in tiptap-shadcn-vue (npm)         |
-| MAL-2025-191434 |      0 | Malicious code in test23112222-api (npm)          |
-| MAL-2025-191432 |      0 | Malicious code in tavily-module (npm)             |
-| MAL-2025-191439 |      0 | Malicious code in unadapter (npm)                 |
-| MAL-2025-191440 |      0 | Malicious code in unemail (npm)                   |
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| GHSA-wvj6-fjwf-f68m |      0 |           |
+| CVE-2025-11759      |      0 |           |
+| CVE-2025-12804      |      0 |           |
+| GHSA-h6h5-r757-667h |      0 |           |
+| GHSA-rf7x-r95c-4wf6 |      0 |           |
+| GHSA-vvm8-x223-29qp |      0 |           |
+| CVE-2025-13066      |      0 |           |
+| CVE-2025-27389      |      0 |           |
+| CVE-2025-66536      |      0 |           |
+| CVE-2025-66537      |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
