@@ -52,17 +52,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -175,6 +177,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design](https://arxiv.org/abs/2512.03762) — arXiv:2512.03762v2 Announce Type: new  Abstract: Automatic Heuristic Design (AHD) has gained traction as a promising solution for solving combinatorial optimiz…
 - [Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning](https://arxiv.org/abs/2512.03783) — arXiv:2512.03783v2 Announce Type: new  Abstract: Recent advances in Omni models have enabled unified multimodal perception and generation. However, most existi…
 - [A Hierarchical Tree-based approach for creating Configurable and Static Deep Research Agent (Static-DRA)](https://arxiv.org/abs/2512.03887) — arXiv:2512.03887v2 Announce Type: new  Abstract: The advancement in Large Language Models has driven the creation of complex agentic systems, such as Deep Rese…
+
+_Showing cached data from 2025-12-05T05:34:18Z. Refresh failed: no arXiv entries retrieved._
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -206,24 +210,24 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 |----------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | aeitroc/claude-select                        |      86 | A unified launcher for Claude Code that lets you interactively choose which LLM backend to use.                                                                  |
 | maruhan12-max/AI-Compliance-Failure-Patterns |      63 | 지시 불이행(Instruction Non-Compliance) 현상을 유발하는 프롬프트 패턴 11가지(A-K) - ChatGPT, Gemini 등 주요 LLM 모델들의 취약성 및 정책 충돌 대응 방식을 비교 분석 프로젝트                                      |
-| m-sec-org/ez-xbow-platform-mcp               |      57 | 一个用于 AI 驱动的渗透测试竞赛的**模型上下文协议 (MCP)** 服务器。该工 具提供了一个完整的 API 接口，使 LLM 能够自主参与 CTF 挑战。                                                                                 |
-| NullStarrySky/Pulsar                         |      40 | 现代化，模块化，强大的LLM对话前端                                                                                                                                               |
-| broalantaps/Awesome-Context-Compression-LLMs |      32 | 🚀 A curated list of awesome resources focusing on Context Compression techniques for Large Language Models(LLMs).                                                |
-| ZJU-LLMs/Agent-Kernel                        |      27 | A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs                                                                       |
+| m-sec-org/ez-xbow-platform-mcp               |      58 | 一个用于 AI 驱动的渗透测试竞赛的**模型上下文协议 (MCP)** 服务器。该工 具提供了一个完整的 API 接口，使 LLM 能够自主参与 CTF 挑战。                                                                                 |
+| TakatoHonda/sui-lang                         |      57 | 粋 (Sui) - A programming language optimized for LLM code generation                                                                                               |
+| NullStarrySky/Pulsar                         |      45 | 现代化，模块化，强大的LLM对话前端                                                                                                                                               |
+| broalantaps/Awesome-Context-Compression-LLMs |      33 | 🚀 A curated list of awesome resources focusing on Context Compression techniques for Large Language Models(LLMs).                                                |
+| ZJU-LLMs/Agent-Kernel                        |      28 | A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs                                                                       |
 | WhiskeyCoder/HomeLab-Log-Analyzer            |      18 | A fully-local, fully-automated system that turns your chaotic Docker logs into clean, structured, actionable intelligence, every night, powered by your own loc… |
-| JhCircle/Kardia-R1                           |      16 | Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning                           |
-| lern-to-write/STC                            |      15 | Accelerating Streaming Video Large Language Models via Hierarchical Token Compression                                                                            |
+| JhCircle/Kardia-R1                           |      17 | Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning                           |
+| lern-to-write/STC                            |      16 | Accelerating Streaming Video Large Language Models via Hierarchical Token Compression                                                                            |
 | wisent-ai/uncensorbench                      |      15 | A benchmark for measuring LLM censorship removal effectiveness                                                                                                   |
 | facebookresearch/prompt-siren                |      14 | A research workbench for developing and testing attacks against large language models, with a focus on prompt injection vulnerabilities and defenses.            |
-| STAR-173/LLMSession-Docker                   |      11 | A unified REST API that wraps web-based LLM sessions (ChatGPT, Claude, Google AI Studio) into a standard interface using headless automation. Access your web-t… |
+| STAR-173/LLMSession-Docker                   |      12 | A unified REST API that wraps web-based LLM sessions (ChatGPT, Claude, Google AI Studio) into a standard interface using headless automation. Access your web-t… |
 | ibrahim-ansari-code/LLM-Council-IDE          |      11 | Drawing inspiration from Andrej Karpathy's LLM Council, this is an implementation for coding. LLMs evaluate each other and generate the best result rather than… |
-| Ge-limin/ai-native-engineering-manifesto     |       9 | A manifesto and playbook for AI-native software engineering in the LLM era / AI-Native的软件工程宣言                                                                    |
+| Ge-limin/ai-native-engineering-manifesto     |      10 | A manifesto and playbook for AI-native software engineering in the LLM era / AI-Native的软件工程宣言                                                                    |
+| ML-GSAI/ESPO                                 |       9 | Official PyTorch implementation for "Principled RL for Diffusion LLMs Emerges from a Sequence-Level Perspective"                                                 |
+| hannahjan06/MultiBrain-AI                    |       7 | MultiBrain AI is an automated meeting assistant that transcribes audio with Whisper, generates structured notes using an LLM, and automatically creates tasks,…  |
 | Mohamedsaleh14/ContextGit                    |       6 | Context and requirement Management tool for CLI LLM tools                                                                                                        |
 | btitkin/ComfyUI-RandomPromptBuilder          |       6 | Random Prompt Builder LLM for ComfyUI                                                                                                                            |
 | ethicals7s/awesome-local-ai                  |       6 | 152 open-source tools to run LLMs 100% locally – no cloud, no API keys, no censorship                                                                            |
-| matte1782/binary_semantic_cache              |       6 | High‑performance semantic cache for LLMs with a Rust core, 256‑bit binary embeddings, ~10 ms index load at 1M entries, and native OpenAI/Ollama integration.     |
-| TakatoHonda/sui-lang                         |       5 | 粋 (Sui) - A programming language optimized for LLM code generation                                                                                               |
-| rohandaxini/llm-basics-for-beginners         |       5 | Beginner-friendly guide to Transformer LLMs: from text tokenization through attention to predictions.                                                            |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -233,28 +237,30 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [How elites could shape mass preferences as AI reduces persuasion costs](https://arxiv.org/abs/2512.04047) — 528 points
-- [Microsoft drops AI sales targets in half after salespeople miss their quotas](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/) — 386 points
-- [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai) — 147 points
-- [The Math Legend Who Just Left Academia–For an AI Startup Run by a 24-Year-Old](https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417) — 28 points
-- [Show HN: I analyzed 8k near-death experiences with AI and made them listenable](https://www.noeticmap.com/) — 22 points
-- [The Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) — 21 points
+- [Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/) — 394 points
+- [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg) — 191 points
+- [Jony Ive's OpenAI Device Barred From Using 'io' Name](https://www.macrumors.com/2025/12/05/openai-device-barred-from-io-name/) — 81 points
+- [Wall Street races to protect itself from AI bubble](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/) — 67 points
+- [AI led to an increase in radiologists, not a decrease](https://www.ft.com/content/f2e03bd9-af67-45c4-8e1e-79978b5bc48f) — 12 points
+- [Show HN: Sloppylint – A linter for AI-generated Python code](https://github.com/rsionnach/sloppylint) — 9 points
+- [How I keep up with AI-generated PRs](https://www.raf.xyz/blog/03-how-i-keep-up-with-ai-generated-prs) — 6 points
+- [The "Agentic AI" Trade Is Stalling](https://riskparody.substack.com/p/the-agentic-ai-trade-is-stalling) — 5 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
 | CVE                 |   CVSS | Summary   |
 |---------------------|--------|-----------|
-| GHSA-wvj6-fjwf-f68m |      0 |           |
-| CVE-2025-11759      |      0 |           |
-| CVE-2025-12804      |      0 |           |
-| GHSA-h6h5-r757-667h |      0 |           |
-| GHSA-rf7x-r95c-4wf6 |      0 |           |
-| GHSA-vvm8-x223-29qp |      0 |           |
-| CVE-2025-13066      |      0 |           |
-| CVE-2025-27389      |      0 |           |
-| CVE-2025-66536      |      0 |           |
-| CVE-2025-66537      |      0 |           |
+| CVE-2024-32959      |      0 |           |
+| GHSA-8cr7-x5g8-m3f3 |      0 |           |
+| GHSA-vgjg-5wh9-2grq |      0 |           |
+| CVE-2025-23367      |      0 |           |
+| GHSA-q469-433j-8xc2 |      0 |           |
+| CVE-2025-54236      |      0 |           |
+| CVE-2025-59820      |      0 |           |
+| GHSA-r8j3-whr2-75m5 |      0 |           |
+| CVE-2025-65844      |      0 |           |
+| CVE-2025-55182      |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

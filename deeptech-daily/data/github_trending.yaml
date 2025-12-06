@@ -1,6 +1,6 @@
-fetched_at: '2025-12-05T05:34:18Z'
-generated_at: '2025-12-05T05:34:18Z'
-hash: 0b6ef083a0fbee3dc78e3500b3cb09dc088225d9cc34ab9d4643f0a73ddabd85
+fetched_at: '2025-12-06T05:32:09Z'
+generated_at: '2025-12-06T05:32:09Z'
+hash: 027abc6101800b4df7bfee8269210adcb1e8b3d57e8b49733d1a32b47a976c4b
 items:
 - created_at: '2025-12-01T20:25:39Z'
   description: A unified launcher for Claude Code that lets you interactively choose
@@ -19,24 +19,29 @@ items:
     CTF 挑战。
   full_name: m-sec-org/ez-xbow-platform-mcp
   html_url: https://github.com/m-sec-org/ez-xbow-platform-mcp
+  stargazers_count: 58
+- created_at: '2025-12-04T07:07:38Z'
+  description: 粋 (Sui) - A programming language optimized for LLM code generation
+  full_name: TakatoHonda/sui-lang
+  html_url: https://github.com/TakatoHonda/sui-lang
   stargazers_count: 57
 - created_at: '2025-11-30T15:57:38Z'
   description: 现代化，模块化，强大的LLM对话前端
   full_name: NullStarrySky/Pulsar
   html_url: https://github.com/NullStarrySky/Pulsar
-  stargazers_count: 40
+  stargazers_count: 45
 - created_at: '2025-12-01T16:03:33Z'
   description: 🚀 A curated list of awesome resources focusing on Context Compression
     techniques for Large Language Models(LLMs).
   full_name: broalantaps/Awesome-Context-Compression-LLMs
   html_url: https://github.com/broalantaps/Awesome-Context-Compression-LLMs
-  stargazers_count: 32
+  stargazers_count: 33
 - created_at: '2025-11-30T03:08:20Z'
   description: A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation
     Powered by LLMs
   full_name: ZJU-LLMs/Agent-Kernel
   html_url: https://github.com/ZJU-LLMs/Agent-Kernel
-  stargazers_count: 27
+  stargazers_count: 28
 - created_at: '2025-11-30T03:15:55Z'
   description: A fully-local, fully-automated system that turns your chaotic Docker
     logs into clean, structured, actionable intelligence, every night, powered by
@@ -49,13 +54,13 @@ items:
     for Emotional Support via Rubric-as-Judge Reinforcement Learning'
   full_name: JhCircle/Kardia-R1
   html_url: https://github.com/JhCircle/Kardia-R1
-  stargazers_count: 16
+  stargazers_count: 17
 - created_at: '2025-11-30T13:15:39Z'
   description: Accelerating Streaming Video Large Language Models via Hierarchical
     Token Compression
   full_name: lern-to-write/STC
   html_url: https://github.com/lern-to-write/STC
-  stargazers_count: 15
+  stargazers_count: 16
 - created_at: '2025-11-30T23:12:56Z'
   description: A benchmark for measuring LLM censorship removal effectiveness
   full_name: wisent-ai/uncensorbench
@@ -73,7 +78,7 @@ items:
     your web-t…
   full_name: STAR-173/LLMSession-Docker
   html_url: https://github.com/STAR-173/LLMSession-Docker
-  stargazers_count: 11
+  stargazers_count: 12
 - created_at: '2025-11-30T22:41:35Z'
   description: Drawing inspiration from Andrej Karpathy's LLM Council, this is an
     implementation for coding. LLMs evaluate each other and generate the best result
@@ -86,7 +91,20 @@ items:
     LLM era / AI-Native的软件工程宣言
   full_name: Ge-limin/ai-native-engineering-manifesto
   html_url: https://github.com/Ge-limin/ai-native-engineering-manifesto
+  stargazers_count: 10
+- created_at: '2025-12-01T04:02:48Z'
+  description: Official PyTorch implementation for "Principled RL for Diffusion LLMs
+    Emerges from a Sequence-Level Perspective"
+  full_name: ML-GSAI/ESPO
+  html_url: https://github.com/ML-GSAI/ESPO
   stargazers_count: 9
+- created_at: '2025-12-04T07:25:38Z'
+  description: MultiBrain AI is an automated meeting assistant that transcribes audio
+    with Whisper, generates structured notes using an LLM, and automatically creates
+    tasks,…
+  full_name: hannahjan06/MultiBrain-AI
+  html_url: https://github.com/hannahjan06/MultiBrain-AI
+  stargazers_count: 7
 - created_at: '2025-12-02T19:34:54Z'
   description: Context and requirement Management tool for CLI LLM tools
   full_name: Mohamedsaleh14/ContextGit
@@ -103,21 +121,4 @@ items:
   full_name: ethicals7s/awesome-local-ai
   html_url: https://github.com/ethicals7s/awesome-local-ai
   stargazers_count: 6
-- created_at: '2025-12-02T00:56:30Z'
-  description: High‑performance semantic cache for LLMs with a Rust core, 256‑bit
-    binary embeddings, ~10 ms index load at 1M entries, and native OpenAI/Ollama integration.
-  full_name: matte1782/binary_semantic_cache
-  html_url: https://github.com/matte1782/binary_semantic_cache
-  stargazers_count: 6
-- created_at: '2025-12-04T07:07:38Z'
-  description: 粋 (Sui) - A programming language optimized for LLM code generation
-  full_name: TakatoHonda/sui-lang
-  html_url: https://github.com/TakatoHonda/sui-lang
-  stargazers_count: 5
-- created_at: '2025-12-01T14:58:17Z'
-  description: 'Beginner-friendly guide to Transformer LLMs: from text tokenization
-    through attention to predictions.'
-  full_name: rohandaxini/llm-basics-for-beginners
-  html_url: https://github.com/rohandaxini/llm-basics-for-beginners
-  stargazers_count: 5
 source_url: https://api.github.com/search/repositories

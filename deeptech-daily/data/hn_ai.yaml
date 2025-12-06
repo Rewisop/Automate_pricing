@@ -1,35 +1,45 @@
-fetched_at: '2025-12-05T05:34:18Z'
-generated_at: '2025-12-05T05:34:18Z'
-hash: a915818dcfe34ad96e14ec71bf1e439fc71d2eb631a0bb760f2236e944fba021
+fetched_at: '2025-12-06T05:32:09Z'
+generated_at: '2025-12-06T05:32:09Z'
+hash: 03866ee2f8a1225a512b7601a4e9420a28b5f4c00547627c41f884f8dce9e2ee
 items:
-- id: 46145180
-  score: 528
-  time: '2025-12-04T08:38:17Z'
-  title: How elites could shape mass preferences as AI reduces persuasion costs
-  url: https://arxiv.org/abs/2512.04047
-- id: 46148748
-  score: 386
-  time: '2025-12-04T15:31:52Z'
-  title: Microsoft drops AI sales targets in half after salespeople miss their quotas
-  url: https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/
-- id: 46154022
-  score: 147
-  time: '2025-12-04T22:26:43Z'
-  title: 'State of AI: An Empirical 100T Token Study with OpenRouter'
-  url: https://openrouter.ai/state-of-ai
-- id: 46148686
-  score: 28
-  time: '2025-12-04T15:26:29Z'
-  title: The Math Legend Who Just Left Academia–For an AI Startup Run by a 24-Year-Old
-  url: https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417
-- id: 46147989
-  score: 22
-  time: '2025-12-04T14:25:51Z'
-  title: 'Show HN: I analyzed 8k near-death experiences with AI and made them listenable'
-  url: https://www.noeticmap.com/
-- id: 46155959
-  score: 21
-  time: '2025-12-05T01:52:12Z'
-  title: The Disappearance of an Anti-AI Activist
-  url: https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/
+- id: 46163308
+  score: 394
+  time: '2025-12-05T16:15:10Z'
+  title: 'Gemini 3 Pro: the frontier of vision AI'
+  url: https://blog.google/technology/developers/gemini-3-pro-vision/
+- id: 46169554
+  score: 191
+  time: '2025-12-06T01:15:48Z'
+  title: YouTube caught making AI-edits to videos and adding misleading AI summaries
+  url: https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg
+- id: 46163804
+  score: 81
+  time: '2025-12-05T16:48:44Z'
+  title: Jony Ive's OpenAI Device Barred From Using 'io' Name
+  url: https://www.macrumors.com/2025/12/05/openai-device-barred-from-io-name/
+- id: 46165122
+  score: 67
+  time: '2025-12-05T18:21:43Z'
+  title: Wall Street races to protect itself from AI bubble
+  url: https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/
+- id: 46166623
+  score: 12
+  time: '2025-12-05T20:10:57Z'
+  title: AI led to an increase in radiologists, not a decrease
+  url: https://www.ft.com/content/f2e03bd9-af67-45c4-8e1e-79978b5bc48f
+- id: 46167703
+  score: 9
+  time: '2025-12-05T21:36:42Z'
+  title: 'Show HN: Sloppylint – A linter for AI-generated Python code'
+  url: https://github.com/rsionnach/sloppylint
+- id: 46168091
+  score: 6
+  time: '2025-12-05T22:15:20Z'
+  title: How I keep up with AI-generated PRs
+  url: https://www.raf.xyz/blog/03-how-i-keep-up-with-ai-generated-prs
+- id: 46168694
+  score: 5
+  time: '2025-12-05T23:18:31Z'
+  title: The "Agentic AI" Trade Is Stalling
+  url: https://riskparody.substack.com/p/the-agentic-ai-trade-is-stalling
 source_url: https://hacker-news.firebaseio.com/
