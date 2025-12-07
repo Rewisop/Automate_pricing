@@ -53,17 +53,19 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
 **Today:** `0.0`  |  **7d:** `n/a`  |  **30d:** `n/a`  
 
-`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
+`▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁`
 
 **Cheapest now:** **unknown** at `$0.000/hr` via **unknown**.
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -208,26 +210,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                   |   Stars | Description                                                                                                                                                      |
 |----------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TakatoHonda/sui-lang                         |      87 | 粋 (Sui) - A programming language optimized for LLM code generation                                                                                               |
 | aeitroc/claude-select                        |      86 | A unified launcher for Claude Code that lets you interactively choose which LLM backend to use.                                                                  |
-| maruhan12-max/AI-Compliance-Failure-Patterns |      63 | 지시 불이행(Instruction Non-Compliance) 현상을 유발하는 프롬프트 패턴 11가지(A-K) - ChatGPT, Gemini 등 주요 LLM 모델들의 취약성 및 정책 충돌 대응 방식을 비교 분석 프로젝트                                      |
 | m-sec-org/ez-xbow-platform-mcp               |      58 | 一个用于 AI 驱动的渗透测试竞赛的**模型上下文协议 (MCP)** 服务器。该工 具提供了一个完整的 API 接口，使 LLM 能够自主参与 CTF 挑战。                                                                                 |
-| TakatoHonda/sui-lang                         |      57 | 粋 (Sui) - A programming language optimized for LLM code generation                                                                                               |
-| NullStarrySky/Pulsar                         |      45 | 现代化，模块化，强大的LLM对话前端                                                                                                                                               |
 | broalantaps/Awesome-Context-Compression-LLMs |      33 | 🚀 A curated list of awesome resources focusing on Context Compression techniques for Large Language Models(LLMs).                                                |
-| ZJU-LLMs/Agent-Kernel                        |      28 | A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs                                                                       |
-| WhiskeyCoder/HomeLab-Log-Analyzer            |      18 | A fully-local, fully-automated system that turns your chaotic Docker logs into clean, structured, actionable intelligence, every night, powered by your own loc… |
-| JhCircle/Kardia-R1                           |      17 | Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning                           |
-| lern-to-write/STC                            |      16 | Accelerating Streaming Video Large Language Models via Hierarchical Token Compression                                                                            |
-| wisent-ai/uncensorbench                      |      15 | A benchmark for measuring LLM censorship removal effectiveness                                                                                                   |
-| facebookresearch/prompt-siren                |      14 | A research workbench for developing and testing attacks against large language models, with a focus on prompt injection vulnerabilities and defenses.            |
+| facebookresearch/prompt-siren                |      15 | A research workbench for developing and testing attacks against large language models, with a focus on prompt injection vulnerabilities and defenses.            |
+| Glitch-Jar/LLM-EYES                          |      13 | Give LLMs eyes, then benchmark what they see                                                                                                                     |
 | STAR-173/LLMSession-Docker                   |      12 | A unified REST API that wraps web-based LLM sessions (ChatGPT, Claude, Google AI Studio) into a standard interface using headless automation. Access your web-t… |
-| ibrahim-ansari-code/LLM-Council-IDE          |      11 | Drawing inspiration from Andrej Karpathy's LLM Council, this is an implementation for coding. LLMs evaluate each other and generate the best result rather than… |
 | Ge-limin/ai-native-engineering-manifesto     |      10 | A manifesto and playbook for AI-native software engineering in the LLM era / AI-Native的软件工程宣言                                                                    |
 | ML-GSAI/ESPO                                 |       9 | Official PyTorch implementation for "Principled RL for Diffusion LLMs Emerges from a Sequence-Level Perspective"                                                 |
 | hannahjan06/MultiBrain-AI                    |       7 | MultiBrain AI is an automated meeting assistant that transcribes audio with Whisper, generates structured notes using an LLM, and automatically creates tasks,…  |
 | Mohamedsaleh14/ContextGit                    |       6 | Context and requirement Management tool for CLI LLM tools                                                                                                        |
+| Runtime-Exception/lmprobe                    |       6 | Probe multiple LLM API endpoints to detect available models, then serve them through a unified local API supporting both OpenAI and Anthropic Claude formats.    |
 | btitkin/ComfyUI-RandomPromptBuilder          |       6 | Random Prompt Builder LLM for ComfyUI                                                                                                                            |
-| ethicals7s/awesome-local-ai                  |       6 | 152 open-source tools to run LLMs 100% locally – no cloud, no API keys, no censorship                                                                            |
+| dangehub/obsidian-translay-translator        |       6 | 调用你喜欢的AI（LLM）翻译Obsidian中的任何文本，支持词典导入导出                                                                                                                           |
+| devopsdymyr/Evo-Memory                       |       6 | Implementation of Evo-Memory style learning for LLM agents. Agents learn from outcomes, refine strategies, and get smarter with every task.  🚀 Features:  Exper… |
+| eliteresearchlab/BRAINS                      |       6 | BRAINS is a production-ready, multi-agent medical diagnostic platform powered by Retrieval-Augmented Generation (RAG) and LLM inference. It combines a Next.js…  |
+| matte1782/binary_semantic_cache              |       6 | High‑performance semantic cache for LLMs with a Rust core, 256‑bit binary embeddings, ~10 ms index load at 1M entries, and native OpenAI/Ollama integration.     |
+| guhatek/llm-observability                    |       5 | A collection of demos and documentation for end-to-end LLM observability. Track, evaluate, and debug large language models with confidence.                      |
+| hparreao/Awesome-AI-Evaluation-Guide         |       5 | A comprehensive, implementation-focused guide to evaluating Large Language Models, RAG systems, and Agentic AI in production environments.                       |
+| pavan-ahire/INTERNSHIP-TASKS                 |       5 | Internship tasks and projects completed during the Data Science with GenAI program at Innomatics Research Labs, covering Python, EDA, MLOps, Generative AI, and… |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -237,30 +239,24 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/) — 394 points
-- [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg) — 191 points
-- [Jony Ive's OpenAI Device Barred From Using 'io' Name](https://www.macrumors.com/2025/12/05/openai-device-barred-from-io-name/) — 81 points
-- [Wall Street races to protect itself from AI bubble](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/) — 67 points
-- [AI led to an increase in radiologists, not a decrease](https://www.ft.com/content/f2e03bd9-af67-45c4-8e1e-79978b5bc48f) — 12 points
-- [Show HN: Sloppylint – A linter for AI-generated Python code](https://github.com/rsionnach/sloppylint) — 9 points
-- [How I keep up with AI-generated PRs](https://www.raf.xyz/blog/03-how-i-keep-up-with-ai-generated-prs) — 6 points
-- [The "Agentic AI" Trade Is Stalling](https://riskparody.substack.com/p/the-agentic-ai-trade-is-stalling) — 5 points
+- [The Reverse Centaur's Guide to Criticizing AI](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington) — 20 points
+- [OpenAI loses fight to keep ChatGPT logs secret in copyright case](https://www.reuters.com/legal/government/openai-loses-fight-keep-chatgpt-logs-secret-copyright-case-2025-12-03/) — 9 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
 | CVE                 |   CVSS | Summary   |
 |---------------------|--------|-----------|
-| CVE-2024-32959      |      0 |           |
-| GHSA-8cr7-x5g8-m3f3 |      0 |           |
-| GHSA-vgjg-5wh9-2grq |      0 |           |
-| CVE-2025-23367      |      0 |           |
-| GHSA-q469-433j-8xc2 |      0 |           |
 | CVE-2025-54236      |      0 |           |
-| CVE-2025-59820      |      0 |           |
-| GHSA-r8j3-whr2-75m5 |      0 |           |
-| CVE-2025-65844      |      0 |           |
-| CVE-2025-55182      |      0 |           |
+| GHSA-wf68-85vc-c49w |      0 |           |
+| GHSA-g3xr-84mj-fvx6 |      0 |           |
+| GHSA-gvxj-xj5w-j8qf |      0 |           |
+| GHSA-j29x-hm96-8wj9 |      0 |           |
+| GHSA-j4rg-4m7w-4hr3 |      0 |           |
+| GHSA-p354-hgpr-gp36 |      0 |           |
+| GHSA-q4wq-g3wm-gmfc |      0 |           |
+| GHSA-r3v3-c3jq-3938 |      0 |           |
+| GHSA-cvhf-p6qw-wm2q |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
