@@ -1,60 +1,65 @@
-fetched_at: '2025-12-07T05:30:57Z'
-generated_at: '2025-12-07T05:30:57Z'
-hash: c5b39a30b2e2984ee7901fd06e879289d5c2fc320c1483e402b145de87d91f11
+fetched_at: '2025-12-08T05:36:11Z'
+generated_at: '2025-12-08T05:36:11Z'
+hash: 3eb846ebb72a58e755a8564c227382ecb45eb02807e20e661349f87b8e34c3ce
 items:
+- created_at: '2025-12-04T06:02:24Z'
+  description: DeNA社内で実施したLLM勉強会の資料とソースコード
+  full_name: DeNA/llm-study20251201
+  html_url: https://github.com/DeNA/llm-study20251201
+  stargazers_count: 158
 - created_at: '2025-12-04T07:07:38Z'
   description: 粋 (Sui) - A programming language optimized for LLM code generation
   full_name: TakatoHonda/sui-lang
   html_url: https://github.com/TakatoHonda/sui-lang
-  stargazers_count: 87
-- created_at: '2025-12-01T20:25:39Z'
-  description: A unified launcher for Claude Code that lets you interactively choose
-    which LLM backend to use.
-  full_name: aeitroc/claude-select
-  html_url: https://github.com/aeitroc/claude-select
-  stargazers_count: 86
+  stargazers_count: 145
 - created_at: '2025-12-03T04:51:26Z'
   description: 一个用于 AI 驱动的渗透测试竞赛的**模型上下文协议 (MCP)** 服务器。该工 具提供了一个完整的 API 接口，使 LLM 能够自主参与
     CTF 挑战。
   full_name: m-sec-org/ez-xbow-platform-mcp
   html_url: https://github.com/m-sec-org/ez-xbow-platform-mcp
-  stargazers_count: 58
-- created_at: '2025-12-01T16:03:33Z'
-  description: 🚀 A curated list of awesome resources focusing on Context Compression
-    techniques for Large Language Models(LLMs).
-  full_name: broalantaps/Awesome-Context-Compression-LLMs
-  html_url: https://github.com/broalantaps/Awesome-Context-Compression-LLMs
-  stargazers_count: 33
-- created_at: '2025-12-01T18:51:48Z'
-  description: A research workbench for developing and testing attacks against large
-    language models, with a focus on prompt injection vulnerabilities and defenses.
-  full_name: facebookresearch/prompt-siren
-  html_url: https://github.com/facebookresearch/prompt-siren
-  stargazers_count: 15
+  stargazers_count: 59
+- created_at: '2025-12-07T14:06:31Z'
+  description: Wuhe Design presents the Krita × Ollama Prompt Generator — a local
+    LLM-powered plugin for generating, refining, and sending prompts directly into
+    the krita-ai-…
+  full_name: yen-shi-lun/Krita-Ollama-Prompt-Generator
+  html_url: https://github.com/yen-shi-lun/Krita-Ollama-Prompt-Generator
+  stargazers_count: 19
+- created_at: '2025-12-07T02:42:40Z'
+  description: The Swift Concurrency Migration Guide, packaged as a Skill for LLMs.
+  full_name: kylehughes/the-unofficial-swift-concurrency-migration-skill
+  html_url: https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill
+  stargazers_count: 18
 - created_at: '2025-12-05T18:04:47Z'
   description: Give LLMs eyes, then benchmark what they see
   full_name: Glitch-Jar/LLM-EYES
   html_url: https://github.com/Glitch-Jar/LLM-EYES
-  stargazers_count: 13
-- created_at: '2025-12-01T00:33:53Z'
-  description: A unified REST API that wraps web-based LLM sessions (ChatGPT, Claude,
-    Google AI Studio) into a standard interface using headless automation. Access
-    your web-t…
-  full_name: STAR-173/LLMSession-Docker
-  html_url: https://github.com/STAR-173/LLMSession-Docker
-  stargazers_count: 12
-- created_at: '2025-12-01T14:09:19Z'
-  description: A manifesto and playbook for AI-native software engineering in the
-    LLM era / AI-Native的软件工程宣言
-  full_name: Ge-limin/ai-native-engineering-manifesto
-  html_url: https://github.com/Ge-limin/ai-native-engineering-manifesto
+  stargazers_count: 14
+- created_at: '2025-12-07T15:28:50Z'
+  description: 'LLM-optimized GitHub CLI extension for PR reviews: view reviews and
+    threads, reply and resolve, and submit reviews.'
+  full_name: agynio/gh-pr-review
+  html_url: https://github.com/agynio/gh-pr-review
   stargazers_count: 10
-- created_at: '2025-12-01T04:02:48Z'
-  description: Official PyTorch implementation for "Principled RL for Diffusion LLMs
-    Emerges from a Sequence-Level Perspective"
-  full_name: ML-GSAI/ESPO
-  html_url: https://github.com/ML-GSAI/ESPO
-  stargazers_count: 9
+- created_at: '2025-12-03T18:16:02Z'
+  description: 'Implementation of Evo-Memory style learning for LLM agents. Agents
+    learn from outcomes, refine strategies, and get smarter with every task.  🚀 Features:  Exper…'
+  full_name: devopsdymyr/Evo-Memory
+  html_url: https://github.com/devopsdymyr/Evo-Memory
+  stargazers_count: 8
+- created_at: '2025-12-07T02:45:49Z'
+  description: Probe multiple LLM API endpoints to detect available models, then serve
+    them through a unified local API supporting both OpenAI and Anthropic Claude formats.
+  full_name: Runtime-Exception/lmprobe
+  html_url: https://github.com/Runtime-Exception/lmprobe
+  stargazers_count: 7
+- created_at: '2025-12-06T20:27:31Z'
+  description: BRAINS is a production-ready, multi-agent medical diagnostic platform
+    powered by Retrieval-Augmented Generation (RAG) and LLM inference. It combines
+    a Next.js…
+  full_name: eliteresearchlab/BRAINS
+  html_url: https://github.com/eliteresearchlab/BRAINS
+  stargazers_count: 7
 - created_at: '2025-12-04T07:25:38Z'
   description: MultiBrain AI is an automated meeting assistant that transcribes audio
     with Whisper, generates structured notes using an LLM, and automatically creates
@@ -67,34 +72,22 @@ items:
   full_name: Mohamedsaleh14/ContextGit
   html_url: https://github.com/Mohamedsaleh14/ContextGit
   stargazers_count: 6
-- created_at: '2025-12-07T02:45:49Z'
-  description: Probe multiple LLM API endpoints to detect available models, then serve
-    them through a unified local API supporting both OpenAI and Anthropic Claude formats.
-  full_name: Runtime-Exception/lmprobe
-  html_url: https://github.com/Runtime-Exception/lmprobe
-  stargazers_count: 6
 - created_at: '2025-12-03T08:24:42Z'
   description: Random Prompt Builder LLM for ComfyUI
   full_name: btitkin/ComfyUI-RandomPromptBuilder
   html_url: https://github.com/btitkin/ComfyUI-RandomPromptBuilder
   stargazers_count: 6
+- created_at: '2025-12-03T08:41:03Z'
+  description: ⚡ Cut LLM inference costs 80% with Programmatic Tool Calling. Instead
+    of N tool call round-trips, generate JavaScript to orchestrate tools in Vercel
+    Sandbox. S…
+  full_name: cameronking4/programmatic-tool-calling-ai-sdk
+  html_url: https://github.com/cameronking4/programmatic-tool-calling-ai-sdk
+  stargazers_count: 6
 - created_at: '2025-12-04T04:03:50Z'
   description: 调用你喜欢的AI（LLM）翻译Obsidian中的任何文本，支持词典导入导出
   full_name: dangehub/obsidian-translay-translator
   html_url: https://github.com/dangehub/obsidian-translay-translator
-  stargazers_count: 6
-- created_at: '2025-12-03T18:16:02Z'
-  description: 'Implementation of Evo-Memory style learning for LLM agents. Agents
-    learn from outcomes, refine strategies, and get smarter with every task.  🚀 Features:  Exper…'
-  full_name: devopsdymyr/Evo-Memory
-  html_url: https://github.com/devopsdymyr/Evo-Memory
-  stargazers_count: 6
-- created_at: '2025-12-06T20:27:31Z'
-  description: BRAINS is a production-ready, multi-agent medical diagnostic platform
-    powered by Retrieval-Augmented Generation (RAG) and LLM inference. It combines
-    a Next.js…
-  full_name: eliteresearchlab/BRAINS
-  html_url: https://github.com/eliteresearchlab/BRAINS
   stargazers_count: 6
 - created_at: '2025-12-02T00:56:30Z'
   description: High‑performance semantic cache for LLMs with a Rust core, 256‑bit
@@ -102,6 +95,17 @@ items:
   full_name: matte1782/binary_semantic_cache
   html_url: https://github.com/matte1782/binary_semantic_cache
   stargazers_count: 6
+- created_at: '2025-12-07T00:18:02Z'
+  description: Native C++/Qt AI agent with tool use, multi-LLM support, and self-improving
+    tool selection using Tiny Recursive Models
+  full_name: waddadaa/gpagent
+  html_url: https://github.com/waddadaa/gpagent
+  stargazers_count: 6
+- created_at: '2025-12-05T17:19:34Z'
+  description: This Is official documentation of Strike GenAI
+  full_name: Rohitnegi9/STRIKEGenAI
+  html_url: https://github.com/Rohitnegi9/STRIKEGenAI
+  stargazers_count: 5
 - created_at: '2025-12-04T06:28:50Z'
   description: A collection of demos and documentation for end-to-end LLM observability.
     Track, evaluate, and debug large language models with confidence.
@@ -113,12 +117,5 @@ items:
     Models, RAG systems, and Agentic AI in production environments.
   full_name: hparreao/Awesome-AI-Evaluation-Guide
   html_url: https://github.com/hparreao/Awesome-AI-Evaluation-Guide
-  stargazers_count: 5
-- created_at: '2025-12-04T09:38:22Z'
-  description: Internship tasks and projects completed during the Data Science with
-    GenAI program at Innomatics Research Labs, covering Python, EDA, MLOps, Generative
-    AI, and…
-  full_name: pavan-ahire/INTERNSHIP-TASKS
-  html_url: https://github.com/pavan-ahire/INTERNSHIP-TASKS
   stargazers_count: 5
 source_url: https://api.github.com/search/repositories

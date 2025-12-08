@@ -1,116 +1,120 @@
-fetched_at: '2025-12-05T05:34:18Z'
-generated_at: '2025-12-05T05:34:18Z'
-hash: 4172185625bf96567cb8c981ba97a3dedec5b850c6fdbfcc42c3c1ae26d7583d
+fetched_at: '2025-12-08T05:36:11Z'
+generated_at: '2025-12-08T05:36:11Z'
+hash: 775689d77de3d266741d6455b79aff1d4cb23ae8ee359802ad1c09f89c1caa18
 items:
-- id: oai:arXiv.org:2512.03048v1
-  link: https://arxiv.org/abs/2512.03048
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03048v1 Announce Type: new  Abstract: I argue that AI alignment
-    should be reconceived as architecting syntropic, reasons-responsive agents through
-    p…'
-  title: 'Exploring Syntropic Frameworks in AI Alignment: A Philosophical Investigation'
-- id: oai:arXiv.org:2512.03072v1
-  link: https://arxiv.org/abs/2512.03072
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03072v1 Announce Type: new  Abstract: Current AI paradigms,
-    as "architects of experience," face fundamental challenges in explainability and
-    value a…'
-  title: 'Beyond the Black Box: A Cognitive Architecture for Explainable and Aligned
-    AI'
-- id: oai:arXiv.org:2512.03272v1
-  link: https://arxiv.org/abs/2512.03272
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03272v1 Announce Type: new  Abstract: Large Reasoning Models
-    (LRMs) achieve strong performance on complex reasoning tasks by generating long
-    Chains…'
-  title: When Do Symbolic Solvers Enhance Reasoning in Large Language Models?
-- id: oai:arXiv.org:2512.03293v1
-  link: https://arxiv.org/abs/2512.03293
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03293v1 Announce Type: new  Abstract: Active inference proposes
-    expected free energy as an objective for planning and decision-making to adequately…'
-  title: 'Prior preferences in active inference agents: soft, hard, and goal shaping'
-- id: oai:arXiv.org:2512.03318v1
-  link: https://arxiv.org/abs/2512.03318
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03318v1 Announce Type: new  Abstract: Large Language Model
-    (LLM) agents have demonstrated impressive capabilities for social interaction
-    and are inc…'
-  title: Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive
-    Scenarios Using Concordia
-- id: oai:arXiv.org:2512.03438v1
-  link: https://arxiv.org/abs/2512.03438
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03438v1 Announce Type: new  Abstract: Agentic reasoning models
-    trained with multimodal reinforcement learning (MMRL) have become increasingly
-    capabl…'
-  title: Multimodal Reinforcement Learning with Agentic Verifier for AI Agents
-- id: oai:arXiv.org:2512.03528v1
-  link: https://arxiv.org/abs/2512.03528
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03528v1 Announce Type: new  Abstract: Communication is one
-    of the effective means to improve the learning of cooperative policy in multi-agent
-    syste…'
-  title: Multi-Agent Reinforcement Learning with Communication-Constrained Priors
-- id: oai:arXiv.org:2512.03549v1
-  link: https://arxiv.org/abs/2512.03549
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03549v1 Announce Type: new  Abstract: We introduce PARC, a
-    coding agent for the autonomous and robust execution of long-horizon computational
-    tasks.…'
-  title: 'PARC: An Autonomous Self-Reflective Coding Agent for Robust Execution of
-    Long-Horizon Tasks'
-- id: oai:arXiv.org:2512.03560v1
-  link: https://arxiv.org/abs/2512.03560
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03560v1 Announce Type: new  Abstract: Despite recent advances,
-    autonomous agents often struggle to solve complex tasks in enterprise domains
-    that re…'
-  title: 'Reason-Plan-ReAct: A Reasoner-Planner Supervising a ReAct Executor for Complex
-    Enterprise Tasks'
-- id: oai:arXiv.org:2512.03571v1
-  link: https://arxiv.org/abs/2512.03571
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03571v1 Announce Type: new  Abstract: We introduce a new approach
-    to agent programming, the development of LLM-based agents. Current approaches
-    to a…'
-  title: 'EnCompass: Enhancing Agent Programming with Search Over Program Execution
-    Paths'
-- id: oai:arXiv.org:2512.03607v1
-  link: https://arxiv.org/abs/2512.03607
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03607v1 Announce Type: new  Abstract: This paper proposes DeepRule,
-    an integrated framework for automated business rule generation in retail assortm…'
-  title: 'DeepRule: An Integrated Framework for Automated Business Rule Generation
-    via Deep Predictive Modeling and Hybrid Search Optimization'
-- id: oai:arXiv.org:2512.03627v1
-  link: https://arxiv.org/abs/2512.03627
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03627v1 Announce Type: new  Abstract: Despite rapid progress
-    in large-scale language and vision models, AI agents still suffer from a fundamental
-    li…'
-  title: 'MemVerse: Multimodal Memory for Lifelong Learning Agents'
-- id: oai:arXiv.org:2512.03762v2
-  link: https://arxiv.org/abs/2512.03762
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03762v2 Announce Type: new  Abstract: Automatic Heuristic Design
-    (AHD) has gained traction as a promising solution for solving combinatorial optimiz…'
-  title: 'RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design'
-- id: oai:arXiv.org:2512.03783v2
-  link: https://arxiv.org/abs/2512.03783
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03783v2 Announce Type: new  Abstract: Recent advances in Omni
-    models have enabled unified multimodal perception and generation. However, most
-    existi…'
-  title: 'Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning'
-- id: oai:arXiv.org:2512.03887v2
-  link: https://arxiv.org/abs/2512.03887
-  published: '2025-12-05T05:00:00Z'
-  summary: 'arXiv:2512.03887v2 Announce Type: new  Abstract: The advancement in Large
-    Language Models has driven the creation of complex agentic systems, such as Deep
-    Rese…'
-  title: A Hierarchical Tree-based approach for creating Configurable and Static Deep
-    Research Agent (Static-DRA)
+- id: oai:arXiv.org:2512.05122v1
+  link: https://arxiv.org/abs/2512.05122
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05122v1 Announce Type: new  Abstract: Small and medium-sized
+    enterprises (SMEs) still depend heavily on tacit, experience-based know-how that
+    rarely…'
+  title: 'Documenting SME Processes with Conversational AI: From Tacit Knowledge to
+    BPMN'
+- id: oai:arXiv.org:2512.05156v1
+  link: https://arxiv.org/abs/2512.05156
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05156v1 Announce Type: new  Abstract: Evaluating faithfulness
+    of Large Language Models (LLMs) to a given task is a complex challenge. We propose
+    two…'
+  title: Semantic Faithfulness and Entropy Production Measures to Tame Your LLM Demons
+    and Manage Hallucinations
+- id: oai:arXiv.org:2512.05167v1
+  link: https://arxiv.org/abs/2512.05167
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05167v1 Announce Type: new  Abstract: This paper presents an
+    innovative pedagogical approach for teaching artificial intelligence and data
+    science t…'
+  title: 'Bridging Traditional Machine Learning and Large Language Models: A Two-Part
+    Course Design for Modern AI Education'
+- id: oai:arXiv.org:2512.05212v1
+  link: https://arxiv.org/abs/2512.05212
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05212v1 Announce Type: new  Abstract: In recent years we observed
+    rapid and significant advancements in artificial intelligence (A.I.). So much
+    so t…'
+  title: On the Computability of Artificial General Intelligence
+- id: oai:arXiv.org:2512.05257v1
+  link: https://arxiv.org/abs/2512.05257
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05257v1 Announce Type: new  Abstract: This work advances and
+    substantiates the thesis that the resolution of this crisis lies in the domain
+    of possi…'
+  title: Resolving Zadehs Paradox Axiomatic Possibility Theory as a Foundation for
+    Reliable Artificial Intelligence
+- id: oai:arXiv.org:2512.05356v1
+  link: https://arxiv.org/abs/2512.05356
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05356v1 Announce Type: new  Abstract: Self-improvement is a
+    goal currently exciting the field of AI, but is fraught with danger, and may take
+    time t…'
+  title: AI & Human Co-Improvement for Safer Co-Superintelligence
+- id: oai:arXiv.org:2512.05365v1
+  link: https://arxiv.org/abs/2512.05365
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05365v1 Announce Type: new  Abstract: Healthcare AI systems
+    have historically faced challenges in merging contextual reasoning, long-term
+    state mana…'
+  title: 'MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning
+    in Healthcare'
+- id: oai:arXiv.org:2512.05371v1
+  link: https://arxiv.org/abs/2512.05371
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05371v1 Announce Type: new  Abstract: While Large Language
+    Models (LLMs) demonstrate immense potential for automating integrated circuit
+    (IC) develo…'
+  title: 'ChipMind: Retrieval-Augmented Reasoning for Long-Context Circuit Design
+    Specifications'
+- id: oai:arXiv.org:2512.05439v1
+  link: https://arxiv.org/abs/2512.05439
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05439v1 Announce Type: new  Abstract: As large language models
+    (LLMs) transition from research prototypes to production systems, practitioners
+    often…'
+  title: 'BEAVER: An Efficient Deterministic LLM Verifier'
+- id: oai:arXiv.org:2512.05449v1
+  link: https://arxiv.org/abs/2512.05449
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05449v1 Announce Type: new  Abstract: Large language models
+    display a peculiar form of inconsistency: they "know" the correct answer but fail
+    to act…'
+  title: 'The Seeds of Scheming: Weakness of Will in the Building Blocks of Agentic
+    Systems'
+- id: oai:arXiv.org:2512.05530v1
+  link: https://arxiv.org/abs/2512.05530
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05530v1 Announce Type: new  Abstract: Recently, multimodal
+    large language models (MLLMs) have been widely applied to reasoning tasks. However,
+    they…'
+  title: 'MIND: Multi-rationale INtegrated Discriminative Reasoning Framework for
+    Multi-modal Large Models'
+- id: oai:arXiv.org:2512.05576v1
+  link: https://arxiv.org/abs/2512.05576
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05576v1 Announce Type: new  Abstract: Current clinical agent
+    built on small LLMs, such as TxAgent suffer from a \textit{Context Utilization
+    Failure}…'
+  title: 'CureAgent: A Training-Free Executor-Analyst Framework for Clinical Reasoning'
+- id: oai:arXiv.org:2512.05594v1
+  link: https://arxiv.org/abs/2512.05594
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05594v1 Announce Type: new  Abstract: Ontologies are an important
+    tool for structuring domain knowledge, but their development is a complex task
+    tha…'
+  title: 'Ontology Learning with LLMs: A Benchmark Study on Axiom Identification'
+- id: oai:arXiv.org:2512.05619v1
+  link: https://arxiv.org/abs/2512.05619
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05619v1 Announce Type: new  Abstract: Partial Maximum Satisfiability
+    (PMS) and Weighted Partial Maximum Satisfiability (WPMS) generalize Maximum Sat…'
+  title: Enhancing Local Search for MaxSAT with Deep Differentiation Clause Weighting
+- id: oai:arXiv.org:2512.05734v1
+  link: https://arxiv.org/abs/2512.05734
+  published: '2025-12-08T05:00:00Z'
+  summary: 'arXiv:2512.05734v1 Announce Type: new  Abstract: This paper introduces
+    KANFormer, a novel deep-learning-based model for predicting the time-to-fill of
+    limit or…'
+  title: KANFormer for Predicting Fill Probabilities via Survival Analysis in Limit
+    Order Books
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

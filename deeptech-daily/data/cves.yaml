@@ -1,45 +1,45 @@
-fetched_at: '2025-12-07T05:30:57Z'
-generated_at: '2025-12-07T05:30:57Z'
-hash: abcd953d703e73bb5114725d19c01cd136027ea7fb4026257c86d84f123a9fa2
+fetched_at: '2025-12-08T05:36:11Z'
+generated_at: '2025-12-08T05:36:11Z'
+hash: 83f0388b7b20583c1ae887fad1d1f83bc654e67c4b904262da02c600faa6afbe
 items:
 - cvss: 0.0
-  id: CVE-2025-54236
-  published: '2025-09-09T14:15:46Z'
+  id: MAL-2025-191977
+  published: '2025-12-03T12:57:17Z'
+  summary: Malicious code in elf-stats-rooftop-stockpile-626 (npm)
+- cvss: 0.0
+  id: MAL-2025-191980
+  published: '2025-12-03T14:31:21Z'
+  summary: Malicious code in elf-stats-cosy-sleigh-356 (npm)
+- cvss: 0.0
+  id: GHSA-2989-gqx8-wgwx
+  published: '2025-12-08T03:31:03Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-wf68-85vc-c49w
-  published: '2025-10-29T15:31:56Z'
+  id: GHSA-hgww-pjhr-mwxr
+  published: '2025-12-08T03:31:03Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-g3xr-84mj-fvx6
-  published: '2025-12-04T15:30:32Z'
+  id: GHSA-j7cr-m6w2-c634
+  published: '2025-12-08T03:31:03Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-gvxj-xj5w-j8qf
-  published: '2025-12-04T18:30:53Z'
+  id: GHSA-pfq8-pr42-5qc2
+  published: '2025-12-08T03:31:03Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-j29x-hm96-8wj9
-  published: '2025-12-04T18:30:53Z'
+  id: GHSA-phff-w2xw-v2wg
+  published: '2025-12-08T03:31:03Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-j4rg-4m7w-4hr3
-  published: '2025-12-04T18:30:53Z'
+  id: GHSA-qjv9-pc7w-9xrj
+  published: '2025-12-08T03:31:03Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-p354-hgpr-gp36
-  published: '2025-12-04T18:30:53Z'
+  id: GHSA-qr5m-r7jf-6jc5
+  published: '2025-12-08T03:31:03Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-q4wq-g3wm-gmfc
-  published: '2025-12-04T18:30:53Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-r3v3-c3jq-3938
-  published: '2025-12-04T18:30:53Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-cvhf-p6qw-wm2q
-  published: '2025-12-07T00:30:56Z'
+  id: GHSA-r2g2-5w3q-5hqj
+  published: '2025-12-08T03:31:03Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

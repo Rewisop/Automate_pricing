@@ -1,15 +1,25 @@
-fetched_at: '2025-12-07T05:30:57Z'
-generated_at: '2025-12-07T05:30:57Z'
-hash: 62fd64cf1a15bb99c6c47f2b550d687b906b1cff1e1c551a021a70f74e760fea
+fetched_at: '2025-12-08T05:36:11Z'
+generated_at: '2025-12-08T05:36:11Z'
+hash: 9f71a8693dd4791bf88385bce5a9edfa1ee6850f5fef0c4db361d569b460461a
 items:
-- id: 46176651
-  score: 20
-  time: '2025-12-06T21:15:57Z'
-  title: The Reverse Centaur's Guide to Criticizing AI
-  url: https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington
-- id: 46176558
-  score: 9
-  time: '2025-12-06T21:00:41Z'
-  title: OpenAI loses fight to keep ChatGPT logs secret in copyright case
-  url: https://www.reuters.com/legal/government/openai-loses-fight-keep-chatgpt-logs-secret-copyright-case-2025-12-03/
+- id: 46181231
+  score: 440
+  time: '2025-12-07T12:23:45Z'
+  title: Google Titans architecture, helping AI have long-term memory
+  url: https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/
+- id: 46183011
+  score: 106
+  time: '2025-12-07T16:43:38Z'
+  title: The AI wildfire is coming. it's going to be painful and healthy
+  url: https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going
+- id: 46182582
+  score: 66
+  time: '2025-12-07T15:52:18Z'
+  title: OpenAI disables ChatGPT app suggestions that looked like ads
+  url: https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/
+- id: 46187028
+  score: 5
+  time: '2025-12-08T00:42:43Z'
+  title: AI chatbots can sway voters better than political advertisements
+  url: https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/
 source_url: https://hacker-news.firebaseio.com/
