@@ -1,120 +1,120 @@
-fetched_at: '2025-12-08T05:36:11Z'
-generated_at: '2025-12-08T05:36:11Z'
-hash: 775689d77de3d266741d6455b79aff1d4cb23ae8ee359802ad1c09f89c1caa18
+fetched_at: '2025-12-09T05:34:09Z'
+generated_at: '2025-12-09T05:34:09Z'
+hash: ddc674fb83d924d53c551b099338d15664f98d8cce85e554b98fcf07d7e85a72
 items:
-- id: oai:arXiv.org:2512.05122v1
-  link: https://arxiv.org/abs/2512.05122
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05122v1 Announce Type: new  Abstract: Small and medium-sized
-    enterprises (SMEs) still depend heavily on tacit, experience-based know-how that
-    rarely…'
-  title: 'Documenting SME Processes with Conversational AI: From Tacit Knowledge to
-    BPMN'
-- id: oai:arXiv.org:2512.05156v1
-  link: https://arxiv.org/abs/2512.05156
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05156v1 Announce Type: new  Abstract: Evaluating faithfulness
-    of Large Language Models (LLMs) to a given task is a complex challenge. We propose
-    two…'
-  title: Semantic Faithfulness and Entropy Production Measures to Tame Your LLM Demons
-    and Manage Hallucinations
-- id: oai:arXiv.org:2512.05167v1
-  link: https://arxiv.org/abs/2512.05167
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05167v1 Announce Type: new  Abstract: This paper presents an
-    innovative pedagogical approach for teaching artificial intelligence and data
-    science t…'
-  title: 'Bridging Traditional Machine Learning and Large Language Models: A Two-Part
-    Course Design for Modern AI Education'
-- id: oai:arXiv.org:2512.05212v1
-  link: https://arxiv.org/abs/2512.05212
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05212v1 Announce Type: new  Abstract: In recent years we observed
-    rapid and significant advancements in artificial intelligence (A.I.). So much
-    so t…'
-  title: On the Computability of Artificial General Intelligence
-- id: oai:arXiv.org:2512.05257v1
-  link: https://arxiv.org/abs/2512.05257
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05257v1 Announce Type: new  Abstract: This work advances and
-    substantiates the thesis that the resolution of this crisis lies in the domain
-    of possi…'
-  title: Resolving Zadehs Paradox Axiomatic Possibility Theory as a Foundation for
-    Reliable Artificial Intelligence
-- id: oai:arXiv.org:2512.05356v1
-  link: https://arxiv.org/abs/2512.05356
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05356v1 Announce Type: new  Abstract: Self-improvement is a
-    goal currently exciting the field of AI, but is fraught with danger, and may take
-    time t…'
-  title: AI & Human Co-Improvement for Safer Co-Superintelligence
-- id: oai:arXiv.org:2512.05365v1
-  link: https://arxiv.org/abs/2512.05365
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05365v1 Announce Type: new  Abstract: Healthcare AI systems
-    have historically faced challenges in merging contextual reasoning, long-term
-    state mana…'
-  title: 'MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning
-    in Healthcare'
-- id: oai:arXiv.org:2512.05371v1
-  link: https://arxiv.org/abs/2512.05371
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05371v1 Announce Type: new  Abstract: While Large Language
-    Models (LLMs) demonstrate immense potential for automating integrated circuit
-    (IC) develo…'
-  title: 'ChipMind: Retrieval-Augmented Reasoning for Long-Context Circuit Design
-    Specifications'
-- id: oai:arXiv.org:2512.05439v1
-  link: https://arxiv.org/abs/2512.05439
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05439v1 Announce Type: new  Abstract: As large language models
-    (LLMs) transition from research prototypes to production systems, practitioners
-    often…'
-  title: 'BEAVER: An Efficient Deterministic LLM Verifier'
-- id: oai:arXiv.org:2512.05449v1
-  link: https://arxiv.org/abs/2512.05449
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05449v1 Announce Type: new  Abstract: Large language models
-    display a peculiar form of inconsistency: they "know" the correct answer but fail
-    to act…'
-  title: 'The Seeds of Scheming: Weakness of Will in the Building Blocks of Agentic
-    Systems'
-- id: oai:arXiv.org:2512.05530v1
-  link: https://arxiv.org/abs/2512.05530
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05530v1 Announce Type: new  Abstract: Recently, multimodal
-    large language models (MLLMs) have been widely applied to reasoning tasks. However,
-    they…'
-  title: 'MIND: Multi-rationale INtegrated Discriminative Reasoning Framework for
-    Multi-modal Large Models'
-- id: oai:arXiv.org:2512.05576v1
-  link: https://arxiv.org/abs/2512.05576
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05576v1 Announce Type: new  Abstract: Current clinical agent
-    built on small LLMs, such as TxAgent suffer from a \textit{Context Utilization
-    Failure}…'
-  title: 'CureAgent: A Training-Free Executor-Analyst Framework for Clinical Reasoning'
-- id: oai:arXiv.org:2512.05594v1
-  link: https://arxiv.org/abs/2512.05594
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05594v1 Announce Type: new  Abstract: Ontologies are an important
-    tool for structuring domain knowledge, but their development is a complex task
-    tha…'
-  title: 'Ontology Learning with LLMs: A Benchmark Study on Axiom Identification'
-- id: oai:arXiv.org:2512.05619v1
-  link: https://arxiv.org/abs/2512.05619
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05619v1 Announce Type: new  Abstract: Partial Maximum Satisfiability
-    (PMS) and Weighted Partial Maximum Satisfiability (WPMS) generalize Maximum Sat…'
-  title: Enhancing Local Search for MaxSAT with Deep Differentiation Clause Weighting
-- id: oai:arXiv.org:2512.05734v1
-  link: https://arxiv.org/abs/2512.05734
-  published: '2025-12-08T05:00:00Z'
-  summary: 'arXiv:2512.05734v1 Announce Type: new  Abstract: This paper introduces
-    KANFormer, a novel deep-learning-based model for predicting the time-to-fill of
-    limit or…'
-  title: KANFormer for Predicting Fill Probabilities via Survival Analysis in Limit
-    Order Books
+- id: oai:arXiv.org:2512.05998v1
+  link: https://arxiv.org/abs/2512.05998
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.05998v1 Announce Type: new  Abstract: Large language models
+    are increasingly used to evaluate other models, yet these judgments typically
+    lack any r…'
+  title: 'Going All-In on LLM Accuracy: Fake Prediction Markets, Real Confidence Signals'
+- id: oai:arXiv.org:2512.06161v1
+  link: https://arxiv.org/abs/2512.06161
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06161v1 Announce Type: new  Abstract: Autism spectrum disorder
+    (ASD) is a complex neurodevelopmental condition whose rising prevalence places
+    increa…'
+  title: 'Deep learning for autism detection using clinical notes: A comparison of
+    transfer learning for a transparent and black-box approach'
+- id: oai:arXiv.org:2512.06196v1
+  link: https://arxiv.org/abs/2512.06196
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06196v1 Announce Type: new  Abstract: As agents based on large
+    language models are increasingly deployed to long-horizon tasks, maintaining their
+    al…'
+  title: 'ARCANE: A Multi-Agent Framework for Interpretable and Configurable Alignment'
+- id: oai:arXiv.org:2512.06205v1
+  link: https://arxiv.org/abs/2512.06205
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06205v1 Announce Type: new  Abstract: The symbol grounding
+    problem asks how tokens like cat can be about cats, as opposed to mere shapes
+    manipulated…'
+  title: On measuring grounding and generalizing grounding problems
+- id: oai:arXiv.org:2512.06240v1
+  link: https://arxiv.org/abs/2512.06240
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06240v1 Announce Type: new  Abstract: Money laundering and
+    financial fraud remain major threats to global financial stability, costing trillions
+    ann…'
+  title: AI Application in Anti-Money Laundering for Sustainable and Transparent Financial
+    Systems
+- id: oai:arXiv.org:2512.06296v1
+  link: https://arxiv.org/abs/2512.06296
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06296v1 Announce Type: new  Abstract: Knowledge graph completion
+    (KGC) aims to predict missing facts from the observed KG. While a number of KGC
+    mod…'
+  title: How Sharp and Bias-Robust is a Model? Dual Evaluation Perspectives on Knowledge
+    Graph Completion
+- id: oai:arXiv.org:2512.06337v1
+  link: https://arxiv.org/abs/2512.06337
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06337v1 Announce Type: new  Abstract: The evolution of Large
+    Language Models (LLMs) has catalyzed a paradigm shift from superficial instruction
+    foll…'
+  title: 'DaGRPO: Rectifying Gradient Conflict in Reasoning via Distinctiveness-Aware
+    Group Relative Policy Optimization'
+- id: oai:arXiv.org:2512.06393v1
+  link: https://arxiv.org/abs/2512.06393
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06393v1 Announce Type: new  Abstract: Large language models
+    (LLMs) excel across many natural language tasks, yet their generalisation to structural…'
+  title: Less Is More for Multi-Step Logical Reasoning of LLM Generalisation Under
+    Rule Removal, Paraphrasing, and Compression
+- id: oai:arXiv.org:2512.06404v1
+  link: https://arxiv.org/abs/2512.06404
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06404v1 Announce Type: new  Abstract: Predictive atomistic
+    simulations have propelled materials discovery, yet routine setup and debugging
+    still dem…'
+  title: 'GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation
+    Protocols'
+- id: oai:arXiv.org:2512.06406v1
+  link: https://arxiv.org/abs/2512.06406
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06406v1 Announce Type: new  Abstract: Large language models(LLMs)
+    are increasingly expanding their real-world applications across domains, e.g.,
+    que…'
+  title: 'UncertaintyZoo: A Unified Toolkit for Quantifying Predictive Uncertainty
+    in Deep Learning Systems'
+- id: oai:arXiv.org:2512.06431v1
+  link: https://arxiv.org/abs/2512.06431
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06431v1 Announce Type: new  Abstract: National planning standards
+    for public services in Egypt often fail to align with unique local characteristics…'
+  title: 'Smart Spatial Planning in Egypt: An Algorithm-Driven Approach to Public
+    Service Evaluation in Qena City'
+- id: oai:arXiv.org:2512.06573v1
+  link: https://arxiv.org/abs/2512.06573
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06573v1 Announce Type: new  Abstract: As multi-agent systems
+    are increasingly utilized for reasoning and decision-making applications, there
+    is a gr…'
+  title: The Effect of Belief Boxes and Open-mindedness on Persuasion
+- id: oai:arXiv.org:2512.06629v1
+  link: https://arxiv.org/abs/2512.06629
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06629v1 Announce Type: new  Abstract: Knowledge Tracing (KT)
+    models face a critical ``Performance-Complexity Trap'''': capturing complex cognitive
+    dyn…'
+  title: 'FlatFormer: A Flat Transformer Knowledge Tracing Model Based on Cognitive
+    Bias Injection'
+- id: oai:arXiv.org:2512.06653v1
+  link: https://arxiv.org/abs/2512.06653
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06653v1 Announce Type: new  Abstract: DeepSearch paradigms
+    have become a core enabler for deep reasoning models, allowing them to invoke
+    external se…'
+  title: 'LightSearcher: Efficient DeepSearch via Experiential Memory'
+- id: oai:arXiv.org:2512.06705v1
+  link: https://arxiv.org/abs/2512.06705
+  published: '2025-12-09T05:00:00Z'
+  summary: 'arXiv:2512.06705v1 Announce Type: new  Abstract: The rapid integration
+    of generative AI into academic writing has prompted widespread policy responses
+    from jou…'
+  title: Academic journals' AI policies fail to curb the surge in AI-assisted academic
+    writing
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

@@ -1,45 +1,45 @@
-fetched_at: '2025-12-08T05:36:11Z'
-generated_at: '2025-12-08T05:36:11Z'
-hash: 83f0388b7b20583c1ae887fad1d1f83bc654e67c4b904262da02c600faa6afbe
+fetched_at: '2025-12-09T05:34:09Z'
+generated_at: '2025-12-09T05:34:09Z'
+hash: e7652468fde3db3157793f69568348980397475a9ff283660b0a80ee8ce3c582
 items:
 - cvss: 0.0
-  id: MAL-2025-191977
-  published: '2025-12-03T12:57:17Z'
-  summary: Malicious code in elf-stats-rooftop-stockpile-626 (npm)
-- cvss: 0.0
-  id: MAL-2025-191980
-  published: '2025-12-03T14:31:21Z'
-  summary: Malicious code in elf-stats-cosy-sleigh-356 (npm)
-- cvss: 0.0
-  id: GHSA-2989-gqx8-wgwx
-  published: '2025-12-08T03:31:03Z'
+  id: GHSA-3w8q-vg6g-cg46
+  published: '2025-12-09T03:31:11Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-hgww-pjhr-mwxr
-  published: '2025-12-08T03:31:03Z'
+  id: GHSA-c3q3-rmq5-mqm4
+  published: '2025-12-09T03:31:11Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-j7cr-m6w2-c634
-  published: '2025-12-08T03:31:03Z'
+  id: GHSA-qw6q-8fw7-j594
+  published: '2025-12-09T03:31:11Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-pfq8-pr42-5qc2
-  published: '2025-12-08T03:31:03Z'
+  id: GHSA-w9q3-wxhm-4gcg
+  published: '2025-12-09T03:31:11Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-phff-w2xw-v2wg
-  published: '2025-12-08T03:31:03Z'
+  id: GHSA-wf2j-c3q8-8c84
+  published: '2025-12-09T03:31:11Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-qjv9-pc7w-9xrj
-  published: '2025-12-08T03:31:03Z'
+  id: GHSA-x47f-6fjp-7wj4
+  published: '2025-12-09T03:31:11Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-qr5m-r7jf-6jc5
-  published: '2025-12-08T03:31:03Z'
+  id: GHSA-hx4v-6wwc-qrpx
+  published: '2025-12-09T03:31:12Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-r2g2-5w3q-5hqj
-  published: '2025-12-08T03:31:03Z'
+  id: MAL-2025-192380
+  published: '2025-12-09T03:35:56Z'
+  summary: Malicious code in sketchfab-spinner (PyPI)
+- cvss: 0.0
+  id: MAL-2025-192381
+  published: '2025-12-09T04:40:47Z'
+  summary: Malicious code in configurator-framework (npm)
+- cvss: 0.0
+  id: null
+  published: '2025-12-09T05:34:09Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

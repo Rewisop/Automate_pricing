@@ -1,25 +1,50 @@
-fetched_at: '2025-12-08T05:36:11Z'
-generated_at: '2025-12-08T05:36:11Z'
-hash: 9f71a8693dd4791bf88385bce5a9edfa1ee6850f5fef0c4db361d569b460461a
+fetched_at: '2025-12-09T05:34:09Z'
+generated_at: '2025-12-09T05:34:09Z'
+hash: 9f23cf86b34df6ea3b97abaed8251cbd0b0bfc8169962de44a3a886425779a94
 items:
-- id: 46181231
-  score: 440
-  time: '2025-12-07T12:23:45Z'
-  title: Google Titans architecture, helping AI have long-term memory
-  url: https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/
-- id: 46183011
-  score: 106
-  time: '2025-12-07T16:43:38Z'
-  title: The AI wildfire is coming. it's going to be painful and healthy
-  url: https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going
-- id: 46182582
-  score: 66
-  time: '2025-12-07T15:52:18Z'
-  title: OpenAI disables ChatGPT app suggestions that looked like ads
-  url: https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/
-- id: 46187028
+- id: 46194615
+  score: 386
+  time: '2025-12-08T16:54:31Z'
+  title: 'Microsoft has a problem: lack of demand for its AI products'
+  url: https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai
+- id: 46196076
+  score: 288
+  time: '2025-12-08T18:48:27Z'
+  title: NVIDIA frenemy relation with OpenAI and Oracle
+  url: https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle
+- id: 46199723
+  score: 258
+  time: '2025-12-09T00:26:35Z'
+  title: 'Horses: AI progress is steady. Human equivalence is sudden'
+  url: https://andyljones.com/posts/horses.html
+- id: 46195198
+  score: 130
+  time: '2025-12-08T17:38:34Z'
+  title: AI should only run as fast as we can catch up
+  url: https://higashi.blog/2025/12/07/ai-verification/
+- id: 46197173
+  score: 35
+  time: '2025-12-08T20:24:59Z'
+  title: Washington state Medicare users could soon have claims denied by AI
+  url: https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai
+- id: 46196912
+  score: 9
+  time: '2025-12-08T20:04:25Z'
+  title: Meta acquires AI device startup Limitless
+  url: https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/
+- id: 46198255
+  score: 7
+  time: '2025-12-08T22:02:24Z'
+  title: Spotify now features AI band clones
+  url: https://old.reddit.com/r/Music/comments/1phag1t/spotify_now_features_ai_band_clones/
+- id: 46200832
+  score: 6
+  time: '2025-12-09T03:10:13Z'
+  title: U.S. Authorities Shut Down Major China-Linked AI Tech Smuggling Network
+  url: https://www.justice.gov/opa/pr/us-authorities-shut-down-major-china-linked-ai-tech-smuggling-network
+- id: 46199828
   score: 5
-  time: '2025-12-08T00:42:43Z'
-  title: AI chatbots can sway voters better than political advertisements
-  url: https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/
+  time: '2025-12-09T00:39:14Z'
+  title: Using an AI Mediator Because Humans Are Terrible at Conflict
+  url: https://www.mitigateapp.com/
 source_url: https://hacker-news.firebaseio.com/
