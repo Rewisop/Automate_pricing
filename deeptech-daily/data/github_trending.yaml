@@ -1,61 +1,66 @@
-fetched_at: '2025-12-09T05:34:09Z'
-generated_at: '2025-12-09T05:34:09Z'
-hash: 7c178781fc99f671532d11bb47cad50c1e3dee228dd623eabf2a59d403295fa1
+fetched_at: '2025-12-10T05:35:36Z'
+generated_at: '2025-12-10T05:35:36Z'
+hash: 46d0817f88f92d1bb2b5b9275df2dc439e53538d8cb82f05f937c0c7e1003bc9
 items:
-- created_at: '2025-12-04T06:02:24Z'
-  description: DeNA社内で実施したLLM勉強会の資料とソースコード
-  full_name: DeNA/llm-study20251201
-  html_url: https://github.com/DeNA/llm-study20251201
-  stargazers_count: 171
 - created_at: '2025-12-04T07:07:38Z'
   description: 粋 (Sui) - A programming language optimized for LLM code generation
   full_name: TakatoHonda/sui-lang
   html_url: https://github.com/TakatoHonda/sui-lang
-  stargazers_count: 170
+  stargazers_count: 234
+- created_at: '2025-12-04T06:02:24Z'
+  description: DeNA社内で実施したLLM勉強会の資料とソースコード
+  full_name: DeNA/llm-study20251201
+  html_url: https://github.com/DeNA/llm-study20251201
+  stargazers_count: 178
 - created_at: '2025-12-04T19:05:42Z'
   description: Multi-LLM orchestration framework
   full_name: MedChaouch/Puzld.ai
   html_url: https://github.com/MedChaouch/Puzld.ai
-  stargazers_count: 85
-- created_at: '2025-12-03T04:51:26Z'
-  description: 一个用于 AI 驱动的渗透测试竞赛的**模型上下文协议 (MCP)** 服务器。该工 具提供了一个完整的 API 接口，使 LLM 能够自主参与
-    CTF 挑战。
-  full_name: m-sec-org/ez-xbow-platform-mcp
-  html_url: https://github.com/m-sec-org/ez-xbow-platform-mcp
-  stargazers_count: 59
+  stargazers_count: 132
 - created_at: '2025-12-04T06:58:16Z'
   description: Teaching LLMs to reason in the Latent Space to precondition responses.
   full_name: dl1683/Latent-Space-Reasoning
   html_url: https://github.com/dl1683/Latent-Space-Reasoning
-  stargazers_count: 49
+  stargazers_count: 61
 - created_at: '2025-12-07T14:06:31Z'
   description: Wuhe Design presents the Krita × Ollama Prompt Generator — a local
     LLM-powered plugin for generating, refining, and sending prompts directly into
     the krita-ai-…
   full_name: yen-shi-lun/Krita-Ollama-Prompt-Generator
   html_url: https://github.com/yen-shi-lun/Krita-Ollama-Prompt-Generator
-  stargazers_count: 28
+  stargazers_count: 35
 - created_at: '2025-12-07T02:42:40Z'
   description: The Swift Concurrency Migration Guide, packaged as a Skill for LLMs.
   full_name: kylehughes/the-unofficial-swift-concurrency-migration-skill
   html_url: https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill
-  stargazers_count: 26
+  stargazers_count: 27
 - created_at: '2025-12-08T02:15:21Z'
   description: '[NeurIPS 2025] Less Is More, but Where? Dynamic Token Compression
     via LLM-Guided Keyframe Prior'
   full_name: yu-lin-li/DyToK
   html_url: https://github.com/yu-lin-li/DyToK
+  stargazers_count: 22
+- created_at: '2025-12-08T10:03:54Z'
+  description: 'Beyond Real: Imaginary Extension of Rotary Position Embeddings for
+    Long-Context LLMs'
+  full_name: OpenMOSS/rope_pp
+  html_url: https://github.com/OpenMOSS/rope_pp
   stargazers_count: 19
 - created_at: '2025-12-08T03:07:18Z'
   description: Ask users structured questions in an LLM chat! AI SDK + Shadcn
   full_name: kamath/questionnaire
   html_url: https://github.com/kamath/questionnaire
-  stargazers_count: 17
+  stargazers_count: 18
 - created_at: '2025-12-05T18:04:47Z'
   description: Give LLMs eyes, then benchmark what they see
   full_name: Glitch-Jar/LLM-EYES
   html_url: https://github.com/Glitch-Jar/LLM-EYES
   stargazers_count: 15
+- created_at: '2025-12-07T06:50:57Z'
+  description: Burgundy Bee | P2P protocol for Large Language Model
+  full_name: Chatit-cloud/BEE2BEE
+  html_url: https://github.com/Chatit-cloud/BEE2BEE
+  stargazers_count: 12
 - created_at: '2025-12-07T15:28:50Z'
   description: GitHub CLI extension that adds full inline PR review comment support
     — view, navigate, reply to, and resolve review threads directly from the terminal.
@@ -63,34 +68,35 @@ items:
   full_name: agynio/gh-pr-review
   html_url: https://github.com/agynio/gh-pr-review
   stargazers_count: 12
-- created_at: '2025-12-03T18:16:02Z'
-  description: 'Implementation of Evo-Memory style learning for LLM agents. Agents
-    learn from outcomes, refine strategies, and get smarter with every task.  🚀 Features:  Exper…'
-  full_name: devopsdymyr/Evo-Memory
-  html_url: https://github.com/devopsdymyr/Evo-Memory
-  stargazers_count: 10
-- created_at: '2025-12-08T10:03:54Z'
-  description: 'Beyond Real: Imaginary Extension of Rotary Position Embeddings for
-    Long-Context LLMs'
-  full_name: OpenMOSS/rope_pp
-  html_url: https://github.com/OpenMOSS/rope_pp
-  stargazers_count: 9
-- created_at: '2025-12-03T19:23:06Z'
-  description: UI-based Fine-Tuning for Large Language Models (LLMs)
-  full_name: shrut2702/upasak
-  html_url: https://github.com/shrut2702/upasak
-  stargazers_count: 9
+- created_at: '2025-12-09T05:56:53Z'
+  description: 'OpenRouterBench: A One-Stop Benchmark and Solution Suite for LLM Routing'
+  full_name: ynulihao/OpenRouterBench
+  html_url: https://github.com/ynulihao/OpenRouterBench
+  stargazers_count: 11
 - created_at: '2025-12-05T17:19:34Z'
   description: This Is official documentation of Strike GenAI
   full_name: Rohitnegi9/STRIKEGenAI
   html_url: https://github.com/Rohitnegi9/STRIKEGenAI
-  stargazers_count: 8
+  stargazers_count: 9
 - created_at: '2025-12-06T20:27:31Z'
   description: BRAINS is a production-ready, multi-agent medical diagnostic platform
     powered by Retrieval-Augmented Generation (RAG) and LLM inference. It combines
     a Next.js…
   full_name: eliteresearchlab/BRAINS
   html_url: https://github.com/eliteresearchlab/BRAINS
+  stargazers_count: 9
+- created_at: '2025-12-04T03:22:25Z'
+  description: ADL (Agent Definition Language) is a vendor-neutral, declarative standard
+    for defining AI agents, including their tools, LLM settings, RAG inputs, permissions,…
+  full_name: nextmoca/adl
+  html_url: https://github.com/nextmoca/adl
+  stargazers_count: 8
+- created_at: '2025-12-05T09:05:18Z'
+  description: This is the code for Visual Reasoning Sequential Attack, which is a
+    method to jailbreak Multimodal Large Language Models Based on their visual reasoning
+    capabi…
+  full_name: shukunxiong/VRSA
+  html_url: https://github.com/shukunxiong/VRSA
   stargazers_count: 8
 - created_at: '2025-12-07T02:45:49Z'
   description: Probe multiple LLM API endpoints to detect available models, then serve
@@ -109,11 +115,5 @@ items:
     tasks,…
   full_name: hannahjan06/MultiBrain-AI
   html_url: https://github.com/hannahjan06/MultiBrain-AI
-  stargazers_count: 7
-- created_at: '2025-12-04T03:22:25Z'
-  description: ADL (Agent Definition Language) is a vendor-neutral, declarative standard
-    for defining AI agents, including their tools, LLM settings, RAG inputs, permissions,…
-  full_name: nextmoca/adl
-  html_url: https://github.com/nextmoca/adl
   stargazers_count: 7
 source_url: https://api.github.com/search/repositories

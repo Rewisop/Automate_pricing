@@ -1,45 +1,45 @@
-fetched_at: '2025-12-09T05:34:09Z'
-generated_at: '2025-12-09T05:34:09Z'
-hash: e7652468fde3db3157793f69568348980397475a9ff283660b0a80ee8ce3c582
+fetched_at: '2025-12-10T05:35:36Z'
+generated_at: '2025-12-10T05:35:36Z'
+hash: e219945875b63e761e392e6da1ed6f78ac38d17453256e099f8684c112569578
 items:
 - cvss: 0.0
-  id: GHSA-3w8q-vg6g-cg46
-  published: '2025-12-09T03:31:11Z'
+  id: MAL-2025-6263
+  published: '2025-07-26T16:42:08Z'
+  summary: Malicious code in package-with-conditions (npm)
+- cvss: 0.0
+  id: MAL-2025-192345
+  published: '2025-12-05T21:10:10Z'
+  summary: Malicious code in native-component-list (npm)
+- cvss: 0.0
+  id: MAL-2025-192346
+  published: '2025-12-05T21:10:10Z'
+  summary: Malicious code in non-modular-buildable (npm)
+- cvss: 0.0
+  id: MAL-2025-192421
+  published: '2025-12-10T02:40:38Z'
+  summary: Malicious code in vue2-amis-custom-widget123 (npm)
+- cvss: 0.0
+  id: MAL-2025-192420
+  published: '2025-12-10T03:05:03Z'
+  summary: Malicious code in near-fast-auth-signer (npm)
+- cvss: 0.0
+  id: MAL-2025-192423
+  published: '2025-12-10T04:05:56Z'
+  summary: Malicious code in vue2-amis-custom-widget-pro (npm)
+- cvss: 0.0
+  id: CVE-2025-13677
+  published: '2025-12-10T04:15:57Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-c3q3-rmq5-mqm4
-  published: '2025-12-09T03:31:11Z'
+  id: CVE-2025-67605
+  published: '2025-12-10T04:15:58Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-qw6q-8fw7-j594
-  published: '2025-12-09T03:31:11Z'
+  id: CVE-2025-67606
+  published: '2025-12-10T04:15:58Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-w9q3-wxhm-4gcg
-  published: '2025-12-09T03:31:11Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-wf2j-c3q8-8c84
-  published: '2025-12-09T03:31:11Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-x47f-6fjp-7wj4
-  published: '2025-12-09T03:31:11Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-hx4v-6wwc-qrpx
-  published: '2025-12-09T03:31:12Z'
-  summary: ''
-- cvss: 0.0
-  id: MAL-2025-192380
-  published: '2025-12-09T03:35:56Z'
-  summary: Malicious code in sketchfab-spinner (PyPI)
-- cvss: 0.0
-  id: MAL-2025-192381
-  published: '2025-12-09T04:40:47Z'
-  summary: Malicious code in configurator-framework (npm)
-- cvss: 0.0
-  id: null
-  published: '2025-12-09T05:34:09Z'
+  id: CVE-2025-67607
+  published: '2025-12-10T04:15:58Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

@@ -1,120 +1,119 @@
-fetched_at: '2025-12-09T05:34:09Z'
-generated_at: '2025-12-09T05:34:09Z'
-hash: ddc674fb83d924d53c551b099338d15664f98d8cce85e554b98fcf07d7e85a72
+fetched_at: '2025-12-10T05:35:36Z'
+generated_at: '2025-12-10T05:35:36Z'
+hash: 285205d478d64290fbd8a66e6fd2f42f59c622468a4a7dabd7cae245b47a9960
 items:
-- id: oai:arXiv.org:2512.05998v1
-  link: https://arxiv.org/abs/2512.05998
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.05998v1 Announce Type: new  Abstract: Large language models
-    are increasingly used to evaluate other models, yet these judgments typically
-    lack any r…'
-  title: 'Going All-In on LLM Accuracy: Fake Prediction Markets, Real Confidence Signals'
-- id: oai:arXiv.org:2512.06161v1
-  link: https://arxiv.org/abs/2512.06161
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06161v1 Announce Type: new  Abstract: Autism spectrum disorder
-    (ASD) is a complex neurodevelopmental condition whose rising prevalence places
-    increa…'
-  title: 'Deep learning for autism detection using clinical notes: A comparison of
-    transfer learning for a transparent and black-box approach'
-- id: oai:arXiv.org:2512.06196v1
-  link: https://arxiv.org/abs/2512.06196
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06196v1 Announce Type: new  Abstract: As agents based on large
-    language models are increasingly deployed to long-horizon tasks, maintaining their
-    al…'
-  title: 'ARCANE: A Multi-Agent Framework for Interpretable and Configurable Alignment'
-- id: oai:arXiv.org:2512.06205v1
-  link: https://arxiv.org/abs/2512.06205
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06205v1 Announce Type: new  Abstract: The symbol grounding
-    problem asks how tokens like cat can be about cats, as opposed to mere shapes
-    manipulated…'
-  title: On measuring grounding and generalizing grounding problems
-- id: oai:arXiv.org:2512.06240v1
-  link: https://arxiv.org/abs/2512.06240
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06240v1 Announce Type: new  Abstract: Money laundering and
-    financial fraud remain major threats to global financial stability, costing trillions
-    ann…'
-  title: AI Application in Anti-Money Laundering for Sustainable and Transparent Financial
-    Systems
-- id: oai:arXiv.org:2512.06296v1
-  link: https://arxiv.org/abs/2512.06296
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06296v1 Announce Type: new  Abstract: Knowledge graph completion
-    (KGC) aims to predict missing facts from the observed KG. While a number of KGC
-    mod…'
-  title: How Sharp and Bias-Robust is a Model? Dual Evaluation Perspectives on Knowledge
-    Graph Completion
-- id: oai:arXiv.org:2512.06337v1
-  link: https://arxiv.org/abs/2512.06337
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06337v1 Announce Type: new  Abstract: The evolution of Large
-    Language Models (LLMs) has catalyzed a paradigm shift from superficial instruction
-    foll…'
-  title: 'DaGRPO: Rectifying Gradient Conflict in Reasoning via Distinctiveness-Aware
-    Group Relative Policy Optimization'
-- id: oai:arXiv.org:2512.06393v1
-  link: https://arxiv.org/abs/2512.06393
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06393v1 Announce Type: new  Abstract: Large language models
-    (LLMs) excel across many natural language tasks, yet their generalisation to structural…'
-  title: Less Is More for Multi-Step Logical Reasoning of LLM Generalisation Under
-    Rule Removal, Paraphrasing, and Compression
-- id: oai:arXiv.org:2512.06404v1
-  link: https://arxiv.org/abs/2512.06404
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06404v1 Announce Type: new  Abstract: Predictive atomistic
-    simulations have propelled materials discovery, yet routine setup and debugging
-    still dem…'
-  title: 'GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation
-    Protocols'
-- id: oai:arXiv.org:2512.06406v1
-  link: https://arxiv.org/abs/2512.06406
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06406v1 Announce Type: new  Abstract: Large language models(LLMs)
-    are increasingly expanding their real-world applications across domains, e.g.,
-    que…'
-  title: 'UncertaintyZoo: A Unified Toolkit for Quantifying Predictive Uncertainty
-    in Deep Learning Systems'
-- id: oai:arXiv.org:2512.06431v1
-  link: https://arxiv.org/abs/2512.06431
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06431v1 Announce Type: new  Abstract: National planning standards
-    for public services in Egypt often fail to align with unique local characteristics…'
-  title: 'Smart Spatial Planning in Egypt: An Algorithm-Driven Approach to Public
-    Service Evaluation in Qena City'
-- id: oai:arXiv.org:2512.06573v1
-  link: https://arxiv.org/abs/2512.06573
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06573v1 Announce Type: new  Abstract: As multi-agent systems
-    are increasingly utilized for reasoning and decision-making applications, there
-    is a gr…'
-  title: The Effect of Belief Boxes and Open-mindedness on Persuasion
-- id: oai:arXiv.org:2512.06629v1
-  link: https://arxiv.org/abs/2512.06629
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06629v1 Announce Type: new  Abstract: Knowledge Tracing (KT)
-    models face a critical ``Performance-Complexity Trap'''': capturing complex cognitive
-    dyn…'
-  title: 'FlatFormer: A Flat Transformer Knowledge Tracing Model Based on Cognitive
-    Bias Injection'
-- id: oai:arXiv.org:2512.06653v1
-  link: https://arxiv.org/abs/2512.06653
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06653v1 Announce Type: new  Abstract: DeepSearch paradigms
-    have become a core enabler for deep reasoning models, allowing them to invoke
-    external se…'
-  title: 'LightSearcher: Efficient DeepSearch via Experiential Memory'
-- id: oai:arXiv.org:2512.06705v1
-  link: https://arxiv.org/abs/2512.06705
-  published: '2025-12-09T05:00:00Z'
-  summary: 'arXiv:2512.06705v1 Announce Type: new  Abstract: The rapid integration
-    of generative AI into academic writing has prompted widespread policy responses
-    from jou…'
-  title: Academic journals' AI policies fail to curb the surge in AI-assisted academic
-    writing
+- id: oai:arXiv.org:2512.07841v1
+  link: https://arxiv.org/abs/2512.07841
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.07841v1 Announce Type: new  Abstract: The growing performance
+    gap between multi-core CPUs and main memory necessitates hardware-aware software
+    desig…'
+  title: Impact of Data-Oriented and Object-Oriented Design on Performance and Cache
+    Utilization with Artificial Intelligence Algorithms in Multi-Threaded CPUs
+- id: oai:arXiv.org:2512.07926v1
+  link: https://arxiv.org/abs/2512.07926
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.07926v1 Announce Type: new  Abstract: Enterprise data management
+    is a monumental task. It spans data architecture and systems, integration, quality,…'
+  title: Can AI autonomously build, operate, and use the entire data stack?
+- id: oai:arXiv.org:2512.07993v1
+  link: https://arxiv.org/abs/2512.07993
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.07993v1 Announce Type: new  Abstract: Large reasoning models
+    (LRMs) often cost significant key-value (KV) cache overhead, due to their linear
+    growth…'
+  title: 'SkipKV: Selective Skipping of KV Generation and Storage for Efficient Inference
+    with Large Reasoning Models'
+- id: oai:arXiv.org:2512.08026v1
+  link: https://arxiv.org/abs/2512.08026
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.08026v1 Announce Type: new  Abstract: Screening patients for
+    clinical trial eligibility remains a manual, time-consuming, and resource-intensive
+    pro…'
+  title: Toward an AI Reasoning-Enabled System for Patient-Clinical Trial Matching
+- id: oai:arXiv.org:2512.08057v1
+  link: https://arxiv.org/abs/2512.08057
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.08057v1 Announce Type: new  Abstract: Pretrained Large Language
+    Models (LLMs) have achieved remarkable success across diverse domains, with educatio…'
+  title: 'Large Language Models for Education and Research: An Empirical and User
+    Survey-based Analysis'
+- id: oai:arXiv.org:2512.08147v1
+  link: https://arxiv.org/abs/2512.08147
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.08147v1 Announce Type: new  Abstract: The rising global prevalence
+    of diabetes necessitates early detection to prevent severe complications. While
+    A…'
+  title: Scalable Back-End for an AI-Based Diabetes Prediction Application
+- id: oai:arXiv.org:2512.08230v1
+  link: https://arxiv.org/abs/2512.08230
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.08230v1 Announce Type: new  Abstract: Learning about the causal
+    structure of the world is a fundamental problem for human cognition. Causal models
+    a…'
+  title: 'Empowerment Gain and Causal Model Construction: Children and adults are
+    sensitive to controllability and variability in their causal interventions'
+- id: oai:arXiv.org:2512.08261v1
+  link: https://arxiv.org/abs/2512.08261
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.08261v1 Announce Type: new  Abstract: Predicting diseases solely
+    from patient-side information, such as demographics and self-reported symptoms,
+    has…'
+  title: 'Beyond Traditional Diagnostics: Transforming Patient-Side Information into
+    Predictive Insights with Knowledge Graphs and Prototypes'
+- id: oai:arXiv.org:2512.08270v1
+  link: https://arxiv.org/abs/2512.08270
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.08270v1 Announce Type: new  Abstract: Previous research has
+    reported that large language models (LLMs) demonstrate poor performance on the
+    Chartered…'
+  title: Reasoning Models Ace the CFA Exams
+- id: oai:arXiv.org:2512.08273v1
+  link: https://arxiv.org/abs/2512.08273
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.08273v1 Announce Type: new  Abstract: Modern businesses are
+    increasingly challenged by the time and expense required to generate and assess
+    high-qua…'
+  title: 'AgentEval: Generative Agents as Reliable Proxies for Human Evaluation of
+    AI-Generated Content'
+- id: oai:arXiv.org:2512.08296v1
+  link: https://arxiv.org/abs/2512.08296
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.08296v1 Announce Type: new  Abstract: Agents, language model
+    (LM)-based systems that are capable of reasoning, planning, and acting are becoming
+    the…'
+  title: Towards a Science of Scaling Agent Systems
+- id: oai:arXiv.org:2512.08300v1
+  link: https://arxiv.org/abs/2512.08300
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.08300v1 Announce Type: new  Abstract: Large language models
+    (LLMs) are post-trained through reinforcement learning (RL) to evolve into Reasoning
+    Lan…'
+  title: 'rSIM: Incentivizing Reasoning Capabilities of LLMs via Reinforced Strategy
+    Injection'
+- id: oai:arXiv.org:2512.08340v1
+  link: https://arxiv.org/abs/2512.08340
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.08340v1 Announce Type: new  Abstract: The California Bearing
+    Ratio (CBR) is a key geotechnical indicator used to assess the load-bearing capacity
+    of…'
+  title: 'Predicting California Bearing Ratio with Ensemble and Neural Network Models:
+    A Case Study from T\"urkiye'
+- id: oai:arXiv.org:2512.08343v1
+  link: https://arxiv.org/abs/2512.08343
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.08343v1 Announce Type: new  Abstract: Soil compaction is critical
+    in construction engineering to ensure the stability of structures like road embank…'
+  title: Soil Compaction Parameters Prediction Based on Automated Machine Learning
+    Approach
+- id: oai:arXiv.org:2512.08344v1
+  link: https://arxiv.org/abs/2512.08344
+  published: '2025-12-10T05:00:00Z'
+  summary: 'arXiv:2512.08344v1 Announce Type: new  Abstract: Graph Neural Networks
+    (GNNs) have become a powerful tool for modeling and analyzing data with graph
+    structures…'
+  title: Enhancing Explainability of Graph Neural Networks Through Conceptual and
+    Structural Analyses and Their Extensions
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL
