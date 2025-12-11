@@ -1,98 +1,40 @@
-fetched_at: '2025-12-10T05:35:36Z'
-generated_at: '2025-12-10T05:35:36Z'
-hash: 61a9e5a1a0be49910be30e8324166438205a342cac6fea124f87c8eedb1a38f3
+fetched_at: '2025-12-11T05:36:51Z'
+generated_at: '2025-12-11T05:36:51Z'
+hash: 03e4c6e936cdfb7d7a9d24416fc840c5fcac398f6a10d6e2e45b80c5ff0e9b33
 items:
-- id: 46206457
-  score: 811
-  time: '2025-12-09T16:02:37Z'
-  title: 'Ask HN: Should "I asked $AI, and it said" replies be forbidden in HN guidelines?'
-  url: https://news.ycombinator.com/item?id=46206457
-- id: 46205724
-  score: 282
-  time: '2025-12-09T15:08:24Z'
-  title: Apple's slow AI pace becomes a strength as market grows weary of spending
-  url: https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html
-- id: 46207425
-  score: 182
-  time: '2025-12-09T17:05:42Z'
-  title: Donating the Model Context Protocol and establishing the Agentic AI Foundation
-  url: https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
-- id: 46209846
-  score: 88
-  time: '2025-12-09T20:00:39Z'
-  title: Agentic AI Foundation
-  url: https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation
-- id: 46213045
-  score: 51
-  time: '2025-12-10T01:36:56Z'
-  title: The AI-Education Death Spiral a.k.a. Let the Kids Cheat
-  url: https://anandsanwal.me/ai-education-death-spiral/
-- id: 46212969
-  score: 43
-  time: '2025-12-10T01:25:00Z'
-  title: 'Post-transformer inference: 224× compression of Llama-70B with improved
-    accuracy'
-  url: https://zenodo.org/records/17873275
-- id: 46209378
+- id: 46219853
+  score: 295
+  time: '2025-12-10T16:34:52Z'
+  title: DeepSeek uses banned Nvidia chips for AI model, report says
+  url: https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html
+- id: 46219538
+  score: 230
+  time: '2025-12-10T16:13:38Z'
+  title: Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model
+  url: https://qwen.ai/blog?id=qwen3-omni-flash-20251201
+- id: 46217176
+  score: 105
+  time: '2025-12-10T12:57:38Z'
+  title: McDonald's pulls AI Christmas ad after backlash
+  url: https://www.bbc.co.uk/news/articles/czdgrnvp082o
+- id: 46219386
+  score: 45
+  time: '2025-12-10T16:05:03Z'
+  title: 'Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings'
+  url: https://news.ycombinator.com/item?id=46219386
+- id: 46220108
+  score: 30
+  time: '2025-12-10T16:54:49Z'
+  title: Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot
+  url: https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot
+- id: 46223522
+  score: 29
+  time: '2025-12-10T20:43:16Z'
+  title: AI chatbots can sway voters with remarkable ease
+  url: https://www.nature.com/articles/d41586-025-03975-9#ref-CR1
+- id: 46220577
   score: 28
-  time: '2025-12-09T19:26:54Z'
-  title: MCP Joins the Agentic AI Foundation
-  url: http://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/
-- id: 46209077
-  score: 26
-  time: '2025-12-09T19:02:22Z'
-  title: Instacart uses AI to charge customers different prices for the same items
-    [video]
-  url: https://www.youtube.com/watch?v=osxr7xSxsGo
-- id: 46212202
-  score: 26
-  time: '2025-12-09T23:37:09Z'
-  title: Google is powering a new US Military AI platform
-  url: https://www.theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil
-- id: 46211994
-  score: 20
-  time: '2025-12-09T23:10:34Z'
-  title: OpenAI Is in Trouble
-  url: https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/
-- id: 46211102
-  score: 16
-  time: '2025-12-09T21:42:28Z'
-  title: Ads are showing up on Google's AI Mode now
-  url: https://sherwood.news/tech/ads-are-showing-up-on-googles-ai-mode-now/
-- id: 46209837
-  score: 15
-  time: '2025-12-09T20:00:10Z'
-  title: Semiconductor industry enters 'giga cycle' – scale of AI is rewriting economics
-  url: https://www.tomshardware.com/tech-industry/semiconductors/semiconductor-industry-enters-giga-cycle-as-ai-infrastructure-spending-reshapes-demand
-- id: 46205493
-  score: 13
-  time: '2025-12-09T14:49:51Z'
-  title: 'Show HN: I got tired of switching AI tools, so I built an IDE with 11 of
-    them'
-  url: https://hivetechs.io
-- id: 46208283
-  score: 11
-  time: '2025-12-09T18:07:23Z'
-  title: 'Block all AI browsers for the foreseeable future: Gartner'
-  url: https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/
-- id: 46213334
-  score: 11
-  time: '2025-12-10T02:28:04Z'
-  title: You Have Billions Invested in Generative AI
-  url: https://woe-industries.itch.io/you-have-billions-invested-in-generative-ai
-- id: 46203477
-  score: 9
-  time: '2025-12-09T10:49:38Z'
-  title: Building a Modern C64 Assembly AI Toolchain
-  url: https://medium.com/@gianlucabailo/building-a-modern-c64-assembly-ai-toolchain-using-google-gemini-3-1a36464c9458
-- id: 46210424
-  score: 7
-  time: '2025-12-09T20:47:55Z'
-  title: Linux Foundation Announces the Formation of the Agentic AI Foundation
-  url: https://aaif.io/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation-aaif-anchored-by-new-project-contributions-including-model-context-protocol-mcp-goose-and-agents-md/
-- id: 46212523
-  score: 6
-  time: '2025-12-10T00:20:45Z'
-  title: 'Halftime: Dynamically weaves AI-generated ads into the scenes you''re watching'
-  url: https://twitter.com/xai/status/1997875236415676619
+  time: '2025-12-10T17:27:09Z'
+  title: 'Show HN: MCPShark – Traffic Inspector for Model Context Protocol'
+  url: https://news.ycombinator.com/item?id=46220577
 source_url: https://hacker-news.firebaseio.com/

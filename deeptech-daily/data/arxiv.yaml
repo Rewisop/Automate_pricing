@@ -1,119 +1,121 @@
-fetched_at: '2025-12-10T05:35:36Z'
-generated_at: '2025-12-10T05:35:36Z'
-hash: 285205d478d64290fbd8a66e6fd2f42f59c622468a4a7dabd7cae245b47a9960
+fetched_at: '2025-12-11T05:36:51Z'
+generated_at: '2025-12-11T05:36:51Z'
+hash: 5280eaab8845a3849a1ab3251d3c527ddd4f0e3f9c225db469bdcf97e6b46da5
 items:
-- id: oai:arXiv.org:2512.07841v1
-  link: https://arxiv.org/abs/2512.07841
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.07841v1 Announce Type: new  Abstract: The growing performance
-    gap between multi-core CPUs and main memory necessitates hardware-aware software
-    desig…'
-  title: Impact of Data-Oriented and Object-Oriented Design on Performance and Cache
-    Utilization with Artificial Intelligence Algorithms in Multi-Threaded CPUs
-- id: oai:arXiv.org:2512.07926v1
-  link: https://arxiv.org/abs/2512.07926
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.07926v1 Announce Type: new  Abstract: Enterprise data management
-    is a monumental task. It spans data architecture and systems, integration, quality,…'
-  title: Can AI autonomously build, operate, and use the entire data stack?
-- id: oai:arXiv.org:2512.07993v1
-  link: https://arxiv.org/abs/2512.07993
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.07993v1 Announce Type: new  Abstract: Large reasoning models
-    (LRMs) often cost significant key-value (KV) cache overhead, due to their linear
-    growth…'
-  title: 'SkipKV: Selective Skipping of KV Generation and Storage for Efficient Inference
-    with Large Reasoning Models'
-- id: oai:arXiv.org:2512.08026v1
-  link: https://arxiv.org/abs/2512.08026
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.08026v1 Announce Type: new  Abstract: Screening patients for
-    clinical trial eligibility remains a manual, time-consuming, and resource-intensive
-    pro…'
-  title: Toward an AI Reasoning-Enabled System for Patient-Clinical Trial Matching
-- id: oai:arXiv.org:2512.08057v1
-  link: https://arxiv.org/abs/2512.08057
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.08057v1 Announce Type: new  Abstract: Pretrained Large Language
-    Models (LLMs) have achieved remarkable success across diverse domains, with educatio…'
-  title: 'Large Language Models for Education and Research: An Empirical and User
-    Survey-based Analysis'
-- id: oai:arXiv.org:2512.08147v1
-  link: https://arxiv.org/abs/2512.08147
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.08147v1 Announce Type: new  Abstract: The rising global prevalence
-    of diabetes necessitates early detection to prevent severe complications. While
-    A…'
-  title: Scalable Back-End for an AI-Based Diabetes Prediction Application
-- id: oai:arXiv.org:2512.08230v1
-  link: https://arxiv.org/abs/2512.08230
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.08230v1 Announce Type: new  Abstract: Learning about the causal
-    structure of the world is a fundamental problem for human cognition. Causal models
-    a…'
-  title: 'Empowerment Gain and Causal Model Construction: Children and adults are
-    sensitive to controllability and variability in their causal interventions'
-- id: oai:arXiv.org:2512.08261v1
-  link: https://arxiv.org/abs/2512.08261
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.08261v1 Announce Type: new  Abstract: Predicting diseases solely
-    from patient-side information, such as demographics and self-reported symptoms,
-    has…'
-  title: 'Beyond Traditional Diagnostics: Transforming Patient-Side Information into
-    Predictive Insights with Knowledge Graphs and Prototypes'
-- id: oai:arXiv.org:2512.08270v1
-  link: https://arxiv.org/abs/2512.08270
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.08270v1 Announce Type: new  Abstract: Previous research has
-    reported that large language models (LLMs) demonstrate poor performance on the
-    Chartered…'
-  title: Reasoning Models Ace the CFA Exams
-- id: oai:arXiv.org:2512.08273v1
-  link: https://arxiv.org/abs/2512.08273
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.08273v1 Announce Type: new  Abstract: Modern businesses are
-    increasingly challenged by the time and expense required to generate and assess
-    high-qua…'
-  title: 'AgentEval: Generative Agents as Reliable Proxies for Human Evaluation of
-    AI-Generated Content'
-- id: oai:arXiv.org:2512.08296v1
-  link: https://arxiv.org/abs/2512.08296
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.08296v1 Announce Type: new  Abstract: Agents, language model
-    (LM)-based systems that are capable of reasoning, planning, and acting are becoming
-    the…'
-  title: Towards a Science of Scaling Agent Systems
-- id: oai:arXiv.org:2512.08300v1
-  link: https://arxiv.org/abs/2512.08300
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.08300v1 Announce Type: new  Abstract: Large language models
-    (LLMs) are post-trained through reinforcement learning (RL) to evolve into Reasoning
-    Lan…'
-  title: 'rSIM: Incentivizing Reasoning Capabilities of LLMs via Reinforced Strategy
-    Injection'
-- id: oai:arXiv.org:2512.08340v1
-  link: https://arxiv.org/abs/2512.08340
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.08340v1 Announce Type: new  Abstract: The California Bearing
-    Ratio (CBR) is a key geotechnical indicator used to assess the load-bearing capacity
-    of…'
-  title: 'Predicting California Bearing Ratio with Ensemble and Neural Network Models:
-    A Case Study from T\"urkiye'
-- id: oai:arXiv.org:2512.08343v1
-  link: https://arxiv.org/abs/2512.08343
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.08343v1 Announce Type: new  Abstract: Soil compaction is critical
-    in construction engineering to ensure the stability of structures like road embank…'
-  title: Soil Compaction Parameters Prediction Based on Automated Machine Learning
-    Approach
-- id: oai:arXiv.org:2512.08344v1
-  link: https://arxiv.org/abs/2512.08344
-  published: '2025-12-10T05:00:00Z'
-  summary: 'arXiv:2512.08344v1 Announce Type: new  Abstract: Graph Neural Networks
-    (GNNs) have become a powerful tool for modeling and analyzing data with graph
-    structures…'
-  title: Enhancing Explainability of Graph Neural Networks Through Conceptual and
-    Structural Analyses and Their Extensions
+- id: oai:arXiv.org:2512.09088v1
+  link: https://arxiv.org/abs/2512.09088
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09088v1 Announce Type: new  Abstract: Hallucinations are outputs
+    by Large Language Models (LLMs) that are factually incorrect yet appear plausible
+    […'
+  title: 'Calibrated Trust in Dealing with LLM Hallucinations: A Qualitative Study'
+- id: oai:arXiv.org:2512.09114v1
+  link: https://arxiv.org/abs/2512.09114
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09114v1 Announce Type: new  Abstract: The deployment of AI
+    systems faces three critical governance challenges that current frameworks fail
+    to adequa…'
+  title: 'AI TIPS 2.0: A Comprehensive Framework for Operationalizing AI Governance'
+- id: oai:arXiv.org:2512.09117v1
+  link: https://arxiv.org/abs/2512.09117
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09117v1 Announce Type: new  Abstract: This paper presents a
+    formal, categorical framework for analysing how humans and large language models
+    (LLMs)…'
+  title: A Categorical Analysis of Large Language Models and Why LLMs Circumvent the
+    Symbol Grounding Problem
+- id: oai:arXiv.org:2512.09142v1
+  link: https://arxiv.org/abs/2512.09142
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09142v1 Announce Type: new  Abstract: We present SDialog, an
+    MIT-licensed open-source Python toolkit that unifies dialog generation, evaluation
+    and…'
+  title: 'SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation,
+    Dialog Generation, and Evaluation'
+- id: oai:arXiv.org:2512.09340v1
+  link: https://arxiv.org/abs/2512.09340
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09340v1 Announce Type: new  Abstract: Understanding how humans
+    and AI systems interpret ambiguous visual stimuli offers critical insight into
+    the na…'
+  title: 'Visual Categorization Across Minds and Models: Cognitive Analysis of Human
+    Labeling and Neuro-Symbolic Integration'
+- id: oai:arXiv.org:2512.09458v1
+  link: https://arxiv.org/abs/2512.09458
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09458v1 Announce Type: new  Abstract: This chapter argues that
+    the reliability of agentic and generative AI is chiefly an architectural property.
+    We…'
+  title: Architectures for Building Agentic AI
+- id: oai:arXiv.org:2512.09566v1
+  link: https://arxiv.org/abs/2512.09566
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09566v1 Announce Type: new  Abstract: Drug discovery is a time-consuming
+    and expensive process, with traditional high-throughput and docking-based v…'
+  title: Toward Closed-loop Molecular Discovery via Language Model, Property Alignment
+    and Strategic Search
+- id: oai:arXiv.org:2512.09629v1
+  link: https://arxiv.org/abs/2512.09629
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09629v1 Announce Type: new  Abstract: We present an end-to-end
+    framework for planning supported by verifiers. An orchestrator receives a human
+    speci…'
+  title: An End-to-end Planning Framework with Agentic LLMs and PDDL
+- id: oai:arXiv.org:2512.09727v1
+  link: https://arxiv.org/abs/2512.09727
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09727v1 Announce Type: new  Abstract: Monte Carlo Tree Search
+    is a cornerstone algorithm for online planning, and its root-parallel variant
+    is widel…'
+  title: Gaussian Process Aggregation for Root-Parallel Monte Carlo Tree Search with
+    Continuous Actions
+- id: oai:arXiv.org:2512.09736v1
+  link: https://arxiv.org/abs/2512.09736
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09736v1 Announce Type: new  Abstract: Multi-Agent Path Finding
+    (MAPF) algorithms are increasingly deployed in industrial warehouses and automated
+    ma…'
+  title: Analyzing Planner Design Trade-offs for MAPF under Realistic Simulation
+- id: oai:arXiv.org:2512.09829v1
+  link: https://arxiv.org/abs/2512.09829
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09829v1 Announce Type: new  Abstract: The massive scale of
+    modern AI accelerators presents critical challenges to traditional fault assessment
+    metho…'
+  title: 'RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using
+    Reinforcement Learning'
+- id: oai:arXiv.org:2512.09831v1
+  link: https://arxiv.org/abs/2512.09831
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09831v1 Announce Type: new  Abstract: This paper develops a
+    geometric framework for modeling belief, motivation, and influence across cognitively
+    he…'
+  title: 'Interpretation as Linear Transformation: A Cognitive-Geometric Model of
+    Belief and Meaning'
+- id: oai:arXiv.org:2512.09882v1
+  link: https://arxiv.org/abs/2512.09882
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09882v1 Announce Type: new  Abstract: We present the first
+    comprehensive evaluation of AI agents against human cybersecurity professionals
+    in a live…'
+  title: Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration
+    Testing
+- id: oai:arXiv.org:2512.09895v1
+  link: https://arxiv.org/abs/2512.09895
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09895v1 Announce Type: new  Abstract: Metadata vocabularies
+    are essential for advancing FAIR and FARR data principles, but their development
+    constra…'
+  title: 'Human-in-the-Loop and AI: Crowdsourcing Metadata Vocabulary for Materials
+    Science'
+- id: oai:arXiv.org:2512.09897v1
+  link: https://arxiv.org/abs/2512.09897
+  published: '2025-12-11T05:00:00Z'
+  summary: 'arXiv:2512.09897v1 Announce Type: new  Abstract: Long-term planning in
+    complex, text-based environments presents significant challenges due to open-ended
+    actio…'
+  title: 'SCOPE: Language Models as One-Time Teacher for Hierarchical Planning in
+    Text Environments'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

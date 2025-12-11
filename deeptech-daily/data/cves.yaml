@@ -1,45 +1,45 @@
-fetched_at: '2025-12-10T05:35:36Z'
-generated_at: '2025-12-10T05:35:36Z'
-hash: e219945875b63e761e392e6da1ed6f78ac38d17453256e099f8684c112569578
+fetched_at: '2025-12-11T05:36:51Z'
+generated_at: '2025-12-11T05:36:51Z'
+hash: 5c93015e411bad9f1173a4b26916d6988a27836f1457454e52d12885ae45cfba
 items:
 - cvss: 0.0
-  id: MAL-2025-6263
-  published: '2025-07-26T16:42:08Z'
-  summary: Malicious code in package-with-conditions (npm)
-- cvss: 0.0
-  id: MAL-2025-192345
-  published: '2025-12-05T21:10:10Z'
-  summary: Malicious code in native-component-list (npm)
-- cvss: 0.0
-  id: MAL-2025-192346
-  published: '2025-12-05T21:10:10Z'
-  summary: Malicious code in non-modular-buildable (npm)
-- cvss: 0.0
-  id: MAL-2025-192421
-  published: '2025-12-10T02:40:38Z'
-  summary: Malicious code in vue2-amis-custom-widget123 (npm)
-- cvss: 0.0
-  id: MAL-2025-192420
-  published: '2025-12-10T03:05:03Z'
-  summary: Malicious code in near-fast-auth-signer (npm)
-- cvss: 0.0
-  id: MAL-2025-192423
-  published: '2025-12-10T04:05:56Z'
-  summary: Malicious code in vue2-amis-custom-widget-pro (npm)
-- cvss: 0.0
-  id: CVE-2025-13677
-  published: '2025-12-10T04:15:57Z'
+  id: CVE-2025-14157
+  published: '2025-12-11T04:15:58Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-67605
-  published: '2025-12-10T04:15:58Z'
+  id: CVE-2025-67686
+  published: '2025-12-11T04:15:59Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-67606
-  published: '2025-12-10T04:15:58Z'
+  id: CVE-2025-67687
+  published: '2025-12-11T04:15:59Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-67607
-  published: '2025-12-10T04:15:58Z'
+  id: CVE-2025-67688
+  published: '2025-12-11T04:15:59Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-67689
+  published: '2025-12-11T04:15:59Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-67690
+  published: '2025-12-11T04:15:59Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-67691
+  published: '2025-12-11T04:15:59Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-67692
+  published: '2025-12-11T04:15:59Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-67693
+  published: '2025-12-11T04:15:59Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-67694
+  published: '2025-12-11T04:15:59Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last
