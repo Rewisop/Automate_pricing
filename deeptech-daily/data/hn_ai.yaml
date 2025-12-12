@@ -1,40 +1,45 @@
-fetched_at: '2025-12-11T05:36:51Z'
-generated_at: '2025-12-11T05:36:51Z'
-hash: 03e4c6e936cdfb7d7a9d24416fc840c5fcac398f6a10d6e2e45b80c5ff0e9b33
+fetched_at: '2025-12-12T05:35:53Z'
+generated_at: '2025-12-12T05:35:53Z'
+hash: 863d89bf2f184c30b308764c931f97663233d575daea0319242c86be0a4fa703
 items:
-- id: 46219853
-  score: 295
-  time: '2025-12-10T16:34:52Z'
-  title: DeepSeek uses banned Nvidia chips for AI model, report says
-  url: https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html
-- id: 46219538
-  score: 230
-  time: '2025-12-10T16:13:38Z'
-  title: Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model
-  url: https://qwen.ai/blog?id=qwen3-omni-flash-20251201
-- id: 46217176
-  score: 105
-  time: '2025-12-10T12:57:38Z'
-  title: McDonald's pulls AI Christmas ad after backlash
-  url: https://www.bbc.co.uk/news/articles/czdgrnvp082o
-- id: 46219386
-  score: 45
-  time: '2025-12-10T16:05:03Z'
-  title: 'Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings'
-  url: https://news.ycombinator.com/item?id=46219386
-- id: 46220108
-  score: 30
-  time: '2025-12-10T16:54:49Z'
-  title: Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot
-  url: https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot
-- id: 46223522
-  score: 29
-  time: '2025-12-10T20:43:16Z'
-  title: AI chatbots can sway voters with remarkable ease
-  url: https://www.nature.com/articles/d41586-025-03975-9#ref-CR1
-- id: 46220577
-  score: 28
-  time: '2025-12-10T17:27:09Z'
-  title: 'Show HN: MCPShark – Traffic Inspector for Model Context Protocol'
-  url: https://news.ycombinator.com/item?id=46220577
+- id: 46234788
+  score: 884
+  time: '2025-12-11T18:04:47Z'
+  title: GPT-5.2
+  url: https://openai.com/index/introducing-gpt-5-2/
+- id: 46231187
+  score: 270
+  time: '2025-12-11T13:35:55Z'
+  title: French supermarket's Christmas advert is worldwide hit (without AI) [video]
+  url: https://www.youtube.com/watch?v=Na9VmMNJvsA
+- id: 46231493
+  score: 189
+  time: '2025-12-11T14:05:16Z'
+  title: The Walt Disney Company and OpenAI Partner on Sora
+  url: https://openai.com/index/disney-sora-agreement/
+- id: 46233067
+  score: 107
+  time: '2025-12-11T16:02:32Z'
+  title: A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It
+  url: https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/
+- id: 46236820
+  score: 35
+  time: '2025-12-11T20:38:58Z'
+  title: Something Ominous Is Happening in the AI Economy
+  url: https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/
+- id: 46238354
+  score: 15
+  time: '2025-12-11T22:43:00Z'
+  title: AI coding is sexy, but accounting is the real low-hanging automation target
+  url: https://news.ycombinator.com/item?id=46238354
+- id: 46239377
+  score: 7
+  time: '2025-12-12T00:29:18Z'
+  title: AI Doesn't Need More Compute – It Needs Less Entropy
+  url: https://medium.com/@yttrium39pt/ai-doesnt-need-more-compute-it-needs-less-entropy-5e0f1771a076
+- id: 46237745
+  score: 5
+  time: '2025-12-11T21:55:31Z'
+  title: 'OpenAI: Ten Years'
+  url: https://openai.com/index/ten-years/
 source_url: https://hacker-news.firebaseio.com/
