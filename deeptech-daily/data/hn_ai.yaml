@@ -1,45 +1,67 @@
-fetched_at: '2025-12-12T05:35:53Z'
-generated_at: '2025-12-12T05:35:53Z'
-hash: 863d89bf2f184c30b308764c931f97663233d575daea0319242c86be0a4fa703
+fetched_at: '2025-12-13T05:34:11Z'
+generated_at: '2025-12-13T05:34:11Z'
+hash: 70ea6770becd4ffb5a17f9e1f2a44d958336b07d5dd87a12fe7fd9b818d7796e
 items:
-- id: 46234788
-  score: 884
-  time: '2025-12-11T18:04:47Z'
-  title: GPT-5.2
-  url: https://openai.com/index/introducing-gpt-5-2/
-- id: 46231187
-  score: 270
-  time: '2025-12-11T13:35:55Z'
-  title: French supermarket's Christmas advert is worldwide hit (without AI) [video]
-  url: https://www.youtube.com/watch?v=Na9VmMNJvsA
-- id: 46231493
-  score: 189
-  time: '2025-12-11T14:05:16Z'
-  title: The Walt Disney Company and OpenAI Partner on Sora
-  url: https://openai.com/index/disney-sora-agreement/
-- id: 46233067
-  score: 107
-  time: '2025-12-11T16:02:32Z'
-  title: A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It
-  url: https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/
-- id: 46236820
-  score: 35
-  time: '2025-12-11T20:38:58Z'
-  title: Something Ominous Is Happening in the AI Economy
-  url: https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/
-- id: 46238354
-  score: 15
-  time: '2025-12-11T22:43:00Z'
-  title: AI coding is sexy, but accounting is the real low-hanging automation target
-  url: https://news.ycombinator.com/item?id=46238354
-- id: 46239377
-  score: 7
-  time: '2025-12-12T00:29:18Z'
-  title: AI Doesn't Need More Compute – It Needs Less Entropy
-  url: https://medium.com/@yttrium39pt/ai-doesnt-need-more-compute-it-needs-less-entropy-5e0f1771a076
-- id: 46237745
-  score: 5
-  time: '2025-12-11T21:55:31Z'
-  title: 'OpenAI: Ten Years'
-  url: https://openai.com/index/ten-years/
+- id: 46248644
+  score: 328
+  time: '2025-12-12T20:41:38Z'
+  title: macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt
+  url: https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt
+- id: 46250332
+  score: 230
+  time: '2025-12-12T23:30:19Z'
+  title: OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI
+  url: https://simonwillison.net/2025/Dec/12/openai-skills/
+- id: 46241849
+  score: 157
+  time: '2025-12-12T07:51:04Z'
+  title: Guarding My Git Forge Against AI Scrapers
+  url: https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/
+- id: 46246031
+  score: 127
+  time: '2025-12-12T17:01:07Z'
+  title: Oracle made a $300B bet on OpenAI. It's paying the price
+  url: https://finance.yahoo.com/news/oracle-made-a-300-billion-bet-on-openai-its-paying-the-price-205441863.html
+- id: 46245731
+  score: 110
+  time: '2025-12-12T16:32:43Z'
+  title: Using secondary school maths to demystify AI
+  url: https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/
+- id: 46248417
+  score: 75
+  time: '2025-12-12T20:24:04Z'
+  title: New Kindle feature uses AI to answer questions about books
+  url: https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/
+- id: 46246921
+  score: 37
+  time: '2025-12-12T18:16:52Z'
+  title: Amazon pulls AI-powered Fallout recap after getting key story details wrong
+  url: https://www.ign.com/articles/everyone-disliked-that-amazon-pulls-ai-powered-fallout-recap-after-getting-key-story-details-wrong
+- id: 46246809
+  score: 17
+  time: '2025-12-12T18:08:15Z'
+  title: 'Ask HN: Did anyone else notice that the OpenAI Labs website was completely
+    gone?'
+  url: https://news.ycombinator.com/item?id=46246809
+- id: 46249820
+  score: 16
+  time: '2025-12-12T22:32:38Z'
+  title: Arizona city rejects data center after AI lobbying push
+  url: https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543
+- id: 46247512
+  score: 10
+  time: '2025-12-12T19:06:33Z'
+  title: Updated Gemini 2.5 Flash Native Audio Model
+  url: https://blog.google/products/gemini/gemini-audio-model-updates/
+- id: 46250009
+  score: 9
+  time: '2025-12-12T22:50:12Z'
+  title: A LLM trained only on data from certain time periods to reduce modern bias
+  url: https://github.com/haykgrigo3/TimeCapsuleLLM
+- id: 46247613
+  score: 6
+  time: '2025-12-12T19:14:15Z'
+  title: In letter to tech, 42 AG's target "sycophantic and delusional" AI outputs
+    [pdf]
+  url: https://www.iowaattorneygeneral.gov/media/cms/12_68B5C629180F6.pdf
 source_url: https://hacker-news.firebaseio.com/

@@ -1,58 +1,81 @@
-fetched_at: '2025-12-12T05:35:53Z'
-generated_at: '2025-12-12T05:35:53Z'
-hash: e38e44b3cf1896af152f4991a29330f4cc04ceefd79dbb12f07ce43090ff3e87
+fetched_at: '2025-12-13T05:34:11Z'
+generated_at: '2025-12-13T05:34:11Z'
+hash: 8ad48c0e0b293311f0234df10950ee62a034bf2e6778fe7b68592b6685179d86
 items:
 - created_at: '2025-12-10T16:10:52Z'
   description: Analyzing Hacker News discussions from a decade ago in hindsight with
     LLMs
   full_name: karpathy/hn-time-capsule
   html_url: https://github.com/karpathy/hn-time-capsule
-  stargazers_count: 278
-- created_at: '2025-12-10T05:40:24Z'
-  description: LLM powered drawio live editor
-  full_name: JerryKwan/drawio-live-editor
-  html_url: https://github.com/JerryKwan/drawio-live-editor
-  stargazers_count: 40
+  stargazers_count: 335
+- created_at: '2025-12-09T16:59:54Z'
+  description: Remote MCP Server that securely connects Enterprise context with your
+    LLM, IDE, or agent platform of choice.
+  full_name: gleanwork/remote-mcp-server
+  html_url: https://github.com/gleanwork/remote-mcp-server
+  stargazers_count: 102
+- created_at: '2025-12-09T15:09:03Z'
+  description: 'See&Trek: Training-Free Spatial Prompting for Multimodal Large Language
+    Model'
+  full_name: Hoantrbl/SeeTrek
+  html_url: https://github.com/Hoantrbl/SeeTrek
+  stargazers_count: 45
+- created_at: '2025-12-10T20:02:05Z'
+  description: An Excel AI agent that uses MCP tools to let LLMs read, edit, and automate
+    Excel spreadsheets.
+  full_name: SylvianAI/sv-excel-agent
+  html_url: https://github.com/SylvianAI/sv-excel-agent
+  stargazers_count: 43
 - created_at: '2025-12-07T14:06:31Z'
   description: Wuhe Design presents the Krita × Ollama Prompt Generator — a local
     LLM-powered plugin for generating, refining, and sending prompts directly into
     the krita-ai-…
   full_name: yen-shi-lun/Krita-Ollama-Prompt-Generator
   html_url: https://github.com/yen-shi-lun/Krita-Ollama-Prompt-Generator
-  stargazers_count: 39
+  stargazers_count: 42
+- created_at: '2025-12-10T05:40:24Z'
+  description: LLM powered drawio live editor
+  full_name: JerryKwan/drawio-live-editor
+  html_url: https://github.com/JerryKwan/drawio-live-editor
+  stargazers_count: 40
+- created_at: '2025-12-10T00:50:51Z'
+  description: 'd3LLM: Ultra-Fast Diffusion LLM 🚀'
+  full_name: hao-ai-lab/d3LLM
+  html_url: https://github.com/hao-ai-lab/d3LLM
+  stargazers_count: 31
 - created_at: '2025-12-08T02:15:21Z'
   description: '[NeurIPS 2025] Less Is More, but Where? Dynamic Token Compression
     via LLM-Guided Keyframe Prior'
   full_name: yu-lin-li/DyToK
   html_url: https://github.com/yu-lin-li/DyToK
-  stargazers_count: 29
-- created_at: '2025-12-07T02:42:40Z'
-  description: The Swift Concurrency Migration Guide, packaged as a Skill for LLMs.
-  full_name: kylehughes/the-unofficial-swift-concurrency-migration-skill
-  html_url: https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill
-  stargazers_count: 28
-- created_at: '2025-12-10T20:02:05Z'
-  description: An Excel AI agent that uses MCP tools to let LLMs read, edit, and automate
-    Excel spreadsheets.
-  full_name: SylvianAI/sv-excel-agent
-  html_url: https://github.com/SylvianAI/sv-excel-agent
-  stargazers_count: 26
-- created_at: '2025-12-09T15:09:03Z'
-  description: 'See&Trek: Training-Free Spatial Prompting for Multimodal Large Language
-    Model'
-  full_name: Hoantrbl/SeeTrek
-  html_url: https://github.com/Hoantrbl/SeeTrek
-  stargazers_count: 25
+  stargazers_count: 31
 - created_at: '2025-12-08T10:03:54Z'
   description: 'Beyond Real: Imaginary Extension of Rotary Position Embeddings for
     Long-Context LLMs'
   full_name: OpenMOSS/rope_pp
   html_url: https://github.com/OpenMOSS/rope_pp
-  stargazers_count: 25
-- created_at: '2025-12-10T00:50:51Z'
-  description: 'd3LLM: Ultra-Fast Diffusion LLM 🚀'
-  full_name: hao-ai-lab/d3LLM
-  html_url: https://github.com/hao-ai-lab/d3LLM
+  stargazers_count: 28
+- created_at: '2025-12-07T02:42:40Z'
+  description: The Swift Concurrency Migration Guide, packaged as a Skill for LLMs.
+  full_name: kylehughes/the-unofficial-swift-concurrency-migration-skill
+  html_url: https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill
+  stargazers_count: 28
+- created_at: '2025-12-11T11:14:41Z'
+  description: Multi-agent AI discussion CLI for structured debates between LLMs
+  full_name: Detrol/quorum-cli
+  html_url: https://github.com/Detrol/quorum-cli
+  stargazers_count: 21
+- created_at: '2025-12-10T02:48:56Z'
+  description: LingEcho is an intelligent voice interaction platform that provides
+    a comprehensive AI voice interaction solution. It integrates advanced speech recognition
+    (A…
+  full_name: code-100-precent/LingEcho-App
+  html_url: https://github.com/code-100-precent/LingEcho-App
+  stargazers_count: 20
+- created_at: '2025-12-08T03:07:18Z'
+  description: Ask users structured questions in an LLM chat! AI SDK + Shadcn
+  full_name: kamath/questionnaire
+  html_url: https://github.com/kamath/questionnaire
   stargazers_count: 20
 - created_at: '2025-12-10T12:37:33Z'
   description: AI-native TypeScript validation library optimized for LLM outputs,
@@ -60,11 +83,6 @@ items:
   full_name: v-checha/valai
   html_url: https://github.com/v-checha/valai
   stargazers_count: 20
-- created_at: '2025-12-08T03:07:18Z'
-  description: Ask users structured questions in an LLM chat! AI SDK + Shadcn
-  full_name: kamath/questionnaire
-  html_url: https://github.com/kamath/questionnaire
-  stargazers_count: 19
 - created_at: '2025-12-07T06:50:57Z'
   description: Burgundy Bee | P2P protocol for Large Language Model
   full_name: Chatit-cloud/BEE2BEE
@@ -77,6 +95,11 @@ items:
   full_name: agynio/gh-pr-review
   html_url: https://github.com/agynio/gh-pr-review
   stargazers_count: 14
+- created_at: '2025-12-09T05:56:53Z'
+  description: 'OpenRouterBench: A One-Stop Benchmark and Solution Suite for LLM Routing'
+  full_name: ynulihao/OpenRouterBench
+  html_url: https://github.com/ynulihao/OpenRouterBench
+  stargazers_count: 13
 - created_at: '2025-12-09T04:25:24Z'
   description: LLM-powered MCP server for building financial deep-research agents,
     integrating web search, Crawl4AI scraping, and entity extraction into composable
@@ -84,43 +107,17 @@ items:
   full_name: FlowLLM-AI/finance-mcp
   html_url: https://github.com/FlowLLM-AI/finance-mcp
   stargazers_count: 12
-- created_at: '2025-12-10T02:48:56Z'
-  description: LingEcho is an intelligent voice interaction platform that provides
-    a comprehensive AI voice interaction solution. It integrates advanced speech recognition
-    (A…
-  full_name: code-100-precent/LingEcho-App
-  html_url: https://github.com/code-100-precent/LingEcho-App
-  stargazers_count: 12
-- created_at: '2025-12-09T05:56:53Z'
-  description: 'OpenRouterBench: A One-Stop Benchmark and Solution Suite for LLM Routing'
-  full_name: ynulihao/OpenRouterBench
-  html_url: https://github.com/ynulihao/OpenRouterBench
-  stargazers_count: 12
-- created_at: '2025-12-07T02:45:49Z'
-  description: Probe multiple LLM API endpoints to detect available models, then serve
-    them through a unified local API supporting both OpenAI and Anthropic Claude formats.
-  full_name: Runtime-Exception/lmprobe
-  html_url: https://github.com/Runtime-Exception/lmprobe
-  stargazers_count: 10
 - created_at: '2025-12-10T04:16:21Z'
   description: Dynamic tool discovery and selection for Spring AI, enabling LLMs to
     work efficiently with large tool libraries by discovering tools on-demand instead
     of loadi…
   full_name: spring-ai-community/spring-ai-tool-search-tool
   html_url: https://github.com/spring-ai-community/spring-ai-tool-search-tool
+  stargazers_count: 12
+- created_at: '2025-12-09T20:10:24Z'
+  description: A collection of Space Invaders games built by different LLMs and coding
+    agents
+  full_name: simonw/space-invaders-by-llms
+  html_url: https://github.com/simonw/space-invaders-by-llms
   stargazers_count: 10
-- created_at: '2025-12-06T20:27:31Z'
-  description: BRAINS is a production-ready, multi-agent medical diagnostic platform
-    powered by Retrieval-Augmented Generation (RAG) and LLM inference. It combines
-    a Next.js…
-  full_name: eliteresearchlab/BRAINS
-  html_url: https://github.com/eliteresearchlab/BRAINS
-  stargazers_count: 9
-- created_at: '2025-12-10T13:28:25Z'
-  description: Comprehensive AI Evaluation Framework with advanced techniques including
-    Probability-Weighted Scoring. Support for multiple LLM providers and evaluation
-    metric…
-  full_name: firstlinesoftware/eval-ai-library
-  html_url: https://github.com/firstlinesoftware/eval-ai-library
-  stargazers_count: 9
 source_url: https://api.github.com/search/repositories
