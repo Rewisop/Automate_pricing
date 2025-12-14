@@ -1,67 +1,55 @@
-fetched_at: '2025-12-13T05:34:11Z'
-generated_at: '2025-12-13T05:34:11Z'
-hash: 70ea6770becd4ffb5a17f9e1f2a44d958336b07d5dd87a12fe7fd9b818d7796e
+fetched_at: '2025-12-14T05:33:31Z'
+generated_at: '2025-12-14T05:33:31Z'
+hash: d2794929661c88ac8fa7f4ca47aa9d3c9b761fad3ebba69fcb92d4061a86decd
 items:
-- id: 46248644
-  score: 328
-  time: '2025-12-12T20:41:38Z'
-  title: macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt
-  url: https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt
-- id: 46250332
-  score: 230
-  time: '2025-12-12T23:30:19Z'
-  title: OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI
-  url: https://simonwillison.net/2025/Dec/12/openai-skills/
-- id: 46241849
-  score: 157
-  time: '2025-12-12T07:51:04Z'
-  title: Guarding My Git Forge Against AI Scrapers
-  url: https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/
-- id: 46246031
-  score: 127
-  time: '2025-12-12T17:01:07Z'
-  title: Oracle made a $300B bet on OpenAI. It's paying the price
-  url: https://finance.yahoo.com/news/oracle-made-a-300-billion-bet-on-openai-its-paying-the-price-205441863.html
-- id: 46245731
-  score: 110
-  time: '2025-12-12T16:32:43Z'
-  title: Using secondary school maths to demystify AI
-  url: https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/
-- id: 46248417
-  score: 75
-  time: '2025-12-12T20:24:04Z'
-  title: New Kindle feature uses AI to answer questions about books
-  url: https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/
-- id: 46246921
-  score: 37
-  time: '2025-12-12T18:16:52Z'
-  title: Amazon pulls AI-powered Fallout recap after getting key story details wrong
-  url: https://www.ign.com/articles/everyone-disliked-that-amazon-pulls-ai-powered-fallout-recap-after-getting-key-story-details-wrong
-- id: 46246809
-  score: 17
-  time: '2025-12-12T18:08:15Z'
-  title: 'Ask HN: Did anyone else notice that the OpenAI Labs website was completely
-    gone?'
-  url: https://news.ycombinator.com/item?id=46246809
-- id: 46249820
-  score: 16
-  time: '2025-12-12T22:32:38Z'
+- id: 46255285
+  score: 275
+  time: '2025-12-13T15:37:16Z'
+  title: 'Ask HN: How can I get better at using AI for programming?'
+  url: https://news.ycombinator.com/item?id=46255285
+- id: 46257607
+  score: 135
+  time: '2025-12-13T20:19:53Z'
+  title: I fed 24 years of my blog posts to a Markov model
+  url: https://susam.net/fed-24-years-of-posts-to-markov-model.html
+- id: 46257939
+  score: 58
+  time: '2025-12-13T20:54:32Z'
+  title: Purdue University approves new AI requirement for all undergrads
+  url: https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/
+- id: 46260106
+  score: 19
+  time: '2025-12-14T01:43:33Z'
+  title: If a Meta AI model can read a brain-wide signal, why wouldn't the brain?
+  url: https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain
+- id: 46259827
+  score: 14
+  time: '2025-12-14T00:54:11Z'
+  title: New Rule Forbids Gnome Shell Extensions Made Using AI Generated Code
+  url: https://www.phoronix.com/news/GNOME-Extensions-Block-AI
+- id: 46258593
+  score: 11
+  time: '2025-12-13T22:04:52Z'
   title: Arizona city rejects data center after AI lobbying push
   url: https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543
-- id: 46247512
-  score: 10
-  time: '2025-12-12T19:06:33Z'
-  title: Updated Gemini 2.5 Flash Native Audio Model
-  url: https://blog.google/products/gemini/gemini-audio-model-updates/
-- id: 46250009
-  score: 9
-  time: '2025-12-12T22:50:12Z'
-  title: A LLM trained only on data from certain time periods to reduce modern bias
-  url: https://github.com/haykgrigo3/TimeCapsuleLLM
-- id: 46247613
-  score: 6
-  time: '2025-12-12T19:14:15Z'
-  title: In letter to tech, 42 AG's target "sycophantic and delusional" AI outputs
-    [pdf]
-  url: https://www.iowaattorneygeneral.gov/media/cms/12_68B5C629180F6.pdf
+- id: 46258777
+  score: 8
+  time: '2025-12-13T22:24:47Z'
+  title: How to Turn Off AI Tools Like Gemini, Apple Intelligence, Copilot
+  url: https://www.consumerreports.org/electronics/artificial-intelligence/turn-off-ai-tools-gemini-apple-intelligence-copilot-and-more-a1156421356/
+- id: 46259056
+  score: 5
+  time: '2025-12-13T22:57:21Z'
+  title: AI Boom Threatens to Suck Resources Away from Road, Bridge Work
+  url: https://www.bloomberg.com/news/newsletters/2025-12-12/ai-data-center-boom-may-suck-resources-away-from-road-bridge-work
+- id: 46259380
+  score: 5
+  time: '2025-12-13T23:46:51Z'
+  title: Copywriters reveal how AI has decimated their industry
+  url: https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the
+- id: 46259496
+  score: 5
+  time: '2025-12-14T00:04:00Z'
+  title: AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says
+  url: https://www.theregister.com/2025/12/11/ai_superintelligence_fantasy/
 source_url: https://hacker-news.firebaseio.com/

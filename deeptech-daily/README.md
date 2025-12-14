@@ -60,6 +60,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -71,6 +72,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -220,28 +222,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                                  |   Stars | Description                                                                                                                                                      |
-|-------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| karpathy/hn-time-capsule                                    |     335 | Analyzing Hacker News discussions from a decade ago in hindsight with LLMs                                                                                       |
-| gleanwork/remote-mcp-server                                 |     102 | Remote MCP Server that securely connects Enterprise context with your LLM, IDE, or agent platform of choice.                                                     |
-| Hoantrbl/SeeTrek                                            |      45 | See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model                                                                                    |
-| SylvianAI/sv-excel-agent                                    |      43 | An Excel AI agent that uses MCP tools to let LLMs read, edit, and automate Excel spreadsheets.                                                                   |
-| yen-shi-lun/Krita-Ollama-Prompt-Generator                   |      42 | Wuhe Design presents the Krita × Ollama Prompt Generator — a local LLM-powered plugin for generating, refining, and sending prompts directly into the krita-ai-… |
-| JerryKwan/drawio-live-editor                                |      40 | LLM powered drawio live editor                                                                                                                                   |
-| hao-ai-lab/d3LLM                                            |      31 | d3LLM: Ultra-Fast Diffusion LLM 🚀                                                                                                                                |
-| yu-lin-li/DyToK                                             |      31 | [NeurIPS 2025] Less Is More, but Where? Dynamic Token Compression via LLM-Guided Keyframe Prior                                                                  |
-| OpenMOSS/rope_pp                                            |      28 | Beyond Real: Imaginary Extension of Rotary Position Embeddings for Long-Context LLMs                                                                             |
-| kylehughes/the-unofficial-swift-concurrency-migration-skill |      28 | The Swift Concurrency Migration Guide, packaged as a Skill for LLMs.                                                                                             |
-| Detrol/quorum-cli                                           |      21 | Multi-agent AI discussion CLI for structured debates between LLMs                                                                                                |
-| code-100-precent/LingEcho-App                               |      20 | LingEcho is an intelligent voice interaction platform that provides a comprehensive AI voice interaction solution. It integrates advanced speech recognition (A… |
-| kamath/questionnaire                                        |      20 | Ask users structured questions in an LLM chat! AI SDK + Shadcn                                                                                                   |
-| v-checha/valai                                              |      20 | AI-native TypeScript validation library optimized for LLM outputs, function calling, and structured generation.                                                  |
-| Chatit-cloud/BEE2BEE                                        |      15 | Burgundy Bee | P2P protocol for Large Language Model                                                                                                             |
-| agynio/gh-pr-review                                         |      14 | GitHub CLI extension that adds full inline PR review comment support — view, navigate, reply to, and resolve review threads directly from the terminal. LLM-rea… |
-| ynulihao/OpenRouterBench                                    |      13 | OpenRouterBench: A One-Stop Benchmark and Solution Suite for LLM Routing                                                                                         |
-| FlowLLM-AI/finance-mcp                                      |      12 | LLM-powered MCP server for building financial deep-research agents, integrating web search, Crawl4AI scraping, and entity extraction into composable analysis f… |
-| spring-ai-community/spring-ai-tool-search-tool              |      12 | Dynamic tool discovery and selection for Spring AI, enabling LLMs to work efficiently with large tool libraries by discovering tools on-demand instead of loadi… |
-| simonw/space-invaders-by-llms                               |      10 | A collection of Space Invaders games built by different LLMs and coding agents                                                                                   |
+| Repository                                     |   Stars | Description                                                                                                                                                      |
+|------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| karpathy/hn-time-capsule                       |     365 | Analyzing Hacker News discussions from a decade ago in hindsight with LLMs                                                                                       |
+| gleanwork/remote-mcp-server                    |     114 | Remote MCP Server that securely connects Enterprise context with your LLM, IDE, or agent platform of choice.                                                     |
+| Hoantrbl/SeeTrek                               |      59 | See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model                                                                                    |
+| SylvianAI/sv-excel-agent                       |      53 | An Excel AI agent that uses MCP tools to let LLMs read, edit, and automate Excel spreadsheets.                                                                   |
+| JerryKwan/drawio-live-editor                   |      43 | LLM powered drawio live editor                                                                                                                                   |
+| code-100-precent/LingEcho-App                  |      33 | LingEcho is an intelligent voice interaction platform that provides a comprehensive AI voice interaction solution. It integrates advanced speech recognition (A… |
+| hao-ai-lab/d3LLM                               |      33 | d3LLM: Ultra-Fast Diffusion LLM 🚀                                                                                                                                |
+| yu-lin-li/DyToK                                |      32 | [NeurIPS 2025] Less Is More, but Where? Dynamic Token Compression via LLM-Guided Keyframe Prior                                                                  |
+| Detrol/quorum-cli                              |      30 | Multi-agent AI discussion CLI for structured debates between LLMs                                                                                                |
+| OpenMOSS/rope_pp                               |      28 | Beyond Real: Imaginary Extension of Rotary Position Embeddings for Long-Context LLMs                                                                             |
+| kamath/questionnaire                           |      20 | Ask users structured questions in an LLM chat! AI SDK + Shadcn                                                                                                   |
+| v-checha/valai                                 |      20 | AI-native TypeScript validation library optimized for LLM outputs, function calling, and structured generation.                                                  |
+| paiad/mcp-java-news-crawler                    |      14 | ✨用Java实现的MCP，爬取最新热点新闻，允许LLM调用。告别信息茧房，用AI洞悉世界。                                                                                                                    |
+| spring-ai-community/spring-ai-tool-search-tool |      13 | Dynamic tool discovery and selection for Spring AI, enabling LLMs to work efficiently with large tool libraries by discovering tools on-demand instead of loadi… |
+| ynulihao/OpenRouterBench                       |      13 | OpenRouterBench: A One-Stop Benchmark and Solution Suite for LLM Routing                                                                                         |
+| FlowLLM-AI/finance-mcp                         |      12 | LLM-powered MCP server for building financial deep-research agents, integrating web search, Crawl4AI scraping, and entity extraction into composable analysis f… |
+| firstlinesoftware/eval-ai-library              |      10 | Comprehensive AI Evaluation Framework with advanced techniques including Probability-Weighted Scoring. Support for multiple LLM providers and evaluation metric… |
+| simonw/space-invaders-by-llms                  |      10 | A collection of Space Invaders games built by different LLMs and coding agents                                                                                   |
+| sou350121/investment-masters-handbook          |       9 | 📈 传奇投资人智慧框架 | IF-THEN 决策规则 | LLM 友好 | Legendary Investors' Wisdom for AI & Human                                                                                 |
+| kcxain/Awesome-LLM4Kernel                      |       8 | LLM4Kernel: A Survey of Large Language Models for GPU Kernel Development                                                                                         |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -251,34 +253,32 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt) — 328 points
-- [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/) — 230 points
-- [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/) — 157 points
-- [Oracle made a $300B bet on OpenAI. It's paying the price](https://finance.yahoo.com/news/oracle-made-a-300-billion-bet-on-openai-its-paying-the-price-205441863.html) — 127 points
-- [Using secondary school maths to demystify AI](https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/) — 110 points
-- [New Kindle feature uses AI to answer questions about books](https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/) — 75 points
-- [Amazon pulls AI-powered Fallout recap after getting key story details wrong](https://www.ign.com/articles/everyone-disliked-that-amazon-pulls-ai-powered-fallout-recap-after-getting-key-story-details-wrong) — 37 points
-- [Ask HN: Did anyone else notice that the OpenAI Labs website was completely gone?](https://news.ycombinator.com/item?id=46246809) — 17 points
-- [Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543) — 16 points
-- [Updated Gemini 2.5 Flash Native Audio Model](https://blog.google/products/gemini/gemini-audio-model-updates/) — 10 points
-- [A LLM trained only on data from certain time periods to reduce modern bias](https://github.com/haykgrigo3/TimeCapsuleLLM) — 9 points
-- [In letter to tech, 42 AG's target "sycophantic and delusional" AI outputs [pdf]](https://www.iowaattorneygeneral.gov/media/cms/12_68B5C629180F6.pdf) — 6 points
+- [Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285) — 275 points
+- [I fed 24 years of my blog posts to a Markov model](https://susam.net/fed-24-years-of-posts-to-markov-model.html) — 135 points
+- [Purdue University approves new AI requirement for all undergrads](https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/) — 58 points
+- [If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain) — 19 points
+- [New Rule Forbids Gnome Shell Extensions Made Using AI Generated Code](https://www.phoronix.com/news/GNOME-Extensions-Block-AI) — 14 points
+- [Arizona city rejects data center after AI lobbying push](https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543) — 11 points
+- [How to Turn Off AI Tools Like Gemini, Apple Intelligence, Copilot](https://www.consumerreports.org/electronics/artificial-intelligence/turn-off-ai-tools-gemini-apple-intelligence-copilot-and-more-a1156421356/) — 8 points
+- [AI Boom Threatens to Suck Resources Away from Road, Bridge Work](https://www.bloomberg.com/news/newsletters/2025-12-12/ai-data-center-boom-may-suck-resources-away-from-road-bridge-work) — 5 points
+- [Copywriters reveal how AI has decimated their industry](https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the) — 5 points
+- [AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says](https://www.theregister.com/2025/12/11/ai_superintelligence_fantasy/) — 5 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE   |   CVSS | Summary   |
-|-------|--------|-----------|
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
-|       |      0 |           |
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| CVE-2025-43527      |      0 |           |
+| GHSA-mvwp-xpr9-3mwj |      0 |           |
+| GHSA-8mc4-q7gv-xrqv |      0 |           |
+| GHSA-fqh2-qgmv-w3w8 |      0 |           |
+| GHSA-hr7m-hf2x-j4vh |      0 |           |
+| GHSA-r8ww-q8x3-4wc9 |      0 |           |
+| CVE-2025-9116       |      0 |           |
+| GHSA-pg34-74hm-v732 |      0 |           |
+| GHSA-hjfv-pj3c-gjj3 |      0 |           |
+| CVE-2025-14638      |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
