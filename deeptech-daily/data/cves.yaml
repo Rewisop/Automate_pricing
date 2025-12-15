@@ -1,45 +1,45 @@
-fetched_at: '2025-12-14T05:33:31Z'
-generated_at: '2025-12-14T05:33:31Z'
-hash: 03fa4aec044f75f7e1b20bf4c04c6a5147f5e6d5632403b7b84a402a21cc4855
+fetched_at: '2025-12-15T05:40:03Z'
+generated_at: '2025-12-15T05:40:03Z'
+hash: 4dc8f8b573baaf1e2ab3db66848b4b1c1193332000e9e37a192df3db88a211cb
 items:
 - cvss: 0.0
-  id: CVE-2025-43527
-  published: '2025-12-12T21:15:57Z'
+  id: MAL-2024-3055
+  published: '2024-06-25T13:02:06Z'
+  summary: Malicious code in stitch-ui-toolbox (npm)
+- cvss: 0.0
+  id: GHSA-hgg2-q547-3gr3
+  published: '2025-11-13T12:31:42Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-mvwp-xpr9-3mwj
-  published: '2025-12-12T21:31:38Z'
-  summary: ''
+  id: MAL-2025-192024
+  published: '2025-12-03T11:42:10Z'
+  summary: Malicious code in elf-stats-evergreen-muffin-867 (npm)
 - cvss: 0.0
-  id: GHSA-8mc4-q7gv-xrqv
+  id: MAL-2025-192083
+  published: '2025-12-03T15:59:29Z'
+  summary: Malicious code in elf-stats-marzipan-muffin-733 (npm)
+- cvss: 0.0
+  id: MAL-2025-192171
+  published: '2025-12-03T15:59:29Z'
+  summary: Malicious code in elf-stats-sugarplum-fireplace-278 (npm)
+- cvss: 0.0
+  id: MAL-2025-192392
+  published: '2025-12-09T18:32:50Z'
+  summary: Malicious code in ajenti-plugin-testing-pyld (PyPI)
+- cvss: 0.0
+  id: MAL-2025-192472
+  published: '2025-12-11T19:46:09Z'
+  summary: Malicious code in elf-stats-candlelit-nutcracker-184 (npm)
+- cvss: 0.0
+  id: GHSA-v8cp-m2g2-whfj
   published: '2025-12-12T21:31:39Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-fqh2-qgmv-w3w8
-  published: '2025-12-12T21:31:39Z'
-  summary: ''
+  id: MAL-2025-192569
+  published: '2025-12-14T05:03:06Z'
+  summary: Malicious code in @ikarem/telemetry (npm)
 - cvss: 0.0
-  id: GHSA-hr7m-hf2x-j4vh
-  published: '2025-12-12T21:31:39Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-r8ww-q8x3-4wc9
-  published: '2025-12-12T21:31:39Z'
-  summary: ''
-- cvss: 0.0
-  id: CVE-2025-9116
-  published: '2025-12-13T16:16:56Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-pg34-74hm-v732
-  published: '2025-12-13T18:30:22Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-hjfv-pj3c-gjj3
-  published: '2025-12-14T00:30:24Z'
-  summary: ''
-- cvss: 0.0
-  id: CVE-2025-14638
-  published: '2025-12-14T01:15:40Z'
+  id: GHSA-gxfm-293q-5f27
+  published: '2025-12-15T03:30:17Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

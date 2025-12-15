@@ -1,55 +1,50 @@
-fetched_at: '2025-12-14T05:33:31Z'
-generated_at: '2025-12-14T05:33:31Z'
-hash: d2794929661c88ac8fa7f4ca47aa9d3c9b761fad3ebba69fcb92d4061a86decd
+fetched_at: '2025-12-15T05:40:03Z'
+generated_at: '2025-12-15T05:40:03Z'
+hash: a3d7db163eaa37a04e1c837d6e6b2ea6d42f2927a8ad236bde5445fac4400678
 items:
-- id: 46255285
-  score: 275
-  time: '2025-12-13T15:37:16Z'
-  title: 'Ask HN: How can I get better at using AI for programming?'
-  url: https://news.ycombinator.com/item?id=46255285
-- id: 46257607
-  score: 135
-  time: '2025-12-13T20:19:53Z'
-  title: I fed 24 years of my blog posts to a Markov model
-  url: https://susam.net/fed-24-years-of-posts-to-markov-model.html
-- id: 46257939
-  score: 58
-  time: '2025-12-13T20:54:32Z'
-  title: Purdue University approves new AI requirement for all undergrads
-  url: https://www.forbes.com/sites/michaeltnietzel/2025/12/13/purdue-university-approves-new-ai-requirement-for-all-undergrads/
-- id: 46260106
-  score: 19
-  time: '2025-12-14T01:43:33Z'
-  title: If a Meta AI model can read a brain-wide signal, why wouldn't the brain?
-  url: https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain
-- id: 46259827
-  score: 14
-  time: '2025-12-14T00:54:11Z'
-  title: New Rule Forbids Gnome Shell Extensions Made Using AI Generated Code
-  url: https://www.phoronix.com/news/GNOME-Extensions-Block-AI
-- id: 46258593
-  score: 11
-  time: '2025-12-13T22:04:52Z'
-  title: Arizona city rejects data center after AI lobbying push
-  url: https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543
-- id: 46258777
-  score: 8
-  time: '2025-12-13T22:24:47Z'
-  title: How to Turn Off AI Tools Like Gemini, Apple Intelligence, Copilot
-  url: https://www.consumerreports.org/electronics/artificial-intelligence/turn-off-ai-tools-gemini-apple-intelligence-copilot-and-more-a1156421356/
-- id: 46259056
-  score: 5
-  time: '2025-12-13T22:57:21Z'
-  title: AI Boom Threatens to Suck Resources Away from Road, Bridge Work
-  url: https://www.bloomberg.com/news/newsletters/2025-12-12/ai-data-center-boom-may-suck-resources-away-from-road-bridge-work
-- id: 46259380
-  score: 5
-  time: '2025-12-13T23:46:51Z'
-  title: Copywriters reveal how AI has decimated their industry
-  url: https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the
-- id: 46259496
-  score: 5
-  time: '2025-12-14T00:04:00Z'
-  title: AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says
-  url: https://www.theregister.com/2025/12/11/ai_superintelligence_fantasy/
+- id: 46262816
+  score: 225
+  time: '2025-12-14T13:19:15Z'
+  title: AI and the ironies of automation – Part 2
+  url: https://www.ufried.com/blog/ironies_of_ai_2/
+- id: 46262734
+  score: 212
+  time: '2025-12-14T13:04:34Z'
+  title: Kimi K2 1T model runs on 2 512GB M3 Ultras
+  url: https://twitter.com/awnihannun/status/1943723599971443134
+- id: 46262545
+  score: 145
+  time: '2025-12-14T12:18:59Z'
+  title: 'The Gorman Paradox: Where Are All the AI-Generated Apps?'
+  url: https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/
+- id: 46268844
+  score: 107
+  time: '2025-12-15T00:35:41Z'
+  title: Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted
+  url: https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted
+- id: 46268452
+  score: 79
+  time: '2025-12-14T23:48:37Z'
+  title: AI agents are starting to eat SaaS
+  url: https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/
+- id: 46264158
+  score: 17
+  time: '2025-12-14T16:21:35Z'
+  title: 'Show HN: Open-source customizable AI voice dictation built on Pipecat'
+  url: https://github.com/kstonekuan/tambourine-voice
+- id: 46268078
+  score: 10
+  time: '2025-12-14T23:04:59Z'
+  title: The Eerie Parallels Between AI Mania and the Dot-Com Bubble
+  url: https://www.wsj.com/finance/stocks/the-eerie-parallels-between-ai-mania-and-the-dot-com-bubble-f99be6fe
+- id: 46264966
+  score: 7
+  time: '2025-12-14T17:39:14Z'
+  title: Gentleman Guardian Angel – AI provider-agnostic code review via Git hook
+  url: https://github.com/Gentleman-Programming/gentleman-guardian-angel
+- id: 46267315
+  score: 6
+  time: '2025-12-14T21:46:45Z'
+  title: Job security in the age of AI? Get a state license – any state license
+  url: https://www.theguardian.com/business/2025/dec/15/job-security-state-license
 source_url: https://hacker-news.firebaseio.com/

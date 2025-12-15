@@ -1,70 +1,70 @@
-fetched_at: '2025-12-14T05:33:31Z'
-generated_at: '2025-12-14T05:33:31Z'
-hash: 5b64d5e38b2661016699e00626e6ed109e1beef526c51b9269a316a455243be9
+fetched_at: '2025-12-15T05:40:03Z'
+generated_at: '2025-12-15T05:40:03Z'
+hash: a4510cd08e2229abc4d063ff461ba7e5cc983e049f5f5a10a705d1cc683ec583
 items:
 - created_at: '2025-12-10T16:10:52Z'
   description: Analyzing Hacker News discussions from a decade ago in hindsight with
     LLMs
   full_name: karpathy/hn-time-capsule
   html_url: https://github.com/karpathy/hn-time-capsule
-  stargazers_count: 365
+  stargazers_count: 385
 - created_at: '2025-12-09T16:59:54Z'
   description: Remote MCP Server that securely connects Enterprise context with your
     LLM, IDE, or agent platform of choice.
   full_name: gleanwork/remote-mcp-server
   html_url: https://github.com/gleanwork/remote-mcp-server
-  stargazers_count: 114
+  stargazers_count: 128
 - created_at: '2025-12-09T15:09:03Z'
   description: 'See&Trek: Training-Free Spatial Prompting for Multimodal Large Language
     Model'
   full_name: Hoantrbl/SeeTrek
   html_url: https://github.com/Hoantrbl/SeeTrek
-  stargazers_count: 59
+  stargazers_count: 65
+- created_at: '2025-12-13T15:30:45Z'
+  description: Multilingual TTS model with voice cloning and duration control, based
+    on T5Gemma encoder-decoder LLM
+  full_name: Aratako/T5Gemma-TTS
+  html_url: https://github.com/Aratako/T5Gemma-TTS
+  stargazers_count: 61
 - created_at: '2025-12-10T20:02:05Z'
   description: An Excel AI agent that uses MCP tools to let LLMs read, edit, and automate
     Excel spreadsheets.
   full_name: SylvianAI/sv-excel-agent
   html_url: https://github.com/SylvianAI/sv-excel-agent
-  stargazers_count: 53
-- created_at: '2025-12-10T05:40:24Z'
-  description: LLM powered drawio live editor
-  full_name: JerryKwan/drawio-live-editor
-  html_url: https://github.com/JerryKwan/drawio-live-editor
-  stargazers_count: 43
+  stargazers_count: 56
 - created_at: '2025-12-10T02:48:56Z'
   description: LingEcho is an intelligent voice interaction platform that provides
     a comprehensive AI voice interaction solution. It integrates advanced speech recognition
     (A…
   full_name: code-100-precent/LingEcho-App
   html_url: https://github.com/code-100-precent/LingEcho-App
-  stargazers_count: 33
+  stargazers_count: 45
+- created_at: '2025-12-10T05:40:24Z'
+  description: LLM powered drawio live editor
+  full_name: JerryKwan/drawio-live-editor
+  html_url: https://github.com/JerryKwan/drawio-live-editor
+  stargazers_count: 44
+- created_at: '2025-12-14T17:54:14Z'
+  description: A minimalist markdown site built with React, Convex, and Vite. Optimized
+    for SEO, AI agents, and LLM discovery.
+  full_name: waynesutton/markdown-site
+  html_url: https://github.com/waynesutton/markdown-site
+  stargazers_count: 41
+- created_at: '2025-12-11T11:14:41Z'
+  description: Multi-agent AI discussion CLI for structured debates between LLMs
+  full_name: Detrol/quorum-cli
+  html_url: https://github.com/Detrol/quorum-cli
+  stargazers_count: 35
 - created_at: '2025-12-10T00:50:51Z'
   description: 'd3LLM: Ultra-Fast Diffusion LLM 🚀'
   full_name: hao-ai-lab/d3LLM
   html_url: https://github.com/hao-ai-lab/d3LLM
   stargazers_count: 33
-- created_at: '2025-12-08T02:15:21Z'
-  description: '[NeurIPS 2025] Less Is More, but Where? Dynamic Token Compression
-    via LLM-Guided Keyframe Prior'
-  full_name: yu-lin-li/DyToK
-  html_url: https://github.com/yu-lin-li/DyToK
-  stargazers_count: 32
-- created_at: '2025-12-11T11:14:41Z'
-  description: Multi-agent AI discussion CLI for structured debates between LLMs
-  full_name: Detrol/quorum-cli
-  html_url: https://github.com/Detrol/quorum-cli
-  stargazers_count: 30
-- created_at: '2025-12-08T10:03:54Z'
-  description: 'Beyond Real: Imaginary Extension of Rotary Position Embeddings for
-    Long-Context LLMs'
-  full_name: OpenMOSS/rope_pp
-  html_url: https://github.com/OpenMOSS/rope_pp
-  stargazers_count: 28
-- created_at: '2025-12-08T03:07:18Z'
-  description: Ask users structured questions in an LLM chat! AI SDK + Shadcn
-  full_name: kamath/questionnaire
-  html_url: https://github.com/kamath/questionnaire
-  stargazers_count: 20
+- created_at: '2025-12-14T16:11:38Z'
+  description: Explore the answer-space of open LLMs
+  full_name: samwho/llmwalk
+  html_url: https://github.com/samwho/llmwalk
+  stargazers_count: 31
 - created_at: '2025-12-10T12:37:33Z'
   description: AI-native TypeScript validation library optimized for LLM outputs,
     function calling, and structured generation.
@@ -75,13 +75,25 @@ items:
   description: ✨用Java实现的MCP，爬取最新热点新闻，允许LLM调用。告别信息茧房，用AI洞悉世界。
   full_name: paiad/mcp-java-news-crawler
   html_url: https://github.com/paiad/mcp-java-news-crawler
-  stargazers_count: 14
+  stargazers_count: 18
 - created_at: '2025-12-10T04:16:21Z'
   description: Dynamic tool discovery and selection for Spring AI, enabling LLMs to
     work efficiently with large tool libraries by discovering tools on-demand instead
     of loadi…
   full_name: spring-ai-community/spring-ai-tool-search-tool
   html_url: https://github.com/spring-ai-community/spring-ai-tool-search-tool
+  stargazers_count: 17
+- created_at: '2025-12-10T09:34:36Z'
+  description: A benchmark for evaluating LLMs on open-ended CS problems. Exploring
+    the Next Frontier of Computer Science.
+  full_name: FrontierCS/Frontier-CS
+  html_url: https://github.com/FrontierCS/Frontier-CS
+  stargazers_count: 13
+- created_at: '2025-12-11T10:37:16Z'
+  description: 📈 传奇投资人智慧框架 | IF-THEN 决策规则 | LLM 友好 | Legendary Investors' Wisdom for
+    AI & Human
+  full_name: sou350121/investment-masters-handbook
+  html_url: https://github.com/sou350121/investment-masters-handbook
   stargazers_count: 13
 - created_at: '2025-12-09T05:56:53Z'
   description: 'OpenRouterBench: A One-Stop Benchmark and Solution Suite for LLM Routing'
@@ -108,15 +120,4 @@ items:
   full_name: simonw/space-invaders-by-llms
   html_url: https://github.com/simonw/space-invaders-by-llms
   stargazers_count: 10
-- created_at: '2025-12-11T10:37:16Z'
-  description: 📈 传奇投资人智慧框架 | IF-THEN 决策规则 | LLM 友好 | Legendary Investors' Wisdom for
-    AI & Human
-  full_name: sou350121/investment-masters-handbook
-  html_url: https://github.com/sou350121/investment-masters-handbook
-  stargazers_count: 9
-- created_at: '2025-12-08T11:45:05Z'
-  description: 'LLM4Kernel: A Survey of Large Language Models for GPU Kernel Development'
-  full_name: kcxain/Awesome-LLM4Kernel
-  html_url: https://github.com/kcxain/Awesome-LLM4Kernel
-  stargazers_count: 8
 source_url: https://api.github.com/search/repositories
