@@ -1,50 +1,41 @@
-fetched_at: '2025-12-15T05:40:03Z'
-generated_at: '2025-12-15T05:40:03Z'
-hash: a3d7db163eaa37a04e1c837d6e6b2ea6d42f2927a8ad236bde5445fac4400678
+fetched_at: '2025-12-16T05:36:30Z'
+generated_at: '2025-12-16T05:36:30Z'
+hash: 52222f1bdde929faaa4a32b55a9bbda1216fbabcc91199fb116a2a2e04d53b64
 items:
-- id: 46262816
-  score: 225
-  time: '2025-12-14T13:19:15Z'
-  title: AI and the ironies of automation – Part 2
-  url: https://www.ufried.com/blog/ironies_of_ai_2/
-- id: 46262734
-  score: 212
-  time: '2025-12-14T13:04:34Z'
-  title: Kimi K2 1T model runs on 2 512GB M3 Ultras
-  url: https://twitter.com/awnihannun/status/1943723599971443134
-- id: 46262545
-  score: 145
-  time: '2025-12-14T12:18:59Z'
-  title: 'The Gorman Paradox: Where Are All the AI-Generated Apps?'
-  url: https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/
-- id: 46268844
-  score: 107
-  time: '2025-12-15T00:35:41Z'
-  title: Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted
-  url: https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted
-- id: 46268452
-  score: 79
-  time: '2025-12-14T23:48:37Z'
-  title: AI agents are starting to eat SaaS
-  url: https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/
-- id: 46264158
-  score: 17
-  time: '2025-12-14T16:21:35Z'
-  title: 'Show HN: Open-source customizable AI voice dictation built on Pipecat'
-  url: https://github.com/kstonekuan/tambourine-voice
-- id: 46268078
-  score: 10
-  time: '2025-12-14T23:04:59Z'
-  title: The Eerie Parallels Between AI Mania and the Dot-Com Bubble
-  url: https://www.wsj.com/finance/stocks/the-eerie-parallels-between-ai-mania-and-the-dot-com-bubble-f99be6fe
-- id: 46264966
-  score: 7
-  time: '2025-12-14T17:39:14Z'
-  title: Gentleman Guardian Angel – AI provider-agnostic code review via Git hook
-  url: https://github.com/Gentleman-Programming/gentleman-guardian-angel
-- id: 46267315
-  score: 6
-  time: '2025-12-14T21:46:45Z'
-  title: Job security in the age of AI? Get a state license – any state license
-  url: https://www.theguardian.com/business/2025/dec/15/job-security-state-license
+- id: 46284266
+  score: 235
+  time: '2025-12-16T03:03:49Z'
+  title: 8M users' AI conversations sold for profit by "privacy" extensions
+  url: https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection
+- id: 46274478
+  score: 200
+  time: '2025-12-15T13:48:03Z'
+  title: It seems that OpenAI is scraping [certificate transparency] logs
+  url: https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3
+- id: 46272921
+  score: 62
+  time: '2025-12-15T11:09:12Z'
+  title: Copywriters reveal how AI has decimated their industry
+  url: https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the
+- id: 46281493
+  score: 20
+  time: '2025-12-15T22:12:55Z'
+  title: Amazon's Aggressive Push to Get Cops Using AI Surveillance
+  url: https://www.forbes.com/sites/thomasbrewster/2025/10/01/inside-amazons-aggressive-push-to-get-cops-using-ai-surveillance/
+- id: 46279521
+  score: 8
+  time: '2025-12-15T19:50:52Z'
+  title: AI Is About to Empty Madison Avenue
+  url: https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2
+- id: 46275425
+  score: 4
+  time: '2025-12-15T15:05:47Z'
+  title: Why companies should still hire junior developers in the AI era
+  url: https://aroussi.com/post/from-junior-to-10x-dev
+- id: 46281077
+  score: 3
+  time: '2025-12-15T21:38:25Z'
+  title: AI-powered night-vision binoculars that can see things in the dark from a
+    mile
+  url: https://www.digitalcameraworld.com/optics/binoculars/dvx-debuts-4k-ai-powered-night-vision-binoculars-that-can-see-things-in-the-dark-from-nearly-a-mile-away
 source_url: https://hacker-news.firebaseio.com/

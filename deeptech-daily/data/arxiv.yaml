@@ -1,116 +1,120 @@
-fetched_at: '2025-12-15T05:40:03Z'
-generated_at: '2025-12-15T05:40:03Z'
-hash: fb94fc06d4e8fea8ee6f8f6a412b7ed03475adccda590ddab23fc61cf833b201
+fetched_at: '2025-12-16T05:36:30Z'
+generated_at: '2025-12-16T05:36:30Z'
+hash: a977e6aaa502b65e9bb155baba67c1dcaa64e25931e2f27df5b35adb9e5facde
 items:
-- id: oai:arXiv.org:2512.11169v1
-  link: https://arxiv.org/abs/2512.11169
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11169v1 Announce Type: new  Abstract: Combinatorial sequential
-    decision making problems are typically modeled as mixed integer linear programs
-    (MILP…'
-  title: 'CORL: Reinforcement Learning of MILP Policies Solved via Branch and Bound'
-- id: oai:arXiv.org:2512.11187v1
-  link: https://arxiv.org/abs/2512.11187
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11187v1 Announce Type: new  Abstract: Online Freight Exchange
-    Systems (OFEX) play a crucial role in modern freight logistics by facilitating
-    real-ti…'
-  title: Deep Learning--Accelerated Multi-Start Large Neighborhood Search for Real-time
-    Freight Bundling
-- id: oai:arXiv.org:2512.11213v1
-  link: https://arxiv.org/abs/2512.11213
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11213v1 Announce Type: new  Abstract: Scaling test-time computation
-    improves large language model performance without additional training. Recent
-    wo…'
-  title: 'FutureWeaver: Planning Test-Time Compute for Multi-Agent Systems with Modularized
-    Collaboration'
-- id: oai:arXiv.org:2512.11270v1
-  link: https://arxiv.org/abs/2512.11270
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11270v1 Announce Type: new  Abstract: Applying reinforcement
-    learning (RL) to real-world tasks requires converting informal descriptions into
-    a form…'
-  title: 'A-LAMP: Agentic LLM-Based Framework for Automated MDP Modeling and Policy
-    Generation'
-- id: oai:arXiv.org:2512.11271v1
-  link: https://arxiv.org/abs/2512.11271
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11271v1 Announce Type: new  Abstract: Real-world trip planning
-    requires transforming open-ended user requests into executable itineraries under
-    stri…'
-  title: 'TriFlow: A Progressive Multi-Agent Framework for Intelligent Trip Planning'
-- id: oai:arXiv.org:2512.11323v1
-  link: https://arxiv.org/abs/2512.11323
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11323v1 Announce Type: new  Abstract: Benefiting from strong
-    and efficient multi-modal alignment strategies, Large Visual Language Models (LVLMs)
-    ar…'
-  title: 'CAPTURE: A Benchmark and Evaluation for LVLMs in CAPTCHA Resolving'
-- id: oai:arXiv.org:2512.11421v1
-  link: https://arxiv.org/abs/2512.11421
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11421v1 Announce Type: new  Abstract: Large Language Models
-    demonstrate strong reasoning and generation abilities, yet their behavior in multi-turn…'
-  title: Towards Trustworthy Multi-Turn LLM Agents via Behavioral Guidance
-- id: oai:arXiv.org:2512.11426v1
-  link: https://arxiv.org/abs/2512.11426
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11426v1 Announce Type: new  Abstract: Large Language Model
-    (LLM)-based multi-agent systems (MAS) are becoming indispensable building blocks
-    for web-…'
-  title: 'AgentBalance: Backbone-then-Topology Design for Cost-Effective Multi-Agent
-    Systems under Budget Constraints'
-- id: oai:arXiv.org:2512.11433v1
-  link: https://arxiv.org/abs/2512.11433
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11433v1 Announce Type: new  Abstract: Attribution methods are
-    among the most prevalent techniques in Explainable Artificial Intelligence (XAI)
-    and a…'
-  title: 'Back to the Baseline: Examining Baseline Effects on Explainability Metrics'
-- id: oai:arXiv.org:2512.11463v1
-  link: https://arxiv.org/abs/2512.11463
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11463v1 Announce Type: new  Abstract: We introduce Motif-2-12.7B-Reasoning,
-    a 12.7B parameter language model designed to bridge the gap between open…'
-  title: 'Motif-2-12.7B-Reasoning: A Practitioner''s Guide to RL Training Recipes'
-- id: oai:arXiv.org:2512.11469v1
-  link: https://arxiv.org/abs/2512.11469
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11469v1 Announce Type: new  Abstract: The No-Three-In-Line
-    problem asks for the maximum number of points that can be placed on an n by n
-    grid with n…'
-  title: 'Three methods, one problem: Classical and AI approaches to no-three-in-line'
-- id: oai:arXiv.org:2512.11474v1
-  link: https://arxiv.org/abs/2512.11474
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11474v1 Announce Type: new  Abstract: Generative artificial
-    intelligence (AI) offers potential for democratizing scientific knowledge and
-    converting…'
-  title: General-purpose AI models can generate actionable knowledge on agroecological
-    crop protection
-- id: oai:arXiv.org:2512.11505v1
-  link: https://arxiv.org/abs/2512.11505
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11505v1 Announce Type: new  Abstract: AI-generated text detectors
-    have recently gained adoption in educational and professional contexts. Prior
-    rese…'
-  title: 'BAID: A Benchmark for Bias Assessment of AI Detectors'
-- id: oai:arXiv.org:2512.11506v1
-  link: https://arxiv.org/abs/2512.11506
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11506v1 Announce Type: new  Abstract: As AI and web agents
-    become pervasive in decision-making, it is critical to design intelligent systems
-    that no…'
-  title: 'EmeraldMind: A Knowledge Graph-Augmented Framework for Greenwashing Detection'
-- id: oai:arXiv.org:2512.11544v1
-  link: https://arxiv.org/abs/2512.11544
-  published: '2025-12-15T05:00:00Z'
-  summary: 'arXiv:2512.11544v1 Announce Type: new  Abstract: This study aims to simulate
-    real-world clinical scenarios to systematically evaluate the ability of Large
-    Lang…'
-  title: AI-MASLD Metabolic Dysfunction and Information Steatosis of Large Language
-    Models in Unstructured Clinical Narratives
+- id: oai:arXiv.org:2512.11835v1
+  link: https://arxiv.org/abs/2512.11835
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.11835v1 Announce Type: new  Abstract: Large language models
+    (LLMs) are often deployed as powerful yet opaque systems, leaving open how their
+    interna…'
+  title: A Monad-Based Clause Architecture for Artificial Age Score (AAS) in Large
+    Language Models
+- id: oai:arXiv.org:2512.11864v1
+  link: https://arxiv.org/abs/2512.11864
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.11864v1 Announce Type: new  Abstract: The task of finding efficient
+    production schedules for parallel machines is a challenge that arises in most
+    in…'
+  title: Solving Parallel Machine Scheduling With Precedences and Cumulative Resource
+    Constraints With Calendars
+- id: oai:arXiv.org:2512.11902v1
+  link: https://arxiv.org/abs/2512.11902
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.11902v1 Announce Type: new  Abstract: Enemy strategies in turn-based
+    games should be surprising and unpredictable. This study introduces Mirror Mode…'
+  title: 'Mirror Mode in Fire Emblem: Beating Players at their own Game with Imitation
+    and Reinforcement Learning'
+- id: oai:arXiv.org:2512.11907v1
+  link: https://arxiv.org/abs/2512.11907
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.11907v1 Announce Type: new  Abstract: Personalizing Large Language
+    Model (LLM) agents requires conditioning them on user-specific data, creating
+    a c…'
+  title: 'Structured Personalization: Modeling Constraints as Matroids for Data-Minimal
+    LLM Agents'
+- id: oai:arXiv.org:2512.11909v1
+  link: https://arxiv.org/abs/2512.11909
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.11909v1 Announce Type: new  Abstract: The nature of intelligence
+    in both humans and machines is a longstanding question. While there is no universal…'
+  title: 'Causal Strengths and Leaky Beliefs: Interpreting LLM Reasoning via Noisy-OR
+    Causal Bayes Nets'
+- id: oai:arXiv.org:2512.11912v1
+  link: https://arxiv.org/abs/2512.11912
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.11912v1 Announce Type: new  Abstract: A systematic, comparative
+    investigation into the effects of low-quality data reveals a stark spectrum of
+    robus…'
+  title: 'Robustness of Probabilistic Models to Low-Quality Data: A Multi-Perspective
+    Analysis'
+- id: oai:arXiv.org:2512.11920v1
+  link: https://arxiv.org/abs/2512.11920
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.11920v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) have revolutionized natural language processing tasks, but their deployment
+    in da…'
+  title: 'CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM
+    Serving'
+- id: oai:arXiv.org:2512.11935v1
+  link: https://arxiv.org/abs/2512.11935
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.11935v1 Announce Type: new  Abstract: Artificial intelligence
+    is reshaping scientific discovery, yet its use in materials research remains limited
+    b…'
+  title: 'AGAPI-Agents: An Open-Access Agentic AI Platform for Accelerated Materials
+    Design on AtomGPT.org'
+- id: oai:arXiv.org:2512.11942v1
+  link: https://arxiv.org/abs/2512.11942
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.11942v1 Announce Type: new  Abstract: Differences in perception,
+    information asymmetries, and bounded rationality lead game-theoretic players to
+    der…'
+  title: 'Hypergame Rationalisability: Solving Agent Misalignment In Strategic Play'
+- id: oai:arXiv.org:2512.11997v1
+  link: https://arxiv.org/abs/2512.11997
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.11997v1 Announce Type: new  Abstract: System logs are a critical
+    resource for monitoring and managing distributed systems, providing insights into
+    f…'
+  title: Log Anomaly Detection with Large Language Models via Knowledge-Enriched Fusion
+- id: oai:arXiv.org:2512.12048v1
+  link: https://arxiv.org/abs/2512.12048
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.12048v1 Announce Type: new  Abstract: This paper presents a
+    novel context-sensitive multi\-agent coordination for dynamic resource allocation
+    (CAMAC…'
+  title: Context-Aware Agentic Power Resources Optimisation in EV using Smart2ChargeApp
+- id: oai:arXiv.org:2512.12059v1
+  link: https://arxiv.org/abs/2512.12059
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.12059v1 Announce Type: new  Abstract: Monitoring forecasting
+    systems is critical for customer satisfaction, profitability, and operational
+    efficienc…'
+  title: 'The Forecast Critic: Leveraging Large Language Models for Poor Forecast
+    Identification'
+- id: oai:arXiv.org:2512.12088v1
+  link: https://arxiv.org/abs/2512.12088
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.12088v1 Announce Type: new  Abstract: In a recent work, we
+    proposed Reliable Policy Iteration (RPI), that restores policy iteration''s monotonicity-o…'
+  title: 'Reliable Policy Iteration: Performance Robustness Across Architecture and
+    Environment Perturbations'
+- id: oai:arXiv.org:2512.12175v1
+  link: https://arxiv.org/abs/2512.12175
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.12175v1 Announce Type: new  Abstract: Large language models
+    (LLMs) perform in-context learning (ICL) with minimal supervised examples, which
+    benefit…'
+  title: 'Rethinking Label Consistency of In-Context Learning: An Implicit Transductive
+    Label Propagation Perspective'
+- id: oai:arXiv.org:2512.12177v1
+  link: https://arxiv.org/abs/2512.12177
+  published: '2025-12-16T05:00:00Z'
+  summary: 'arXiv:2512.12177v1 Announce Type: new  Abstract: Indoor navigation remains
+    a critical challenge for people with visual impairments. The current solutions
+    mainl…'
+  title: 'Floorplan2Guide: LLM-Guided Floorplan Parsing for BLV Indoor Navigation'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL
