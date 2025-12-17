@@ -63,6 +63,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -74,6 +75,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -182,21 +184,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [A Monad-Based Clause Architecture for Artificial Age Score (AAS) in Large Language Models](https://arxiv.org/abs/2512.11835) — arXiv:2512.11835v1 Announce Type: new  Abstract: Large language models (LLMs) are often deployed as powerful yet opaque systems, leaving open how their interna…
-- [Solving Parallel Machine Scheduling With Precedences and Cumulative Resource Constraints With Calendars](https://arxiv.org/abs/2512.11864) — arXiv:2512.11864v1 Announce Type: new  Abstract: The task of finding efficient production schedules for parallel machines is a challenge that arises in most in…
-- [Mirror Mode in Fire Emblem: Beating Players at their own Game with Imitation and Reinforcement Learning](https://arxiv.org/abs/2512.11902) — arXiv:2512.11902v1 Announce Type: new  Abstract: Enemy strategies in turn-based games should be surprising and unpredictable. This study introduces Mirror Mode…
-- [Structured Personalization: Modeling Constraints as Matroids for Data-Minimal LLM Agents](https://arxiv.org/abs/2512.11907) — arXiv:2512.11907v1 Announce Type: new  Abstract: Personalizing Large Language Model (LLM) agents requires conditioning them on user-specific data, creating a c…
-- [Causal Strengths and Leaky Beliefs: Interpreting LLM Reasoning via Noisy-OR Causal Bayes Nets](https://arxiv.org/abs/2512.11909) — arXiv:2512.11909v1 Announce Type: new  Abstract: The nature of intelligence in both humans and machines is a longstanding question. While there is no universal…
-- [Robustness of Probabilistic Models to Low-Quality Data: A Multi-Perspective Analysis](https://arxiv.org/abs/2512.11912) — arXiv:2512.11912v1 Announce Type: new  Abstract: A systematic, comparative investigation into the effects of low-quality data reveals a stark spectrum of robus…
-- [CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving](https://arxiv.org/abs/2512.11920) — arXiv:2512.11920v1 Announce Type: new  Abstract: Large Language Models (LLMs) have revolutionized natural language processing tasks, but their deployment in da…
-- [AGAPI-Agents: An Open-Access Agentic AI Platform for Accelerated Materials Design on AtomGPT.org](https://arxiv.org/abs/2512.11935) — arXiv:2512.11935v1 Announce Type: new  Abstract: Artificial intelligence is reshaping scientific discovery, yet its use in materials research remains limited b…
-- [Hypergame Rationalisability: Solving Agent Misalignment In Strategic Play](https://arxiv.org/abs/2512.11942) — arXiv:2512.11942v1 Announce Type: new  Abstract: Differences in perception, information asymmetries, and bounded rationality lead game-theoretic players to der…
-- [Log Anomaly Detection with Large Language Models via Knowledge-Enriched Fusion](https://arxiv.org/abs/2512.11997) — arXiv:2512.11997v1 Announce Type: new  Abstract: System logs are a critical resource for monitoring and managing distributed systems, providing insights into f…
-- [Context-Aware Agentic Power Resources Optimisation in EV using Smart2ChargeApp](https://arxiv.org/abs/2512.12048) — arXiv:2512.12048v1 Announce Type: new  Abstract: This paper presents a novel context-sensitive multi\-agent coordination for dynamic resource allocation (CAMAC…
-- [The Forecast Critic: Leveraging Large Language Models for Poor Forecast Identification](https://arxiv.org/abs/2512.12059) — arXiv:2512.12059v1 Announce Type: new  Abstract: Monitoring forecasting systems is critical for customer satisfaction, profitability, and operational efficienc…
-- [Reliable Policy Iteration: Performance Robustness Across Architecture and Environment Perturbations](https://arxiv.org/abs/2512.12088) — arXiv:2512.12088v1 Announce Type: new  Abstract: In a recent work, we proposed Reliable Policy Iteration (RPI), that restores policy iteration's monotonicity-o…
-- [Rethinking Label Consistency of In-Context Learning: An Implicit Transductive Label Propagation Perspective](https://arxiv.org/abs/2512.12175) — arXiv:2512.12175v1 Announce Type: new  Abstract: Large language models (LLMs) perform in-context learning (ICL) with minimal supervised examples, which benefit…
-- [Floorplan2Guide: LLM-Guided Floorplan Parsing for BLV Indoor Navigation](https://arxiv.org/abs/2512.12177) — arXiv:2512.12177v1 Announce Type: new  Abstract: Indoor navigation remains a critical challenge for people with visual impairments. The current solutions mainl…
+- [Leveraging LLMs for Structured Data Extraction from Unstructured Patient Records](https://arxiv.org/abs/2512.13700) — arXiv:2512.13700v1 Announce Type: new  Abstract: Manual chart review remains an extremely time-consuming and resource-intensive component of clinical research,…
+- [Blind Radio Mapping via Spatially Regularized Bayesian Trajectory Inference](https://arxiv.org/abs/2512.13701) — arXiv:2512.13701v1 Announce Type: new  Abstract: Radio maps enable intelligent wireless applications by capturing the spatial distribution of channel character…
+- [Adjudicator: Correcting Noisy Labels with a KG-Informed Council of LLM Agents](https://arxiv.org/abs/2512.13704) — arXiv:2512.13704v1 Announce Type: new  Abstract: The performance of production machine learning systems is fundamentally limited by the quality of their traini…
+- [LoopBench: Discovering Emergent Symmetry Breaking Strategies with LLM Swarms](https://arxiv.org/abs/2512.13713) — arXiv:2512.13713v1 Announce Type: new  Abstract: Large Language Models (LLMs) are increasingly being utilized as autonomous agents, yet their ability to coordi…
+- [AI-Powered Annotation Pipelines for Stabilizing Large Language Models: A Human-AI Synergy Approach](https://arxiv.org/abs/2512.13714) — arXiv:2512.13714v1 Announce Type: new  Abstract: LLM implementations are failing in highly regulated industries owing to instability issues, inconsistent reaso…
+- [Meta Hierarchical Reinforcement Learning for Scalable Resource Management in O-RAN](https://arxiv.org/abs/2512.13715) — arXiv:2512.13715v1 Announce Type: new  Abstract: The increasing complexity of modern applications demands wireless networks capable of real time adaptability a…
+- [ValuePilot: A Two-Phase Framework for Value-Driven Decision-Making](https://arxiv.org/abs/2512.13716) — arXiv:2512.13716v1 Announce Type: new  Abstract: Personalized decision-making is essential for human-AI interaction, enabling AI agents to act in alignment wit…
+- [Compressed Causal Reasoning: Quantization and GraphRAG Effects on Interventional and Counterfactual Accuracy](https://arxiv.org/abs/2512.13725) — arXiv:2512.13725v1 Announce Type: new  Abstract: Causal reasoning in Large Language Models spanning association, intervention, and counterfactual inference is…
+- [State-Dependent Refusal and Learned Incapacity in RLHF-Aligned Language Models](https://arxiv.org/abs/2512.13762) — arXiv:2512.13762v1 Announce Type: new  Abstract: Large language models (LLMs) are widely deployed as general-purpose tools, yet extended interaction can reveal…
+- [Mathematics and Coding are Universal AI Benchmarks](https://arxiv.org/abs/2512.13764) — arXiv:2512.13764v1 Announce Type: new  Abstract: We study the special role of mathematics and coding inside the moduli space of psychometric batteries for AI a…
+- [Semantic Grounding Index: Geometric Bounds on Context Engagement in RAG Systems](https://arxiv.org/abs/2512.13771) — arXiv:2512.13771v1 Announce Type: new  Abstract: When retrieval-augmented generation (RAG) systems hallucinate, what geometric trace does this leave in embeddi…
+- [EvoLattice: Persistent Internal-Population Evolution through Multi-Alternative Quality-Diversity Graph Representations for LLM-Guided Program Discovery](https://arxiv.org/abs/2512.13857) — arXiv:2512.13857v1 Announce Type: new  Abstract: Large language models (LLMs) are increasingly used to evolve programs and multi-agent systems, yet most existi…
+- [MURIM: Multidimensional Reputation-based Incentive Mechanism for Federated Learning](https://arxiv.org/abs/2512.13955) — arXiv:2512.13955v1 Announce Type: new  Abstract: Federated Learning (FL) has emerged as a leading privacy-preserving machine learning paradigm, enabling partic…
+- [Evaluating Frontier LLMs on PhD-Level Mathematical Reasoning: A Benchmark on a Textbook in Theoretical Computer Science about Randomized Algorithms](https://arxiv.org/abs/2512.13978) — arXiv:2512.13978v1 Announce Type: new  Abstract: The rapid advancement of large language models (LLMs) has led to significant breakthroughs in automated mathem…
+- [ReflCtrl: Controlling LLM Reflection via Representation Engineering](https://arxiv.org/abs/2512.13979) — arXiv:2512.13979v1 Announce Type: new  Abstract: Large language models (LLMs) with Chain-of-Thought (CoT) reasoning have achieved strong performance across div…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -224,28 +226,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                     |   Stars | Description                                                                                                                                                      |
-|------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| karpathy/hn-time-capsule                       |     409 | Analyzing Hacker News discussions from a decade ago in hindsight with LLMs                                                                                       |
-| waynesutton/markdown-site                      |     174 | A minimalist markdown sync site that's always in sync built with React, Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery.                       |
-| Aratako/T5Gemma-TTS                            |     122 | Multilingual TTS model with voice cloning and duration control, based on T5Gemma encoder-decoder LLM                                                             |
-| samwho/llmwalk                                 |     116 | Explore the answer-space of open LLMs                                                                                                                            |
-| SylvianAI/sv-excel-agent                       |      60 | An Excel AI agent that uses MCP tools to let LLMs read, edit, and automate Excel spreadsheets.                                                                   |
-| code-100-precent/LingEcho-App                  |      54 | LingEcho is an intelligent voice interaction platform that provides a comprehensive AI voice interaction solution. It integrates advanced speech recognition (A… |
-| Detrol/quorum-cli                              |      45 | Multi-agent AI discussion CLI for structured debates between LLMs                                                                                                |
-| JerryKwan/drawio-live-editor                   |      44 | LLM powered drawio live editor                                                                                                                                   |
-| hao-ai-lab/d3LLM                               |      35 | d3LLM: Ultra-Fast Diffusion LLM 🚀                                                                                                                                |
-| yyyzl/push-2-talk                              |      21 | PushToTalk 是一个高性能的桌面语音输入工具。它不仅仅是一个语音转文字工具，更集成了大语言模型（LLM）能力。你可以按住 Ctrl+Win 说话，松开后应用会自动将你的语音转为文字，并根据你的设定进行润色、翻译或整理成邮件，最后自动粘贴到当前光标位置。支持豆包/千问                        |
-| v-checha/valai                                 |      20 | AI-native TypeScript validation library optimized for LLM outputs, function calling, and structured generation.                                                  |
-| spring-ai-community/spring-ai-tool-search-tool |      19 | Dynamic tool discovery and selection for Spring AI, enabling LLMs to work efficiently with large tool libraries by discovering tools on-demand instead of loadi… |
-| paiad/mcp-java-news-crawler                    |      18 | ✨用Java实现的MCP，爬取最新热点新闻，允许LLM调用。告别信息茧房，用AI洞悉世界。                                                                                                                    |
-| FrontierCS/Frontier-CS                         |      16 | A benchmark for evaluating LLMs on open-ended CS problems. Exploring the Next Frontier of Computer Science.                                                      |
-| sou350121/investment-masters-handbook          |      14 | 📈 传奇投资人智慧框架 | IF-THEN 决策规则 | LLM 友好 | Legendary Investors' Wisdom for AI & Human                                                                                 |
-| firstlinesoftware/eval-ai-library              |      10 | Comprehensive AI Evaluation Framework with advanced techniques including Temperature-Controlled Verdict Aggregation via Generalized Power Mean. Support for mul… |
-| thyrisAI/safe-zone                             |       9 | TSZ (Thyris Safe Zone) is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs.             |
-| abra5umente/youtube-transcript-api             |       8 | local proxy that lets claude (and other LLMs) grab youtube transcripts                                                                                           |
-| Heven-Pan/UFVideo                              |       7 | UFVideo: Towards Unified Fine-Grained Video Cooperative Understanding with Large Language Models                                                                 |
-| NuyoahCh/einotelos                             |       7 | The ultimate LLM/AI application development framework for teaching in Golang language.                                                                           |
+| Repository                              |   Stars | Description                                                                                                                                                      |
+|-----------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| waynesutton/markdown-site               |     269 | A minimalist markdown sync site that's always in sync built with React, Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery.                       |
+| Aratako/T5Gemma-TTS                     |     154 | Multilingual TTS model with voice cloning and duration control, based on T5Gemma encoder-decoder LLM                                                             |
+| samwho/llmwalk                          |     123 | Explore the answer-space of open LLMs                                                                                                                            |
+| Detrol/quorum-cli                       |      47 | Multi-agent AI discussion CLI for structured debates between LLMs                                                                                                |
+| ML-GSAI/ReFusion                        |      21 | Official PyTorch implementation for "ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding"                                           |
+| aguilar-ai/fincantatem                  |      20 | Decorator, CLI & IPython extension for LLM-powered exception analysis.                                                                                           |
+| flashserve/PAT                          |      15 | PAT: Prefix-Aware Attention for LLM Decoding                                                                                                                     |
+| sou350121/investment-masters-handbook   |      15 | 📈 传奇投资人智慧框架 | IF-THEN 决策规则 | LLM 友好 | Legendary Investors' Wisdom for AI & Human                                                                                 |
+| thyrisAI/safe-zone                      |      12 | TSZ (Thyris Safe Zone) is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs.             |
+| Hmbown/aleph                            |      11 | MCP server for recursive LLM reasoning. Load context, iterate with search/code/think tools, converge on answers.                                                 |
+| QKV-Core/QKV-Core                       |      10 | "Adaptive Hybrid Quantization Framework for deploying 7B+ LLMs on low-VRAM devices (e.g., GTX 1050). Features surgical block alignment and Numba-accelerated in… |
+| obinnakenan/Twitter-Automation-AI       |       9 | Advanced Python-based Twitter (X.com) automation framework using Selenium and LLMs (OpenAI, Gemini) for multi-account scraping, posting, engagement, and conten… |
+| wangzhaode/jinja.cpp                    |       9 | A lightweight, single-header C++11 Jinja2 template engine for LLM chat templates.                                                                                |
+| abra5umente/youtube-transcript-api      |       8 | local proxy that lets claude (and other LLMs) grab youtube transcripts                                                                                           |
+| Demons-t/ida-llm-exporter               |       7 | Offline IDA export toolkit for LLM-assisted malware reverse engineering.                                                                                         |
+| Heven-Pan/UFVideo                       |       7 | UFVideo: Towards Unified Fine-Grained Video Cooperative Understanding with Large Language Models                                                                 |
+| akshayaggarwal99/amp                    |       7 | AMP: The Agent Memory Protocol — Open source, MCP-native memory server for AI agents. Give your LLMs a hippocampus.                                              |
+| Vinay7766/Credit-Risk-Assessment-System |       6 | An AI-powered fintech platform that predicts loan default risk and optimizes interest rates using GenAI, Neural Networks, and Streamlit.                         |
+| LINs-lab/RETU                           |       5 | [Preprint] Rethinking Expert Trajectory Utilization in LLM Post-training                                                                                         |
+| amazon-science/AdaRec                   |       5 | Adaptive Generative Recommendations with Large Language Models                                                                                                   |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -255,29 +257,37 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [8M users' AI conversations sold for profit by "privacy" extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection) — 235 points
-- [It seems that OpenAI is scraping [certificate transparency] logs](https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3) — 200 points
-- [Copywriters reveal how AI has decimated their industry](https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the) — 62 points
-- [Amazon's Aggressive Push to Get Cops Using AI Surveillance](https://www.forbes.com/sites/thomasbrewster/2025/10/01/inside-amazons-aggressive-push-to-get-cops-using-ai-surveillance/) — 20 points
-- [AI Is About to Empty Madison Avenue](https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2) — 8 points
-- [Why companies should still hire junior developers in the AI era](https://aroussi.com/post/from-junior-to-10x-dev) — 4 points
-- [AI-powered night-vision binoculars that can see things in the dark from a mile](https://www.digitalcameraworld.com/optics/binoculars/dvx-debuts-4k-ai-powered-night-vision-binoculars-that-can-see-things-in-the-dark-from-nearly-a-mile-away) — 3 points
+- [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html) — 448 points
+- [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/) — 370 points
+- [No AI* Here – A Response to Mozilla's Next Chapter](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/) — 196 points
+- [AI is wiping out entry-level tech jobs, leaving graduates stranded](https://restofworld.org/2025/engineering-graduates-ai-job-losses/) — 118 points
+- [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/) — 106 points
+- [CEOs to Keep Spending on AI, Despite Spotty Returns](https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b) — 68 points
+- [Windows 11 will ask consent before sharing personal files with AI after outrage](https://www.windowslatest.com/2025/12/17/microsoft-confirms-windows-11-will-ask-for-consent-before-sharing-your-personal-files-with-ai-after-outrage/) — 43 points
+- [Show HN: Solving the ~95% legislative coverage gap using LLM's](https://lustra.news/) — 35 points
+- [Joseph Gordon-Levitt wonders why AI companies don't have to 'follow any laws'](https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/) — 31 points
+- [Linux computer with 843 components designed by AI boots on first attempt](https://www.tomshardware.com/tech-industry/artificial-intelligence/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt-project-speedrun-was-made-in-just-one-week-and-required-less-than-40-hours-of-human-work) — 30 points
+- [Meta Segment Anything Model Audio](https://ai.meta.com/samaudio/) — 22 points
+- [Instacart's AI-Enabled Pricing Experiments May Be Inflating Your Grocery Bill](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) — 18 points
+- [Show HN: TheAuditor v2.0 – A “Flight Computer” for AI Coding Agents](https://github.com/TheAuditorTool/Auditor) — 17 points
+- [CC, a new AI productivity agent that connects your Gmail, Calendar and Drive](https://labs.google/cc/) — 14 points
+- [TRELLIS.2: state-of-the-art large 3D generative model (4B)](https://github.com/microsoft/TRELLIS.2) — 12 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary   |
-|---------------------|--------|-----------|
-| CVE-2022-24302      |      0 |           |
-| GHSA-jx2m-wgq5-5qcj |      0 |           |
-| CVE-2025-68113      |      0 |           |
-| CVE-2025-68115      |      0 |           |
-| GHSA-2mv5-wvgc-cq3v |      0 |           |
-| GHSA-4cj6-vc44-v9qw |      0 |           |
-| GHSA-7vwr-42wj-qjpw |      0 |           |
-| GHSA-fmq6-5fmg-5hw5 |      0 |           |
-| GHSA-qv28-7w47-rrhx |      0 |           |
-| GHSA-r9q3-pv63-qfpx |      0 |           |
+| CVE   |   CVSS | Summary   |
+|-------|--------|-----------|
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

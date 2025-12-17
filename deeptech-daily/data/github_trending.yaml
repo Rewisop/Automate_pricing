@@ -1,122 +1,119 @@
-fetched_at: '2025-12-16T05:36:30Z'
-generated_at: '2025-12-16T05:36:30Z'
-hash: 92692aa6973790e0b33ea601db5239503fd6b13f3637b6ae52538f1676f53afb
+fetched_at: '2025-12-17T05:36:52Z'
+generated_at: '2025-12-17T05:36:52Z'
+hash: 2c8de9e3914e6cc4f02574314a3cb873e29b3fa9f892c1543021a9b0c2ce809f
 items:
-- created_at: '2025-12-10T16:10:52Z'
-  description: Analyzing Hacker News discussions from a decade ago in hindsight with
-    LLMs
-  full_name: karpathy/hn-time-capsule
-  html_url: https://github.com/karpathy/hn-time-capsule
-  stargazers_count: 409
 - created_at: '2025-12-14T17:54:14Z'
   description: A minimalist markdown sync site that's always in sync built with React,
     Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery.
   full_name: waynesutton/markdown-site
   html_url: https://github.com/waynesutton/markdown-site
-  stargazers_count: 174
+  stargazers_count: 269
 - created_at: '2025-12-13T15:30:45Z'
   description: Multilingual TTS model with voice cloning and duration control, based
     on T5Gemma encoder-decoder LLM
   full_name: Aratako/T5Gemma-TTS
   html_url: https://github.com/Aratako/T5Gemma-TTS
-  stargazers_count: 122
+  stargazers_count: 154
 - created_at: '2025-12-14T16:11:38Z'
   description: Explore the answer-space of open LLMs
   full_name: samwho/llmwalk
   html_url: https://github.com/samwho/llmwalk
-  stargazers_count: 116
-- created_at: '2025-12-10T20:02:05Z'
-  description: An Excel AI agent that uses MCP tools to let LLMs read, edit, and automate
-    Excel spreadsheets.
-  full_name: SylvianAI/sv-excel-agent
-  html_url: https://github.com/SylvianAI/sv-excel-agent
-  stargazers_count: 60
-- created_at: '2025-12-10T02:48:56Z'
-  description: LingEcho is an intelligent voice interaction platform that provides
-    a comprehensive AI voice interaction solution. It integrates advanced speech recognition
-    (A…
-  full_name: code-100-precent/LingEcho-App
-  html_url: https://github.com/code-100-precent/LingEcho-App
-  stargazers_count: 54
+  stargazers_count: 123
 - created_at: '2025-12-11T11:14:41Z'
   description: Multi-agent AI discussion CLI for structured debates between LLMs
   full_name: Detrol/quorum-cli
   html_url: https://github.com/Detrol/quorum-cli
-  stargazers_count: 45
-- created_at: '2025-12-10T05:40:24Z'
-  description: LLM powered drawio live editor
-  full_name: JerryKwan/drawio-live-editor
-  html_url: https://github.com/JerryKwan/drawio-live-editor
-  stargazers_count: 44
-- created_at: '2025-12-10T00:50:51Z'
-  description: 'd3LLM: Ultra-Fast Diffusion LLM 🚀'
-  full_name: hao-ai-lab/d3LLM
-  html_url: https://github.com/hao-ai-lab/d3LLM
-  stargazers_count: 35
-- created_at: '2025-12-10T15:43:42Z'
-  description: PushToTalk 是一个高性能的桌面语音输入工具。它不仅仅是一个语音转文字工具，更集成了大语言模型（LLM）能力。你可以按住 Ctrl+Win
-    说话，松开后应用会自动将你的语音转为文字，并根据你的设定进行润色、翻译或整理成邮件，最后自动粘贴到当前光标位置。支持豆包/千问
-  full_name: yyyzl/push-2-talk
-  html_url: https://github.com/yyyzl/push-2-talk
+  stargazers_count: 47
+- created_at: '2025-12-12T16:45:22Z'
+  description: 'Official PyTorch implementation for "ReFusion: A Diffusion Large Language
+    Model with Parallel Autoregressive Decoding"'
+  full_name: ML-GSAI/ReFusion
+  html_url: https://github.com/ML-GSAI/ReFusion
   stargazers_count: 21
-- created_at: '2025-12-10T12:37:33Z'
-  description: AI-native TypeScript validation library optimized for LLM outputs,
-    function calling, and structured generation.
-  full_name: v-checha/valai
-  html_url: https://github.com/v-checha/valai
+- created_at: '2025-12-16T01:07:35Z'
+  description: Decorator, CLI & IPython extension for LLM-powered exception analysis.
+  full_name: aguilar-ai/fincantatem
+  html_url: https://github.com/aguilar-ai/fincantatem
   stargazers_count: 20
-- created_at: '2025-12-10T04:16:21Z'
-  description: Dynamic tool discovery and selection for Spring AI, enabling LLMs to
-    work efficiently with large tool libraries by discovering tools on-demand instead
-    of loadi…
-  full_name: spring-ai-community/spring-ai-tool-search-tool
-  html_url: https://github.com/spring-ai-community/spring-ai-tool-search-tool
-  stargazers_count: 19
-- created_at: '2025-12-10T13:56:27Z'
-  description: ✨用Java实现的MCP，爬取最新热点新闻，允许LLM调用。告别信息茧房，用AI洞悉世界。
-  full_name: paiad/mcp-java-news-crawler
-  html_url: https://github.com/paiad/mcp-java-news-crawler
-  stargazers_count: 18
-- created_at: '2025-12-10T09:34:36Z'
-  description: A benchmark for evaluating LLMs on open-ended CS problems. Exploring
-    the Next Frontier of Computer Science.
-  full_name: FrontierCS/Frontier-CS
-  html_url: https://github.com/FrontierCS/Frontier-CS
-  stargazers_count: 16
+- created_at: '2025-12-12T16:47:39Z'
+  description: 'PAT: Prefix-Aware Attention for LLM Decoding'
+  full_name: flashserve/PAT
+  html_url: https://github.com/flashserve/PAT
+  stargazers_count: 15
 - created_at: '2025-12-11T10:37:16Z'
   description: 📈 传奇投资人智慧框架 | IF-THEN 决策规则 | LLM 友好 | Legendary Investors' Wisdom for
     AI & Human
   full_name: sou350121/investment-masters-handbook
   html_url: https://github.com/sou350121/investment-masters-handbook
-  stargazers_count: 14
-- created_at: '2025-12-10T13:28:25Z'
-  description: Comprehensive AI Evaluation Framework with advanced techniques including
-    Temperature-Controlled Verdict Aggregation via Generalized Power Mean. Support
-    for mul…
-  full_name: firstlinesoftware/eval-ai-library
-  html_url: https://github.com/firstlinesoftware/eval-ai-library
-  stargazers_count: 10
+  stargazers_count: 15
 - created_at: '2025-12-13T14:38:10Z'
   description: TSZ (Thyris Safe Zone) is an open-source PII detection and guardrails
     engine that prevents sensitive data from leaking to LLMs and third-party APIs.
   full_name: thyrisAI/safe-zone
   html_url: https://github.com/thyrisAI/safe-zone
+  stargazers_count: 12
+- created_at: '2025-12-15T19:20:02Z'
+  description: MCP server for recursive LLM reasoning. Load context, iterate with
+    search/code/think tools, converge on answers.
+  full_name: Hmbown/aleph
+  html_url: https://github.com/Hmbown/aleph
+  stargazers_count: 11
+- created_at: '2025-12-16T07:42:09Z'
+  description: '"Adaptive Hybrid Quantization Framework for deploying 7B+ LLMs on
+    low-VRAM devices (e.g., GTX 1050). Features surgical block alignment and Numba-accelerated
+    in…'
+  full_name: QKV-Core/QKV-Core
+  html_url: https://github.com/QKV-Core/QKV-Core
+  stargazers_count: 10
+- created_at: '2025-12-11T05:40:09Z'
+  description: Advanced Python-based Twitter (X.com) automation framework using Selenium
+    and LLMs (OpenAI, Gemini) for multi-account scraping, posting, engagement, and
+    conten…
+  full_name: obinnakenan/Twitter-Automation-AI
+  html_url: https://github.com/obinnakenan/Twitter-Automation-AI
+  stargazers_count: 9
+- created_at: '2025-12-16T04:00:36Z'
+  description: A lightweight, single-header C++11 Jinja2 template engine for LLM chat
+    templates.
+  full_name: wangzhaode/jinja.cpp
+  html_url: https://github.com/wangzhaode/jinja.cpp
   stargazers_count: 9
 - created_at: '2025-12-13T05:10:36Z'
   description: local proxy that lets claude (and other LLMs) grab youtube transcripts
   full_name: abra5umente/youtube-transcript-api
   html_url: https://github.com/abra5umente/youtube-transcript-api
   stargazers_count: 8
+- created_at: '2025-12-11T02:56:02Z'
+  description: Offline IDA export toolkit for LLM-assisted malware reverse engineering.
+  full_name: Demons-t/ida-llm-exporter
+  html_url: https://github.com/Demons-t/ida-llm-exporter
+  stargazers_count: 7
 - created_at: '2025-12-11T03:39:31Z'
   description: 'UFVideo: Towards Unified Fine-Grained Video Cooperative Understanding
     with Large Language Models'
   full_name: Heven-Pan/UFVideo
   html_url: https://github.com/Heven-Pan/UFVideo
   stargazers_count: 7
-- created_at: '2025-12-10T08:15:25Z'
-  description: The ultimate LLM/AI application development framework for teaching
-    in Golang language.
-  full_name: NuyoahCh/einotelos
-  html_url: https://github.com/NuyoahCh/einotelos
+- created_at: '2025-12-13T19:37:22Z'
+  description: 'AMP: The Agent Memory Protocol — Open source, MCP-native memory server
+    for AI agents. Give your LLMs a hippocampus.'
+  full_name: akshayaggarwal99/amp
+  html_url: https://github.com/akshayaggarwal99/amp
   stargazers_count: 7
+- created_at: '2025-12-14T13:04:16Z'
+  description: An AI-powered fintech platform that predicts loan default risk and
+    optimizes interest rates using GenAI, Neural Networks, and Streamlit.
+  full_name: Vinay7766/Credit-Risk-Assessment-System
+  html_url: https://github.com/Vinay7766/Credit-Risk-Assessment-System
+  stargazers_count: 6
+- created_at: '2025-12-12T07:56:27Z'
+  description: '[Preprint] Rethinking Expert Trajectory Utilization in LLM Post-training'
+  full_name: LINs-lab/RETU
+  html_url: https://github.com/LINs-lab/RETU
+  stargazers_count: 5
+- created_at: '2025-12-12T03:52:24Z'
+  description: Adaptive Generative Recommendations with Large Language Models
+  full_name: amazon-science/AdaRec
+  html_url: https://github.com/amazon-science/AdaRec
+  stargazers_count: 5
 source_url: https://api.github.com/search/repositories
