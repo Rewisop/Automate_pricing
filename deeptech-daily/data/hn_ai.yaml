@@ -1,112 +1,67 @@
-fetched_at: '2025-12-17T05:36:52Z'
-generated_at: '2025-12-17T05:36:52Z'
-hash: 7746e06c25053b7886fd431f18cb863c494608bfa77613eab09316916aa9ef7c
+fetched_at: '2025-12-18T05:37:17Z'
+generated_at: '2025-12-18T05:37:17Z'
+hash: 694e35f6dcc005e9e4f93c6eb744de59bc594f51e03d7657a17f26eab8c48058
 items:
-- id: 46294574
-  score: 448
-  time: '2025-12-16T21:14:49Z'
-  title: AI will make formal verification go mainstream
-  url: https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html
-- id: 46291941
-  score: 370
-  time: '2025-12-16T18:07:07Z'
-  title: GPT Image 1.5
-  url: https://openai.com/index/new-chatgpt-images-is-here/
-- id: 46295268
-  score: 196
-  time: '2025-12-16T22:07:49Z'
-  title: No AI* Here – A Response to Mozilla's Next Chapter
-  url: https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/
-- id: 46291504
-  score: 118
-  time: '2025-12-16T17:37:41Z'
-  title: AI is wiping out entry-level tech jobs, leaving graduates stranded
-  url: https://restofworld.org/2025/engineering-graduates-ai-job-losses/
-- id: 46295771
-  score: 106
-  time: '2025-12-16T22:48:56Z'
-  title: I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in
-    hours
-  url: https://simonwillison.net/2025/Dec/15/porting-justhtml/
-- id: 46289160
-  score: 68
-  time: '2025-12-16T14:46:52Z'
-  title: CEOs to Keep Spending on AI, Despite Spotty Returns
-  url: https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b
-- id: 46296697
-  score: 43
-  time: '2025-12-17T00:27:58Z'
-  title: Windows 11 will ask consent before sharing personal files with AI after outrage
-  url: https://www.windowslatest.com/2025/12/17/microsoft-confirms-windows-11-will-ask-for-consent-before-sharing-your-personal-files-with-ai-after-outrage/
-- id: 46289073
-  score: 35
-  time: '2025-12-16T14:39:59Z'
-  title: 'Show HN: Solving the ~95% legislative coverage gap using LLM''s'
-  url: https://lustra.news/
-- id: 46292984
-  score: 31
-  time: '2025-12-16T19:14:57Z'
-  title: Joseph Gordon-Levitt wonders why AI companies don't have to 'follow any laws'
-  url: https://fortune.com/2025/12/15/joseph-gordon-levitt-ai-laws-dystopian/
-- id: 46294254
-  score: 30
-  time: '2025-12-16T20:50:13Z'
-  title: Linux computer with 843 components designed by AI boots on first attempt
-  url: https://www.tomshardware.com/tech-industry/artificial-intelligence/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt-project-speedrun-was-made-in-just-one-week-and-required-less-than-40-hours-of-human-work
-- id: 46292266
-  score: 22
-  time: '2025-12-16T18:26:43Z'
-  title: Meta Segment Anything Model Audio
-  url: https://ai.meta.com/samaudio/
-- id: 46295992
-  score: 18
-  time: '2025-12-16T23:09:22Z'
-  title: Instacart's AI-Enabled Pricing Experiments May Be Inflating Your Grocery
-    Bill
-  url: https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/
-- id: 46288453
-  score: 17
-  time: '2025-12-16T13:50:15Z'
-  title: 'Show HN: TheAuditor v2.0 – A “Flight Computer” for AI Coding Agents'
-  url: https://github.com/TheAuditorTool/Auditor
-- id: 46292526
-  score: 14
-  time: '2025-12-16T18:43:21Z'
-  title: CC, a new AI productivity agent that connects your Gmail, Calendar and Drive
-  url: https://labs.google/cc/
-- id: 46295295
-  score: 12
-  time: '2025-12-16T22:09:53Z'
-  title: 'TRELLIS.2: state-of-the-art large 3D generative model (4B)'
-  url: https://github.com/microsoft/TRELLIS.2
-- id: 46291461
-  score: 11
-  time: '2025-12-16T17:35:19Z'
-  title: It's time to reset our expectations for AI
-  url: https://www.technologyreview.com/2025/12/16/1129946/why-its-time-to-reset-our-expectations-for-ai/
-- id: 46294311
-  score: 7
-  time: '2025-12-16T20:54:18Z'
-  title: George Osborne Joins OpenAI
-  url: https://www.bbc.co.uk/news/articles/cd6xz1jv4ezo
-- id: 46292131
-  score: 6
-  time: '2025-12-16T18:20:24Z'
-  title: The "A" in "AI" Stands for Amnesia
-  url: https://blog.jim-nielsen.com/2025/a-in-ai-stands-for-amnesia/
-- id: 46293069
-  score: 6
-  time: '2025-12-16T19:20:44Z'
-  title: AI-Triggered Delusional Ideation as Folie a Deux Technologique
-  url: https://arxiv.org/abs/2512.11818
-- id: 46297739
-  score: 6
-  time: '2025-12-17T02:58:23Z'
-  title: Why Does AI Have to Be Held to a Higher Bar Than Humans (and Why It Matters)?
-  url: https://medium.com/@srinathperera/why-does-ai-have-to-be-held-to-a-higher-bar-than-humans-and-why-it-matters-1f5eb8c4b68b
-- id: 46294179
+- id: 46302267
+  score: 834
+  time: '2025-12-17T17:08:35Z'
+  title: AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'
+  url: https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers
+- id: 46303291
+  score: 234
+  time: '2025-12-17T18:16:58Z'
+  title: A16z-backed Doublespeed hacked, revealing what its AI-generated accounts
+    promote
+  url: https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/
+- id: 46299552
+  score: 224
+  time: '2025-12-17T08:34:00Z'
+  title: 'AI''s real superpower: consuming, not creating'
+  url: https://msanroman.io/blog/ai-consumption-paradigm
+- id: 46302114
+  score: 125
+  time: '2025-12-17T17:00:12Z'
+  title: Firefox is becoming an AI browser and the internet is not at all happy about
+    it
+  url: https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/
+- id: 46301886
+  score: 108
+  time: '2025-12-17T16:45:35Z'
+  title: The State of AI Coding Report 2025
+  url: https://www.greptile.com/state-of-ai-coding-2025
+- id: 46305409
+  score: 88
+  time: '2025-12-17T20:58:09Z'
+  title: AI Isn't Just Spying on You. It's Tricking You into Spending More
+  url: https://newrepublic.com/article/204525/artificial-intelligence-consumers-data-dynamic-pricing
+- id: 46302262
+  score: 48
+  time: '2025-12-17T17:08:06Z'
+  title: AI capability isn't humanness
+  url: https://research.roundtable.ai/capabilities-humanness/
+- id: 46307027
+  score: 15
+  time: '2025-12-17T23:25:24Z'
+  title: OpenAI Is Maneuvering for a Government Bailout
+  url: https://prospect.org/2025/11/07/openai-maneuvering-for-government-bailout/
+- id: 46306497
+  score: 10
+  time: '2025-12-17T22:32:19Z'
+  title: NOAA deploys new generation of AI-driven global weather models
+  url: https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models
+- id: 46306201
+  score: 8
+  time: '2025-12-17T22:04:18Z'
+  title: Browser 'privacy' extensions have eye on your AI, log all your chats
+  url: https://www.theregister.com/2025/12/16/chrome_edge_privacy_extensions_quietly/
+- id: 46309124
+  score: 5
+  time: '2025-12-18T05:20:41Z'
+  title: More than half of researchers now use AI for peer review, often against guidance
+  url: https://www.nature.com/articles/d41586-025-04066-5
+- id: 46309039
   score: 4
-  time: '2025-12-16T20:44:33Z'
-  title: AI will replace you at your job if you let it
-  url: https://read.technically.dev/p/ai-will-replace-you-at-your-job-if
+  time: '2025-12-18T05:01:00Z'
+  title: Mozilla's New CEO Confirms Firefox Will Become an "AI Browser"
+  url: https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy
 source_url: https://hacker-news.firebaseio.com/

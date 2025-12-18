@@ -1,45 +1,45 @@
-fetched_at: '2025-12-17T05:36:52Z'
-generated_at: '2025-12-17T05:36:52Z'
-hash: d047d0ef800eff5968955e1d20d6d3f7634e57e9d369c1d9fc845fe8e8ea3dab
+fetched_at: '2025-12-18T05:37:17Z'
+generated_at: '2025-12-18T05:37:17Z'
+hash: b89a181848f1ee8f07cbeaa548608bbf0234bdf1a0b653b2de41f209ee64b179
 items:
 - cvss: 0.0
-  id: null
-  published: '2025-12-17T05:36:52Z'
+  id: MAL-2025-192124
+  published: '2025-12-03T15:59:29Z'
+  summary: Malicious code in elf-stats-rooftop-hammer-580 (npm)
+- cvss: 0.0
+  id: CVE-2025-14584
+  published: '2025-12-12T23:15:37Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-12-17T05:36:52Z'
+  id: CVE-2025-14585
+  published: '2025-12-12T23:15:38Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-12-17T05:36:52Z'
+  id: CVE-2025-14586
+  published: '2025-12-13T16:16:51Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-12-17T05:36:52Z'
+  id: CVE-2025-14587
+  published: '2025-12-13T16:16:51Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-12-17T05:36:52Z'
+  id: CVE-2025-14588
+  published: '2025-12-13T16:16:52Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-12-17T05:36:52Z'
+  id: CVE-2025-14636
+  published: '2025-12-13T19:15:38Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-12-17T05:36:52Z'
+  id: CVE-2025-14637
+  published: '2025-12-13T20:15:39Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-12-17T05:36:52Z'
+  id: CVE-2025-14638
+  published: '2025-12-14T01:15:40Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2025-12-17T05:36:52Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2025-12-17T05:36:52Z'
+  id: CVE-2025-14643
+  published: '2025-12-14T04:15:49Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

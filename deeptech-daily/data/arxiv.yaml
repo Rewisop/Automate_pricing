@@ -1,36 +1,36 @@
-fetched_at: '2025-12-17T05:36:52Z'
-generated_at: '2025-12-17T05:36:52Z'
-hash: 0254c14ecf4b030bd08b5240b4302534e58d69bf4965893cb40be9c0c3b6dc98
+fetched_at: '2025-12-18T05:37:17Z'
+generated_at: '2025-12-18T05:37:17Z'
+hash: c6117af1ab0fe07a0a637d22a0b5d6308bcf2c37ecf5d40b555b58d77f93b7e2
 items:
 - id: oai:arXiv.org:2512.13700v1
   link: https://arxiv.org/abs/2512.13700
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13700v1 Announce Type: new  Abstract: Manual chart review remains
     an extremely time-consuming and resource-intensive component of clinical research,…'
   title: Leveraging LLMs for Structured Data Extraction from Unstructured Patient
     Records
 - id: oai:arXiv.org:2512.13701v1
   link: https://arxiv.org/abs/2512.13701
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13701v1 Announce Type: new  Abstract: Radio maps enable intelligent
     wireless applications by capturing the spatial distribution of channel character…'
   title: Blind Radio Mapping via Spatially Regularized Bayesian Trajectory Inference
 - id: oai:arXiv.org:2512.13704v1
   link: https://arxiv.org/abs/2512.13704
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13704v1 Announce Type: new  Abstract: The performance of production
     machine learning systems is fundamentally limited by the quality of their traini…'
   title: 'Adjudicator: Correcting Noisy Labels with a KG-Informed Council of LLM Agents'
 - id: oai:arXiv.org:2512.13713v1
   link: https://arxiv.org/abs/2512.13713
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13713v1 Announce Type: new  Abstract: Large Language Models
     (LLMs) are increasingly being utilized as autonomous agents, yet their ability
     to coordi…'
   title: 'LoopBench: Discovering Emergent Symmetry Breaking Strategies with LLM Swarms'
 - id: oai:arXiv.org:2512.13714v1
   link: https://arxiv.org/abs/2512.13714
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13714v1 Announce Type: new  Abstract: LLM implementations are
     failing in highly regulated industries owing to instability issues, inconsistent
     reaso…'
@@ -38,7 +38,7 @@ items:
     Human-AI Synergy Approach'
 - id: oai:arXiv.org:2512.13715v1
   link: https://arxiv.org/abs/2512.13715
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13715v1 Announce Type: new  Abstract: The increasing complexity
     of modern applications demands wireless networks capable of real time adaptability
     a…'
@@ -46,14 +46,14 @@ items:
     in O-RAN
 - id: oai:arXiv.org:2512.13716v1
   link: https://arxiv.org/abs/2512.13716
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13716v1 Announce Type: new  Abstract: Personalized decision-making
     is essential for human-AI interaction, enabling AI agents to act in alignment
     wit…'
   title: 'ValuePilot: A Two-Phase Framework for Value-Driven Decision-Making'
 - id: oai:arXiv.org:2512.13725v1
   link: https://arxiv.org/abs/2512.13725
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13725v1 Announce Type: new  Abstract: Causal reasoning in Large
     Language Models spanning association, intervention, and counterfactual inference
     is…'
@@ -61,37 +61,37 @@ items:
     and Counterfactual Accuracy'
 - id: oai:arXiv.org:2512.13762v1
   link: https://arxiv.org/abs/2512.13762
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13762v1 Announce Type: new  Abstract: Large language models
     (LLMs) are widely deployed as general-purpose tools, yet extended interaction
     can reveal…'
   title: State-Dependent Refusal and Learned Incapacity in RLHF-Aligned Language Models
 - id: oai:arXiv.org:2512.13764v1
   link: https://arxiv.org/abs/2512.13764
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13764v1 Announce Type: new  Abstract: We study the special
     role of mathematics and coding inside the moduli space of psychometric batteries
     for AI a…'
   title: Mathematics and Coding are Universal AI Benchmarks
 - id: oai:arXiv.org:2512.13771v1
   link: https://arxiv.org/abs/2512.13771
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13771v1 Announce Type: new  Abstract: When retrieval-augmented
     generation (RAG) systems hallucinate, what geometric trace does this leave in
     embeddi…'
   title: 'Semantic Grounding Index: Geometric Bounds on Context Engagement in RAG
     Systems'
-- id: oai:arXiv.org:2512.13857v1
+- id: oai:arXiv.org:2512.13857v2
   link: https://arxiv.org/abs/2512.13857
-  published: '2025-12-17T05:00:00Z'
-  summary: 'arXiv:2512.13857v1 Announce Type: new  Abstract: Large language models
+  published: '2025-12-18T05:00:00Z'
+  summary: 'arXiv:2512.13857v2 Announce Type: new  Abstract: Large language models
     (LLMs) are increasingly used to evolve programs and multi-agent systems, yet most
     existi…'
   title: 'EvoLattice: Persistent Internal-Population Evolution through Multi-Alternative
     Quality-Diversity Graph Representations for LLM-Guided Program Discovery'
 - id: oai:arXiv.org:2512.13955v1
   link: https://arxiv.org/abs/2512.13955
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13955v1 Announce Type: new  Abstract: Federated Learning (FL)
     has emerged as a leading privacy-preserving machine learning paradigm, enabling
     partic…'
@@ -99,7 +99,7 @@ items:
     Learning'
 - id: oai:arXiv.org:2512.13978v1
   link: https://arxiv.org/abs/2512.13978
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13978v1 Announce Type: new  Abstract: The rapid advancement
     of large language models (LLMs) has led to significant breakthroughs in automated
     mathem…'
@@ -107,7 +107,7 @@ items:
     on a Textbook in Theoretical Computer Science about Randomized Algorithms'
 - id: oai:arXiv.org:2512.13979v1
   link: https://arxiv.org/abs/2512.13979
-  published: '2025-12-17T05:00:00Z'
+  published: '2025-12-18T05:00:00Z'
   summary: 'arXiv:2512.13979v1 Announce Type: new  Abstract: Large language models
     (LLMs) with Chain-of-Thought (CoT) reasoning have achieved strong performance
     across div…'
