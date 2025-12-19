@@ -65,6 +65,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -76,6 +77,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -186,21 +188,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [Leveraging LLMs for Structured Data Extraction from Unstructured Patient Records](https://arxiv.org/abs/2512.13700) — arXiv:2512.13700v1 Announce Type: new  Abstract: Manual chart review remains an extremely time-consuming and resource-intensive component of clinical research,…
-- [Blind Radio Mapping via Spatially Regularized Bayesian Trajectory Inference](https://arxiv.org/abs/2512.13701) — arXiv:2512.13701v1 Announce Type: new  Abstract: Radio maps enable intelligent wireless applications by capturing the spatial distribution of channel character…
-- [Adjudicator: Correcting Noisy Labels with a KG-Informed Council of LLM Agents](https://arxiv.org/abs/2512.13704) — arXiv:2512.13704v1 Announce Type: new  Abstract: The performance of production machine learning systems is fundamentally limited by the quality of their traini…
-- [LoopBench: Discovering Emergent Symmetry Breaking Strategies with LLM Swarms](https://arxiv.org/abs/2512.13713) — arXiv:2512.13713v1 Announce Type: new  Abstract: Large Language Models (LLMs) are increasingly being utilized as autonomous agents, yet their ability to coordi…
-- [AI-Powered Annotation Pipelines for Stabilizing Large Language Models: A Human-AI Synergy Approach](https://arxiv.org/abs/2512.13714) — arXiv:2512.13714v1 Announce Type: new  Abstract: LLM implementations are failing in highly regulated industries owing to instability issues, inconsistent reaso…
-- [Meta Hierarchical Reinforcement Learning for Scalable Resource Management in O-RAN](https://arxiv.org/abs/2512.13715) — arXiv:2512.13715v1 Announce Type: new  Abstract: The increasing complexity of modern applications demands wireless networks capable of real time adaptability a…
-- [ValuePilot: A Two-Phase Framework for Value-Driven Decision-Making](https://arxiv.org/abs/2512.13716) — arXiv:2512.13716v1 Announce Type: new  Abstract: Personalized decision-making is essential for human-AI interaction, enabling AI agents to act in alignment wit…
-- [Compressed Causal Reasoning: Quantization and GraphRAG Effects on Interventional and Counterfactual Accuracy](https://arxiv.org/abs/2512.13725) — arXiv:2512.13725v1 Announce Type: new  Abstract: Causal reasoning in Large Language Models spanning association, intervention, and counterfactual inference is…
-- [State-Dependent Refusal and Learned Incapacity in RLHF-Aligned Language Models](https://arxiv.org/abs/2512.13762) — arXiv:2512.13762v1 Announce Type: new  Abstract: Large language models (LLMs) are widely deployed as general-purpose tools, yet extended interaction can reveal…
-- [Mathematics and Coding are Universal AI Benchmarks](https://arxiv.org/abs/2512.13764) — arXiv:2512.13764v1 Announce Type: new  Abstract: We study the special role of mathematics and coding inside the moduli space of psychometric batteries for AI a…
-- [Semantic Grounding Index: Geometric Bounds on Context Engagement in RAG Systems](https://arxiv.org/abs/2512.13771) — arXiv:2512.13771v1 Announce Type: new  Abstract: When retrieval-augmented generation (RAG) systems hallucinate, what geometric trace does this leave in embeddi…
-- [EvoLattice: Persistent Internal-Population Evolution through Multi-Alternative Quality-Diversity Graph Representations for LLM-Guided Program Discovery](https://arxiv.org/abs/2512.13857) — arXiv:2512.13857v2 Announce Type: new  Abstract: Large language models (LLMs) are increasingly used to evolve programs and multi-agent systems, yet most existi…
-- [MURIM: Multidimensional Reputation-based Incentive Mechanism for Federated Learning](https://arxiv.org/abs/2512.13955) — arXiv:2512.13955v1 Announce Type: new  Abstract: Federated Learning (FL) has emerged as a leading privacy-preserving machine learning paradigm, enabling partic…
-- [Evaluating Frontier LLMs on PhD-Level Mathematical Reasoning: A Benchmark on a Textbook in Theoretical Computer Science about Randomized Algorithms](https://arxiv.org/abs/2512.13978) — arXiv:2512.13978v1 Announce Type: new  Abstract: The rapid advancement of large language models (LLMs) has led to significant breakthroughs in automated mathem…
-- [ReflCtrl: Controlling LLM Reflection via Representation Engineering](https://arxiv.org/abs/2512.13979) — arXiv:2512.13979v1 Announce Type: new  Abstract: Large language models (LLMs) with Chain-of-Thought (CoT) reasoning have achieved strong performance across div…
+- [Attention as Binding: A Vector-Symbolic Perspective on Transformer Reasoning](https://arxiv.org/abs/2512.14709) — arXiv:2512.14709v1 Announce Type: new  Abstract: Transformer-based language models display impressive reasoning-like behavior, yet remain brittle on tasks that…
+- [GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge](https://arxiv.org/abs/2512.14766) — arXiv:2512.14766v1 Announce Type: new  Abstract: Large language models (LLMs) achieve strong results on knowledge graph question answering (KGQA), but most ben…
+- [IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration Knowledge Injection](https://arxiv.org/abs/2512.14792) — arXiv:2512.14792v1 Announce Type: new  Abstract: Large Language Models (LLMs) currently exhibit low success rates in generating correct and intent-aligned Infr…
+- [AgroAskAI: A Multi-Agentic AI Framework for Supporting Smallholder Farmers' Enquiries Globally](https://arxiv.org/abs/2512.14910) — arXiv:2512.14910v1 Announce Type: new  Abstract: Agricultural regions in rural areas face damage from climate-related risks, including droughts, heavy rainfall…
+- [Beyond Accuracy: A Geometric Stability Analysis of Large Language Models in Chess Evaluation](https://arxiv.org/abs/2512.15033) — arXiv:2512.15033v1 Announce Type: new  Abstract: The evaluation of Large Language Models (LLMs) in complex reasoning domains typically relies on performance al…
+- [LADY: Linear Attention for Autonomous Driving Efficiency without Transformers](https://arxiv.org/abs/2512.15038) — arXiv:2512.15038v2 Announce Type: new  Abstract: End-to-end paradigms have demonstrated great potential for autonomous driving. Additionally, most existing met…
+- [Agentic AI for Integrated Sensing and Communication: Analysis, Framework, and Case Study](https://arxiv.org/abs/2512.15044) — arXiv:2512.15044v1 Announce Type: new  Abstract: Integrated sensing and communication (ISAC) has emerged as a key development direction in the sixth-generation…
+- [Beyond Fast and Slow: Cognitive-Inspired Elastic Reasoning for Large Language Models](https://arxiv.org/abs/2512.15089) — arXiv:2512.15089v1 Announce Type: new  Abstract: Large language models (LLMs) have demonstrated impressive performance across various language tasks. However,…
+- [A Clustering-Based Variable Ordering Framework for Relaxed Decision Diagrams for Maximum Weighted Independent Set Problem](https://arxiv.org/abs/2512.15198) — arXiv:2512.15198v1 Announce Type: new  Abstract: Efficient exact algorithms for Discrete Optimization (DO) rely heavily on strong primal and dual bounds. Relax…
+- [CangLing-KnowFlow: A Unified Knowledge-and-Flow-fused Agent for Comprehensive Remote Sensing Applications](https://arxiv.org/abs/2512.15231) — arXiv:2512.15231v1 Announce Type: new  Abstract: The automated and intelligent processing of massive remote sensing (RS) datasets is critical in Earth observat…
+- [Graph Contextual Reinforcement Learning for Efficient Directed Controller Synthesis](https://arxiv.org/abs/2512.15295) — arXiv:2512.15295v1 Announce Type: new  Abstract: Controller synthesis is a formal method approach for automatically generating Labeled Transition System (LTS)…
+- [ChatGPT and Gemini participated in the Korean College Scholastic Ability Test -- Earth Science I](https://arxiv.org/abs/2512.15298) — arXiv:2512.15298v1 Announce Type: new  Abstract: The rapid development of Generative AI is bringing innovative changes to education and assessment. As the prev…
+- [SCOPE: Prompt Evolution for Enhancing Agent Effectiveness](https://arxiv.org/abs/2512.15374) — arXiv:2512.15374v1 Announce Type: new  Abstract: Large Language Model (LLM) agents are increasingly deployed in environments that generate massive, dynamic con…
+- [Bilateral Spatial Reasoning about Street Networks: Graph-based RAG with Qualitative Spatial Representations](https://arxiv.org/abs/2512.15388) — arXiv:2512.15388v1 Announce Type: new  Abstract: This paper deals with improving the capabilities of Large Language Models (LLM) to provide route instructions…
+- [Outer-Learning Framework for Playing Multi-Player Trick-Taking Card Games: A Case Study in Skat](https://arxiv.org/abs/2512.15435) — arXiv:2512.15435v1 Announce Type: new  Abstract: In multi-player card games such as Skat or Bridge, the early stages of the game, such as bidding, game selecti…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -230,26 +232,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                           |   Stars | Description                                                                                                                                                      |
 |------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| waynesutton/markdown-site                            |     290 | A minimalist markdown sync site that's always in sync built with React, Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery.                       |
-| Aratako/T5Gemma-TTS                                  |     168 | Multilingual TTS model with voice cloning and duration control, based on T5Gemma encoder-decoder LLM                                                             |
-| samwho/llmwalk                                       |     130 | Explore the answer-space of open LLMs                                                                                                                            |
-| ML-GSAI/ReFusion                                     |      35 | Official PyTorch implementation for "ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding"                                           |
-| KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub |      34 | 100+ LLM interview questions with answers.                                                                                                                       |
-| alibaba/OpenSandbox                                  |      34 | A universal sandbox platform for AI application scenarios, providing multi-language SDKs, unified sandbox protocols, and sandbox runtimes for LLM-related capab… |
-| 0xSojalSec/LLMs-local                                |      31 | list of awesome platforms, tools, and resources   run for LLMs locally                                                                                           |
+| waynesutton/markdown-site                            |     297 | A minimalist markdown sync site that's always in sync built with React, Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery.                       |
+| DGoettlich/history-llms                              |     274 | Information hub for our project training the largest possible historical LLMs.                                                                                   |
+| KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub |     245 | 100+ LLM interview questions with answers.                                                                                                                       |
+| Aratako/T5Gemma-TTS                                  |     185 | Multilingual TTS model with voice cloning and duration control, based on T5Gemma encoder-decoder LLM                                                             |
+| samwho/llmwalk                                       |     133 | Explore the answer-space of open LLMs                                                                                                                            |
+| sysgiven/AI-XiaoPi                                   |      41 | 小皮AI直播机器人 硬件+私有服务器解决方案 (XiaoPi)是一个将直播弹幕与AI硬件语音交互结合的解决方案。它能够：  - 📺 实时接收直播间弹幕消息 - 🤖 使用大语言模型(LLM)生成智能回复 - 🔊 将回复转换为语音(TTS) - 📡 发送到ESP32等硬件设备进行播放 - 🎯 支持串行化处理，避免弹幕堆积  |
+| alibaba/OpenSandbox                                  |      40 | A universal sandbox platform for AI application scenarios, providing multi-language SDKs, unified sandbox protocols, and sandbox runtimes for LLM-related capab… |
+| 0xSojalSec/LLMs-local                                |      39 | list of awesome platforms, tools, and resources   run for LLMs locally                                                                                           |
+| Goochbeater/Spiritual-Spell-Red-Teaming              |      39 | A repo for jailbreaking various LLMs, mainly Claude                                                                                                              |
+| lcw2014/AGI_HER_LLM                                  |      31 | AGI_HER_LLM                                                                                                                                                      |
+| lumingya/universal-web-api                           |      31 | 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An AI-powered, self-healing web automation bridge. Converts any website (ChatGPT, DeepSeek, et… |
+| TencentARC/TimeLens                                  |      27 | TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs                                                                                               |
 | aguilar-ai/fincantatem                               |      26 | Decorator, CLI & IPython extension for LLM-powered exception analysis.                                                                                           |
-| lumingya/universal-web-api                           |      22 | 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An AI-powered, self-healing web automation bridge. Converts any website (ChatGPT, DeepSeek, et… |
-| IngeniousIdiocy/LocalLLMMailScreener                 |      19 | Node.js (ESM) service that polls Gmail, sends each new email to a local OpenAI-compatible LLM, and optionally forwards summarized notifications based on the LL… |
-| flashserve/PAT                                       |      16 | Prefix-Aware Attention for LLM Decoding                                                                                                                          |
-| thyrisAI/safe-zone                                   |      16 | TSZ (Thyris Safe Zone) is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs.             |
-| TencentARC/TimeLens                                  |      15 | TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs                                                                                               |
-| Hmbown/aleph                                         |      12 | MCP server for recursive LLM reasoning. Load context, iterate with search/code/think tools, converge on answers.                                                 |
-| QKV-Core/QKV-Core                                    |      12 | "Adaptive Hybrid Quantization Framework for deploying 7B+ LLMs on low-VRAM devices (e.g., GTX 1050). Features surgical block alignment and Numba-accelerated in… |
-| wangzhaode/jinja.cpp                                 |      12 | A lightweight, single-header C++11 Jinja2 template engine for LLM chat templates.                                                                                |
-| jiahp0920/multi-agent-dispatch                       |      11 | 智能派单Agent系统是一个基于大语言模型(LLM)和LangChain框架的智能对话系统，用于为用户提供自动化的技师派单服务。系统具备上下文记忆能力，能够理解用户的多轮对话，并根据用户需求匹配合适的技师资源。                                                        |
-| Goochbeater/Spiritual-Spell-Red-Teaming              |       9 | A repo for jailbreaking various LLMs, mainly Claude                                                                                                              |
-| LINs-lab/RETU                                        |       8 | [Preprint] Rethinking Expert Trajectory Utilization in LLM Post-training                                                                                         |
-| abra5umente/youtube-transcript-api                   |       8 | local proxy that lets claude (and other LLMs) grab youtube transcripts                                                                                           |
+| IngeniousIdiocy/LocalLLMMailScreener                 |      20 | Node.js (ESM) service that polls Gmail, sends each new email to a local OpenAI-compatible LLM, and optionally forwards summarized mobile notifications based on… |
+| jiahp0920/multi-agent-dispatch                       |      19 | 智能派单Agent系统是一个基于大语言模型(LLM)和LangChain框架的智能对话系统，用于为用户提供自动化的技师派单服务。系统具备上下文记忆能力，能够理解用户的多轮对话，并根据用户需求匹配合适的技师资源。                                                        |
+| thyrisAI/safe-zone                                   |      17 | TSZ (Thyris Safe Zone) is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs.             |
+| ShowayLiao/OtakuNeko                                 |      15 | 🐱 你的二次元赛博哈基米 | 基于 LLM 的智能化番剧管理与分析助手。支持 Bangumi 数据同步、AI 深度画像分析、年度总结海报生成与个性化推荐。                                                                                    |
+| wangzhaode/jinja.cpp                                 |      14 | A lightweight, single-header C++11 Jinja2 template engine for LLM chat templates.                                                                                |
+| Hmbown/aleph                                         |      13 | MCP server for recursive LLM reasoning. Load context, iterate with search/code/think tools, converge on answers.                                                 |
+| av/awesome-llm-services                              |      12 | A curated list of self-hostable LLM services                                                                                                                     |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -259,34 +261,31 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers) — 834 points
-- [A16z-backed Doublespeed hacked, revealing what its AI-generated accounts promote](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) — 234 points
-- [AI's real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm) — 224 points
-- [Firefox is becoming an AI browser and the internet is not at all happy about it](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/) — 125 points
-- [The State of AI Coding Report 2025](https://www.greptile.com/state-of-ai-coding-2025) — 108 points
-- [AI Isn't Just Spying on You. It's Tricking You into Spending More](https://newrepublic.com/article/204525/artificial-intelligence-consumers-data-dynamic-pricing) — 88 points
-- [AI capability isn't humanness](https://research.roundtable.ai/capabilities-humanness/) — 48 points
-- [OpenAI Is Maneuvering for a Government Bailout](https://prospect.org/2025/11/07/openai-maneuvering-for-government-bailout/) — 15 points
-- [NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models) — 10 points
-- [Browser 'privacy' extensions have eye on your AI, log all your chats](https://www.theregister.com/2025/12/16/chrome_edge_privacy_extensions_quietly/) — 8 points
-- [More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5) — 5 points
-- [Mozilla's New CEO Confirms Firefox Will Become an "AI Browser"](https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy) — 4 points
+- [GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/) — 427 points
+- [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782) — 342 points
+- [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/) — 282 points
+- [AI helps ship faster but it produces 1.7× more bugs](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report) — 195 points
+- [FunctionGemma 270M Model](https://blog.google/technology/developers/functiongemma/) — 186 points
+- [We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34) — 96 points
+- [Local WYSIWYG Markdown, mockup, data model editor powered by Claude Code](https://nimbalyst.com) — 18 points
+- [LLM-Interview-Questions-and-Answers: 100 LLM interview questions with answers](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub) — 14 points
+- [Breakthroughs that will redefine AI over the next 18 months [video]](https://www.youtube.com/watch?v=h-z71uspNHw) — 3 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE             |   CVSS | Summary                                              |
-|-----------------|--------|------------------------------------------------------|
-| MAL-2025-192124 |      0 | Malicious code in elf-stats-rooftop-hammer-580 (npm) |
-| CVE-2025-14584  |      0 |                                                      |
-| CVE-2025-14585  |      0 |                                                      |
-| CVE-2025-14586  |      0 |                                                      |
-| CVE-2025-14587  |      0 |                                                      |
-| CVE-2025-14588  |      0 |                                                      |
-| CVE-2025-14636  |      0 |                                                      |
-| CVE-2025-14637  |      0 |                                                      |
-| CVE-2025-14638  |      0 |                                                      |
-| CVE-2025-14643  |      0 |                                                      |
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| GHSA-5mfv-8xjm-pmmh |      0 |           |
+| GHSA-hv82-jj64-jf47 |      0 |           |
+| GHSA-p5pj-p5gv-2r5w |      0 |           |
+| GHSA-rgwf-hw46-5w7j |      0 |           |
+| GHSA-4w56-v3gv-mf6c |      0 |           |
+| GHSA-6p6p-x42g-j3hv |      0 |           |
+| GHSA-767x-95qw-8v6j |      0 |           |
+| GHSA-g5pm-7qx6-f2hg |      0 |           |
+| GHSA-m2jw-wc29-6qmv |      0 |           |
+| GHSA-q9f7-mpvw-2h86 |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

@@ -1,117 +1,120 @@
-fetched_at: '2025-12-18T05:37:17Z'
-generated_at: '2025-12-18T05:37:17Z'
-hash: c6117af1ab0fe07a0a637d22a0b5d6308bcf2c37ecf5d40b555b58d77f93b7e2
+fetched_at: '2025-12-19T05:35:37Z'
+generated_at: '2025-12-19T05:35:37Z'
+hash: 1717f9ee824e06c7f916c8e972f37bab70110a86397b336c6a7e30aa2bcecfdb
 items:
-- id: oai:arXiv.org:2512.13700v1
-  link: https://arxiv.org/abs/2512.13700
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13700v1 Announce Type: new  Abstract: Manual chart review remains
-    an extremely time-consuming and resource-intensive component of clinical research,…'
-  title: Leveraging LLMs for Structured Data Extraction from Unstructured Patient
-    Records
-- id: oai:arXiv.org:2512.13701v1
-  link: https://arxiv.org/abs/2512.13701
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13701v1 Announce Type: new  Abstract: Radio maps enable intelligent
-    wireless applications by capturing the spatial distribution of channel character…'
-  title: Blind Radio Mapping via Spatially Regularized Bayesian Trajectory Inference
-- id: oai:arXiv.org:2512.13704v1
-  link: https://arxiv.org/abs/2512.13704
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13704v1 Announce Type: new  Abstract: The performance of production
-    machine learning systems is fundamentally limited by the quality of their traini…'
-  title: 'Adjudicator: Correcting Noisy Labels with a KG-Informed Council of LLM Agents'
-- id: oai:arXiv.org:2512.13713v1
-  link: https://arxiv.org/abs/2512.13713
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13713v1 Announce Type: new  Abstract: Large Language Models
-    (LLMs) are increasingly being utilized as autonomous agents, yet their ability
-    to coordi…'
-  title: 'LoopBench: Discovering Emergent Symmetry Breaking Strategies with LLM Swarms'
-- id: oai:arXiv.org:2512.13714v1
-  link: https://arxiv.org/abs/2512.13714
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13714v1 Announce Type: new  Abstract: LLM implementations are
-    failing in highly regulated industries owing to instability issues, inconsistent
-    reaso…'
-  title: 'AI-Powered Annotation Pipelines for Stabilizing Large Language Models: A
-    Human-AI Synergy Approach'
-- id: oai:arXiv.org:2512.13715v1
-  link: https://arxiv.org/abs/2512.13715
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13715v1 Announce Type: new  Abstract: The increasing complexity
-    of modern applications demands wireless networks capable of real time adaptability
-    a…'
-  title: Meta Hierarchical Reinforcement Learning for Scalable Resource Management
-    in O-RAN
-- id: oai:arXiv.org:2512.13716v1
-  link: https://arxiv.org/abs/2512.13716
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13716v1 Announce Type: new  Abstract: Personalized decision-making
-    is essential for human-AI interaction, enabling AI agents to act in alignment
-    wit…'
-  title: 'ValuePilot: A Two-Phase Framework for Value-Driven Decision-Making'
-- id: oai:arXiv.org:2512.13725v1
-  link: https://arxiv.org/abs/2512.13725
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13725v1 Announce Type: new  Abstract: Causal reasoning in Large
-    Language Models spanning association, intervention, and counterfactual inference
-    is…'
-  title: 'Compressed Causal Reasoning: Quantization and GraphRAG Effects on Interventional
-    and Counterfactual Accuracy'
-- id: oai:arXiv.org:2512.13762v1
-  link: https://arxiv.org/abs/2512.13762
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13762v1 Announce Type: new  Abstract: Large language models
-    (LLMs) are widely deployed as general-purpose tools, yet extended interaction
-    can reveal…'
-  title: State-Dependent Refusal and Learned Incapacity in RLHF-Aligned Language Models
-- id: oai:arXiv.org:2512.13764v1
-  link: https://arxiv.org/abs/2512.13764
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13764v1 Announce Type: new  Abstract: We study the special
-    role of mathematics and coding inside the moduli space of psychometric batteries
-    for AI a…'
-  title: Mathematics and Coding are Universal AI Benchmarks
-- id: oai:arXiv.org:2512.13771v1
-  link: https://arxiv.org/abs/2512.13771
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13771v1 Announce Type: new  Abstract: When retrieval-augmented
-    generation (RAG) systems hallucinate, what geometric trace does this leave in
-    embeddi…'
-  title: 'Semantic Grounding Index: Geometric Bounds on Context Engagement in RAG
-    Systems'
-- id: oai:arXiv.org:2512.13857v2
-  link: https://arxiv.org/abs/2512.13857
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13857v2 Announce Type: new  Abstract: Large language models
-    (LLMs) are increasingly used to evolve programs and multi-agent systems, yet most
-    existi…'
-  title: 'EvoLattice: Persistent Internal-Population Evolution through Multi-Alternative
-    Quality-Diversity Graph Representations for LLM-Guided Program Discovery'
-- id: oai:arXiv.org:2512.13955v1
-  link: https://arxiv.org/abs/2512.13955
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13955v1 Announce Type: new  Abstract: Federated Learning (FL)
-    has emerged as a leading privacy-preserving machine learning paradigm, enabling
-    partic…'
-  title: 'MURIM: Multidimensional Reputation-based Incentive Mechanism for Federated
-    Learning'
-- id: oai:arXiv.org:2512.13978v1
-  link: https://arxiv.org/abs/2512.13978
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13978v1 Announce Type: new  Abstract: The rapid advancement
-    of large language models (LLMs) has led to significant breakthroughs in automated
-    mathem…'
-  title: 'Evaluating Frontier LLMs on PhD-Level Mathematical Reasoning: A Benchmark
-    on a Textbook in Theoretical Computer Science about Randomized Algorithms'
-- id: oai:arXiv.org:2512.13979v1
-  link: https://arxiv.org/abs/2512.13979
-  published: '2025-12-18T05:00:00Z'
-  summary: 'arXiv:2512.13979v1 Announce Type: new  Abstract: Large language models
-    (LLMs) with Chain-of-Thought (CoT) reasoning have achieved strong performance
-    across div…'
-  title: 'ReflCtrl: Controlling LLM Reflection via Representation Engineering'
+- id: oai:arXiv.org:2512.14709v1
+  link: https://arxiv.org/abs/2512.14709
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.14709v1 Announce Type: new  Abstract: Transformer-based language
+    models display impressive reasoning-like behavior, yet remain brittle on tasks
+    that…'
+  title: 'Attention as Binding: A Vector-Symbolic Perspective on Transformer Reasoning'
+- id: oai:arXiv.org:2512.14766v1
+  link: https://arxiv.org/abs/2512.14766
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.14766v1 Announce Type: new  Abstract: Large language models
+    (LLMs) achieve strong results on knowledge graph question answering (KGQA), but
+    most ben…'
+  title: 'GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge'
+- id: oai:arXiv.org:2512.14792v1
+  link: https://arxiv.org/abs/2512.14792
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.14792v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) currently exhibit low success rates in generating correct and intent-aligned
+    Infr…'
+  title: 'IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration
+    Knowledge Injection'
+- id: oai:arXiv.org:2512.14910v1
+  link: https://arxiv.org/abs/2512.14910
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.14910v1 Announce Type: new  Abstract: Agricultural regions
+    in rural areas face damage from climate-related risks, including droughts, heavy
+    rainfall…'
+  title: 'AgroAskAI: A Multi-Agentic AI Framework for Supporting Smallholder Farmers''
+    Enquiries Globally'
+- id: oai:arXiv.org:2512.15033v1
+  link: https://arxiv.org/abs/2512.15033
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.15033v1 Announce Type: new  Abstract: The evaluation of Large
+    Language Models (LLMs) in complex reasoning domains typically relies on performance
+    al…'
+  title: 'Beyond Accuracy: A Geometric Stability Analysis of Large Language Models
+    in Chess Evaluation'
+- id: oai:arXiv.org:2512.15038v2
+  link: https://arxiv.org/abs/2512.15038
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.15038v2 Announce Type: new  Abstract: End-to-end paradigms
+    have demonstrated great potential for autonomous driving. Additionally, most existing
+    met…'
+  title: 'LADY: Linear Attention for Autonomous Driving Efficiency without Transformers'
+- id: oai:arXiv.org:2512.15044v1
+  link: https://arxiv.org/abs/2512.15044
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.15044v1 Announce Type: new  Abstract: Integrated sensing and
+    communication (ISAC) has emerged as a key development direction in the sixth-generation…'
+  title: 'Agentic AI for Integrated Sensing and Communication: Analysis, Framework,
+    and Case Study'
+- id: oai:arXiv.org:2512.15089v1
+  link: https://arxiv.org/abs/2512.15089
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.15089v1 Announce Type: new  Abstract: Large language models
+    (LLMs) have demonstrated impressive performance across various language tasks.
+    However,…'
+  title: 'Beyond Fast and Slow: Cognitive-Inspired Elastic Reasoning for Large Language
+    Models'
+- id: oai:arXiv.org:2512.15198v1
+  link: https://arxiv.org/abs/2512.15198
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.15198v1 Announce Type: new  Abstract: Efficient exact algorithms
+    for Discrete Optimization (DO) rely heavily on strong primal and dual bounds.
+    Relax…'
+  title: A Clustering-Based Variable Ordering Framework for Relaxed Decision Diagrams
+    for Maximum Weighted Independent Set Problem
+- id: oai:arXiv.org:2512.15231v1
+  link: https://arxiv.org/abs/2512.15231
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.15231v1 Announce Type: new  Abstract: The automated and intelligent
+    processing of massive remote sensing (RS) datasets is critical in Earth observat…'
+  title: 'CangLing-KnowFlow: A Unified Knowledge-and-Flow-fused Agent for Comprehensive
+    Remote Sensing Applications'
+- id: oai:arXiv.org:2512.15295v1
+  link: https://arxiv.org/abs/2512.15295
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.15295v1 Announce Type: new  Abstract: Controller synthesis
+    is a formal method approach for automatically generating Labeled Transition System
+    (LTS)…'
+  title: Graph Contextual Reinforcement Learning for Efficient Directed Controller
+    Synthesis
+- id: oai:arXiv.org:2512.15298v1
+  link: https://arxiv.org/abs/2512.15298
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.15298v1 Announce Type: new  Abstract: The rapid development
+    of Generative AI is bringing innovative changes to education and assessment. As
+    the prev…'
+  title: ChatGPT and Gemini participated in the Korean College Scholastic Ability
+    Test -- Earth Science I
+- id: oai:arXiv.org:2512.15374v1
+  link: https://arxiv.org/abs/2512.15374
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.15374v1 Announce Type: new  Abstract: Large Language Model
+    (LLM) agents are increasingly deployed in environments that generate massive,
+    dynamic con…'
+  title: 'SCOPE: Prompt Evolution for Enhancing Agent Effectiveness'
+- id: oai:arXiv.org:2512.15388v1
+  link: https://arxiv.org/abs/2512.15388
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.15388v1 Announce Type: new  Abstract: This paper deals with
+    improving the capabilities of Large Language Models (LLM) to provide route instructions…'
+  title: 'Bilateral Spatial Reasoning about Street Networks: Graph-based RAG with
+    Qualitative Spatial Representations'
+- id: oai:arXiv.org:2512.15435v1
+  link: https://arxiv.org/abs/2512.15435
+  published: '2025-12-19T05:00:00Z'
+  summary: 'arXiv:2512.15435v1 Announce Type: new  Abstract: In multi-player card
+    games such as Skat or Bridge, the early stages of the game, such as bidding, game
+    selecti…'
+  title: 'Outer-Learning Framework for Playing Multi-Player Trick-Taking Card Games:
+    A Case Study in Skat'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL
