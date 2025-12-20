@@ -1,118 +1,117 @@
-fetched_at: '2025-12-19T05:35:37Z'
-generated_at: '2025-12-19T05:35:37Z'
-hash: a89e4a73a38ed43f4abf12f366e574e0d4eaedc94d7be46b408442955e7b31dc
+fetched_at: '2025-12-20T05:33:30Z'
+generated_at: '2025-12-20T05:33:30Z'
+hash: 1ff94c7b86f3dd7816978a4ed8576cc47a17a92d30d5bbcc053ec864bada1624
 items:
-- created_at: '2025-12-14T17:54:14Z'
-  description: A minimalist markdown sync site that's always in sync built with React,
-    Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery.
-  full_name: waynesutton/markdown-site
-  html_url: https://github.com/waynesutton/markdown-site
-  stargazers_count: 297
 - created_at: '2025-12-14T13:48:15Z'
   description: Information hub for our project training the largest possible historical
     LLMs.
   full_name: DGoettlich/history-llms
   html_url: https://github.com/DGoettlich/history-llms
-  stargazers_count: 274
+  stargazers_count: 780
 - created_at: '2025-12-17T12:11:53Z'
   description: 100+ LLM interview questions with answers.
   full_name: KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub
   html_url: https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub
-  stargazers_count: 245
-- created_at: '2025-12-13T15:30:45Z'
-  description: Multilingual TTS model with voice cloning and duration control, based
-    on T5Gemma encoder-decoder LLM
-  full_name: Aratako/T5Gemma-TTS
-  html_url: https://github.com/Aratako/T5Gemma-TTS
-  stargazers_count: 185
+  stargazers_count: 406
+- created_at: '2025-12-14T17:54:14Z'
+  description: A minimalist markdown sync site that's always in sync built with React,
+    Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery.
+  full_name: waynesutton/markdown-site
+  html_url: https://github.com/waynesutton/markdown-site
+  stargazers_count: 310
 - created_at: '2025-12-14T16:11:38Z'
   description: Explore the answer-space of open LLMs
   full_name: samwho/llmwalk
   html_url: https://github.com/samwho/llmwalk
-  stargazers_count: 133
+  stargazers_count: 142
+- created_at: '2025-12-15T22:17:23Z'
+  description: A repo for jailbreaking various LLMs, mainly Claude
+  full_name: Goochbeater/Spiritual-Spell-Red-Teaming
+  html_url: https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming
+  stargazers_count: 54
 - created_at: '2025-12-17T05:32:05Z'
   description: 小皮AI直播机器人 硬件+私有服务器解决方案 (XiaoPi)是一个将直播弹幕与AI硬件语音交互结合的解决方案。它能够：  - 📺 实时接收直播间弹幕消息
     - 🤖 使用大语言模型(LLM)生成智能回复 - 🔊 将回复转换为语音(TTS) - 📡 发送到ESP32等硬件设备进行播放 - 🎯 支持串行化处理，避免弹幕堆积
   full_name: sysgiven/AI-XiaoPi
   html_url: https://github.com/sysgiven/AI-XiaoPi
-  stargazers_count: 41
+  stargazers_count: 48
 - created_at: '2025-12-17T08:41:09Z'
   description: A universal sandbox platform for AI application scenarios, providing
     multi-language SDKs, unified sandbox protocols, and sandbox runtimes for LLM-related
     capab…
   full_name: alibaba/OpenSandbox
   html_url: https://github.com/alibaba/OpenSandbox
-  stargazers_count: 40
+  stargazers_count: 46
 - created_at: '2025-12-17T10:04:18Z'
   description: list of awesome platforms, tools, and resources   run for LLMs locally
   full_name: 0xSojalSec/LLMs-local
   html_url: https://github.com/0xSojalSec/LLMs-local
-  stargazers_count: 39
-- created_at: '2025-12-15T22:17:23Z'
-  description: A repo for jailbreaking various LLMs, mainly Claude
-  full_name: Goochbeater/Spiritual-Spell-Red-Teaming
-  html_url: https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming
-  stargazers_count: 39
+  stargazers_count: 45
+- created_at: '2025-12-16T17:34:22Z'
+  description: 'TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs'
+  full_name: TencentARC/TimeLens
+  html_url: https://github.com/TencentARC/TimeLens
+  stargazers_count: 34
 - created_at: '2025-12-19T01:50:02Z'
   description: AGI_HER_LLM
   full_name: lcw2014/AGI_HER_LLM
   html_url: https://github.com/lcw2014/AGI_HER_LLM
-  stargazers_count: 31
+  stargazers_count: 34
 - created_at: '2025-12-17T04:50:55Z'
   description: 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An
     AI-powered, self-healing web automation bridge. Converts any website (ChatGPT,
     DeepSeek, et…
   full_name: lumingya/universal-web-api
   html_url: https://github.com/lumingya/universal-web-api
-  stargazers_count: 31
-- created_at: '2025-12-16T17:34:22Z'
-  description: 'TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs'
-  full_name: TencentARC/TimeLens
-  html_url: https://github.com/TencentARC/TimeLens
-  stargazers_count: 27
+  stargazers_count: 33
+- created_at: '2025-12-18T07:22:09Z'
+  description: 总结了小红书博主算法小小怪在学习LLM和推荐系统的笔记
+  full_name: cst20/LLM4Rec_xiaoxiaoguai
+  html_url: https://github.com/cst20/LLM4Rec_xiaoxiaoguai
+  stargazers_count: 32
 - created_at: '2025-12-16T01:07:35Z'
   description: Decorator, CLI & IPython extension for LLM-powered exception analysis.
   full_name: aguilar-ai/fincantatem
   html_url: https://github.com/aguilar-ai/fincantatem
   stargazers_count: 26
+- created_at: '2025-12-14T14:13:41Z'
+  description: 智能派单Agent系统是一个基于大语言模型(LLM)和LangChain框架的智能对话系统，用于为用户提供自动化的技师派单服务。系统具备上下文记忆能力，能够理解用户的多轮对话，并根据用户需求匹配合适的技师资源。
+  full_name: jiahp0920/multi-agent-dispatch
+  html_url: https://github.com/jiahp0920/multi-agent-dispatch
+  stargazers_count: 24
 - created_at: '2025-12-14T19:20:35Z'
   description: Node.js (ESM) service that polls Gmail, sends each new email to a local
     OpenAI-compatible LLM, and optionally forwards summarized mobile notifications
     based on…
   full_name: IngeniousIdiocy/LocalLLMMailScreener
   html_url: https://github.com/IngeniousIdiocy/LocalLLMMailScreener
-  stargazers_count: 20
-- created_at: '2025-12-14T14:13:41Z'
-  description: 智能派单Agent系统是一个基于大语言模型(LLM)和LangChain框架的智能对话系统，用于为用户提供自动化的技师派单服务。系统具备上下文记忆能力，能够理解用户的多轮对话，并根据用户需求匹配合适的技师资源。
-  full_name: jiahp0920/multi-agent-dispatch
-  html_url: https://github.com/jiahp0920/multi-agent-dispatch
-  stargazers_count: 19
-- created_at: '2025-12-13T14:38:10Z'
-  description: TSZ (Thyris Safe Zone) is an open-source PII detection and guardrails
-    engine that prevents sensitive data from leaking to LLMs and third-party APIs.
-  full_name: thyrisAI/safe-zone
-  html_url: https://github.com/thyrisAI/safe-zone
-  stargazers_count: 17
+  stargazers_count: 22
 - created_at: '2025-12-15T08:36:35Z'
   description: 🐱 你的二次元赛博哈基米 | 基于 LLM 的智能化番剧管理与分析助手。支持 Bangumi 数据同步、AI 深度画像分析、年度总结海报生成与个性化推荐。
   full_name: ShowayLiao/OtakuNeko
   html_url: https://github.com/ShowayLiao/OtakuNeko
-  stargazers_count: 15
+  stargazers_count: 17
+- created_at: '2025-12-18T23:22:24Z'
+  description: 'Custom Claude Code CLI skills for B2B SaaS development: quality gates,
+    TypeScript enforcement, multi-LLM advisor, and more'
+  full_name: Svenja-dev/claude-code-skills
+  html_url: https://github.com/Svenja-dev/claude-code-skills
+  stargazers_count: 16
+- created_at: '2025-12-15T19:20:02Z'
+  description: MCP server for recursive LLM reasoning. Load context, iterate with
+    search/code/think tools, converge on answers.
+  full_name: Hmbown/aleph
+  html_url: https://github.com/Hmbown/aleph
+  stargazers_count: 14
 - created_at: '2025-12-16T04:00:36Z'
   description: A lightweight, single-header C++11 Jinja2 template engine for LLM chat
     templates.
   full_name: wangzhaode/jinja.cpp
   html_url: https://github.com/wangzhaode/jinja.cpp
   stargazers_count: 14
-- created_at: '2025-12-15T19:20:02Z'
-  description: MCP server for recursive LLM reasoning. Load context, iterate with
-    search/code/think tools, converge on answers.
-  full_name: Hmbown/aleph
-  html_url: https://github.com/Hmbown/aleph
-  stargazers_count: 13
 - created_at: '2025-12-17T16:51:36Z'
   description: A curated list of self-hostable LLM services
   full_name: av/awesome-llm-services
   html_url: https://github.com/av/awesome-llm-services
-  stargazers_count: 12
+  stargazers_count: 13
 source_url: https://api.github.com/search/repositories

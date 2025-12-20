@@ -1,50 +1,38 @@
-fetched_at: '2025-12-19T05:35:37Z'
-generated_at: '2025-12-19T05:35:37Z'
-hash: 2f9e83a54532a2cdcee603be63553beb1eef8b1ef03d685d8247af8891fb164c
+fetched_at: '2025-12-20T05:33:30Z'
+generated_at: '2025-12-20T05:33:30Z'
+hash: 96a39e7531778e2e357bc26255fd5e2840ab7b9148d4709c9f946574f32ac08f
 items:
-- id: 46316367
-  score: 427
-  time: '2025-12-18T18:14:48Z'
-  title: GPT-5.2-Codex
-  url: https://openai.com/index/introducing-gpt-5-2-codex/
-- id: 46316409
-  score: 342
-  time: '2025-12-18T18:18:30Z'
-  title: Firefox will have an option to disable all AI features
-  url: https://mastodon.social/@firefoxwebdevs/115740500373677782
-- id: 46316907
-  score: 282
-  time: '2025-12-18T18:55:34Z'
-  title: How China built its ‘Manhattan Project’ to rival the West in AI chips
-  url: https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/
-- id: 46312159
-  score: 195
-  time: '2025-12-18T13:06:51Z'
-  title: AI helps ship faster but it produces 1.7× more bugs
-  url: https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report
-- id: 46316533
-  score: 186
-  time: '2025-12-18T18:26:52Z'
-  title: FunctionGemma 270M Model
-  url: https://blog.google/technology/developers/functiongemma/
-- id: 46311144
-  score: 96
-  time: '2025-12-18T10:51:24Z'
-  title: We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars
-  url: https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34
-- id: 46318191
-  score: 18
-  time: '2025-12-18T20:26:55Z'
-  title: Local WYSIWYG Markdown, mockup, data model editor powered by Claude Code
-  url: https://nimbalyst.com
-- id: 46319888
-  score: 14
-  time: '2025-12-18T22:46:15Z'
-  title: 'LLM-Interview-Questions-and-Answers: 100 LLM interview questions with answers'
-  url: https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub
-- id: 46320076
-  score: 3
-  time: '2025-12-18T23:07:25Z'
-  title: Breakthroughs that will redefine AI over the next 18 months [video]
-  url: https://www.youtube.com/watch?v=h-z71uspNHw
+- id: 46330726
+  score: 113
+  time: '2025-12-19T20:49:20Z'
+  title: LLM Year in Review
+  url: https://karpathy.bearblog.dev/year-in-review-2025/
+- id: 46331877
+  score: 68
+  time: '2025-12-19T22:48:24Z'
+  title: We ran Anthropic’s interviews through structured LLM analysis
+  url: https://www.playbookatlas.com/research/ai-adoption-explorer
+- id: 46329940
+  score: 53
+  time: '2025-12-19T19:37:32Z'
+  title: 'AI''s Unpaid Debt: How LLM Scrapers Destroy the Social Contract of Open
+    Source'
+  url: https://www.quippd.com/writing/2025/12/17/AIs-unpaid-debt-how-llm-scrapers-destroy-the-social-contract-of-open-source.html
+- id: 46330013
+  score: 42
+  time: '2025-12-19T19:44:48Z'
+  title: 'Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer'
+  url: https://stickerbox.com/
+- id: 46328769
+  score: 30
+  time: '2025-12-19T17:54:55Z'
+  title: 'Show HN: Linggen – A local-first memory layer for your AI (Cursor, Zed,
+    Claude)'
+  url: https://github.com/linggen/linggen
+- id: 46332250
+  score: 9
+  time: '2025-12-19T23:37:07Z'
+  title: 'Shoshana Zuboff: ''AI is surveillance capitalism continuing to evolve and
+    expand'''
+  url: https://english.elpais.com/technology/2025-12-15/shoshana-zuboff-philosopher-ai-is-surveillance-capitalism-continuing-to-evolve-and-expand.html
 source_url: https://hacker-news.firebaseio.com/

@@ -66,6 +66,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -77,6 +78,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -203,6 +205,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [SCOPE: Prompt Evolution for Enhancing Agent Effectiveness](https://arxiv.org/abs/2512.15374) — arXiv:2512.15374v1 Announce Type: new  Abstract: Large Language Model (LLM) agents are increasingly deployed in environments that generate massive, dynamic con…
 - [Bilateral Spatial Reasoning about Street Networks: Graph-based RAG with Qualitative Spatial Representations](https://arxiv.org/abs/2512.15388) — arXiv:2512.15388v1 Announce Type: new  Abstract: This paper deals with improving the capabilities of Large Language Models (LLM) to provide route instructions…
 - [Outer-Learning Framework for Playing Multi-Player Trick-Taking Card Games: A Case Study in Skat](https://arxiv.org/abs/2512.15435) — arXiv:2512.15435v1 Announce Type: new  Abstract: In multi-player card games such as Skat or Bridge, the early stages of the game, such as bidding, game selecti…
+
+_Showing cached data from 2025-12-19T05:35:37Z. Refresh failed: no arXiv entries retrieved._
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -232,26 +236,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                           |   Stars | Description                                                                                                                                                      |
 |------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| waynesutton/markdown-site                            |     297 | A minimalist markdown sync site that's always in sync built with React, Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery.                       |
-| DGoettlich/history-llms                              |     274 | Information hub for our project training the largest possible historical LLMs.                                                                                   |
-| KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub |     245 | 100+ LLM interview questions with answers.                                                                                                                       |
-| Aratako/T5Gemma-TTS                                  |     185 | Multilingual TTS model with voice cloning and duration control, based on T5Gemma encoder-decoder LLM                                                             |
-| samwho/llmwalk                                       |     133 | Explore the answer-space of open LLMs                                                                                                                            |
-| sysgiven/AI-XiaoPi                                   |      41 | 小皮AI直播机器人 硬件+私有服务器解决方案 (XiaoPi)是一个将直播弹幕与AI硬件语音交互结合的解决方案。它能够：  - 📺 实时接收直播间弹幕消息 - 🤖 使用大语言模型(LLM)生成智能回复 - 🔊 将回复转换为语音(TTS) - 📡 发送到ESP32等硬件设备进行播放 - 🎯 支持串行化处理，避免弹幕堆积  |
-| alibaba/OpenSandbox                                  |      40 | A universal sandbox platform for AI application scenarios, providing multi-language SDKs, unified sandbox protocols, and sandbox runtimes for LLM-related capab… |
-| 0xSojalSec/LLMs-local                                |      39 | list of awesome platforms, tools, and resources   run for LLMs locally                                                                                           |
-| Goochbeater/Spiritual-Spell-Red-Teaming              |      39 | A repo for jailbreaking various LLMs, mainly Claude                                                                                                              |
-| lcw2014/AGI_HER_LLM                                  |      31 | AGI_HER_LLM                                                                                                                                                      |
-| lumingya/universal-web-api                           |      31 | 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An AI-powered, self-healing web automation bridge. Converts any website (ChatGPT, DeepSeek, et… |
-| TencentARC/TimeLens                                  |      27 | TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs                                                                                               |
+| DGoettlich/history-llms                              |     780 | Information hub for our project training the largest possible historical LLMs.                                                                                   |
+| KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub |     406 | 100+ LLM interview questions with answers.                                                                                                                       |
+| waynesutton/markdown-site                            |     310 | A minimalist markdown sync site that's always in sync built with React, Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery.                       |
+| samwho/llmwalk                                       |     142 | Explore the answer-space of open LLMs                                                                                                                            |
+| Goochbeater/Spiritual-Spell-Red-Teaming              |      54 | A repo for jailbreaking various LLMs, mainly Claude                                                                                                              |
+| sysgiven/AI-XiaoPi                                   |      48 | 小皮AI直播机器人 硬件+私有服务器解决方案 (XiaoPi)是一个将直播弹幕与AI硬件语音交互结合的解决方案。它能够：  - 📺 实时接收直播间弹幕消息 - 🤖 使用大语言模型(LLM)生成智能回复 - 🔊 将回复转换为语音(TTS) - 📡 发送到ESP32等硬件设备进行播放 - 🎯 支持串行化处理，避免弹幕堆积  |
+| alibaba/OpenSandbox                                  |      46 | A universal sandbox platform for AI application scenarios, providing multi-language SDKs, unified sandbox protocols, and sandbox runtimes for LLM-related capab… |
+| 0xSojalSec/LLMs-local                                |      45 | list of awesome platforms, tools, and resources   run for LLMs locally                                                                                           |
+| TencentARC/TimeLens                                  |      34 | TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs                                                                                               |
+| lcw2014/AGI_HER_LLM                                  |      34 | AGI_HER_LLM                                                                                                                                                      |
+| lumingya/universal-web-api                           |      33 | 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An AI-powered, self-healing web automation bridge. Converts any website (ChatGPT, DeepSeek, et… |
+| cst20/LLM4Rec_xiaoxiaoguai                           |      32 | 总结了小红书博主算法小小怪在学习LLM和推荐系统的笔记                                                                                                                                      |
 | aguilar-ai/fincantatem                               |      26 | Decorator, CLI & IPython extension for LLM-powered exception analysis.                                                                                           |
-| IngeniousIdiocy/LocalLLMMailScreener                 |      20 | Node.js (ESM) service that polls Gmail, sends each new email to a local OpenAI-compatible LLM, and optionally forwards summarized mobile notifications based on… |
-| jiahp0920/multi-agent-dispatch                       |      19 | 智能派单Agent系统是一个基于大语言模型(LLM)和LangChain框架的智能对话系统，用于为用户提供自动化的技师派单服务。系统具备上下文记忆能力，能够理解用户的多轮对话，并根据用户需求匹配合适的技师资源。                                                        |
-| thyrisAI/safe-zone                                   |      17 | TSZ (Thyris Safe Zone) is an open-source PII detection and guardrails engine that prevents sensitive data from leaking to LLMs and third-party APIs.             |
-| ShowayLiao/OtakuNeko                                 |      15 | 🐱 你的二次元赛博哈基米 | 基于 LLM 的智能化番剧管理与分析助手。支持 Bangumi 数据同步、AI 深度画像分析、年度总结海报生成与个性化推荐。                                                                                    |
+| jiahp0920/multi-agent-dispatch                       |      24 | 智能派单Agent系统是一个基于大语言模型(LLM)和LangChain框架的智能对话系统，用于为用户提供自动化的技师派单服务。系统具备上下文记忆能力，能够理解用户的多轮对话，并根据用户需求匹配合适的技师资源。                                                        |
+| IngeniousIdiocy/LocalLLMMailScreener                 |      22 | Node.js (ESM) service that polls Gmail, sends each new email to a local OpenAI-compatible LLM, and optionally forwards summarized mobile notifications based on… |
+| ShowayLiao/OtakuNeko                                 |      17 | 🐱 你的二次元赛博哈基米 | 基于 LLM 的智能化番剧管理与分析助手。支持 Bangumi 数据同步、AI 深度画像分析、年度总结海报生成与个性化推荐。                                                                                    |
+| Svenja-dev/claude-code-skills                        |      16 | Custom Claude Code CLI skills for B2B SaaS development: quality gates, TypeScript enforcement, multi-LLM advisor, and more                                       |
+| Hmbown/aleph                                         |      14 | MCP server for recursive LLM reasoning. Load context, iterate with search/code/think tools, converge on answers.                                                 |
 | wangzhaode/jinja.cpp                                 |      14 | A lightweight, single-header C++11 Jinja2 template engine for LLM chat templates.                                                                                |
-| Hmbown/aleph                                         |      13 | MCP server for recursive LLM reasoning. Load context, iterate with search/code/think tools, converge on answers.                                                 |
-| av/awesome-llm-services                              |      12 | A curated list of self-hostable LLM services                                                                                                                     |
+| av/awesome-llm-services                              |      13 | A curated list of self-hostable LLM services                                                                                                                     |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -261,31 +265,28 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/) — 427 points
-- [Firefox will have an option to disable all AI features](https://mastodon.social/@firefoxwebdevs/115740500373677782) — 342 points
-- [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/) — 282 points
-- [AI helps ship faster but it produces 1.7× more bugs](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report) — 195 points
-- [FunctionGemma 270M Model](https://blog.google/technology/developers/functiongemma/) — 186 points
-- [We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34) — 96 points
-- [Local WYSIWYG Markdown, mockup, data model editor powered by Claude Code](https://nimbalyst.com) — 18 points
-- [LLM-Interview-Questions-and-Answers: 100 LLM interview questions with answers](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub) — 14 points
-- [Breakthroughs that will redefine AI over the next 18 months [video]](https://www.youtube.com/watch?v=h-z71uspNHw) — 3 points
+- [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) — 113 points
+- [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer) — 68 points
+- [AI's Unpaid Debt: How LLM Scrapers Destroy the Social Contract of Open Source](https://www.quippd.com/writing/2025/12/17/AIs-unpaid-debt-how-llm-scrapers-destroy-the-social-contract-of-open-source.html) — 53 points
+- [Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer](https://stickerbox.com/) — 42 points
+- [Show HN: Linggen – A local-first memory layer for your AI (Cursor, Zed, Claude)](https://github.com/linggen/linggen) — 30 points
+- [Shoshana Zuboff: 'AI is surveillance capitalism continuing to evolve and expand'](https://english.elpais.com/technology/2025-12-15/shoshana-zuboff-philosopher-ai-is-surveillance-capitalism-continuing-to-evolve-and-expand.html) — 9 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary   |
-|---------------------|--------|-----------|
-| GHSA-5mfv-8xjm-pmmh |      0 |           |
-| GHSA-hv82-jj64-jf47 |      0 |           |
-| GHSA-p5pj-p5gv-2r5w |      0 |           |
-| GHSA-rgwf-hw46-5w7j |      0 |           |
-| GHSA-4w56-v3gv-mf6c |      0 |           |
-| GHSA-6p6p-x42g-j3hv |      0 |           |
-| GHSA-767x-95qw-8v6j |      0 |           |
-| GHSA-g5pm-7qx6-f2hg |      0 |           |
-| GHSA-m2jw-wc29-6qmv |      0 |           |
-| GHSA-q9f7-mpvw-2h86 |      0 |           |
+| CVE                 |   CVSS | Summary                                                                    |
+|---------------------|--------|----------------------------------------------------------------------------|
+| GHSA-8v38-pw62-9cw2 |      0 | url-parse Incorrectly parses URLs that include an '@'                      |
+| GHSA-vw7g-3cc7-7rmh |      0 | cortex establishes TLS connections with `InsecureSkipVerify` set to `true` |
+| GHSA-274v-mgcv-cm8j |      0 | Argo CD GitOps Engine does not scrub secret values from patch errors       |
+| GHSA-jgfp-53c3-624w |      0 | Node Denial of Service via kubelet Checkpoint API                          |
+| GHSA-qhp6-vp7c-g7xp |      0 | Liferay Cross-site Scripting vulnerability                                 |
+| GHSA-6xp3-p59p-q4fj |      0 | go-pg SQL injection vulnerability via the component /types/append_value.go |
+| GHSA-4vq8-7jfc-9cvp |      0 | Moby firewalld reload removes bridge network isolation                     |
+| GHSA-6v93-frf9-2rp8 |      0 | Liferay Portal and Liferay DXP vulnerable to Server-Side Request Forgery   |
+| GHSA-vhcr-hgc8-29qr |      0 | Liferay Portal Vulnerable to Cross-Site Scripting                          |
+| GHSA-g8fh-pfw3-8rmr |      0 | Liferay Portal's selection modal is vulnerable to XSS                      |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
