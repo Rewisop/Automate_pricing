@@ -1,38 +1,66 @@
-fetched_at: '2025-12-20T05:33:30Z'
-generated_at: '2025-12-20T05:33:30Z'
-hash: 96a39e7531778e2e357bc26255fd5e2840ab7b9148d4709c9f946574f32ac08f
+fetched_at: '2025-12-21T05:34:39Z'
+generated_at: '2025-12-21T05:34:39Z'
+hash: f4d097ac6eee3820b6a55fd1537eee895441f31dea9cfb2b68cf06c0a686c46f
 items:
-- id: 46330726
-  score: 113
-  time: '2025-12-19T20:49:20Z'
-  title: LLM Year in Review
-  url: https://karpathy.bearblog.dev/year-in-review-2025/
-- id: 46331877
-  score: 68
-  time: '2025-12-19T22:48:24Z'
-  title: We ran Anthropic’s interviews through structured LLM analysis
-  url: https://www.playbookatlas.com/research/ai-adoption-explorer
-- id: 46329940
-  score: 53
-  time: '2025-12-19T19:37:32Z'
-  title: 'AI''s Unpaid Debt: How LLM Scrapers Destroy the Social Contract of Open
-    Source'
-  url: https://www.quippd.com/writing/2025/12/17/AIs-unpaid-debt-how-llm-scrapers-destroy-the-social-contract-of-open-source.html
-- id: 46330013
-  score: 42
-  time: '2025-12-19T19:44:48Z'
-  title: 'Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer'
-  url: https://stickerbox.com/
-- id: 46328769
-  score: 30
-  time: '2025-12-19T17:54:55Z'
-  title: 'Show HN: Linggen – A local-first memory layer for your AI (Cursor, Zed,
-    Claude)'
-  url: https://github.com/linggen/linggen
-- id: 46332250
+- id: 46334819
+  score: 205
+  time: '2025-12-20T09:38:51Z'
+  title: Reflections on AI at the End of 2025
+  url: https://antirez.com/news/157
+- id: 46336104
+  score: 154
+  time: '2025-12-20T13:39:47Z'
+  title: 'Show HN: HN Wrapped 2025 - an LLM reviews your year on HN'
+  url: https://hn-wrapped.kadoa.com?year=2025
+- id: 46339537
+  score: 85
+  time: '2025-12-20T20:50:43Z'
+  title: MIRA – An open-source persistent AI entity with memory
+  url: https://github.com/taylorsatula/mira-OSS
+- id: 46339741
+  score: 75
+  time: '2025-12-20T21:21:14Z'
+  title: 'Anthropic: You can''t change your Claude account email address'
+  url: https://support.claude.com/en/articles/8452276-how-do-i-change-the-email-address-associated-with-my-account
+- id: 46342166
+  score: 58
+  time: '2025-12-21T04:06:36Z'
+  title: 'Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of
+    4h49M'
+  url: https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/
+- id: 46336760
+  score: 38
+  time: '2025-12-20T15:15:25Z'
+  title: School security AI flagged clarinet as a gun. Exec says it wasn't an error
+  url: https://arstechnica.com/tech-policy/2025/12/florida-schools-plan-to-vastly-expand-use-of-ai-that-mistook-clarinet-for-gun/
+- id: 46339300
+  score: 12
+  time: '2025-12-20T20:23:28Z'
+  title: 'Signaling in the Age of AI: Evidence from Cover Letters'
+  url: https://arxiv.org/abs/2509.25054
+- id: 46340154
+  score: 10
+  time: '2025-12-20T22:17:29Z'
+  title: FrontierScience Benchmark by OpenAI
+  url: https://openai.com/index/frontierscience/
+- id: 46334562
   score: 9
-  time: '2025-12-19T23:37:07Z'
-  title: 'Shoshana Zuboff: ''AI is surveillance capitalism continuing to evolve and
-    expand'''
-  url: https://english.elpais.com/technology/2025-12-15/shoshana-zuboff-philosopher-ai-is-surveillance-capitalism-continuing-to-evolve-and-expand.html
+  time: '2025-12-20T08:44:31Z'
+  title: Open Source Historical LLM trained exclusively on 19th century text
+  url: https://github.com/haykgrigo3/TimeCapsuleLLM
+- id: 46340918
+  score: 9
+  time: '2025-12-21T00:02:07Z'
+  title: London 1600s (AI Reconstruction) [video]
+  url: https://www.youtube.com/watch?v=994nGl4m-VM
+- id: 46338483
+  score: 6
+  time: '2025-12-20T18:47:51Z'
+  title: Nvidia Is the Only AI Model Maker That Can Afford to Give It Away
+  url: https://www.nextplatform.com/2025/12/17/nvidia-is-the-only-ai-model-maker-that-can-afford-to-give-it-away/
+- id: 46341647
+  score: 3
+  time: '2025-12-21T02:16:24Z'
+  title: 'NitroGen: Unified vision-to-action model designed to play video games'
+  url: https://huggingface.co/nvidia/NitroGen
 source_url: https://hacker-news.firebaseio.com/
