@@ -1,66 +1,26 @@
-fetched_at: '2025-12-21T05:34:39Z'
-generated_at: '2025-12-21T05:34:39Z'
-hash: f4d097ac6eee3820b6a55fd1537eee895441f31dea9cfb2b68cf06c0a686c46f
+fetched_at: '2025-12-22T05:37:40Z'
+generated_at: '2025-12-22T05:37:40Z'
+hash: d7c4148ede8d2627e6c154aed909c10abde1b8a4833ed8dd6c9f9eb9f641d3f1
 items:
-- id: 46334819
-  score: 205
-  time: '2025-12-20T09:38:51Z'
-  title: Reflections on AI at the End of 2025
-  url: https://antirez.com/news/157
-- id: 46336104
-  score: 154
-  time: '2025-12-20T13:39:47Z'
-  title: 'Show HN: HN Wrapped 2025 - an LLM reviews your year on HN'
-  url: https://hn-wrapped.kadoa.com?year=2025
-- id: 46339537
-  score: 85
-  time: '2025-12-20T20:50:43Z'
-  title: MIRA – An open-source persistent AI entity with memory
-  url: https://github.com/taylorsatula/mira-OSS
-- id: 46339741
-  score: 75
-  time: '2025-12-20T21:21:14Z'
-  title: 'Anthropic: You can''t change your Claude account email address'
-  url: https://support.claude.com/en/articles/8452276-how-do-i-change-the-email-address-associated-with-my-account
-- id: 46342166
-  score: 58
-  time: '2025-12-21T04:06:36Z'
-  title: 'Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of
-    4h49M'
-  url: https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/
-- id: 46336760
-  score: 38
-  time: '2025-12-20T15:15:25Z'
-  title: School security AI flagged clarinet as a gun. Exec says it wasn't an error
-  url: https://arstechnica.com/tech-policy/2025/12/florida-schools-plan-to-vastly-expand-use-of-ai-that-mistook-clarinet-for-gun/
-- id: 46339300
-  score: 12
-  time: '2025-12-20T20:23:28Z'
-  title: 'Signaling in the Age of AI: Evidence from Cover Letters'
-  url: https://arxiv.org/abs/2509.25054
-- id: 46340154
+- id: 46342902
+  score: 167
+  time: '2025-12-21T07:16:19Z'
+  title: Clair Obscur having its Indie Game Game Of The Year award stripped due to
+    AI use
+  url: https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/
+- id: 46346391
+  score: 117
+  time: '2025-12-21T17:21:05Z'
+  title: Get an AI code review in 10 seconds
+  url: https://oldmanrahul.com/2025/12/19/ai-code-review-trick/
+- id: 46350075
+  score: 52
+  time: '2025-12-22T00:27:04Z'
+  title: ONNX Runtime and CoreML May Silently Convert Your Model to FP16
+  url: https://ym2132.github.io/ONNX_MLProgram_NN_exploration
+- id: 46350576
   score: 10
-  time: '2025-12-20T22:17:29Z'
-  title: FrontierScience Benchmark by OpenAI
-  url: https://openai.com/index/frontierscience/
-- id: 46334562
-  score: 9
-  time: '2025-12-20T08:44:31Z'
-  title: Open Source Historical LLM trained exclusively on 19th century text
-  url: https://github.com/haykgrigo3/TimeCapsuleLLM
-- id: 46340918
-  score: 9
-  time: '2025-12-21T00:02:07Z'
-  title: London 1600s (AI Reconstruction) [video]
-  url: https://www.youtube.com/watch?v=994nGl4m-VM
-- id: 46338483
-  score: 6
-  time: '2025-12-20T18:47:51Z'
-  title: Nvidia Is the Only AI Model Maker That Can Afford to Give It Away
-  url: https://www.nextplatform.com/2025/12/17/nvidia-is-the-only-ai-model-maker-that-can-afford-to-give-it-away/
-- id: 46341647
-  score: 3
-  time: '2025-12-21T02:16:24Z'
-  title: 'NitroGen: Unified vision-to-action model designed to play video games'
-  url: https://huggingface.co/nvidia/NitroGen
+  time: '2025-12-22T02:01:22Z'
+  title: Amazon Is Filled with AI Book Slop
+  url: https://www.rollingstone.com/culture/culture-features/amazon-ai-book-knockoffs-1235450690/
 source_url: https://hacker-news.firebaseio.com/

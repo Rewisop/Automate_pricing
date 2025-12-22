@@ -1,17 +1,12 @@
-fetched_at: '2025-12-21T05:34:39Z'
-generated_at: '2025-12-21T05:34:39Z'
-hash: 4f62b784d91167b3d1c39919ac0416f73923d9e934c9f4281db285549a65272c
+fetched_at: '2025-12-22T05:37:40Z'
+generated_at: '2025-12-22T05:37:40Z'
+hash: 3ceff03990a2457744e55ae3bde9f8277db0eef7388cc53368fe62e51264d8e8
 items:
 - created_at: '2025-12-17T12:11:53Z'
   description: 100+ LLM interview questions with answers.
   full_name: KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub
   html_url: https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub
-  stargazers_count: 461
-- created_at: '2025-12-15T22:17:23Z'
-  description: A repo for jailbreaking various LLMs, mainly Claude
-  full_name: Goochbeater/Spiritual-Spell-Red-Teaming
-  html_url: https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming
-  stargazers_count: 77
+  stargazers_count: 489
 - created_at: '2025-12-17T05:32:05Z'
   description: 小皮AI直播机器人 硬件+私有服务器解决方案 (XiaoPi)是一个将直播弹幕与AI硬件语音交互结合的解决方案。它能够：  - 📺 实时接收直播间弹幕消息
     - 🤖 使用大语言模型(LLM)生成智能回复 - 🔊 将回复转换为语音(TTS) - 📡 发送到ESP32等硬件设备进行播放 - 🎯 支持串行化处理，避免弹幕堆积
@@ -22,70 +17,69 @@ items:
   description: list of awesome platforms, tools, and resources   run for LLMs locally
   full_name: 0xSojalSec/LLMs-local
   html_url: https://github.com/0xSojalSec/LLMs-local
-  stargazers_count: 46
+  stargazers_count: 48
 - created_at: '2025-12-17T08:41:09Z'
   description: A universal sandbox platform for AI application scenarios, providing
     multi-language SDKs, unified sandbox protocols, and sandbox runtimes for LLM-related
     capab…
   full_name: alibaba/OpenSandbox
   html_url: https://github.com/alibaba/OpenSandbox
-  stargazers_count: 46
+  stargazers_count: 48
+- created_at: '2025-12-16T17:34:22Z'
+  description: 'TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs'
+  full_name: TencentARC/TimeLens
+  html_url: https://github.com/TencentARC/TimeLens
+  stargazers_count: 44
+- created_at: '2025-12-16T08:25:53Z'
+  description: High-performance open-source synthetic data engine. Uses LLMs for schema
+    design and vectorized NumPy for deterministic, scalable generation.
+  full_name: rasinmuhammed/misata
+  html_url: https://github.com/rasinmuhammed/misata
+  stargazers_count: 44
+- created_at: '2025-12-18T07:22:09Z'
+  description: 总结了小红书博主算法小小怪在学习LLM和推荐系统的笔记
+  full_name: cst20/LLM4Rec_xiaoxiaoguai
+  html_url: https://github.com/cst20/LLM4Rec_xiaoxiaoguai
+  stargazers_count: 43
 - created_at: '2025-12-17T04:50:55Z'
   description: 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An
     AI-powered, self-healing web automation bridge. Converts any website (ChatGPT,
     DeepSeek, et…
   full_name: lumingya/universal-web-api
   html_url: https://github.com/lumingya/universal-web-api
-  stargazers_count: 40
-- created_at: '2025-12-18T07:22:09Z'
-  description: 总结了小红书博主算法小小怪在学习LLM和推荐系统的笔记
-  full_name: cst20/LLM4Rec_xiaoxiaoguai
-  html_url: https://github.com/cst20/LLM4Rec_xiaoxiaoguai
-  stargazers_count: 38
-- created_at: '2025-12-16T17:34:22Z'
-  description: 'TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs'
-  full_name: TencentARC/TimeLens
-  html_url: https://github.com/TencentARC/TimeLens
-  stargazers_count: 37
+  stargazers_count: 43
 - created_at: '2025-12-19T01:50:02Z'
   description: AGI_HER_LLM
   full_name: lcw2014/AGI_HER_LLM
   html_url: https://github.com/lcw2014/AGI_HER_LLM
-  stargazers_count: 35
-- created_at: '2025-12-15T07:30:44Z'
-  description: An autonomous multi-agent orchestration system for Home Assistant.
-    Features local LLM control (Ollama/DeepSeek), & RAG-powered technical knowledge,
-  full_name: ITSpecialist111/HASS-AI-Orchestrator
-  html_url: https://github.com/ITSpecialist111/HASS-AI-Orchestrator
+  stargazers_count: 36
+- created_at: '2025-12-20T10:04:55Z'
+  description: A multi-agent AI trading system using LLMs to optimize strategies and
+    adapt to market conditions in real-time.
+  full_name: EthanAlgoX/LLM-TradeBot
+  html_url: https://github.com/EthanAlgoX/LLM-TradeBot
   stargazers_count: 26
 - created_at: '2025-12-16T01:07:35Z'
   description: Decorator, CLI & IPython extension for LLM-powered exception analysis.
   full_name: aguilar-ai/fincantatem
   html_url: https://github.com/aguilar-ai/fincantatem
   stargazers_count: 26
-- created_at: '2025-12-15T08:36:35Z'
-  description: 🐱 你的二次元赛博哈基米 | 基于 LLM 的智能化番剧管理与分析助手。支持 Bangumi 数据同步、AI 深度画像分析、年度总结海报生成与个性化推荐。
-  full_name: ShowayLiao/OtakuNeko
-  html_url: https://github.com/ShowayLiao/OtakuNeko
-  stargazers_count: 20
 - created_at: '2025-12-18T23:22:24Z'
   description: 'Custom Claude Code CLI skills for B2B SaaS development: quality gates,
     TypeScript enforcement, multi-LLM advisor, and more'
   full_name: Svenja-dev/claude-code-skills
   html_url: https://github.com/Svenja-dev/claude-code-skills
-  stargazers_count: 17
-- created_at: '2025-12-20T10:04:55Z'
-  description: A multi-agent AI trading system using LLMs to optimize strategies and
-    adapt to market conditions in real-time.
-  full_name: EthanAlgoX/LLM-TradeBot
-  html_url: https://github.com/EthanAlgoX/LLM-TradeBot
+  stargazers_count: 18
+- created_at: '2025-12-17T16:51:36Z'
+  description: A list of self-hostable LLM services
+  full_name: av/awesome-llm-services
+  html_url: https://github.com/av/awesome-llm-services
+  stargazers_count: 16
+- created_at: '2025-12-18T07:08:18Z'
+  description: Fin-Agent Desktop 是一款基于 Electron + Python 的智能金融助手桌面应用。它集成了强大的 LLM 能力和专业的金融数据分析工具，为您提供自然流畅的金融咨询与分析服务。
+  full_name: YUHAI0/fin-agent-desktop
+  html_url: https://github.com/YUHAI0/fin-agent-desktop
   stargazers_count: 15
-- created_at: '2025-12-15T19:20:02Z'
-  description: MCP server for recursive LLM reasoning. Load context, iterate with
-    search/code/think tools, converge on answers.
-  full_name: Hmbown/aleph
-  html_url: https://github.com/Hmbown/aleph
-  stargazers_count: 14
 - created_at: '2025-12-16T07:42:09Z'
   description: '"Adaptive Hybrid Quantization Framework for deploying 7B+ LLMs on
     low-VRAM devices (e.g., GTX 1050). Features surgical block alignment and Numba-accelerated
@@ -93,26 +87,31 @@ items:
   full_name: QKV-Core/QKV-Core
   html_url: https://github.com/QKV-Core/QKV-Core
   stargazers_count: 14
-- created_at: '2025-12-18T07:08:18Z'
-  description: Fin-Agent Desktop 是一款基于 Electron + Python 的智能金融助手桌面应用。它集成了强大的 LLM 能力和专业的金融数据分析工具，为您提供自然流畅的金融咨询与分析服务。
-  full_name: YUHAI0/fin-agent-desktop
-  html_url: https://github.com/YUHAI0/fin-agent-desktop
-  stargazers_count: 14
 - created_at: '2025-12-16T04:00:36Z'
   description: A lightweight, single-header C++11 Jinja2 template engine for LLM chat
     templates.
   full_name: wangzhaode/jinja.cpp
   html_url: https://github.com/wangzhaode/jinja.cpp
   stargazers_count: 14
-- created_at: '2025-12-17T16:51:36Z'
-  description: A curated list of self-hostable LLM services
-  full_name: av/awesome-llm-services
-  html_url: https://github.com/av/awesome-llm-services
-  stargazers_count: 13
+- created_at: '2025-12-16T03:30:48Z'
+  description: 基于 ncnn 的 Stable Diffusion 推理小工具，用于给 ncnn-llm 适配“图片生成”能力（作为 MCP 工具/后端可执行程序被调用）。
+  full_name: chentyjpm/ncnn_llm-mcp-sdimggen
+  html_url: https://github.com/chentyjpm/ncnn_llm-mcp-sdimggen
+  stargazers_count: 12
 - created_at: '2025-12-17T12:16:45Z'
   description: Self-evolve your LLM's capabilities with just a task and a success
     criterion.
   full_name: wbopan/liteevo
   html_url: https://github.com/wbopan/liteevo
   stargazers_count: 12
+- created_at: '2025-12-18T01:40:44Z'
+  description: 🎬 基于 Whisper + LLM 的 NAS 视频字幕自动提取与翻译工具，支持 Docker 一键部署
+  full_name: aexachao/nas-subtitle-manager
+  html_url: https://github.com/aexachao/nas-subtitle-manager
+  stargazers_count: 7
+- created_at: '2025-12-16T08:58:04Z'
+  description: A demo Rails app for the LLM streaming pitfalls post
+  full_name: palkan/proposer
+  html_url: https://github.com/palkan/proposer
+  stargazers_count: 7
 source_url: https://api.github.com/search/repositories
