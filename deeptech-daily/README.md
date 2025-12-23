@@ -69,6 +69,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -80,6 +81,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -194,21 +196,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [Navigating Taxonomic Expansions of Entity Sets Driven by Knowledge Bases](https://arxiv.org/abs/2512.16953) — arXiv:2512.16953v1 Announce Type: new  Abstract: Recognizing similarities among entities is central to both human cognition and computational intelligence. Wit…
-- [Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows](https://arxiv.org/abs/2512.16969) — arXiv:2512.16969v1 Announce Type: new  Abstract: Despite advances in scientific AI, a coherent framework for Scientific General Intelligence (SGI)-the ability…
-- [PAACE: A Plan-Aware Automated Agent Context Engineering Framework](https://arxiv.org/abs/2512.16970) — arXiv:2512.16970v1 Announce Type: new  Abstract: Large Language Model (LLM) agents are increasingly deployed in complex, multi-step workflows involving plannin…
-- [Security Risks of Agentic Vehicles: A Systematic Analysis of Cognitive and Cross-Layer Threats](https://arxiv.org/abs/2512.17041) — arXiv:2512.17041v1 Announce Type: new  Abstract: Agentic AI is increasingly being explored and introduced in both manually driven and autonomous vehicles, lead…
-- [UniRel-R1: RL-tuned LLM Reasoning for Knowledge Graph Relational Question Answering](https://arxiv.org/abs/2512.17043) — arXiv:2512.17043v1 Announce Type: new  Abstract: Knowledge Graph Question Answering (KGQA) has traditionally focused on entity-centric queries that return a si…
-- [Realistic threat perception drives intergroup conflict: A causal, dynamic analysis using generative-agent simulations](https://arxiv.org/abs/2512.17066) — arXiv:2512.17066v1 Announce Type: new  Abstract: Human conflict is often attributed to threats against material conditions and symbolic values, yet it remains…
-- [Value Under Ignorance in Universal Artificial Intelligence](https://arxiv.org/abs/2512.17086) — arXiv:2512.17086v1 Announce Type: new  Abstract: We generalize the AIXI reinforcement learning agent to admit a wider class of utility functions. Assigning a u…
-- [A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving](https://arxiv.org/abs/2512.17093) — arXiv:2512.17093v1 Announce Type: new  Abstract: The rise of large language models (LLMs) has sparked interest in coding assistants. While general-purpose prog…
-- [Reinforcement Learning for Self-Improving Agent with Skill Library](https://arxiv.org/abs/2512.17102) — arXiv:2512.17102v1 Announce Type: new  Abstract: Large Language Model (LLM)-based agents have demonstrated remarkable capabilities in complex reasoning and mul…
-- [Solomonoff-Inspired Hypothesis Ranking with LLMs for Prediction Under Uncertainty](https://arxiv.org/abs/2512.17145) — arXiv:2512.17145v1 Announce Type: new  Abstract: Reasoning under uncertainty is a key challenge in AI, especially for real-world tasks, where problems with spa…
-- [MMRAG-RFT: Two-stage Reinforcement Fine-tuning for Explainable Multi-modal Retrieval-augmented Generation](https://arxiv.org/abs/2512.17194) — arXiv:2512.17194v1 Announce Type: new  Abstract: Multi-modal Retrieval-Augmented Generation (MMRAG) enables highly credible generation by integrating external…
-- [UmniBench: Unified Understand and Generation Model Oriented Omni-dimensional Benchmark](https://arxiv.org/abs/2512.17196) — arXiv:2512.17196v1 Announce Type: new  Abstract: Unifying multimodal understanding and generation has shown impressive capabilities in cutting-edge proprietary…
-- [Accelerating Multi-modal LLM Gaming Performance via Input Prediction and Mishit Correction](https://arxiv.org/abs/2512.17250) — arXiv:2512.17250v1 Announce Type: new  Abstract: Real-time sequential control agents are often bottlenecked by inference latency. Even modest per-step planning…
-- [ScoutGPT: Capturing Player Impact from Team Action Sequences Using GPT-Based Framework](https://arxiv.org/abs/2512.17266) — arXiv:2512.17266v1 Announce Type: new  Abstract: Transfers play a pivotal role in shaping a football club's success, yet forecasting whether a transfer will su…
-- [Large Language Models as Pok\'emon Battle Agents: Strategic Play and Content Generation](https://arxiv.org/abs/2512.17308) — arXiv:2512.17308v1 Announce Type: new  Abstract: Strategic decision-making in Pok\'emon battles presents a unique testbed for evaluating large language models.…
+- [Conflict-Driven Clause Learning with VSIDS Heuristics for Discrete Facility Layout](https://arxiv.org/abs/2512.18034) — arXiv:2512.18034v1 Announce Type: new  Abstract: This paper studies the use of Conflict-Driven Clause Learning (CDCL) with VSIDS heuristics as a computational…
+- [Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability](https://arxiv.org/abs/2512.18092) — arXiv:2512.18092v1 Announce Type: new  Abstract: Neuron identification is a popular tool in mechanistic interpretability, aiming to uncover the human-interpret…
+- [Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks](https://arxiv.org/abs/2512.18094) — arXiv:2512.18094v1 Announce Type: new  Abstract: Large language models (LLMs) have enabled multi-agent systems (MAS) in which multiple agents argue, critique,…
+- [Efficient Mixture-of-Agents Serving via Tree-Structured Routing, Adaptive Pruning, and Dependency-Aware Prefill-Decode Overlap](https://arxiv.org/abs/2512.18126) — arXiv:2512.18126v1 Announce Type: new  Abstract: Mixture-of-Agents (MoA) inference can suffer from dense inter-agent communication and low hardware utilization…
+- [Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications](https://arxiv.org/abs/2512.18135) — arXiv:2512.18135v1 Announce Type: new  Abstract: Integrating causal inference (CI) with reinforcement learning (RL) has emerged as a powerful paradigm to addre…
+- [Propose, Solve, Verify: Self-Play Through Formal Verification](https://arxiv.org/abs/2512.18160) — arXiv:2512.18160v1 Announce Type: new  Abstract: Training models through self-play alone (without any human data) has been a longstanding goal in AI, but its e…
+- [NEURO-GUARD: Neuro-Symbolic Generalization and Unbiased Adaptive Routing for Diagnostics -- Explainable Medical AI](https://arxiv.org/abs/2512.18177) — arXiv:2512.18177v1 Announce Type: new  Abstract: Accurate yet interpretable image-based diagnosis remains a central challenge in medical AI, particularly in se…
+- [NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Using an Unsupervised CriticNL2LTL Framework](https://arxiv.org/abs/2512.18189) — arXiv:2512.18189v1 Announce Type: new  Abstract: Cognitive computing models offer a formal and interpretable way to characterize human's deliberation and decis…
+- [External Hippocampus: Topological Cognitive Maps for Guiding Large Language Model Reasoning](https://arxiv.org/abs/2512.18190) — arXiv:2512.18190v1 Announce Type: new  Abstract: This paper proposes the External Hippocampus framework, which models language model reasoning from a cognitive…
+- [Sophia: A Persistent Agent Framework of Artificial Life](https://arxiv.org/abs/2512.18202) — arXiv:2512.18202v1 Announce Type: new  Abstract: The development of LLMs has elevated AI agents from task-specific tools to long-lived, decision-making entitie…
+- [MSC-180: A Benchmark for Automated Formal Theorem Proving from Mathematical Subject Classification](https://arxiv.org/abs/2512.18256) — arXiv:2512.18256v1 Announce Type: new  Abstract: Automated Theorem Proving (ATP) represents a core research direction in artificial intelligence for achieving…
+- [Intelligent Human-Machine Partnership for Manufacturing: Enhancing Warehouse Planning through Simulation-Driven Knowledge Graphs and LLM Collaboration](https://arxiv.org/abs/2512.18265) — arXiv:2512.18265v1 Announce Type: new  Abstract: Manufacturing planners face complex operational challenges that require seamless collaboration between human e…
+- [Monitoring Monitorability](https://arxiv.org/abs/2512.18311) — arXiv:2512.18311v1 Announce Type: new  Abstract: Observability into the decision making of modern AI systems may be required to safely deploy increasingly capa…
+- [Few-Shot Learning of a Graph-Based Neural Network Model Without Backpropagation](https://arxiv.org/abs/2512.18412) — arXiv:2512.18412v1 Announce Type: new  Abstract: We propose a structural-graph approach to classifying contour images in a few-shot regime without using backpr…
+- [Agent-Based Output Drift Detection for Breast Cancer Response Prediction in a Multisite Clinical Decision Support System](https://arxiv.org/abs/2512.18450) — arXiv:2512.18450v1 Announce Type: new  Abstract: Modern clinical decision support systems can concurrently serve multiple, independent medical imaging institut…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -236,28 +238,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                           |   Stars | Description                                                                                                                                                      |
-|------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub |     489 | 100+ LLM interview questions with answers.                                                                                                                       |
-| sysgiven/AI-XiaoPi                                   |      49 | 小皮AI直播机器人 硬件+私有服务器解决方案 (XiaoPi)是一个将直播弹幕与AI硬件语音交互结合的解决方案。它能够：  - 📺 实时接收直播间弹幕消息 - 🤖 使用大语言模型(LLM)生成智能回复 - 🔊 将回复转换为语音(TTS) - 📡 发送到ESP32等硬件设备进行播放 - 🎯 支持串行化处理，避免弹幕堆积  |
-| 0xSojalSec/LLMs-local                                |      48 | list of awesome platforms, tools, and resources   run for LLMs locally                                                                                           |
-| alibaba/OpenSandbox                                  |      48 | A universal sandbox platform for AI application scenarios, providing multi-language SDKs, unified sandbox protocols, and sandbox runtimes for LLM-related capab… |
-| TencentARC/TimeLens                                  |      44 | TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs                                                                                               |
-| rasinmuhammed/misata                                 |      44 | High-performance open-source synthetic data engine. Uses LLMs for schema design and vectorized NumPy for deterministic, scalable generation.                     |
-| cst20/LLM4Rec_xiaoxiaoguai                           |      43 | 总结了小红书博主算法小小怪在学习LLM和推荐系统的笔记                                                                                                                                      |
-| lumingya/universal-web-api                           |      43 | 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An AI-powered, self-healing web automation bridge. Converts any website (ChatGPT, DeepSeek, et… |
-| lcw2014/AGI_HER_LLM                                  |      36 | AGI_HER_LLM                                                                                                                                                      |
-| EthanAlgoX/LLM-TradeBot                              |      26 | A multi-agent AI trading system using LLMs to optimize strategies and adapt to market conditions in real-time.                                                   |
-| aguilar-ai/fincantatem                               |      26 | Decorator, CLI & IPython extension for LLM-powered exception analysis.                                                                                           |
-| Svenja-dev/claude-code-skills                        |      18 | Custom Claude Code CLI skills for B2B SaaS development: quality gates, TypeScript enforcement, multi-LLM advisor, and more                                       |
-| av/awesome-llm-services                              |      16 | A list of self-hostable LLM services                                                                                                                             |
-| YUHAI0/fin-agent-desktop                             |      15 | Fin-Agent Desktop 是一款基于 Electron + Python 的智能金融助手桌面应用。它集成了强大的 LLM 能力和专业的金融数据分析工具，为您提供自然流畅的金融咨询与分析服务。                                                             |
-| QKV-Core/QKV-Core                                    |      14 | "Adaptive Hybrid Quantization Framework for deploying 7B+ LLMs on low-VRAM devices (e.g., GTX 1050). Features surgical block alignment and Numba-accelerated in… |
-| wangzhaode/jinja.cpp                                 |      14 | A lightweight, single-header C++11 Jinja2 template engine for LLM chat templates.                                                                                |
-| chentyjpm/ncnn_llm-mcp-sdimggen                      |      12 | 基于 ncnn 的 Stable Diffusion 推理小工具，用于给 ncnn-llm 适配“图片生成”能力（作为 MCP 工具/后端可执行程序被调用）。                                                                                  |
-| wbopan/liteevo                                       |      12 | Self-evolve your LLM's capabilities with just a task and a success criterion.                                                                                    |
-| aexachao/nas-subtitle-manager                        |       7 | 🎬 基于 Whisper + LLM 的 NAS 视频字幕自动提取与翻译工具，支持 Docker 一键部署                                                                                                            |
-| palkan/proposer                                      |       7 | A demo Rails app for the LLM streaming pitfalls post                                                                                                             |
+| Repository                                            |   Stars | Description                                                                                                                                                      |
+|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub  |     530 | 100+ LLM interview questions with answers.                                                                                                                       |
+| EthanAlgoX/LLM-TradeBot                               |      60 | A multi-agent AI trading system using LLMs to optimize strategies and adapt to market conditions in real-time.                                                   |
+| alibaba/OpenSandbox                                   |      52 | A universal sandbox platform for AI application scenarios, providing multi-language SDKs, unified sandbox protocols, and sandbox runtimes for LLM-related capab… |
+| sysgiven/AI-XiaoPi                                    |      51 | 小皮AI直播机器人 硬件+私有服务器解决方案 (XiaoPi)是一个将直播弹幕与AI硬件语音交互结合的解决方案。它能够：  - 📺 实时接收直播间弹幕消息 - 🤖 使用大语言模型(LLM)生成智能回复 - 🔊 将回复转换为语音(TTS) - 📡 发送到ESP32等硬件设备进行播放 - 🎯 支持串行化处理，避免弹幕堆积  |
+| 0xSojalSec/LLMs-local                                 |      48 | list of awesome platforms, tools, and resources   run for LLMs locally                                                                                           |
+| cst20/LLM4Rec_xiaoxiaoguai                            |      46 | 总结了小红书博主算法小小怪在学习LLM和推荐系统的笔记                                                                                                                                      |
+| lumingya/universal-web-api                            |      44 | 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An AI-powered, self-healing web automation bridge. Converts any website (ChatGPT, DeepSeek, et… |
+| lcw2014/AGI_HER_LLM                                   |      36 | AGI_HER_LLM                                                                                                                                                      |
+| Svenja-dev/claude-code-skills                         |      21 | Custom Claude Code CLI skills for B2B SaaS development: quality gates, TypeScript enforcement, multi-LLM advisor, and more                                       |
+| av/awesome-llm-services                               |      19 | A list of self-hostable LLM services                                                                                                                             |
+| adambarbato/ComfyUI-Segmentation-Agent                |      18 | LLM-based character segmentation agent for ComfyUI based on SAM 3 and the SAM 3 Agent notebook                                                                   |
+| brian-yu/python-rope-refactor                         |      18 | A skill that teaches LLM agents how to use rope for python codebase refactors                                                                                    |
+| YUHAI0/fin-agent-desktop                              |      17 | Fin-Agent Desktop 是一款基于 Electron + Python 的智能金融助手桌面应用。它集成了强大的 LLM 能力和专业的金融数据分析工具，为您提供自然流畅的金融咨询与分析服务。                                                             |
+| wbopan/liteevo                                        |      11 | Self-evolve your LLM's capabilities with just a task and a success criterion.                                                                                    |
+| KuangjuX/light-duoattention                           |       9 | A lightweight CuTe-based CUDA kernel for DuoAttention, optimized for large language model inference.                                                             |
+| Shaivpidadi/refrag                                    |       9 | REFRAG: LLM-powered representations for better RAG retrieval. Improve precision, reduce context size, same speed.                                                |
+| hetpatel-11/advanced-tools                            |       9 | Anthropic's advanced tool use features for any LLM provider - OpenAI, Google, and more                                                                           |
+| cipher-attack/cipher-osint                            |       7 | CIPHER-OSINT is a high-performance information gathering framework built with Golang. It leverages LLM integration for automated data analysis and utilizes Tor… |
+| conversem/server-side-query-fan-out-session-reporting |       7 | Server-side Query Fan-Out Session monitoring & reporting for LLM user-bot traffic                                                                                |
+| matryer/context                                       |       7 | Team knowledgebase framework for LLM IDEs                                                                                                                        |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -267,26 +269,28 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/) — 167 points
-- [Get an AI code review in 10 seconds](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/) — 117 points
-- [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration) — 52 points
-- [Amazon Is Filled with AI Book Slop](https://www.rollingstone.com/culture/culture-features/amazon-ai-book-knockoffs-1235450690/) — 10 points
+- [Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) — 496 points
+- [AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) — 90 points
+- [Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)](https://arxiv.org/abs/2512.14693) — 86 points
+- [Toad is a unified experience for AI in the terminal](https://willmcgugan.github.io/toad-released/) — 44 points
+- [Google's healthcare AI made up a body part – what if doctors don't notice?](https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination) — 19 points
+- [NYT reporter sues Google, xAI, OpenAI over alleged copyright infringement](https://www.reuters.com/legal/government/new-york-times-reporter-sues-google-xai-openai-over-chatbot-training-2025-12-22/) — 6 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
 | CVE                 |   CVSS | Summary   |
 |---------------------|--------|-----------|
-| CVE-2021-32837      |      0 |           |
-| GHSA-vf6v-86gw-v5p3 |      0 |           |
-| GHSA-3xxw-5cqg-mq5w |      0 |           |
-| CVE-2025-15006      |      0 |           |
-| CVE-2025-15007      |      0 |           |
-| GHSA-38p8-mxmp-83gm |      0 |           |
-| GHSA-7v96-f75p-x544 |      0 |           |
-| GHSA-gw7f-q8q2-2529 |      0 |           |
-| GHSA-hhfg-c9m2-wg35 |      0 |           |
-| GHSA-j725-9864-6gc2 |      0 |           |
+| GHSA-2gxx-2hcr-3whr |      0 |           |
+| GHSA-9mvv-jgf2-gj5c |      0 |           |
+| GHSA-h5cg-5c4w-8jch |      0 |           |
+| GHSA-cf9c-p3v8-r72c |      0 |           |
+| GHSA-mfqx-8929-rf3c |      0 |           |
+| GHSA-pxvx-632v-2p4v |      0 |           |
+| GHSA-rv5x-862j-q6f6 |      0 |           |
+| GHSA-4x9h-c32v-68jj |      0 |           |
+| GHSA-7f6w-xw5x-vxfq |      0 |           |
+| GHSA-qvqx-7f9m-r2gq |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

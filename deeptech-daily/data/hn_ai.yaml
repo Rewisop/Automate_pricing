@@ -1,26 +1,35 @@
-fetched_at: '2025-12-22T05:37:40Z'
-generated_at: '2025-12-22T05:37:40Z'
-hash: d7c4148ede8d2627e6c154aed909c10abde1b8a4833ed8dd6c9f9eb9f641d3f1
+fetched_at: '2025-12-23T05:38:11Z'
+generated_at: '2025-12-23T05:38:11Z'
+hash: 310a2513c00d6f655fdd8483da1e9bd5914162197998f979b5a8733410b44cf5
 items:
-- id: 46342902
-  score: 167
-  time: '2025-12-21T07:16:19Z'
-  title: Clair Obscur having its Indie Game Game Of The Year award stripped due to
-    AI use
-  url: https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/
-- id: 46346391
-  score: 117
-  time: '2025-12-21T17:21:05Z'
-  title: Get an AI code review in 10 seconds
-  url: https://oldmanrahul.com/2025/12/19/ai-code-review-trick/
-- id: 46350075
-  score: 52
-  time: '2025-12-22T00:27:04Z'
-  title: ONNX Runtime and CoreML May Silently Convert Your Model to FP16
-  url: https://ym2132.github.io/ONNX_MLProgram_NN_exploration
-- id: 46350576
-  score: 10
-  time: '2025-12-22T02:01:22Z'
-  title: Amazon Is Filled with AI Book Slop
-  url: https://www.rollingstone.com/culture/culture-features/amazon-ai-book-knockoffs-1235450690/
+- id: 46355548
+  score: 496
+  time: '2025-12-22T16:31:40Z'
+  title: Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves
+  url: https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/
+- id: 46356603
+  score: 90
+  time: '2025-12-22T17:53:46Z'
+  title: AI Bathroom Monitors? Welcome to America's New Surveillance High Schools
+  url: https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/
+- id: 46357458
+  score: 86
+  time: '2025-12-22T18:59:22Z'
+  title: Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)
+  url: https://arxiv.org/abs/2512.14693
+- id: 46354737
+  score: 44
+  time: '2025-12-22T15:12:40Z'
+  title: Toad is a unified experience for AI in the terminal
+  url: https://willmcgugan.github.io/toad-released/
+- id: 46359643
+  score: 19
+  time: '2025-12-22T22:00:36Z'
+  title: Google's healthcare AI made up a body part – what if doctors don't notice?
+  url: https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination
+- id: 46362186
+  score: 6
+  time: '2025-12-23T03:40:24Z'
+  title: NYT reporter sues Google, xAI, OpenAI over alleged copyright infringement
+  url: https://www.reuters.com/legal/government/new-york-times-reporter-sues-google-xai-openai-over-chatbot-training-2025-12-22/
 source_url: https://hacker-news.firebaseio.com/

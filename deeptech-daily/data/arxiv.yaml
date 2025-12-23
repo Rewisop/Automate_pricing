@@ -1,118 +1,113 @@
-fetched_at: '2025-12-22T05:37:40Z'
-generated_at: '2025-12-22T05:37:40Z'
-hash: b440a04a7b6eb804de3ec08b140b11255ef55c0c4d2a1ee46e55a858ef64be53
+fetched_at: '2025-12-23T05:38:11Z'
+generated_at: '2025-12-23T05:38:11Z'
+hash: 19171cb75a04465b7acdeb01cbadfa1a3f5e962ba33a61b490b14f230a3f1670
 items:
-- id: oai:arXiv.org:2512.16953v1
-  link: https://arxiv.org/abs/2512.16953
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.16953v1 Announce Type: new  Abstract: Recognizing similarities
-    among entities is central to both human cognition and computational intelligence.
-    Wit…'
-  title: Navigating Taxonomic Expansions of Entity Sets Driven by Knowledge Bases
-- id: oai:arXiv.org:2512.16969v1
-  link: https://arxiv.org/abs/2512.16969
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.16969v1 Announce Type: new  Abstract: Despite advances in scientific
-    AI, a coherent framework for Scientific General Intelligence (SGI)-the ability…'
-  title: Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows
-- id: oai:arXiv.org:2512.16970v1
-  link: https://arxiv.org/abs/2512.16970
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.16970v1 Announce Type: new  Abstract: Large Language Model
-    (LLM) agents are increasingly deployed in complex, multi-step workflows involving
-    plannin…'
-  title: 'PAACE: A Plan-Aware Automated Agent Context Engineering Framework'
-- id: oai:arXiv.org:2512.17041v1
-  link: https://arxiv.org/abs/2512.17041
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.17041v1 Announce Type: new  Abstract: Agentic AI is increasingly
-    being explored and introduced in both manually driven and autonomous vehicles,
-    lead…'
-  title: 'Security Risks of Agentic Vehicles: A Systematic Analysis of Cognitive and
-    Cross-Layer Threats'
-- id: oai:arXiv.org:2512.17043v1
-  link: https://arxiv.org/abs/2512.17043
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.17043v1 Announce Type: new  Abstract: Knowledge Graph Question
-    Answering (KGQA) has traditionally focused on entity-centric queries that return
-    a si…'
-  title: 'UniRel-R1: RL-tuned LLM Reasoning for Knowledge Graph Relational Question
-    Answering'
-- id: oai:arXiv.org:2512.17066v1
-  link: https://arxiv.org/abs/2512.17066
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.17066v1 Announce Type: new  Abstract: Human conflict is often
-    attributed to threats against material conditions and symbolic values, yet it
-    remains…'
-  title: 'Realistic threat perception drives intergroup conflict: A causal, dynamic
-    analysis using generative-agent simulations'
-- id: oai:arXiv.org:2512.17086v1
-  link: https://arxiv.org/abs/2512.17086
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.17086v1 Announce Type: new  Abstract: We generalize the AIXI
-    reinforcement learning agent to admit a wider class of utility functions. Assigning
-    a u…'
-  title: Value Under Ignorance in Universal Artificial Intelligence
-- id: oai:arXiv.org:2512.17093v1
-  link: https://arxiv.org/abs/2512.17093
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.17093v1 Announce Type: new  Abstract: The rise of large language
-    models (LLMs) has sparked interest in coding assistants. While general-purpose
-    prog…'
-  title: A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming
-    for Logic Puzzle Solving
-- id: oai:arXiv.org:2512.17102v1
-  link: https://arxiv.org/abs/2512.17102
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.17102v1 Announce Type: new  Abstract: Large Language Model
-    (LLM)-based agents have demonstrated remarkable capabilities in complex reasoning
-    and mul…'
-  title: Reinforcement Learning for Self-Improving Agent with Skill Library
-- id: oai:arXiv.org:2512.17145v1
-  link: https://arxiv.org/abs/2512.17145
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.17145v1 Announce Type: new  Abstract: Reasoning under uncertainty
-    is a key challenge in AI, especially for real-world tasks, where problems with
-    spa…'
-  title: Solomonoff-Inspired Hypothesis Ranking with LLMs for Prediction Under Uncertainty
-- id: oai:arXiv.org:2512.17194v1
-  link: https://arxiv.org/abs/2512.17194
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.17194v1 Announce Type: new  Abstract: Multi-modal Retrieval-Augmented
-    Generation (MMRAG) enables highly credible generation by integrating external…'
-  title: 'MMRAG-RFT: Two-stage Reinforcement Fine-tuning for Explainable Multi-modal
-    Retrieval-augmented Generation'
-- id: oai:arXiv.org:2512.17196v1
-  link: https://arxiv.org/abs/2512.17196
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.17196v1 Announce Type: new  Abstract: Unifying multimodal understanding
-    and generation has shown impressive capabilities in cutting-edge proprietary…'
-  title: 'UmniBench: Unified Understand and Generation Model Oriented Omni-dimensional
-    Benchmark'
-- id: oai:arXiv.org:2512.17250v1
-  link: https://arxiv.org/abs/2512.17250
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.17250v1 Announce Type: new  Abstract: Real-time sequential
-    control agents are often bottlenecked by inference latency. Even modest per-step
-    planning…'
-  title: Accelerating Multi-modal LLM Gaming Performance via Input Prediction and
-    Mishit Correction
-- id: oai:arXiv.org:2512.17266v1
-  link: https://arxiv.org/abs/2512.17266
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.17266v1 Announce Type: new  Abstract: Transfers play a pivotal
-    role in shaping a football club''s success, yet forecasting whether a transfer
-    will su…'
-  title: 'ScoutGPT: Capturing Player Impact from Team Action Sequences Using GPT-Based
-    Framework'
-- id: oai:arXiv.org:2512.17308v1
-  link: https://arxiv.org/abs/2512.17308
-  published: '2025-12-22T05:00:00Z'
-  summary: 'arXiv:2512.17308v1 Announce Type: new  Abstract: Strategic decision-making
-    in Pok\''emon battles presents a unique testbed for evaluating large language
-    models.…'
-  title: 'Large Language Models as Pok\''emon Battle Agents: Strategic Play and Content
-    Generation'
+- id: oai:arXiv.org:2512.18034v1
+  link: https://arxiv.org/abs/2512.18034
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18034v1 Announce Type: new  Abstract: This paper studies the
+    use of Conflict-Driven Clause Learning (CDCL) with VSIDS heuristics as a computational…'
+  title: Conflict-Driven Clause Learning with VSIDS Heuristics for Discrete Facility
+    Layout
+- id: oai:arXiv.org:2512.18092v1
+  link: https://arxiv.org/abs/2512.18092
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18092v1 Announce Type: new  Abstract: Neuron identification
+    is a popular tool in mechanistic interpretability, aiming to uncover the human-interpret…'
+  title: Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability
+- id: oai:arXiv.org:2512.18094v1
+  link: https://arxiv.org/abs/2512.18094
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18094v1 Announce Type: new  Abstract: Large language models
+    (LLMs) have enabled multi-agent systems (MAS) in which multiple agents argue,
+    critique,…'
+  title: Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks
+- id: oai:arXiv.org:2512.18126v1
+  link: https://arxiv.org/abs/2512.18126
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18126v1 Announce Type: new  Abstract: Mixture-of-Agents (MoA)
+    inference can suffer from dense inter-agent communication and low hardware utilization…'
+  title: Efficient Mixture-of-Agents Serving via Tree-Structured Routing, Adaptive
+    Pruning, and Dependency-Aware Prefill-Decode Overlap
+- id: oai:arXiv.org:2512.18135v1
+  link: https://arxiv.org/abs/2512.18135
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18135v1 Announce Type: new  Abstract: Integrating causal inference
+    (CI) with reinforcement learning (RL) has emerged as a powerful paradigm to addre…'
+  title: 'Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and
+    Applications'
+- id: oai:arXiv.org:2512.18160v1
+  link: https://arxiv.org/abs/2512.18160
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18160v1 Announce Type: new  Abstract: Training models through
+    self-play alone (without any human data) has been a longstanding goal in AI, but
+    its e…'
+  title: 'Propose, Solve, Verify: Self-Play Through Formal Verification'
+- id: oai:arXiv.org:2512.18177v1
+  link: https://arxiv.org/abs/2512.18177
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18177v1 Announce Type: new  Abstract: Accurate yet interpretable
+    image-based diagnosis remains a central challenge in medical AI, particularly
+    in se…'
+  title: 'NEURO-GUARD: Neuro-Symbolic Generalization and Unbiased Adaptive Routing
+    for Diagnostics -- Explainable Medical AI'
+- id: oai:arXiv.org:2512.18189v1
+  link: https://arxiv.org/abs/2512.18189
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18189v1 Announce Type: new  Abstract: Cognitive computing models
+    offer a formal and interpretable way to characterize human''s deliberation and
+    decis…'
+  title: 'NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language
+    Using an Unsupervised CriticNL2LTL Framework'
+- id: oai:arXiv.org:2512.18190v1
+  link: https://arxiv.org/abs/2512.18190
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18190v1 Announce Type: new  Abstract: This paper proposes the
+    External Hippocampus framework, which models language model reasoning from a cognitive…'
+  title: 'External Hippocampus: Topological Cognitive Maps for Guiding Large Language
+    Model Reasoning'
+- id: oai:arXiv.org:2512.18202v1
+  link: https://arxiv.org/abs/2512.18202
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18202v1 Announce Type: new  Abstract: The development of LLMs
+    has elevated AI agents from task-specific tools to long-lived, decision-making
+    entitie…'
+  title: 'Sophia: A Persistent Agent Framework of Artificial Life'
+- id: oai:arXiv.org:2512.18256v1
+  link: https://arxiv.org/abs/2512.18256
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18256v1 Announce Type: new  Abstract: Automated Theorem Proving
+    (ATP) represents a core research direction in artificial intelligence for achieving…'
+  title: 'MSC-180: A Benchmark for Automated Formal Theorem Proving from Mathematical
+    Subject Classification'
+- id: oai:arXiv.org:2512.18265v1
+  link: https://arxiv.org/abs/2512.18265
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18265v1 Announce Type: new  Abstract: Manufacturing planners
+    face complex operational challenges that require seamless collaboration between
+    human e…'
+  title: 'Intelligent Human-Machine Partnership for Manufacturing: Enhancing Warehouse
+    Planning through Simulation-Driven Knowledge Graphs and LLM Collaboration'
+- id: oai:arXiv.org:2512.18311v1
+  link: https://arxiv.org/abs/2512.18311
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18311v1 Announce Type: new  Abstract: Observability into the
+    decision making of modern AI systems may be required to safely deploy increasingly
+    capa…'
+  title: Monitoring Monitorability
+- id: oai:arXiv.org:2512.18412v1
+  link: https://arxiv.org/abs/2512.18412
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18412v1 Announce Type: new  Abstract: We propose a structural-graph
+    approach to classifying contour images in a few-shot regime without using backpr…'
+  title: Few-Shot Learning of a Graph-Based Neural Network Model Without Backpropagation
+- id: oai:arXiv.org:2512.18450v1
+  link: https://arxiv.org/abs/2512.18450
+  published: '2025-12-23T05:00:00Z'
+  summary: 'arXiv:2512.18450v1 Announce Type: new  Abstract: Modern clinical decision
+    support systems can concurrently serve multiple, independent medical imaging institut…'
+  title: Agent-Based Output Drift Detection for Breast Cancer Response Prediction
+    in a Multisite Clinical Decision Support System
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL
