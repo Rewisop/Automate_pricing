@@ -1,113 +1,119 @@
-fetched_at: '2025-12-23T05:38:11Z'
-generated_at: '2025-12-23T05:38:11Z'
-hash: 19171cb75a04465b7acdeb01cbadfa1a3f5e962ba33a61b490b14f230a3f1670
+fetched_at: '2025-12-24T05:37:49Z'
+generated_at: '2025-12-24T05:37:49Z'
+hash: 9adf89d5a36227e8fea700bab6dade67c506d3eae4ab78e64b937e5c5d01a908
 items:
-- id: oai:arXiv.org:2512.18034v1
-  link: https://arxiv.org/abs/2512.18034
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18034v1 Announce Type: new  Abstract: This paper studies the
-    use of Conflict-Driven Clause Learning (CDCL) with VSIDS heuristics as a computational…'
-  title: Conflict-Driven Clause Learning with VSIDS Heuristics for Discrete Facility
-    Layout
-- id: oai:arXiv.org:2512.18092v1
-  link: https://arxiv.org/abs/2512.18092
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18092v1 Announce Type: new  Abstract: Neuron identification
-    is a popular tool in mechanistic interpretability, aiming to uncover the human-interpret…'
-  title: Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability
-- id: oai:arXiv.org:2512.18094v1
-  link: https://arxiv.org/abs/2512.18094
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18094v1 Announce Type: new  Abstract: Large language models
-    (LLMs) have enabled multi-agent systems (MAS) in which multiple agents argue,
-    critique,…'
-  title: Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks
-- id: oai:arXiv.org:2512.18126v1
-  link: https://arxiv.org/abs/2512.18126
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18126v1 Announce Type: new  Abstract: Mixture-of-Agents (MoA)
-    inference can suffer from dense inter-agent communication and low hardware utilization…'
-  title: Efficient Mixture-of-Agents Serving via Tree-Structured Routing, Adaptive
-    Pruning, and Dependency-Aware Prefill-Decode Overlap
-- id: oai:arXiv.org:2512.18135v1
-  link: https://arxiv.org/abs/2512.18135
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18135v1 Announce Type: new  Abstract: Integrating causal inference
-    (CI) with reinforcement learning (RL) has emerged as a powerful paradigm to addre…'
-  title: 'Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and
-    Applications'
-- id: oai:arXiv.org:2512.18160v1
-  link: https://arxiv.org/abs/2512.18160
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18160v1 Announce Type: new  Abstract: Training models through
-    self-play alone (without any human data) has been a longstanding goal in AI, but
-    its e…'
-  title: 'Propose, Solve, Verify: Self-Play Through Formal Verification'
-- id: oai:arXiv.org:2512.18177v1
-  link: https://arxiv.org/abs/2512.18177
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18177v1 Announce Type: new  Abstract: Accurate yet interpretable
-    image-based diagnosis remains a central challenge in medical AI, particularly
-    in se…'
-  title: 'NEURO-GUARD: Neuro-Symbolic Generalization and Unbiased Adaptive Routing
-    for Diagnostics -- Explainable Medical AI'
-- id: oai:arXiv.org:2512.18189v1
-  link: https://arxiv.org/abs/2512.18189
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18189v1 Announce Type: new  Abstract: Cognitive computing models
-    offer a formal and interpretable way to characterize human''s deliberation and
-    decis…'
-  title: 'NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language
-    Using an Unsupervised CriticNL2LTL Framework'
-- id: oai:arXiv.org:2512.18190v1
-  link: https://arxiv.org/abs/2512.18190
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18190v1 Announce Type: new  Abstract: This paper proposes the
-    External Hippocampus framework, which models language model reasoning from a cognitive…'
-  title: 'External Hippocampus: Topological Cognitive Maps for Guiding Large Language
-    Model Reasoning'
-- id: oai:arXiv.org:2512.18202v1
-  link: https://arxiv.org/abs/2512.18202
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18202v1 Announce Type: new  Abstract: The development of LLMs
-    has elevated AI agents from task-specific tools to long-lived, decision-making
-    entitie…'
-  title: 'Sophia: A Persistent Agent Framework of Artificial Life'
-- id: oai:arXiv.org:2512.18256v1
-  link: https://arxiv.org/abs/2512.18256
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18256v1 Announce Type: new  Abstract: Automated Theorem Proving
-    (ATP) represents a core research direction in artificial intelligence for achieving…'
-  title: 'MSC-180: A Benchmark for Automated Formal Theorem Proving from Mathematical
-    Subject Classification'
-- id: oai:arXiv.org:2512.18265v1
-  link: https://arxiv.org/abs/2512.18265
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18265v1 Announce Type: new  Abstract: Manufacturing planners
-    face complex operational challenges that require seamless collaboration between
-    human e…'
-  title: 'Intelligent Human-Machine Partnership for Manufacturing: Enhancing Warehouse
-    Planning through Simulation-Driven Knowledge Graphs and LLM Collaboration'
-- id: oai:arXiv.org:2512.18311v1
-  link: https://arxiv.org/abs/2512.18311
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18311v1 Announce Type: new  Abstract: Observability into the
-    decision making of modern AI systems may be required to safely deploy increasingly
-    capa…'
-  title: Monitoring Monitorability
-- id: oai:arXiv.org:2512.18412v1
-  link: https://arxiv.org/abs/2512.18412
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18412v1 Announce Type: new  Abstract: We propose a structural-graph
-    approach to classifying contour images in a few-shot regime without using backpr…'
-  title: Few-Shot Learning of a Graph-Based Neural Network Model Without Backpropagation
-- id: oai:arXiv.org:2512.18450v1
-  link: https://arxiv.org/abs/2512.18450
-  published: '2025-12-23T05:00:00Z'
-  summary: 'arXiv:2512.18450v1 Announce Type: new  Abstract: Modern clinical decision
-    support systems can concurrently serve multiple, independent medical imaging institut…'
-  title: Agent-Based Output Drift Detection for Breast Cancer Response Prediction
-    in a Multisite Clinical Decision Support System
+- id: oai:arXiv.org:2512.19799v1
+  link: https://arxiv.org/abs/2512.19799
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.19799v1 Announce Type: new  Abstract: Advances in LLMs have
+    produced agents with knowledge and operational capabilities comparable to human
+    scientis…'
+  title: 'PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational
+    Physics Research'
+- id: oai:arXiv.org:2512.19882v1
+  link: https://arxiv.org/abs/2512.19882
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.19882v1 Announce Type: new  Abstract: The distribution of relief
+    supplies to shelters is a critical aspect of post-disaster humanitarian logistics.…'
+  title: A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid
+    Distribution
+- id: oai:arXiv.org:2512.19937v1
+  link: https://arxiv.org/abs/2512.19937
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.19937v1 Announce Type: new  Abstract: Recent research has explored
+    using very large language models (LLMs) as proxies for humans in tasks such as
+    si…'
+  title: 'Interpolative Decoding: Exploring the Spectrum of Personality Traits in
+    LLMs'
+- id: oai:arXiv.org:2512.19957v1
+  link: https://arxiv.org/abs/2512.19957
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.19957v1 Announce Type: new  Abstract: This paper presents an
+    approach developed to address the PlantClef 2025 challenge, which consists of
+    a fine-gr…'
+  title: Zero-Shot Segmentation through Prototype-Guidance for Multi-Label Plant Species
+    Identification
+- id: oai:arXiv.org:2512.19960v1
+  link: https://arxiv.org/abs/2512.19960
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.19960v1 Announce Type: new  Abstract: Intra-class variability
+    is given according to the significance in the degree of dissimilarity between
+    images w…'
+  title: 'FGDCC: Fine-Grained Deep Cluster Categorization -- A Framework for Intra-Class
+    Variability Problems in Plant Classification'
+- id: oai:arXiv.org:2512.19992v1
+  link: https://arxiv.org/abs/2512.19992
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.19992v1 Announce Type: new  Abstract: The integration of embodied
+    agents into human environments demands embodied social intelligence: reasoning
+    ove…'
+  title: 'S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test'
+- id: oai:arXiv.org:2512.20043v1
+  link: https://arxiv.org/abs/2512.20043
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.20043v1 Announce Type: new  Abstract: Symmetry is fundamental
+    to understanding physical systems, and at the same time, can improve performance
+    and s…'
+  title: Discovering Lie Groups with Flow Matching
+- id: oai:arXiv.org:2512.20052v1
+  link: https://arxiv.org/abs/2512.20052
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.20052v1 Announce Type: new  Abstract: Learning from videos
+    offers a promising path toward generalist robots by providing rich visual and
+    temporal pr…'
+  title: Learning Skills from Action-Free Videos
+- id: oai:arXiv.org:2512.20056v1
+  link: https://arxiv.org/abs/2512.20056
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.20056v1 Announce Type: new  Abstract: As Earth''s climate changes,
+    it is impacting disasters and extreme weather events across the planet. Record-bre…'
+  title: 'Towards Generative Location Awareness for Disaster Response: A Probabilistic
+    Cross-view Geolocalization Approach'
+- id: oai:arXiv.org:2512.20061v1
+  link: https://arxiv.org/abs/2512.20061
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.20061v1 Announce Type: new  Abstract: Content moderation at
+    scale remains one of the most pressing challenges in today''s digital ecosystem,
+    where bi…'
+  title: Scaling Reinforcement Learning for Content Moderation with Large Language
+    Models
+- id: oai:arXiv.org:2512.20074v1
+  link: https://arxiv.org/abs/2512.20074
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.20074v1 Announce Type: new  Abstract: Despite the wide adoption
+    of Large Language Models (LLM)s, clinical decision support systems face a critical
+    c…'
+  title: 'Reason2Decide: Rationale-Driven Multi-Task Learning'
+- id: oai:arXiv.org:2512.20082v1
+  link: https://arxiv.org/abs/2512.20082
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.20082v1 Announce Type: new  Abstract: Financial sentiment analysis
+    plays a crucial role in informing investment decisions, assessing market risk,
+    an…'
+  title: Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned
+    LLMs , RAG and Reinforcement Learning Approaches
+- id: oai:arXiv.org:2512.20135v1
+  link: https://arxiv.org/abs/2512.20135
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.20135v1 Announce Type: new  Abstract: Molecular editing and
+    optimization are multi-step problems that require iteratively improving properties
+    while…'
+  title: 'MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization'
+- id: oai:arXiv.org:2512.20140v1
+  link: https://arxiv.org/abs/2512.20140
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.20140v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) have demonstrated effectiveness as zero-shot time series (TS) forecasters.
+    The ke…'
+  title: Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise
+    Injection
+- id: oai:arXiv.org:2512.20161v1
+  link: https://arxiv.org/abs/2512.20161
+  published: '2025-12-24T05:00:00Z'
+  summary: 'arXiv:2512.20161v1 Announce Type: new  Abstract: Data centers account
+    for significant global energy consumption and a carbon footprint. The recent increasing
+    d…'
+  title: A Bidirectional Gated Recurrent Unit Model for PUE Prediction in Data Centers
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

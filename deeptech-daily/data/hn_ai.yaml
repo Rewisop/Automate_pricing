@@ -1,35 +1,25 @@
-fetched_at: '2025-12-23T05:38:11Z'
-generated_at: '2025-12-23T05:38:11Z'
-hash: 310a2513c00d6f655fdd8483da1e9bd5914162197998f979b5a8733410b44cf5
+fetched_at: '2025-12-24T05:37:49Z'
+generated_at: '2025-12-24T05:37:49Z'
+hash: cf50004517daf7fb379d994be55e5ce5caa9738bec966ce811e75f06dad5b45f
 items:
-- id: 46355548
-  score: 496
-  time: '2025-12-22T16:31:40Z'
-  title: Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves
-  url: https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/
-- id: 46356603
-  score: 90
-  time: '2025-12-22T17:53:46Z'
-  title: AI Bathroom Monitors? Welcome to America's New Surveillance High Schools
-  url: https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/
-- id: 46357458
-  score: 86
-  time: '2025-12-22T18:59:22Z'
-  title: Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)
-  url: https://arxiv.org/abs/2512.14693
-- id: 46354737
-  score: 44
-  time: '2025-12-22T15:12:40Z'
-  title: Toad is a unified experience for AI in the terminal
-  url: https://willmcgugan.github.io/toad-released/
-- id: 46359643
-  score: 19
-  time: '2025-12-22T22:00:36Z'
-  title: Google's healthcare AI made up a body part – what if doctors don't notice?
-  url: https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination
-- id: 46362186
+- id: 46368263
+  score: 23
+  time: '2025-12-23T19:07:01Z'
+  title: Nature Is Laughing at the AI Build Out
+  url: https://markmaunder.com/2025/nature-is-laughing-at-the-ai-build-out/
+- id: 46369590
+  score: 15
+  time: '2025-12-23T21:19:07Z'
+  title: Nebula Awards Yelled at Until They Ban Use of AI by Nominees
+  url: https://gizmodo.com/nebula-awards-yelled-at-until-they-completely-ban-use-of-ai-by-nominees-2000702137
+- id: 46368372
+  score: 12
+  time: '2025-12-23T19:16:43Z'
+  title: Social media encourages the worst of AI boosterism
+  url: https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/
+- id: 46371016
   score: 6
-  time: '2025-12-23T03:40:24Z'
-  title: NYT reporter sues Google, xAI, OpenAI over alleged copyright infringement
-  url: https://www.reuters.com/legal/government/new-york-times-reporter-sues-google-xai-openai-over-chatbot-training-2025-12-22/
+  time: '2025-12-24T00:09:38Z'
+  title: Americans Have Mixed Views of AI – and an Appetite for Regulation
+  url: https://www.searchlightinstitute.org/research/americans-have-mixed-views-of-ai-and-an-appetite-for-regulation/
 source_url: https://hacker-news.firebaseio.com/

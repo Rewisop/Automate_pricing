@@ -1,105 +1,98 @@
-fetched_at: '2025-12-23T05:38:11Z'
-generated_at: '2025-12-23T05:38:11Z'
-hash: 98f48051b79bbc4da4a53c663d7fb68cc8c5a56a7dc3e2debecb1682ce300468
+fetched_at: '2025-12-24T05:37:49Z'
+generated_at: '2025-12-24T05:37:49Z'
+hash: e631d55abe3b06edb8eb4b89cdf446de8b0a7fdafa12fdca17b36434cbaf76e7
 items:
-- created_at: '2025-12-17T12:11:53Z'
-  description: 100+ LLM interview questions with answers.
-  full_name: KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub
-  html_url: https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub
-  stargazers_count: 530
 - created_at: '2025-12-20T10:04:55Z'
   description: A multi-agent AI trading system using LLMs to optimize strategies and
     adapt to market conditions in real-time.
   full_name: EthanAlgoX/LLM-TradeBot
   html_url: https://github.com/EthanAlgoX/LLM-TradeBot
-  stargazers_count: 60
-- created_at: '2025-12-17T08:41:09Z'
-  description: A universal sandbox platform for AI application scenarios, providing
-    multi-language SDKs, unified sandbox protocols, and sandbox runtimes for LLM-related
-    capab…
-  full_name: alibaba/OpenSandbox
-  html_url: https://github.com/alibaba/OpenSandbox
-  stargazers_count: 52
-- created_at: '2025-12-17T05:32:05Z'
-  description: 小皮AI直播机器人 硬件+私有服务器解决方案 (XiaoPi)是一个将直播弹幕与AI硬件语音交互结合的解决方案。它能够：  - 📺 实时接收直播间弹幕消息
-    - 🤖 使用大语言模型(LLM)生成智能回复 - 🔊 将回复转换为语音(TTS) - 📡 发送到ESP32等硬件设备进行播放 - 🎯 支持串行化处理，避免弹幕堆积
-  full_name: sysgiven/AI-XiaoPi
-  html_url: https://github.com/sysgiven/AI-XiaoPi
-  stargazers_count: 51
-- created_at: '2025-12-17T10:04:18Z'
-  description: list of awesome platforms, tools, and resources   run for LLMs locally
-  full_name: 0xSojalSec/LLMs-local
-  html_url: https://github.com/0xSojalSec/LLMs-local
-  stargazers_count: 48
+  stargazers_count: 74
 - created_at: '2025-12-18T07:22:09Z'
   description: 总结了小红书博主算法小小怪在学习LLM和推荐系统的笔记
   full_name: cst20/LLM4Rec_xiaoxiaoguai
   html_url: https://github.com/cst20/LLM4Rec_xiaoxiaoguai
-  stargazers_count: 46
-- created_at: '2025-12-17T04:50:55Z'
-  description: 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An
-    AI-powered, self-healing web automation bridge. Converts any website (ChatGPT,
-    DeepSeek, et…
-  full_name: lumingya/universal-web-api
-  html_url: https://github.com/lumingya/universal-web-api
-  stargazers_count: 44
+  stargazers_count: 52
 - created_at: '2025-12-19T01:50:02Z'
   description: AGI_HER_LLM
   full_name: lcw2014/AGI_HER_LLM
   html_url: https://github.com/lcw2014/AGI_HER_LLM
   stargazers_count: 36
-- created_at: '2025-12-18T23:22:24Z'
-  description: 'Custom Claude Code CLI skills for B2B SaaS development: quality gates,
-    TypeScript enforcement, multi-LLM advisor, and more'
-  full_name: Svenja-dev/claude-code-skills
-  html_url: https://github.com/Svenja-dev/claude-code-skills
-  stargazers_count: 21
-- created_at: '2025-12-17T16:51:36Z'
-  description: A list of self-hostable LLM services
-  full_name: av/awesome-llm-services
-  html_url: https://github.com/av/awesome-llm-services
-  stargazers_count: 19
-- created_at: '2025-12-21T19:52:52Z'
-  description: LLM-based character segmentation agent for ComfyUI based on SAM 3 and
-    the SAM 3 Agent notebook
-  full_name: adambarbato/ComfyUI-Segmentation-Agent
-  html_url: https://github.com/adambarbato/ComfyUI-Segmentation-Agent
-  stargazers_count: 18
 - created_at: '2025-12-21T01:01:03Z'
   description: A skill that teaches LLM agents how to use rope for python codebase
     refactors
   full_name: brian-yu/python-rope-refactor
   html_url: https://github.com/brian-yu/python-rope-refactor
+  stargazers_count: 24
+- created_at: '2025-12-18T23:22:24Z'
+  description: 'Custom Claude Code CLI skills for B2B SaaS development: quality gates,
+    TypeScript enforcement, multi-LLM advisor, and more'
+  full_name: Svenja-dev/claude-code-skills
+  html_url: https://github.com/Svenja-dev/claude-code-skills
+  stargazers_count: 22
+- created_at: '2025-12-21T19:52:52Z'
+  description: LLM-based character segmentation agent for ComfyUI based on SAM 3 and
+    the SAM 3 Agent notebook
+  full_name: adambarbato/ComfyUI-Segmentation-Agent
+  html_url: https://github.com/adambarbato/ComfyUI-Segmentation-Agent
+  stargazers_count: 20
+- created_at: '2025-12-23T07:39:07Z'
+  description: AI-powered UI component generator - Compare design outputs from multiple
+    LLMs in real-time
+  full_name: IncomeStreamSurfer/AI-DESIGN-BENCHMARK
+  html_url: https://github.com/IncomeStreamSurfer/AI-DESIGN-BENCHMARK
   stargazers_count: 18
 - created_at: '2025-12-18T07:08:18Z'
   description: Fin-Agent Desktop 是一款基于 Electron + Python 的智能金融助手桌面应用。它集成了强大的 LLM 能力和专业的金融数据分析工具，为您提供自然流畅的金融咨询与分析服务。
   full_name: YUHAI0/fin-agent-desktop
   html_url: https://github.com/YUHAI0/fin-agent-desktop
-  stargazers_count: 17
-- created_at: '2025-12-17T12:16:45Z'
-  description: Self-evolve your LLM's capabilities with just a task and a success
-    criterion.
-  full_name: wbopan/liteevo
-  html_url: https://github.com/wbopan/liteevo
-  stargazers_count: 11
+  stargazers_count: 18
+- created_at: '2025-12-22T00:47:03Z'
+  description: 'REFRAG: LLM-powered representations for better RAG retrieval. Improve
+    precision, reduce context size, same speed.'
+  full_name: Shaivpidadi/refrag
+  html_url: https://github.com/Shaivpidadi/refrag
+  stargazers_count: 14
+- created_at: '2025-12-21T08:14:15Z'
+  description: 尝试作为手机助手植入到手机内运行的 ncnn llm
+  full_name: chentyjpm/ncnn_llm-android-ctl-mcp
+  html_url: https://github.com/chentyjpm/ncnn_llm-android-ctl-mcp
+  stargazers_count: 14
+- created_at: '2025-12-23T07:53:03Z'
+  description: A lightweight, production-ready C++ library for LLM tokenization, fully
+    compatible with HuggingFace tokenizer.json.
+  full_name: wangzhaode/tokenizer.cpp
+  html_url: https://github.com/wangzhaode/tokenizer.cpp
+  stargazers_count: 13
+- created_at: '2025-12-20T21:28:14Z'
+  description: Anthropic's advanced tool use features for any LLM provider - OpenAI,
+    Google, and more
+  full_name: hetpatel-11/advanced-tools
+  html_url: https://github.com/hetpatel-11/advanced-tools
+  stargazers_count: 10
+- created_at: '2025-12-20T14:26:57Z'
+  description: An Android GUI Agent powered by Volcano Engine's vision LLM - automate
+    phone operations with natural language commands
+  full_name: HuSuuuu/HusxGLM
+  html_url: https://github.com/HuSuuuu/HusxGLM
+  stargazers_count: 9
 - created_at: '2025-12-18T04:11:00Z'
   description: A lightweight CuTe-based CUDA kernel for DuoAttention, optimized for
     large language model inference.
   full_name: KuangjuX/light-duoattention
   html_url: https://github.com/KuangjuX/light-duoattention
   stargazers_count: 9
-- created_at: '2025-12-22T00:47:03Z'
-  description: 'REFRAG: LLM-powered representations for better RAG retrieval. Improve
-    precision, reduce context size, same speed.'
-  full_name: Shaivpidadi/refrag
-  html_url: https://github.com/Shaivpidadi/refrag
+- created_at: '2025-12-22T19:51:07Z'
+  description: Advanced anti-LLM obfuscation
+  full_name: thebabush/llvm-jutsu
+  html_url: https://github.com/thebabush/llvm-jutsu
   stargazers_count: 9
-- created_at: '2025-12-20T21:28:14Z'
-  description: Anthropic's advanced tool use features for any LLM provider - OpenAI,
-    Google, and more
-  full_name: hetpatel-11/advanced-tools
-  html_url: https://github.com/hetpatel-11/advanced-tools
-  stargazers_count: 9
+- created_at: '2025-12-19T16:16:04Z'
+  description: LLM Council Plus - Multi-model AI deliberation system with 3-stage
+    council process
+  full_name: DmitryBMsk/llm-council-plus
+  html_url: https://github.com/DmitryBMsk/llm-council-plus
+  stargazers_count: 7
 - created_at: '2025-12-21T12:19:18Z'
   description: CIPHER-OSINT is a high-performance information gathering framework
     built with Golang. It leverages LLM integration for automated data analysis and
@@ -117,5 +110,10 @@ items:
   description: Team knowledgebase framework for LLM IDEs
   full_name: matryer/context
   html_url: https://github.com/matryer/context
+  stargazers_count: 7
+- created_at: '2025-12-18T18:28:17Z'
+  description: A quick and dirty LLM powered image describing tool
+  full_name: paradox460/imagecaption
+  html_url: https://github.com/paradox460/imagecaption
   stargazers_count: 7
 source_url: https://api.github.com/search/repositories
