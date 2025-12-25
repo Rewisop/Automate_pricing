@@ -1,10 +1,10 @@
-fetched_at: '2025-12-24T05:37:49Z'
-generated_at: '2025-12-24T05:37:49Z'
-hash: 9adf89d5a36227e8fea700bab6dade67c506d3eae4ab78e64b937e5c5d01a908
+fetched_at: '2025-12-25T05:37:50Z'
+generated_at: '2025-12-25T05:37:50Z'
+hash: 7764fd91d0ac165ad2cb6997a228b317cb4c5e880cc73375dc5745c8bd58b2d9
 items:
 - id: oai:arXiv.org:2512.19799v1
   link: https://arxiv.org/abs/2512.19799
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.19799v1 Announce Type: new  Abstract: Advances in LLMs have
     produced agents with knowledge and operational capabilities comparable to human
     scientis…'
@@ -12,14 +12,14 @@ items:
     Physics Research'
 - id: oai:arXiv.org:2512.19882v1
   link: https://arxiv.org/abs/2512.19882
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.19882v1 Announce Type: new  Abstract: The distribution of relief
     supplies to shelters is a critical aspect of post-disaster humanitarian logistics.…'
   title: A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid
     Distribution
 - id: oai:arXiv.org:2512.19937v1
   link: https://arxiv.org/abs/2512.19937
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.19937v1 Announce Type: new  Abstract: Recent research has explored
     using very large language models (LLMs) as proxies for humans in tasks such as
     si…'
@@ -27,7 +27,7 @@ items:
     LLMs'
 - id: oai:arXiv.org:2512.19957v1
   link: https://arxiv.org/abs/2512.19957
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.19957v1 Announce Type: new  Abstract: This paper presents an
     approach developed to address the PlantClef 2025 challenge, which consists of
     a fine-gr…'
@@ -35,7 +35,7 @@ items:
     Identification
 - id: oai:arXiv.org:2512.19960v1
   link: https://arxiv.org/abs/2512.19960
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.19960v1 Announce Type: new  Abstract: Intra-class variability
     is given according to the significance in the degree of dissimilarity between
     images w…'
@@ -43,35 +43,35 @@ items:
     Variability Problems in Plant Classification'
 - id: oai:arXiv.org:2512.19992v1
   link: https://arxiv.org/abs/2512.19992
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.19992v1 Announce Type: new  Abstract: The integration of embodied
     agents into human environments demands embodied social intelligence: reasoning
     ove…'
   title: 'S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test'
 - id: oai:arXiv.org:2512.20043v1
   link: https://arxiv.org/abs/2512.20043
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.20043v1 Announce Type: new  Abstract: Symmetry is fundamental
     to understanding physical systems, and at the same time, can improve performance
     and s…'
   title: Discovering Lie Groups with Flow Matching
 - id: oai:arXiv.org:2512.20052v1
   link: https://arxiv.org/abs/2512.20052
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.20052v1 Announce Type: new  Abstract: Learning from videos
     offers a promising path toward generalist robots by providing rich visual and
     temporal pr…'
   title: Learning Skills from Action-Free Videos
 - id: oai:arXiv.org:2512.20056v1
   link: https://arxiv.org/abs/2512.20056
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.20056v1 Announce Type: new  Abstract: As Earth''s climate changes,
     it is impacting disasters and extreme weather events across the planet. Record-bre…'
   title: 'Towards Generative Location Awareness for Disaster Response: A Probabilistic
     Cross-view Geolocalization Approach'
 - id: oai:arXiv.org:2512.20061v1
   link: https://arxiv.org/abs/2512.20061
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.20061v1 Announce Type: new  Abstract: Content moderation at
     scale remains one of the most pressing challenges in today''s digital ecosystem,
     where bi…'
@@ -79,29 +79,29 @@ items:
     Models
 - id: oai:arXiv.org:2512.20074v1
   link: https://arxiv.org/abs/2512.20074
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.20074v1 Announce Type: new  Abstract: Despite the wide adoption
     of Large Language Models (LLM)s, clinical decision support systems face a critical
     c…'
   title: 'Reason2Decide: Rationale-Driven Multi-Task Learning'
-- id: oai:arXiv.org:2512.20082v1
+- id: oai:arXiv.org:2512.20082v2
   link: https://arxiv.org/abs/2512.20082
-  published: '2025-12-24T05:00:00Z'
-  summary: 'arXiv:2512.20082v1 Announce Type: new  Abstract: Financial sentiment analysis
+  published: '2025-12-25T05:00:00Z'
+  summary: 'arXiv:2512.20082v2 Announce Type: new  Abstract: Financial sentiment analysis
     plays a crucial role in informing investment decisions, assessing market risk,
     an…'
   title: Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned
     LLMs , RAG and Reinforcement Learning Approaches
-- id: oai:arXiv.org:2512.20135v1
+- id: oai:arXiv.org:2512.20135v2
   link: https://arxiv.org/abs/2512.20135
-  published: '2025-12-24T05:00:00Z'
-  summary: 'arXiv:2512.20135v1 Announce Type: new  Abstract: Molecular editing and
+  published: '2025-12-25T05:00:00Z'
+  summary: 'arXiv:2512.20135v2 Announce Type: new  Abstract: Molecular editing and
     optimization are multi-step problems that require iteratively improving properties
     while…'
   title: 'MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization'
 - id: oai:arXiv.org:2512.20140v1
   link: https://arxiv.org/abs/2512.20140
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.20140v1 Announce Type: new  Abstract: Large Language Models
     (LLMs) have demonstrated effectiveness as zero-shot time series (TS) forecasters.
     The ke…'
@@ -109,7 +109,7 @@ items:
     Injection
 - id: oai:arXiv.org:2512.20161v1
   link: https://arxiv.org/abs/2512.20161
-  published: '2025-12-24T05:00:00Z'
+  published: '2025-12-25T05:00:00Z'
   summary: 'arXiv:2512.20161v1 Announce Type: new  Abstract: Data centers account
     for significant global energy consumption and a carbon footprint. The recent increasing
     d…'

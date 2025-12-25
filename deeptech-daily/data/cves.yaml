@@ -1,46 +1,45 @@
-fetched_at: '2025-12-24T05:37:49Z'
-generated_at: '2025-12-24T05:37:49Z'
-hash: 4a7011bc595b79606198f7d94a3e5d512dc7a5ed780ae5f1dcd98e9b12162769
+fetched_at: '2025-12-25T05:37:50Z'
+generated_at: '2025-12-25T05:37:50Z'
+hash: a4aa37905bac9485f7279494349ce69493102ed3f0aebd06c716dacbc3df286d
 items:
 - cvss: 0.0
-  id: MAL-2025-192764
-  published: '2025-12-23T18:30:06Z'
-  summary: Malicious code in trial-guard (npm)
+  id: MAL-2025-192686
+  published: '2025-12-21T14:03:13Z'
+  summary: Malicious code in runtimeutils (PyPI)
 - cvss: 0.0
-  id: GHSA-c67j-w6g6-q2cm
-  published: '2025-12-23T18:46:13Z'
-  summary: LangChain serialization injection vulnerability enables secret extraction
-    in dumps/loads APIs
-- cvss: 0.0
-  id: GHSA-hm5p-x4rq-38w4
-  published: '2025-12-23T19:31:10Z'
-  summary: httparty Has Potential SSRF Vulnerability That Leads to API Key Leakage
-- cvss: 0.0
-  id: GHSA-r399-636x-v7f6
-  published: '2025-12-23T20:08:48Z'
-  summary: LangChain serialization injection vulnerability enables secret extraction
-- cvss: 0.0
-  id: CVE-2025-15050
-  published: '2025-12-24T01:16:14Z'
+  id: CVE-2024-40317
+  published: '2025-12-24T16:15:47Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-15052
-  published: '2025-12-24T02:15:52Z'
+  id: CVE-2025-68920
+  published: '2025-12-24T22:15:43Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-15053
-  published: '2025-12-24T02:15:52Z'
+  id: MAL-2025-192929
+  published: '2025-12-24T22:45:19Z'
+  summary: Malicious code in envtoolsx (PyPI)
+- cvss: 0.0
+  id: CVE-2025-15073
+  published: '2025-12-24T23:15:44Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-34f8-4m2m-xpvw
-  published: '2025-12-24T03:31:33Z'
+  id: CVE-2025-68922
+  published: '2025-12-25T00:16:03Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-8h8c-v86h-cqxj
-  published: '2025-12-24T03:31:33Z'
+  id: GHSA-7wwf-6mwx-wx77
+  published: '2025-12-25T00:30:17Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-v362-r26g-4mrc
-  published: '2025-12-24T03:31:33Z'
+  id: GHSA-2h4c-6rjw-w7rh
+  published: '2025-12-25T00:30:18Z'
+  summary: ''
+- cvss: 0.0
+  id: GHSA-6rp6-72p8-59rr
+  published: '2025-12-25T00:30:18Z'
+  summary: ''
+- cvss: 0.0
+  id: GHSA-467j-v66f-jv73
+  published: '2025-12-25T03:30:11Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

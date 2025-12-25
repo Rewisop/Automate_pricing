@@ -71,6 +71,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -82,6 +83,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -209,8 +211,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [Towards Generative Location Awareness for Disaster Response: A Probabilistic Cross-view Geolocalization Approach](https://arxiv.org/abs/2512.20056) — arXiv:2512.20056v1 Announce Type: new  Abstract: As Earth's climate changes, it is impacting disasters and extreme weather events across the planet. Record-bre…
 - [Scaling Reinforcement Learning for Content Moderation with Large Language Models](https://arxiv.org/abs/2512.20061) — arXiv:2512.20061v1 Announce Type: new  Abstract: Content moderation at scale remains one of the most pressing challenges in today's digital ecosystem, where bi…
 - [Reason2Decide: Rationale-Driven Multi-Task Learning](https://arxiv.org/abs/2512.20074) — arXiv:2512.20074v1 Announce Type: new  Abstract: Despite the wide adoption of Large Language Models (LLM)s, clinical decision support systems face a critical c…
-- [Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches](https://arxiv.org/abs/2512.20082) — arXiv:2512.20082v1 Announce Type: new  Abstract: Financial sentiment analysis plays a crucial role in informing investment decisions, assessing market risk, an…
-- [MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization](https://arxiv.org/abs/2512.20135) — arXiv:2512.20135v1 Announce Type: new  Abstract: Molecular editing and optimization are multi-step problems that require iteratively improving properties while…
+- [Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches](https://arxiv.org/abs/2512.20082) — arXiv:2512.20082v2 Announce Type: new  Abstract: Financial sentiment analysis plays a crucial role in informing investment decisions, assessing market risk, an…
+- [MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization](https://arxiv.org/abs/2512.20135) — arXiv:2512.20135v2 Announce Type: new  Abstract: Molecular editing and optimization are multi-step problems that require iteratively improving properties while…
 - [Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection](https://arxiv.org/abs/2512.20140) — arXiv:2512.20140v1 Announce Type: new  Abstract: Large Language Models (LLMs) have demonstrated effectiveness as zero-shot time series (TS) forecasters. The ke…
 - [A Bidirectional Gated Recurrent Unit Model for PUE Prediction in Data Centers](https://arxiv.org/abs/2512.20161) — arXiv:2512.20161v1 Announce Type: new  Abstract: Data centers account for significant global energy consumption and a carbon footprint. The recent increasing d…
 <!--ARXIV:END-->
@@ -242,26 +244,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                            |   Stars | Description                                                                                                                                                      |
 |-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| EthanAlgoX/LLM-TradeBot                               |      74 | A multi-agent AI trading system using LLMs to optimize strategies and adapt to market conditions in real-time.                                                   |
-| cst20/LLM4Rec_xiaoxiaoguai                            |      52 | 总结了小红书博主算法小小怪在学习LLM和推荐系统的笔记                                                                                                                                      |
+| EthanAlgoX/LLM-TradeBot                               |      79 | A multi-agent AI trading system using LLMs to optimize strategies and adapt to market conditions in real-time.                                                   |
 | lcw2014/AGI_HER_LLM                                   |      36 | AGI_HER_LLM                                                                                                                                                      |
-| brian-yu/python-rope-refactor                         |      24 | A skill that teaches LLM agents how to use rope for python codebase refactors                                                                                    |
-| Svenja-dev/claude-code-skills                         |      22 | Custom Claude Code CLI skills for B2B SaaS development: quality gates, TypeScript enforcement, multi-LLM advisor, and more                                       |
-| adambarbato/ComfyUI-Segmentation-Agent                |      20 | LLM-based character segmentation agent for ComfyUI based on SAM 3 and the SAM 3 Agent notebook                                                                   |
-| IncomeStreamSurfer/AI-DESIGN-BENCHMARK                |      18 | AI-powered UI component generator - Compare design outputs from multiple LLMs in real-time                                                                       |
-| YUHAI0/fin-agent-desktop                              |      18 | Fin-Agent Desktop 是一款基于 Electron + Python 的智能金融助手桌面应用。它集成了强大的 LLM 能力和专业的金融数据分析工具，为您提供自然流畅的金融咨询与分析服务。                                                             |
-| Shaivpidadi/refrag                                    |      14 | REFRAG: LLM-powered representations for better RAG retrieval. Improve precision, reduce context size, same speed.                                                |
+| brian-yu/python-rope-refactor                         |      26 | A skill that teaches LLM agents how to use rope for python codebase refactors                                                                                    |
+| IncomeStreamSurfer/AI-DESIGN-BENCHMARK                |      23 | AI-powered UI component generator - Compare design outputs from multiple LLMs in real-time                                                                       |
+| adambarbato/ComfyUI-Segmentation-Agent                |      22 | LLM-based character segmentation agent for ComfyUI based on SAM 3 and the SAM 3 Agent notebook                                                                   |
+| Shaivpidadi/refrag                                    |      15 | REFRAG: LLM-powered representations for better RAG retrieval. Improve precision, reduce context size, same speed.                                                |
+| lee-lou2/distill                                      |      15 | 고성능 Rust 기반 웹 스크래퍼 & LLM 분석 API 서버                                                                                                                               |
 | chentyjpm/ncnn_llm-android-ctl-mcp                    |      14 | 尝试作为手机助手植入到手机内运行的 ncnn llm                                                                                                                                       |
-| wangzhaode/tokenizer.cpp                              |      13 | A lightweight, production-ready C++ library for LLM tokenization, fully compatible with HuggingFace tokenizer.json.                                              |
-| hetpatel-11/advanced-tools                            |      10 | Anthropic's advanced tool use features for any LLM provider - OpenAI, Google, and more                                                                           |
-| HuSuuuu/HusxGLM                                       |       9 | An Android GUI Agent powered by Volcano Engine's vision LLM - automate phone operations with natural language commands                                           |
-| KuangjuX/light-duoattention                           |       9 | A lightweight CuTe-based CUDA kernel for DuoAttention, optimized for large language model inference.                                                             |
-| thebabush/llvm-jutsu                                  |       9 | Advanced anti-LLM obfuscation                                                                                                                                    |
+| wangzhaode/tokenizer.cpp                              |      14 | A lightweight, production-ready C++ library for LLM tokenization, fully compatible with HuggingFace tokenizer.json.                                              |
+| HuSuuuu/HusxGLM                                       |      11 | An Android GUI Agent powered by Volcano Engine's vision LLM - automate phone operations with natural language commands                                           |
+| hetpatel-11/advanced-tools                            |      11 | Anthropic's advanced tool use features for any LLM provider - OpenAI, Google, and more                                                                           |
+| thebabush/llvm-jutsu                                  |      11 | Advanced anti-LLM obfuscation                                                                                                                                    |
+| SihaoLiu/claude-code-gaac                             |       8 | Claude Code Methodology | GAAC=Github-as-a-Context | LLM IS AS GOOD AS YOUR ARE | 胸有成码                                                                           |
+| XRDS76354/SUMO-MCP-Server                             |       8 | SUMO-MCP 是一个连接大语言模型 (LLM) 与 Eclipse SUMO 交通仿真的中间件。通过 Model Context Protocol (MCP)，它允许 AI 智能体（如 Claude, Cursor, TRAE等）直接调用 SUMO 的核心功能，实现从OpenStreetMap 数据获取、路网生成… |
+| jesseduffield/ai-battlegrounds                        |       8 | It's about time we put LLM's in an ACTUAL arena                                                                                                                  |
 | DmitryBMsk/llm-council-plus                           |       7 | LLM Council Plus - Multi-model AI deliberation system with 3-stage council process                                                                               |
+| alexfazio/artificial-analysis-compare                 |       7 | LLM model comparison skill using Artificial Analysis API - benchmarks, pricing, and performance metrics                                                          |
+| amlkiller/llm_answerer                                |       7 | 适用于OCS网课助手的基于大语言模型LLM的轻量高性能智能答题服务，支持多种题型，提供HTTP API接口和本地缓存功能。High-performance intelligent question-answering service based on the Large Language Model (LLM) fo… |
 | cipher-attack/cipher-osint                            |       7 | CIPHER-OSINT is a high-performance information gathering framework built with Golang. It leverages LLM integration for automated data analysis and utilizes Tor… |
 | conversem/server-side-query-fan-out-session-reporting |       7 | Server-side Query Fan-Out Session monitoring & reporting for LLM user-bot traffic                                                                                |
-| matryer/context                                       |       7 | Team knowledgebase framework for LLM IDEs                                                                                                                        |
-| paradox460/imagecaption                               |       7 | A quick and dirty LLM powered image describing tool                                                                                                              |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -271,26 +273,31 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Nature Is Laughing at the AI Build Out](https://markmaunder.com/2025/nature-is-laughing-at-the-ai-build-out/) — 23 points
-- [Nebula Awards Yelled at Until They Ban Use of AI by Nominees](https://gizmodo.com/nebula-awards-yelled-at-until-they-completely-ban-use-of-ai-by-nominees-2000702137) — 15 points
-- [Social media encourages the worst of AI boosterism](https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/) — 12 points
-- [Americans Have Mixed Views of AI – and an Appetite for Regulation](https://www.searchlightinstitute.org/research/americans-have-mixed-views-of-ai-and-an-appetite-for-regulation/) — 6 points
+- [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) — 442 points
+- [Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://github.com/VibiumDev/vibium) — 265 points
+- [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent) — 71 points
+- [Microsoft denies rewriting Windows 11 in Rust using AI](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/) — 50 points
+- [Silicon Valley's tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/) — 45 points
+- [Show HN: A local-first, reversible PII scrubber for AI workflows](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc) — 28 points
+- [AI Image Generators Default to the Same 12 Photo Styles, Study Finds](https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012) — 12 points
+- [AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://substack.com/home/post/p-182524207) — 8 points
+- [Knowledge curation (not search) is the AI big data problem](https://www.daft.ai/blog/knowledge-curation-not-search-is-the-big-data-problem-for-ai) — 7 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                                                                                       |
-|---------------------|--------|-----------------------------------------------------------------------------------------------|
-| MAL-2025-192764     |      0 | Malicious code in trial-guard (npm)                                                           |
-| GHSA-c67j-w6g6-q2cm |      0 | LangChain serialization injection vulnerability enables secret extraction in dumps/loads APIs |
-| GHSA-hm5p-x4rq-38w4 |      0 | httparty Has Potential SSRF Vulnerability That Leads to API Key Leakage                       |
-| GHSA-r399-636x-v7f6 |      0 | LangChain serialization injection vulnerability enables secret extraction                     |
-| CVE-2025-15050      |      0 |                                                                                               |
-| CVE-2025-15052      |      0 |                                                                                               |
-| CVE-2025-15053      |      0 |                                                                                               |
-| GHSA-34f8-4m2m-xpvw |      0 |                                                                                               |
-| GHSA-8h8c-v86h-cqxj |      0 |                                                                                               |
-| GHSA-v362-r26g-4mrc |      0 |                                                                                               |
+| CVE                 |   CVSS | Summary                               |
+|---------------------|--------|---------------------------------------|
+| MAL-2025-192686     |      0 | Malicious code in runtimeutils (PyPI) |
+| CVE-2024-40317      |      0 |                                       |
+| CVE-2025-68920      |      0 |                                       |
+| MAL-2025-192929     |      0 | Malicious code in envtoolsx (PyPI)    |
+| CVE-2025-15073      |      0 |                                       |
+| CVE-2025-68922      |      0 |                                       |
+| GHSA-7wwf-6mwx-wx77 |      0 |                                       |
+| GHSA-2h4c-6rjw-w7rh |      0 |                                       |
+| GHSA-6rp6-72p8-59rr |      0 |                                       |
+| GHSA-467j-v66f-jv73 |      0 |                                       |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
