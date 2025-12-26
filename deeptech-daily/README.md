@@ -72,6 +72,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -83,6 +84,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -200,21 +202,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research](https://arxiv.org/abs/2512.19799) — arXiv:2512.19799v1 Announce Type: new  Abstract: Advances in LLMs have produced agents with knowledge and operational capabilities comparable to human scientis…
-- [A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution](https://arxiv.org/abs/2512.19882) — arXiv:2512.19882v1 Announce Type: new  Abstract: The distribution of relief supplies to shelters is a critical aspect of post-disaster humanitarian logistics.…
-- [Interpolative Decoding: Exploring the Spectrum of Personality Traits in LLMs](https://arxiv.org/abs/2512.19937) — arXiv:2512.19937v1 Announce Type: new  Abstract: Recent research has explored using very large language models (LLMs) as proxies for humans in tasks such as si…
-- [Zero-Shot Segmentation through Prototype-Guidance for Multi-Label Plant Species Identification](https://arxiv.org/abs/2512.19957) — arXiv:2512.19957v1 Announce Type: new  Abstract: This paper presents an approach developed to address the PlantClef 2025 challenge, which consists of a fine-gr…
-- [FGDCC: Fine-Grained Deep Cluster Categorization -- A Framework for Intra-Class Variability Problems in Plant Classification](https://arxiv.org/abs/2512.19960) — arXiv:2512.19960v1 Announce Type: new  Abstract: Intra-class variability is given according to the significance in the degree of dissimilarity between images w…
-- [S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test](https://arxiv.org/abs/2512.19992) — arXiv:2512.19992v1 Announce Type: new  Abstract: The integration of embodied agents into human environments demands embodied social intelligence: reasoning ove…
-- [Discovering Lie Groups with Flow Matching](https://arxiv.org/abs/2512.20043) — arXiv:2512.20043v1 Announce Type: new  Abstract: Symmetry is fundamental to understanding physical systems, and at the same time, can improve performance and s…
-- [Learning Skills from Action-Free Videos](https://arxiv.org/abs/2512.20052) — arXiv:2512.20052v1 Announce Type: new  Abstract: Learning from videos offers a promising path toward generalist robots by providing rich visual and temporal pr…
-- [Towards Generative Location Awareness for Disaster Response: A Probabilistic Cross-view Geolocalization Approach](https://arxiv.org/abs/2512.20056) — arXiv:2512.20056v1 Announce Type: new  Abstract: As Earth's climate changes, it is impacting disasters and extreme weather events across the planet. Record-bre…
-- [Scaling Reinforcement Learning for Content Moderation with Large Language Models](https://arxiv.org/abs/2512.20061) — arXiv:2512.20061v1 Announce Type: new  Abstract: Content moderation at scale remains one of the most pressing challenges in today's digital ecosystem, where bi…
-- [Reason2Decide: Rationale-Driven Multi-Task Learning](https://arxiv.org/abs/2512.20074) — arXiv:2512.20074v1 Announce Type: new  Abstract: Despite the wide adoption of Large Language Models (LLM)s, clinical decision support systems face a critical c…
-- [Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches](https://arxiv.org/abs/2512.20082) — arXiv:2512.20082v2 Announce Type: new  Abstract: Financial sentiment analysis plays a crucial role in informing investment decisions, assessing market risk, an…
-- [MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization](https://arxiv.org/abs/2512.20135) — arXiv:2512.20135v2 Announce Type: new  Abstract: Molecular editing and optimization are multi-step problems that require iteratively improving properties while…
-- [Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection](https://arxiv.org/abs/2512.20140) — arXiv:2512.20140v1 Announce Type: new  Abstract: Large Language Models (LLMs) have demonstrated effectiveness as zero-shot time series (TS) forecasters. The ke…
-- [A Bidirectional Gated Recurrent Unit Model for PUE Prediction in Data Centers](https://arxiv.org/abs/2512.20161) — arXiv:2512.20161v1 Announce Type: new  Abstract: Data centers account for significant global energy consumption and a carbon footprint. The recent increasing d…
+- [BitRL-Light: 1-bit LLM Agents with Deep Reinforcement Learning for Energy-Efficient Smart Home Lighting Optimization](https://arxiv.org/abs/2512.20623) — arXiv:2512.20623v1 Announce Type: new  Abstract: Smart home lighting systems consume 15-20% of residential energy but lack adaptive intelligence to optimize fo…
+- [Quantum-Inspired Multi Agent Reinforcement Learning for Exploration Exploitation Optimization in UAV-Assisted 6G Network Deployment](https://arxiv.org/abs/2512.20624) — arXiv:2512.20624v1 Announce Type: new  Abstract: This study introduces a quantum inspired framework for optimizing the exploration exploitation tradeoff in mul…
+- [MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation](https://arxiv.org/abs/2512.20626) — arXiv:2512.20626v1 Announce Type: new  Abstract: Retrieval-augmented generation (RAG) enables large language models (LLMs) to dynamically access external infor…
+- [Proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025)](https://arxiv.org/abs/2512.20628) — arXiv:2512.20628v1 Announce Type: new  Abstract: This volume presents the proceedings of the 20th International Conference on Knowledge, Information and Creati…
+- [MicroProbe: Efficient Reliability Assessment for Foundation Models with Minimal Data](https://arxiv.org/abs/2512.20630) — arXiv:2512.20630v1 Announce Type: new  Abstract: Foundation model reliability assessment typically requires thousands of evaluation examples, making it computa…
+- [Erkang-Diagnosis-1.1 Technical Report](https://arxiv.org/abs/2512.20632) — arXiv:2512.20632v1 Announce Type: new  Abstract: This report provides a detailed introduction to Erkang-Diagnosis-1.1 model, our AI healthcare consulting assis…
+- [Reasoning Relay: Evaluating Stability and Interchangeability of Large Language Models in Mathematical Reasoning](https://arxiv.org/abs/2512.20647) — arXiv:2512.20647v1 Announce Type: new  Abstract: Chain-of-Thought (CoT) prompting has significantly advanced the reasoning capabilities of large language model…
+- [AIAuditTrack: A Framework for AI Security system](https://arxiv.org/abs/2512.20649) — arXiv:2512.20649v1 Announce Type: new  Abstract: The rapid expansion of AI-driven applications powered by large language models has led to a surge in AI intera…
+- [Mixture of Attention Schemes (MoAS): Learning to Route Between MHA, GQA, and MQA](https://arxiv.org/abs/2512.20650) — arXiv:2512.20650v1 Announce Type: new  Abstract: The choice of attention mechanism in Transformer models involves a critical trade-off between modeling quality…
+- [Memory Bear AI A Breakthrough from Memory to Cognition Toward Artificial General Intelligence](https://arxiv.org/abs/2512.20651) — arXiv:2512.20651v1 Announce Type: new  Abstract: Large language models (LLMs) face inherent limitations in memory, including restricted context windows, long-t…
+- [AI-Driven Decision-Making System for Hiring Process](https://arxiv.org/abs/2512.20652) — arXiv:2512.20652v1 Announce Type: new  Abstract: Early-stage candidate validation is a major bottleneck in hiring, because recruiters must reconcile heterogene…
+- [From Fake Focus to Real Precision: Confusion-Driven Adversarial Attention Learning in Transformers](https://arxiv.org/abs/2512.20661) — arXiv:2512.20661v1 Announce Type: new  Abstract: Transformer-based models have been widely adopted for sentiment analysis tasks due to their exceptional abilit…
+- [Quantifying Laziness, Decoding Suboptimality, and Context Degradation in Large Language Models](https://arxiv.org/abs/2512.20662) — arXiv:2512.20662v1 Announce Type: new  Abstract: Large Language Models (LLMs) often exhibit behavioral artifacts such as laziness (premature truncation of resp…
+- [Eidoku: A Neuro-Symbolic Verification Gate for LLM Reasoning via Structural Constraint Satisfaction](https://arxiv.org/abs/2512.20664) — arXiv:2512.20664v1 Announce Type: new  Abstract: Large Language Models (LLMs) frequently produce hallucinated statements that are assigned high likelihood by t…
+- [Bridging the AI Trustworthiness Gap between Functions and Norms](https://arxiv.org/abs/2512.20671) — arXiv:2512.20671v1 Announce Type: new  Abstract: Trustworthy Artificial Intelligence (TAI) is gaining traction due to regulations and functional benefits. Whil…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -244,24 +246,24 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                            |   Stars | Description                                                                                                                                                      |
 |-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| EthanAlgoX/LLM-TradeBot                               |      79 | A multi-agent AI trading system using LLMs to optimize strategies and adapt to market conditions in real-time.                                                   |
-| lcw2014/AGI_HER_LLM                                   |      36 | AGI_HER_LLM                                                                                                                                                      |
+| EthanAlgoX/LLM-TradeBot                               |      87 | A multi-agent AI trading system using LLMs to optimize strategies and adapt to market conditions in real-time.                                                   |
+| IncomeStreamSurfer/AI-DESIGN-BENCHMARK                |      27 | AI-powered UI component generator - Compare design outputs from multiple LLMs in real-time                                                                       |
 | brian-yu/python-rope-refactor                         |      26 | A skill that teaches LLM agents how to use rope for python codebase refactors                                                                                    |
-| IncomeStreamSurfer/AI-DESIGN-BENCHMARK                |      23 | AI-powered UI component generator - Compare design outputs from multiple LLMs in real-time                                                                       |
 | adambarbato/ComfyUI-Segmentation-Agent                |      22 | LLM-based character segmentation agent for ComfyUI based on SAM 3 and the SAM 3 Agent notebook                                                                   |
-| Shaivpidadi/refrag                                    |      15 | REFRAG: LLM-powered representations for better RAG retrieval. Improve precision, reduce context size, same speed.                                                |
-| lee-lou2/distill                                      |      15 | 고성능 Rust 기반 웹 스크래퍼 & LLM 분석 API 서버                                                                                                                               |
+| lee-lou2/distill                                      |      19 | 고성능 Rust 기반 웹 스크래퍼 & LLM 분석 API 서버                                                                                                                               |
+| Shaivpidadi/refrag                                    |      16 | REFRAG: LLM-powered representations for better RAG retrieval. Improve precision, reduce context size, same speed.                                                |
+| HuSuuuu/HusxGLM                                       |      14 | An Android GUI Agent powered by Volcano Engine's vision LLM - automate phone operations with natural language commands                                           |
 | chentyjpm/ncnn_llm-android-ctl-mcp                    |      14 | 尝试作为手机助手植入到手机内运行的 ncnn llm                                                                                                                                       |
+| languse-ai/android-use                                |      14 | 豆包手机开源版，基于LLM的手机自动化操作                                                                                                                                            |
+| thebabush/llvm-jutsu                                  |      14 | Advanced anti-LLM obfuscation                                                                                                                                    |
 | wangzhaode/tokenizer.cpp                              |      14 | A lightweight, production-ready C++ library for LLM tokenization, fully compatible with HuggingFace tokenizer.json.                                              |
-| HuSuuuu/HusxGLM                                       |      11 | An Android GUI Agent powered by Volcano Engine's vision LLM - automate phone operations with natural language commands                                           |
+| amlkiller/llm_answerer                                |      13 | 适用于OCS网课助手的基于大语言模型（LLM）的智能答题服务，支持单选、多选、判断、填空等多种题型。提供 HTTP API 接口、本地缓存功能、置信度评估和智能联网搜索增强。                                                                          |
+| XRDS76354/SUMO-MCP-Server                             |      12 | SUMO-MCP 是一个连接大语言模型 (LLM) 与 Eclipse SUMO 交通仿真的中间件。通过 Model Context Protocol (MCP)，它允许 AI 智能体（如 Claude, Cursor, TRAE等）直接调用 SUMO 的核心功能，实现从OpenStreetMap 数据获取、路网生成… |
 | hetpatel-11/advanced-tools                            |      11 | Anthropic's advanced tool use features for any LLM provider - OpenAI, Google, and more                                                                           |
-| thebabush/llvm-jutsu                                  |      11 | Advanced anti-LLM obfuscation                                                                                                                                    |
+| 0din-ai/sidekick                                      |       8 | 0DIN Sidekick is a Firefox/Chromium Add-on/Extension for AI security researchers that streamlines LLM jailbreak testing and vulnerability discovery across mult… |
 | SihaoLiu/claude-code-gaac                             |       8 | Claude Code Methodology | GAAC=Github-as-a-Context | LLM IS AS GOOD AS YOUR ARE | 胸有成码                                                                           |
-| XRDS76354/SUMO-MCP-Server                             |       8 | SUMO-MCP 是一个连接大语言模型 (LLM) 与 Eclipse SUMO 交通仿真的中间件。通过 Model Context Protocol (MCP)，它允许 AI 智能体（如 Claude, Cursor, TRAE等）直接调用 SUMO 的核心功能，实现从OpenStreetMap 数据获取、路网生成… |
 | jesseduffield/ai-battlegrounds                        |       8 | It's about time we put LLM's in an ACTUAL arena                                                                                                                  |
-| DmitryBMsk/llm-council-plus                           |       7 | LLM Council Plus - Multi-model AI deliberation system with 3-stage council process                                                                               |
-| alexfazio/artificial-analysis-compare                 |       7 | LLM model comparison skill using Artificial Analysis API - benchmarks, pricing, and performance metrics                                                          |
-| amlkiller/llm_answerer                                |       7 | 适用于OCS网课助手的基于大语言模型LLM的轻量高性能智能答题服务，支持多种题型，提供HTTP API接口和本地缓存功能。High-performance intelligent question-answering service based on the Large Language Model (LLM) fo… |
+| tobs-code/SoftPrompt-IR                               |       8 | SoftPrompt-IR is a low-level symbolic annotation layer for LLM prompts, making intent strength, direction, and priority explicit. It is not a DSL or framework,… |
 | cipher-attack/cipher-osint                            |       7 | CIPHER-OSINT is a high-performance information gathering framework built with Golang. It leverages LLM integration for automated data analysis and utilizes Tor… |
 | conversem/server-side-query-fan-out-session-reporting |       7 | Server-side Query Fan-Out Session monitoring & reporting for LLM user-bot traffic                                                                                |
 <!--GHTREND:END-->
@@ -273,31 +275,27 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) — 442 points
-- [Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://github.com/VibiumDev/vibium) — 265 points
-- [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent) — 71 points
-- [Microsoft denies rewriting Windows 11 in Rust using AI](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/) — 50 points
-- [Silicon Valley's tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/) — 45 points
-- [Show HN: A local-first, reversible PII scrubber for AI workflows](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc) — 28 points
-- [AI Image Generators Default to the Same 12 Photo Styles, Study Finds](https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012) — 12 points
-- [AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://substack.com/home/post/p-182524207) — 8 points
-- [Knowledge curation (not search) is the AI big data problem](https://www.daft.ai/blog/knowledge-curation-not-search-is-the-big-data-problem-for-ai) — 7 points
+- [UBlockOrigin and UBlacklist AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) — 125 points
+- [The Most Worrying Bits from Bloomberg's AI Bubble Q&A with Jason Furman](https://gizmodo.com/the-most-worrying-bits-from-bloombergs-worrisome-ai-bubble-qa-with-jason-furman-2000702356) — 12 points
+- [Show HN: I treated my brain like a buggy server and wrote a patch (Shi-Mo Model)](https://github.com/317317317apple-a11y/shi-mo-protocol/blob/main/README.md) — 7 points
+- [OpenAI is reportedly trying to raise $100B at an $830B valuation](https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/) — 7 points
+- [Show HN: Why many AI-generated websites don't show up on Google](https://pagesmith.ai/seo-for-ai-generated-sites) — 6 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                               |
-|---------------------|--------|---------------------------------------|
-| MAL-2025-192686     |      0 | Malicious code in runtimeutils (PyPI) |
-| CVE-2024-40317      |      0 |                                       |
-| CVE-2025-68920      |      0 |                                       |
-| MAL-2025-192929     |      0 | Malicious code in envtoolsx (PyPI)    |
-| CVE-2025-15073      |      0 |                                       |
-| CVE-2025-68922      |      0 |                                       |
-| GHSA-7wwf-6mwx-wx77 |      0 |                                       |
-| GHSA-2h4c-6rjw-w7rh |      0 |                                       |
-| GHSA-6rp6-72p8-59rr |      0 |                                       |
-| GHSA-467j-v66f-jv73 |      0 |                                       |
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| GHSA-7mhf-6fhv-c83c |      0 |           |
+| GHSA-9492-pwhm-prgg |      0 |           |
+| GHSA-q45h-4pv4-p744 |      0 |           |
+| GHSA-263q-5cv3-xq9g |      0 |           |
+| GHSA-4vwr-f92g-29m6 |      0 |           |
+| GHSA-5qwr-m3vg-gj86 |      0 |           |
+| GHSA-6m8p-6c5x-r759 |      0 |           |
+| GHSA-cm54-pfmc-xrwx |      0 |           |
+| GHSA-hg49-2rqm-p9hf |      0 |           |
+| GHSA-rrcw-5rjv-vj26 |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

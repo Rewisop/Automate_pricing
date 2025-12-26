@@ -1,45 +1,45 @@
-fetched_at: '2025-12-25T05:37:50Z'
-generated_at: '2025-12-25T05:37:50Z'
-hash: a4aa37905bac9485f7279494349ce69493102ed3f0aebd06c716dacbc3df286d
+fetched_at: '2025-12-26T05:35:52Z'
+generated_at: '2025-12-26T05:35:52Z'
+hash: 1a63be2e36c90b4e3c4e74b9840007c8d2b932e6d6275128e81c7a70b262d4bd
 items:
 - cvss: 0.0
-  id: MAL-2025-192686
-  published: '2025-12-21T14:03:13Z'
-  summary: Malicious code in runtimeutils (PyPI)
-- cvss: 0.0
-  id: CVE-2024-40317
-  published: '2025-12-24T16:15:47Z'
+  id: GHSA-7mhf-6fhv-c83c
+  published: '2025-12-26T00:30:12Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-68920
-  published: '2025-12-24T22:15:43Z'
+  id: GHSA-9492-pwhm-prgg
+  published: '2025-12-26T03:30:14Z'
   summary: ''
 - cvss: 0.0
-  id: MAL-2025-192929
-  published: '2025-12-24T22:45:19Z'
-  summary: Malicious code in envtoolsx (PyPI)
-- cvss: 0.0
-  id: CVE-2025-15073
-  published: '2025-12-24T23:15:44Z'
+  id: GHSA-q45h-4pv4-p744
+  published: '2025-12-26T03:30:14Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-68922
-  published: '2025-12-25T00:16:03Z'
+  id: GHSA-263q-5cv3-xq9g
+  published: '2025-12-26T03:30:15Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-7wwf-6mwx-wx77
-  published: '2025-12-25T00:30:17Z'
+  id: GHSA-4vwr-f92g-29m6
+  published: '2025-12-26T03:30:15Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-2h4c-6rjw-w7rh
-  published: '2025-12-25T00:30:18Z'
+  id: GHSA-5qwr-m3vg-gj86
+  published: '2025-12-26T03:30:15Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-6rp6-72p8-59rr
-  published: '2025-12-25T00:30:18Z'
+  id: GHSA-6m8p-6c5x-r759
+  published: '2025-12-26T03:30:15Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-467j-v66f-jv73
-  published: '2025-12-25T03:30:11Z'
+  id: GHSA-cm54-pfmc-xrwx
+  published: '2025-12-26T03:30:15Z'
+  summary: ''
+- cvss: 0.0
+  id: GHSA-hg49-2rqm-p9hf
+  published: '2025-12-26T03:30:15Z'
+  summary: ''
+- cvss: 0.0
+  id: GHSA-rrcw-5rjv-vj26
+  published: '2025-12-26T03:30:15Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

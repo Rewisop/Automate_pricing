@@ -1,119 +1,120 @@
-fetched_at: '2025-12-25T05:37:50Z'
-generated_at: '2025-12-25T05:37:50Z'
-hash: 7764fd91d0ac165ad2cb6997a228b317cb4c5e880cc73375dc5745c8bd58b2d9
+fetched_at: '2025-12-26T05:35:52Z'
+generated_at: '2025-12-26T05:35:52Z'
+hash: 406d0eb2c596a95f2c0494fb42eebec073a66b788bf721ef2b1e1ca8b8cbbc62
 items:
-- id: oai:arXiv.org:2512.19799v1
-  link: https://arxiv.org/abs/2512.19799
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.19799v1 Announce Type: new  Abstract: Advances in LLMs have
-    produced agents with knowledge and operational capabilities comparable to human
-    scientis…'
-  title: 'PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational
-    Physics Research'
-- id: oai:arXiv.org:2512.19882v1
-  link: https://arxiv.org/abs/2512.19882
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.19882v1 Announce Type: new  Abstract: The distribution of relief
-    supplies to shelters is a critical aspect of post-disaster humanitarian logistics.…'
-  title: A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid
-    Distribution
-- id: oai:arXiv.org:2512.19937v1
-  link: https://arxiv.org/abs/2512.19937
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.19937v1 Announce Type: new  Abstract: Recent research has explored
-    using very large language models (LLMs) as proxies for humans in tasks such as
-    si…'
-  title: 'Interpolative Decoding: Exploring the Spectrum of Personality Traits in
-    LLMs'
-- id: oai:arXiv.org:2512.19957v1
-  link: https://arxiv.org/abs/2512.19957
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.19957v1 Announce Type: new  Abstract: This paper presents an
-    approach developed to address the PlantClef 2025 challenge, which consists of
-    a fine-gr…'
-  title: Zero-Shot Segmentation through Prototype-Guidance for Multi-Label Plant Species
-    Identification
-- id: oai:arXiv.org:2512.19960v1
-  link: https://arxiv.org/abs/2512.19960
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.19960v1 Announce Type: new  Abstract: Intra-class variability
-    is given according to the significance in the degree of dissimilarity between
-    images w…'
-  title: 'FGDCC: Fine-Grained Deep Cluster Categorization -- A Framework for Intra-Class
-    Variability Problems in Plant Classification'
-- id: oai:arXiv.org:2512.19992v1
-  link: https://arxiv.org/abs/2512.19992
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.19992v1 Announce Type: new  Abstract: The integration of embodied
-    agents into human environments demands embodied social intelligence: reasoning
-    ove…'
-  title: 'S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test'
-- id: oai:arXiv.org:2512.20043v1
-  link: https://arxiv.org/abs/2512.20043
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.20043v1 Announce Type: new  Abstract: Symmetry is fundamental
-    to understanding physical systems, and at the same time, can improve performance
-    and s…'
-  title: Discovering Lie Groups with Flow Matching
-- id: oai:arXiv.org:2512.20052v1
-  link: https://arxiv.org/abs/2512.20052
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.20052v1 Announce Type: new  Abstract: Learning from videos
-    offers a promising path toward generalist robots by providing rich visual and
-    temporal pr…'
-  title: Learning Skills from Action-Free Videos
-- id: oai:arXiv.org:2512.20056v1
-  link: https://arxiv.org/abs/2512.20056
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.20056v1 Announce Type: new  Abstract: As Earth''s climate changes,
-    it is impacting disasters and extreme weather events across the planet. Record-bre…'
-  title: 'Towards Generative Location Awareness for Disaster Response: A Probabilistic
-    Cross-view Geolocalization Approach'
-- id: oai:arXiv.org:2512.20061v1
-  link: https://arxiv.org/abs/2512.20061
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.20061v1 Announce Type: new  Abstract: Content moderation at
-    scale remains one of the most pressing challenges in today''s digital ecosystem,
-    where bi…'
-  title: Scaling Reinforcement Learning for Content Moderation with Large Language
-    Models
-- id: oai:arXiv.org:2512.20074v1
-  link: https://arxiv.org/abs/2512.20074
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.20074v1 Announce Type: new  Abstract: Despite the wide adoption
-    of Large Language Models (LLM)s, clinical decision support systems face a critical
-    c…'
-  title: 'Reason2Decide: Rationale-Driven Multi-Task Learning'
-- id: oai:arXiv.org:2512.20082v2
-  link: https://arxiv.org/abs/2512.20082
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.20082v2 Announce Type: new  Abstract: Financial sentiment analysis
-    plays a crucial role in informing investment decisions, assessing market risk,
-    an…'
-  title: Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned
-    LLMs , RAG and Reinforcement Learning Approaches
-- id: oai:arXiv.org:2512.20135v2
-  link: https://arxiv.org/abs/2512.20135
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.20135v2 Announce Type: new  Abstract: Molecular editing and
-    optimization are multi-step problems that require iteratively improving properties
-    while…'
-  title: 'MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization'
-- id: oai:arXiv.org:2512.20140v1
-  link: https://arxiv.org/abs/2512.20140
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.20140v1 Announce Type: new  Abstract: Large Language Models
-    (LLMs) have demonstrated effectiveness as zero-shot time series (TS) forecasters.
-    The ke…'
-  title: Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise
-    Injection
-- id: oai:arXiv.org:2512.20161v1
-  link: https://arxiv.org/abs/2512.20161
-  published: '2025-12-25T05:00:00Z'
-  summary: 'arXiv:2512.20161v1 Announce Type: new  Abstract: Data centers account
-    for significant global energy consumption and a carbon footprint. The recent increasing
-    d…'
-  title: A Bidirectional Gated Recurrent Unit Model for PUE Prediction in Data Centers
+- id: oai:arXiv.org:2512.20623v1
+  link: https://arxiv.org/abs/2512.20623
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20623v1 Announce Type: new  Abstract: Smart home lighting systems
+    consume 15-20% of residential energy but lack adaptive intelligence to optimize
+    fo…'
+  title: 'BitRL-Light: 1-bit LLM Agents with Deep Reinforcement Learning for Energy-Efficient
+    Smart Home Lighting Optimization'
+- id: oai:arXiv.org:2512.20624v1
+  link: https://arxiv.org/abs/2512.20624
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20624v1 Announce Type: new  Abstract: This study introduces
+    a quantum inspired framework for optimizing the exploration exploitation tradeoff
+    in mul…'
+  title: Quantum-Inspired Multi Agent Reinforcement Learning for Exploration Exploitation
+    Optimization in UAV-Assisted 6G Network Deployment
+- id: oai:arXiv.org:2512.20626v1
+  link: https://arxiv.org/abs/2512.20626
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20626v1 Announce Type: new  Abstract: Retrieval-augmented generation
+    (RAG) enables large language models (LLMs) to dynamically access external infor…'
+  title: 'MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation'
+- id: oai:arXiv.org:2512.20628v1
+  link: https://arxiv.org/abs/2512.20628
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20628v1 Announce Type: new  Abstract: This volume presents
+    the proceedings of the 20th International Conference on Knowledge, Information
+    and Creati…'
+  title: Proceedings of the 20th International Conference on Knowledge, Information
+    and Creativity Support Systems (KICSS 2025)
+- id: oai:arXiv.org:2512.20630v1
+  link: https://arxiv.org/abs/2512.20630
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20630v1 Announce Type: new  Abstract: Foundation model reliability
+    assessment typically requires thousands of evaluation examples, making it computa…'
+  title: 'MicroProbe: Efficient Reliability Assessment for Foundation Models with
+    Minimal Data'
+- id: oai:arXiv.org:2512.20632v1
+  link: https://arxiv.org/abs/2512.20632
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20632v1 Announce Type: new  Abstract: This report provides
+    a detailed introduction to Erkang-Diagnosis-1.1 model, our AI healthcare consulting
+    assis…'
+  title: Erkang-Diagnosis-1.1 Technical Report
+- id: oai:arXiv.org:2512.20647v1
+  link: https://arxiv.org/abs/2512.20647
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20647v1 Announce Type: new  Abstract: Chain-of-Thought (CoT)
+    prompting has significantly advanced the reasoning capabilities of large language
+    model…'
+  title: 'Reasoning Relay: Evaluating Stability and Interchangeability of Large Language
+    Models in Mathematical Reasoning'
+- id: oai:arXiv.org:2512.20649v1
+  link: https://arxiv.org/abs/2512.20649
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20649v1 Announce Type: new  Abstract: The rapid expansion of
+    AI-driven applications powered by large language models has led to a surge in
+    AI intera…'
+  title: 'AIAuditTrack: A Framework for AI Security system'
+- id: oai:arXiv.org:2512.20650v1
+  link: https://arxiv.org/abs/2512.20650
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20650v1 Announce Type: new  Abstract: The choice of attention
+    mechanism in Transformer models involves a critical trade-off between modeling
+    quality…'
+  title: 'Mixture of Attention Schemes (MoAS): Learning to Route Between MHA, GQA,
+    and MQA'
+- id: oai:arXiv.org:2512.20651v1
+  link: https://arxiv.org/abs/2512.20651
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20651v1 Announce Type: new  Abstract: Large language models
+    (LLMs) face inherent limitations in memory, including restricted context windows,
+    long-t…'
+  title: Memory Bear AI A Breakthrough from Memory to Cognition Toward Artificial
+    General Intelligence
+- id: oai:arXiv.org:2512.20652v1
+  link: https://arxiv.org/abs/2512.20652
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20652v1 Announce Type: new  Abstract: Early-stage candidate
+    validation is a major bottleneck in hiring, because recruiters must reconcile
+    heterogene…'
+  title: AI-Driven Decision-Making System for Hiring Process
+- id: oai:arXiv.org:2512.20661v1
+  link: https://arxiv.org/abs/2512.20661
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20661v1 Announce Type: new  Abstract: Transformer-based models
+    have been widely adopted for sentiment analysis tasks due to their exceptional
+    abilit…'
+  title: 'From Fake Focus to Real Precision: Confusion-Driven Adversarial Attention
+    Learning in Transformers'
+- id: oai:arXiv.org:2512.20662v1
+  link: https://arxiv.org/abs/2512.20662
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20662v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) often exhibit behavioral artifacts such as laziness (premature truncation
+    of resp…'
+  title: Quantifying Laziness, Decoding Suboptimality, and Context Degradation in
+    Large Language Models
+- id: oai:arXiv.org:2512.20664v1
+  link: https://arxiv.org/abs/2512.20664
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20664v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) frequently produce hallucinated statements that are assigned high likelihood
+    by t…'
+  title: 'Eidoku: A Neuro-Symbolic Verification Gate for LLM Reasoning via Structural
+    Constraint Satisfaction'
+- id: oai:arXiv.org:2512.20671v1
+  link: https://arxiv.org/abs/2512.20671
+  published: '2025-12-26T05:00:00Z'
+  summary: 'arXiv:2512.20671v1 Announce Type: new  Abstract: Trustworthy Artificial
+    Intelligence (TAI) is gaining traction due to regulations and functional benefits.
+    Whil…'
+  title: Bridging the AI Trustworthiness Gap between Functions and Norms
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL
