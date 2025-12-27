@@ -1,31 +1,30 @@
-fetched_at: '2025-12-26T05:35:52Z'
-generated_at: '2025-12-26T05:35:52Z'
-hash: b4f187af6cbb451706641a52d1a931cc92849492a3c938362643a0c60e846146
+fetched_at: '2025-12-27T05:35:08Z'
+generated_at: '2025-12-27T05:35:08Z'
+hash: 7e10e0fe753cb6c641b695ba6521a960313f63e8c61fc7857ed82e0458135589
 items:
-- id: 46386761
-  score: 125
-  time: '2025-12-25T20:14:36Z'
-  title: UBlockOrigin and UBlacklist AI Blocklist
-  url: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
-- id: 46386948
-  score: 12
-  time: '2025-12-25T20:50:15Z'
-  title: The Most Worrying Bits from Bloomberg's AI Bubble Q&A with Jason Furman
-  url: https://gizmodo.com/the-most-worrying-bits-from-bloombergs-worrisome-ai-bubble-qa-with-jason-furman-2000702356
-- id: 46385543
-  score: 7
-  time: '2025-12-25T16:55:32Z'
-  title: 'Show HN: I treated my brain like a buggy server and wrote a patch (Shi-Mo
-    Model)'
-  url: https://github.com/317317317apple-a11y/shi-mo-protocol/blob/main/README.md
-- id: 46388017
-  score: 7
-  time: '2025-12-26T00:25:32Z'
-  title: OpenAI is reportedly trying to raise $100B at an $830B valuation
-  url: https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/
-- id: 46385424
-  score: 6
-  time: '2025-12-25T16:39:06Z'
-  title: 'Show HN: Why many AI-generated websites don''t show up on Google'
-  url: https://pagesmith.ai/seo-for-ai-generated-sites
+- id: 46394867
+  score: 267
+  time: '2025-12-26T18:42:13Z'
+  title: Rob Pike got spammed with an AI slop "act of kindness"
+  url: https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/
+- id: 46390055
+  score: 101
+  time: '2025-12-26T07:35:15Z'
+  title: Building an AI agent inside a 7-year-old Rails monolith
+  url: https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/
+- id: 46395292
+  score: 80
+  time: '2025-12-26T19:25:28Z'
+  title: 'Grok and the Naked King: The Ultimate Argument Against AI Alignment'
+  url: https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/
+- id: 46393081
+  score: 30
+  time: '2025-12-26T15:35:10Z'
+  title: The AI bubble is all over now, baby blue
+  url: https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby
+- id: 46390434
+  score: 4
+  time: '2025-12-26T08:59:42Z'
+  title: 'Show HN: Domain Search MCP – AI-powered domain availability checker'
+  url: https://github.com/dorukardahan/domain-search-mcp
 source_url: https://hacker-news.firebaseio.com/

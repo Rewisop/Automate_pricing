@@ -73,6 +73,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -84,6 +85,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -217,6 +219,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [Quantifying Laziness, Decoding Suboptimality, and Context Degradation in Large Language Models](https://arxiv.org/abs/2512.20662) — arXiv:2512.20662v1 Announce Type: new  Abstract: Large Language Models (LLMs) often exhibit behavioral artifacts such as laziness (premature truncation of resp…
 - [Eidoku: A Neuro-Symbolic Verification Gate for LLM Reasoning via Structural Constraint Satisfaction](https://arxiv.org/abs/2512.20664) — arXiv:2512.20664v1 Announce Type: new  Abstract: Large Language Models (LLMs) frequently produce hallucinated statements that are assigned high likelihood by t…
 - [Bridging the AI Trustworthiness Gap between Functions and Norms](https://arxiv.org/abs/2512.20671) — arXiv:2512.20671v1 Announce Type: new  Abstract: Trustworthy Artificial Intelligence (TAI) is gaining traction due to regulations and functional benefits. Whil…
+
+_Showing cached data from 2025-12-26T05:35:52Z. Refresh failed: no arXiv entries retrieved._
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -244,28 +248,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                            |   Stars | Description                                                                                                                                                      |
-|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| EthanAlgoX/LLM-TradeBot                               |      87 | A multi-agent AI trading system using LLMs to optimize strategies and adapt to market conditions in real-time.                                                   |
-| IncomeStreamSurfer/AI-DESIGN-BENCHMARK                |      27 | AI-powered UI component generator - Compare design outputs from multiple LLMs in real-time                                                                       |
-| brian-yu/python-rope-refactor                         |      26 | A skill that teaches LLM agents how to use rope for python codebase refactors                                                                                    |
-| adambarbato/ComfyUI-Segmentation-Agent                |      22 | LLM-based character segmentation agent for ComfyUI based on SAM 3 and the SAM 3 Agent notebook                                                                   |
-| lee-lou2/distill                                      |      19 | 고성능 Rust 기반 웹 스크래퍼 & LLM 분석 API 서버                                                                                                                               |
-| Shaivpidadi/refrag                                    |      16 | REFRAG: LLM-powered representations for better RAG retrieval. Improve precision, reduce context size, same speed.                                                |
-| HuSuuuu/HusxGLM                                       |      14 | An Android GUI Agent powered by Volcano Engine's vision LLM - automate phone operations with natural language commands                                           |
-| chentyjpm/ncnn_llm-android-ctl-mcp                    |      14 | 尝试作为手机助手植入到手机内运行的 ncnn llm                                                                                                                                       |
-| languse-ai/android-use                                |      14 | 豆包手机开源版，基于LLM的手机自动化操作                                                                                                                                            |
-| thebabush/llvm-jutsu                                  |      14 | Advanced anti-LLM obfuscation                                                                                                                                    |
-| wangzhaode/tokenizer.cpp                              |      14 | A lightweight, production-ready C++ library for LLM tokenization, fully compatible with HuggingFace tokenizer.json.                                              |
-| amlkiller/llm_answerer                                |      13 | 适用于OCS网课助手的基于大语言模型（LLM）的智能答题服务，支持单选、多选、判断、填空等多种题型。提供 HTTP API 接口、本地缓存功能、置信度评估和智能联网搜索增强。                                                                          |
-| XRDS76354/SUMO-MCP-Server                             |      12 | SUMO-MCP 是一个连接大语言模型 (LLM) 与 Eclipse SUMO 交通仿真的中间件。通过 Model Context Protocol (MCP)，它允许 AI 智能体（如 Claude, Cursor, TRAE等）直接调用 SUMO 的核心功能，实现从OpenStreetMap 数据获取、路网生成… |
-| hetpatel-11/advanced-tools                            |      11 | Anthropic's advanced tool use features for any LLM provider - OpenAI, Google, and more                                                                           |
-| 0din-ai/sidekick                                      |       8 | 0DIN Sidekick is a Firefox/Chromium Add-on/Extension for AI security researchers that streamlines LLM jailbreak testing and vulnerability discovery across mult… |
-| SihaoLiu/claude-code-gaac                             |       8 | Claude Code Methodology | GAAC=Github-as-a-Context | LLM IS AS GOOD AS YOUR ARE | 胸有成码                                                                           |
-| jesseduffield/ai-battlegrounds                        |       8 | It's about time we put LLM's in an ACTUAL arena                                                                                                                  |
-| tobs-code/SoftPrompt-IR                               |       8 | SoftPrompt-IR is a low-level symbolic annotation layer for LLM prompts, making intent strength, direction, and priority explicit. It is not a DSL or framework,… |
-| cipher-attack/cipher-osint                            |       7 | CIPHER-OSINT is a high-performance information gathering framework built with Golang. It leverages LLM integration for automated data analysis and utilizes Tor… |
-| conversem/server-side-query-fan-out-session-reporting |       7 | Server-side Query Fan-Out Session monitoring & reporting for LLM user-bot traffic                                                                                |
+| Repository                             |   Stars | Description                                                                                                                                                      |
+|----------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| deftydude/Freedom-LLM                  |      39 | Free Uncensored LLM Client with proxy support, web development mod and many other features.                                                                      |
+| IncomeStreamSurfer/AI-DESIGN-BENCHMARK |      28 | AI-powered UI component generator - Compare design outputs from multiple LLMs in real-time                                                                       |
+| brian-yu/python-rope-refactor          |      26 | A skill that teaches LLM agents how to use rope for python codebase refactors                                                                                    |
+| adambarbato/ComfyUI-Segmentation-Agent |      22 | LLM-based character segmentation agent for ComfyUI based on SAM 3 and the SAM 3 Agent notebook                                                                   |
+| lee-lou2/distill                       |      20 | 고성능 Rust 기반 웹 스크래퍼 & LLM 분석 API 서버                                                                                                                               |
+| languse-ai/android-use                 |      19 | 豆包手机开源版，基于LLM的手机自动化操作                                                                                                                                            |
+| wangzhaode/tokenizer.cpp               |      18 | A lightweight, production-ready C++ library for LLM tokenization, fully compatible with HuggingFace tokenizer.json.                                              |
+| Shaivpidadi/refrag                     |      16 | REFRAG: LLM-powered representations for better RAG retrieval. Improve precision, reduce context size, same speed.                                                |
+| XRDS76354/SUMO-MCP-Server              |      16 | SUMO-MCP 是一个连接大语言模型 (LLM) 与 Eclipse SUMO 交通仿真的中间件。通过 Model Context Protocol (MCP)，它允许 AI 智能体（如 Claude, Cursor, TRAE等）直接调用 SUMO 的核心功能，实现从OpenStreetMap 数据获取、路网生成… |
+| amlkiller/llm_answerer                 |      16 | 适用于OCS网课助手的基于大语言模型（LLM）的AI智能答题题库，支持单选、多选、判断、填空等多种题型。提供 HTTP API 接口、本地缓存功能、置信度评估和智能联网搜索增强。                                                                        |
+| chentyjpm/ncnn_llm-android-ctl-mcp     |      14 | 尝试作为手机助手植入到手机内运行的 ncnn llm                                                                                                                                       |
+| thebabush/llvm-jutsu                   |      14 | Advanced anti-LLM obfuscation                                                                                                                                    |
+| Topos-Labs/infiniloom                  |      11 | High-performance repository context generator for LLMs - Transform codebases into optimized formats for Claude, GPT-4/5, Gemini, and other LLMs                  |
+| SihaoLiu/claude-code-gaac              |       9 | Claude Code Methodology | GAAC=Github-as-a-Context | LLM IS AS GOOD AS YOUR ARE | 胸有成码                                                                           |
+| jesseduffield/ai-battlegrounds         |       9 | It's about time we put LLM's in an ACTUAL arena                                                                                                                  |
+| 0din-ai/sidekick                       |       8 | 0DIN Sidekick is a Firefox/Chromium Add-on/Extension for AI security researchers that streamlines LLM jailbreak testing and vulnerability discovery across mult… |
+| lansespirit/Clipal                     |       8 | Minimal LLM API reverse proxy for Claude Code, Codex CLI & Gemini CLI — YAML routing, hot reload, and automatic provider failover.  极简 LLM API 反向代理：面向 Claude C… |
+| JoeCastrom/mcp-chat-studio             |       7 | A powerful MCP testing tool with multi-provider LLM support (Ollama, OpenAI, Claude, Gemini). Test, debug, and develop MCP servers with a modern UI.             |
+| alexfazio/artificial-analysis-compare  |       7 | LLM model comparison skill using Artificial Analysis API - benchmarks, pricing, and performance metrics                                                          |
+| cipher-attack/cipher-osint             |       7 | CIPHER-OSINT is a high-performance information gathering framework built with Golang. It leverages LLM integration for automated data analysis and utilizes Tor… |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -275,27 +279,27 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [UBlockOrigin and UBlacklist AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) — 125 points
-- [The Most Worrying Bits from Bloomberg's AI Bubble Q&A with Jason Furman](https://gizmodo.com/the-most-worrying-bits-from-bloombergs-worrisome-ai-bubble-qa-with-jason-furman-2000702356) — 12 points
-- [Show HN: I treated my brain like a buggy server and wrote a patch (Shi-Mo Model)](https://github.com/317317317apple-a11y/shi-mo-protocol/blob/main/README.md) — 7 points
-- [OpenAI is reportedly trying to raise $100B at an $830B valuation](https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/) — 7 points
-- [Show HN: Why many AI-generated websites don't show up on Google](https://pagesmith.ai/seo-for-ai-generated-sites) — 6 points
+- [Rob Pike got spammed with an AI slop "act of kindness"](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/) — 267 points
+- [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/) — 101 points
+- [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/) — 80 points
+- [The AI bubble is all over now, baby blue](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby) — 30 points
+- [Show HN: Domain Search MCP – AI-powered domain availability checker](https://github.com/dorukardahan/domain-search-mcp) — 4 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary   |
-|---------------------|--------|-----------|
-| GHSA-7mhf-6fhv-c83c |      0 |           |
-| GHSA-9492-pwhm-prgg |      0 |           |
-| GHSA-q45h-4pv4-p744 |      0 |           |
-| GHSA-263q-5cv3-xq9g |      0 |           |
-| GHSA-4vwr-f92g-29m6 |      0 |           |
-| GHSA-5qwr-m3vg-gj86 |      0 |           |
-| GHSA-6m8p-6c5x-r759 |      0 |           |
-| GHSA-cm54-pfmc-xrwx |      0 |           |
-| GHSA-hg49-2rqm-p9hf |      0 |           |
-| GHSA-rrcw-5rjv-vj26 |      0 |           |
+| CVE                 |   CVSS | Summary                                                                                      |
+|---------------------|--------|----------------------------------------------------------------------------------------------|
+| GHSA-58jc-rcg5-95f3 |      0 | n8n's Possible Stored XSS in "Respond to Webhook" Node May Execute Outside iframe Sandbox    |
+| GHSA-9pf3-7rrr-x5jh |      0 | lmdeploy vulnerable to Arbitrary Code Execution via Insecure Deserialization in torch.load() |
+| GHSA-62r4-hw23-cc8v |      0 | n8n Vulnerable to Arbitrary Command Execution in Pyodide based Python Code Node              |
+| GHSA-j4p8-h8mh-rh8q |      0 | Self-hosted n8n has Legacy Code node that enables arbitrary file read/write                  |
+| GHSA-g5p6-3j82-xfm4 |      0 | Croogo CMS has a path traversal vulnerability                                                |
+| CVE-2025-68668      |      0 |                                                                                              |
+| CVE-2025-68697      |      0 |                                                                                              |
+| GHSA-rcfx-77hg-w2wv |      0 | FastMCP updated to MCP 1.23+ due to CVE-2025-66416                                           |
+| CVE-2025-66203      |      0 |                                                                                              |
+| CVE-2025-68148      |      0 |                                                                                              |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

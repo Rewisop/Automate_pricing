@@ -1,19 +1,19 @@
-fetched_at: '2025-12-26T05:35:52Z'
-generated_at: '2025-12-26T05:35:52Z'
-hash: bdf096d6f936f0520044d3742a7cac1e5b55f87f856f6df70243f05c2eb2297b
+fetched_at: '2025-12-27T05:35:08Z'
+generated_at: '2025-12-27T05:35:08Z'
+hash: a16bf09a2316b62cc59f4c34fa7b437026f8c9c52b21dfdcb5c53881c92ccff6
 items:
-- created_at: '2025-12-20T10:04:55Z'
-  description: A multi-agent AI trading system using LLMs to optimize strategies and
-    adapt to market conditions in real-time.
-  full_name: EthanAlgoX/LLM-TradeBot
-  html_url: https://github.com/EthanAlgoX/LLM-TradeBot
-  stargazers_count: 87
+- created_at: '2025-12-26T06:14:33Z'
+  description: Free Uncensored LLM Client with proxy support, web development mod
+    and many other features.
+  full_name: deftydude/Freedom-LLM
+  html_url: https://github.com/deftydude/Freedom-LLM
+  stargazers_count: 39
 - created_at: '2025-12-23T07:39:07Z'
   description: AI-powered UI component generator - Compare design outputs from multiple
     LLMs in real-time
   full_name: IncomeStreamSurfer/AI-DESIGN-BENCHMARK
   html_url: https://github.com/IncomeStreamSurfer/AI-DESIGN-BENCHMARK
-  stargazers_count: 27
+  stargazers_count: 28
 - created_at: '2025-12-21T01:01:03Z'
   description: A skill that teaches LLM agents how to use rope for python codebase
     refactors
@@ -30,58 +30,63 @@ items:
   description: 고성능 Rust 기반 웹 스크래퍼 & LLM 분석 API 서버
   full_name: lee-lou2/distill
   html_url: https://github.com/lee-lou2/distill
+  stargazers_count: 20
+- created_at: '2025-12-24T11:23:12Z'
+  description: 豆包手机开源版，基于LLM的手机自动化操作
+  full_name: languse-ai/android-use
+  html_url: https://github.com/languse-ai/android-use
   stargazers_count: 19
+- created_at: '2025-12-23T07:53:03Z'
+  description: A lightweight, production-ready C++ library for LLM tokenization, fully
+    compatible with HuggingFace tokenizer.json.
+  full_name: wangzhaode/tokenizer.cpp
+  html_url: https://github.com/wangzhaode/tokenizer.cpp
+  stargazers_count: 18
 - created_at: '2025-12-22T00:47:03Z'
   description: 'REFRAG: LLM-powered representations for better RAG retrieval. Improve
     precision, reduce context size, same speed.'
   full_name: Shaivpidadi/refrag
   html_url: https://github.com/Shaivpidadi/refrag
   stargazers_count: 16
-- created_at: '2025-12-20T14:26:57Z'
-  description: An Android GUI Agent powered by Volcano Engine's vision LLM - automate
-    phone operations with natural language commands
-  full_name: HuSuuuu/HusxGLM
-  html_url: https://github.com/HuSuuuu/HusxGLM
-  stargazers_count: 14
-- created_at: '2025-12-21T08:14:15Z'
-  description: 尝试作为手机助手植入到手机内运行的 ncnn llm
-  full_name: chentyjpm/ncnn_llm-android-ctl-mcp
-  html_url: https://github.com/chentyjpm/ncnn_llm-android-ctl-mcp
-  stargazers_count: 14
-- created_at: '2025-12-24T11:23:12Z'
-  description: 豆包手机开源版，基于LLM的手机自动化操作
-  full_name: languse-ai/android-use
-  html_url: https://github.com/languse-ai/android-use
-  stargazers_count: 14
-- created_at: '2025-12-22T19:51:07Z'
-  description: Advanced anti-LLM obfuscation
-  full_name: thebabush/llvm-jutsu
-  html_url: https://github.com/thebabush/llvm-jutsu
-  stargazers_count: 14
-- created_at: '2025-12-23T07:53:03Z'
-  description: A lightweight, production-ready C++ library for LLM tokenization, fully
-    compatible with HuggingFace tokenizer.json.
-  full_name: wangzhaode/tokenizer.cpp
-  html_url: https://github.com/wangzhaode/tokenizer.cpp
-  stargazers_count: 14
-- created_at: '2025-12-23T16:11:46Z'
-  description: 适用于OCS网课助手的基于大语言模型（LLM）的智能答题服务，支持单选、多选、判断、填空等多种题型。提供 HTTP API 接口、本地缓存功能、置信度评估和智能联网搜索增强。
-  full_name: amlkiller/llm_answerer
-  html_url: https://github.com/amlkiller/llm_answerer
-  stargazers_count: 13
 - created_at: '2025-12-24T07:26:21Z'
   description: SUMO-MCP 是一个连接大语言模型 (LLM) 与 Eclipse SUMO 交通仿真的中间件。通过 Model Context
     Protocol (MCP)，它允许 AI 智能体（如 Claude, Cursor, TRAE等）直接调用 SUMO 的核心功能，实现从OpenStreetMap
     数据获取、路网生成…
   full_name: XRDS76354/SUMO-MCP-Server
   html_url: https://github.com/XRDS76354/SUMO-MCP-Server
-  stargazers_count: 12
-- created_at: '2025-12-20T21:28:14Z'
-  description: Anthropic's advanced tool use features for any LLM provider - OpenAI,
-    Google, and more
-  full_name: hetpatel-11/advanced-tools
-  html_url: https://github.com/hetpatel-11/advanced-tools
+  stargazers_count: 16
+- created_at: '2025-12-23T16:11:46Z'
+  description: 适用于OCS网课助手的基于大语言模型（LLM）的AI智能答题题库，支持单选、多选、判断、填空等多种题型。提供 HTTP API 接口、本地缓存功能、置信度评估和智能联网搜索增强。
+  full_name: amlkiller/llm_answerer
+  html_url: https://github.com/amlkiller/llm_answerer
+  stargazers_count: 16
+- created_at: '2025-12-21T08:14:15Z'
+  description: 尝试作为手机助手植入到手机内运行的 ncnn llm
+  full_name: chentyjpm/ncnn_llm-android-ctl-mcp
+  html_url: https://github.com/chentyjpm/ncnn_llm-android-ctl-mcp
+  stargazers_count: 14
+- created_at: '2025-12-22T19:51:07Z'
+  description: Advanced anti-LLM obfuscation
+  full_name: thebabush/llvm-jutsu
+  html_url: https://github.com/thebabush/llvm-jutsu
+  stargazers_count: 14
+- created_at: '2025-12-23T04:01:00Z'
+  description: High-performance repository context generator for LLMs - Transform
+    codebases into optimized formats for Claude, GPT-4/5, Gemini, and other LLMs
+  full_name: Topos-Labs/infiniloom
+  html_url: https://github.com/Topos-Labs/infiniloom
   stargazers_count: 11
+- created_at: '2025-12-22T19:44:06Z'
+  description: Claude Code Methodology | GAAC=Github-as-a-Context | LLM IS AS GOOD
+    AS YOUR ARE | 胸有成码
+  full_name: SihaoLiu/claude-code-gaac
+  html_url: https://github.com/SihaoLiu/claude-code-gaac
+  stargazers_count: 9
+- created_at: '2025-12-21T03:36:49Z'
+  description: It's about time we put LLM's in an ACTUAL arena
+  full_name: jesseduffield/ai-battlegrounds
+  html_url: https://github.com/jesseduffield/ai-battlegrounds
+  stargazers_count: 9
 - created_at: '2025-12-24T16:54:44Z'
   description: 0DIN Sidekick is a Firefox/Chromium Add-on/Extension for AI security
     researchers that streamlines LLM jailbreak testing and vulnerability discovery
@@ -89,34 +94,30 @@ items:
   full_name: 0din-ai/sidekick
   html_url: https://github.com/0din-ai/sidekick
   stargazers_count: 8
-- created_at: '2025-12-22T19:44:06Z'
-  description: Claude Code Methodology | GAAC=Github-as-a-Context | LLM IS AS GOOD
-    AS YOUR ARE | 胸有成码
-  full_name: SihaoLiu/claude-code-gaac
-  html_url: https://github.com/SihaoLiu/claude-code-gaac
+- created_at: '2025-12-22T05:17:05Z'
+  description: Minimal LLM API reverse proxy for Claude Code, Codex CLI & Gemini CLI
+    — YAML routing, hot reload, and automatic provider failover.  极简 LLM API 反向代理：面向
+    Claude C…
+  full_name: lansespirit/Clipal
+  html_url: https://github.com/lansespirit/Clipal
   stargazers_count: 8
-- created_at: '2025-12-21T03:36:49Z'
-  description: It's about time we put LLM's in an ACTUAL arena
-  full_name: jesseduffield/ai-battlegrounds
-  html_url: https://github.com/jesseduffield/ai-battlegrounds
-  stargazers_count: 8
-- created_at: '2025-12-20T05:24:04Z'
-  description: SoftPrompt-IR is a low-level symbolic annotation layer for LLM prompts,
-    making intent strength, direction, and priority explicit. It is not a DSL or framework,…
-  full_name: tobs-code/SoftPrompt-IR
-  html_url: https://github.com/tobs-code/SoftPrompt-IR
-  stargazers_count: 8
+- created_at: '2025-12-21T14:12:13Z'
+  description: A powerful MCP testing tool with multi-provider LLM support (Ollama,
+    OpenAI, Claude, Gemini). Test, debug, and develop MCP servers with a modern UI.
+  full_name: JoeCastrom/mcp-chat-studio
+  html_url: https://github.com/JoeCastrom/mcp-chat-studio
+  stargazers_count: 7
+- created_at: '2025-12-22T12:12:18Z'
+  description: LLM model comparison skill using Artificial Analysis API - benchmarks,
+    pricing, and performance metrics
+  full_name: alexfazio/artificial-analysis-compare
+  html_url: https://github.com/alexfazio/artificial-analysis-compare
+  stargazers_count: 7
 - created_at: '2025-12-21T12:19:18Z'
   description: CIPHER-OSINT is a high-performance information gathering framework
     built with Golang. It leverages LLM integration for automated data analysis and
     utilizes Tor…
   full_name: cipher-attack/cipher-osint
   html_url: https://github.com/cipher-attack/cipher-osint
-  stargazers_count: 7
-- created_at: '2025-12-20T12:13:19Z'
-  description: Server-side Query Fan-Out Session monitoring & reporting for LLM user-bot
-    traffic
-  full_name: conversem/server-side-query-fan-out-session-reporting
-  html_url: https://github.com/conversem/server-side-query-fan-out-session-reporting
   stargazers_count: 7
 source_url: https://api.github.com/search/repositories

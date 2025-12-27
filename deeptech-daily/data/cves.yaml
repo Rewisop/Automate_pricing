@@ -1,45 +1,48 @@
-fetched_at: '2025-12-26T05:35:52Z'
-generated_at: '2025-12-26T05:35:52Z'
-hash: 1a63be2e36c90b4e3c4e74b9840007c8d2b932e6d6275128e81c7a70b262d4bd
+fetched_at: '2025-12-27T05:35:08Z'
+generated_at: '2025-12-27T05:35:08Z'
+hash: 5ed9c08f5caa50f9134c424d6b45b9969fb7a632508270fdd56c72d7db100734
 items:
 - cvss: 0.0
-  id: GHSA-7mhf-6fhv-c83c
-  published: '2025-12-26T00:30:12Z'
+  id: GHSA-58jc-rcg5-95f3
+  published: '2025-12-26T17:30:19Z'
+  summary: n8n's Possible Stored XSS in "Respond to Webhook" Node May Execute Outside
+    iframe Sandbox
+- cvss: 0.0
+  id: GHSA-9pf3-7rrr-x5jh
+  published: '2025-12-26T17:34:08Z'
+  summary: lmdeploy vulnerable to Arbitrary Code Execution via Insecure Deserialization
+    in torch.load()
+- cvss: 0.0
+  id: GHSA-62r4-hw23-cc8v
+  published: '2025-12-26T18:18:05Z'
+  summary: n8n Vulnerable to Arbitrary Command Execution in Pyodide based Python Code
+    Node
+- cvss: 0.0
+  id: GHSA-j4p8-h8mh-rh8q
+  published: '2025-12-26T18:26:38Z'
+  summary: Self-hosted n8n has Legacy Code node that enables arbitrary file read/write
+- cvss: 0.0
+  id: GHSA-g5p6-3j82-xfm4
+  published: '2025-12-26T18:30:27Z'
+  summary: Croogo CMS has a path traversal vulnerability
+- cvss: 0.0
+  id: CVE-2025-68668
+  published: '2025-12-26T22:15:52Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-9492-pwhm-prgg
-  published: '2025-12-26T03:30:14Z'
+  id: CVE-2025-68697
+  published: '2025-12-26T22:15:52Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-q45h-4pv4-p744
-  published: '2025-12-26T03:30:14Z'
+  id: GHSA-rcfx-77hg-w2wv
+  published: '2025-12-26T23:20:50Z'
+  summary: FastMCP updated to MCP 1.23+ due to CVE-2025-66416
+- cvss: 0.0
+  id: CVE-2025-66203
+  published: '2025-12-27T00:15:41Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-263q-5cv3-xq9g
-  published: '2025-12-26T03:30:15Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-4vwr-f92g-29m6
-  published: '2025-12-26T03:30:15Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-5qwr-m3vg-gj86
-  published: '2025-12-26T03:30:15Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-6m8p-6c5x-r759
-  published: '2025-12-26T03:30:15Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-cm54-pfmc-xrwx
-  published: '2025-12-26T03:30:15Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-hg49-2rqm-p9hf
-  published: '2025-12-26T03:30:15Z'
-  summary: ''
-- cvss: 0.0
-  id: GHSA-rrcw-5rjv-vj26
-  published: '2025-12-26T03:30:15Z'
+  id: CVE-2025-68148
+  published: '2025-12-27T00:15:42Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last
