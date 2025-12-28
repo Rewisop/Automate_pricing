@@ -74,6 +74,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -85,6 +86,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -250,26 +252,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                             |   Stars | Description                                                                                                                                                      |
 |----------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| deftydude/Freedom-LLM                  |      39 | Free Uncensored LLM Client with proxy support, web development mod and many other features.                                                                      |
+| simondaubner/LiveStreamTranslateV3     |     105 | Uses LLM APIs to translate an audio source live. Perfect for live streaming with OBS.                                                                            |
+| davidfowl/tally                        |     102 | LLM-powered spending categorization. Let AI classify your bank transactions.                                                                                     |
+| deftydude/Freedom-LLM                  |      41 | Free Uncensored LLM Client with proxy support, web development mod and many other features.                                                                      |
 | IncomeStreamSurfer/AI-DESIGN-BENCHMARK |      28 | AI-powered UI component generator - Compare design outputs from multiple LLMs in real-time                                                                       |
-| brian-yu/python-rope-refactor          |      26 | A skill that teaches LLM agents how to use rope for python codebase refactors                                                                                    |
-| adambarbato/ComfyUI-Segmentation-Agent |      22 | LLM-based character segmentation agent for ComfyUI based on SAM 3 and the SAM 3 Agent notebook                                                                   |
-| lee-lou2/distill                       |      20 | 고성능 Rust 기반 웹 스크래퍼 & LLM 분석 API 서버                                                                                                                               |
-| languse-ai/android-use                 |      19 | 豆包手机开源版，基于LLM的手机自动化操作                                                                                                                                            |
+| lee-lou2/distill                       |      23 | 고성능 Rust 기반 웹 스크래퍼 & LLM 분석 API 서버                                                                                                                               |
+| languse-ai/android-use                 |      21 | 豆包手机开源版，基于LLM的手机自动化操作                                                                                                                                            |
+| XRDS76354/SUMO-MCP-Server              |      20 | SUMO-MCP 是一个连接大语言模型 (LLM) 与 Eclipse SUMO 交通仿真的中间件。通过 Model Context Protocol (MCP)，它允许 AI 智能体（如 Claude, Cursor, TRAE等）直接调用 SUMO 的核心功能，实现从OpenStreetMap 数据获取、路网生成… |
 | wangzhaode/tokenizer.cpp               |      18 | A lightweight, production-ready C++ library for LLM tokenization, fully compatible with HuggingFace tokenizer.json.                                              |
+| amlkiller/llm_answerer                 |      17 | 适用于OCS网课助手的基于大语言模型（LLM）的AI智能答题题库，支持单选、多选、判断、填空等多种题型。提供 HTTP API 接口、本地缓存功能、置信度评估和智能联网搜索增强。                                                                        |
 | Shaivpidadi/refrag                     |      16 | REFRAG: LLM-powered representations for better RAG retrieval. Improve precision, reduce context size, same speed.                                                |
-| XRDS76354/SUMO-MCP-Server              |      16 | SUMO-MCP 是一个连接大语言模型 (LLM) 与 Eclipse SUMO 交通仿真的中间件。通过 Model Context Protocol (MCP)，它允许 AI 智能体（如 Claude, Cursor, TRAE等）直接调用 SUMO 的核心功能，实现从OpenStreetMap 数据获取、路网生成… |
-| amlkiller/llm_answerer                 |      16 | 适用于OCS网课助手的基于大语言模型（LLM）的AI智能答题题库，支持单选、多选、判断、填空等多种题型。提供 HTTP API 接口、本地缓存功能、置信度评估和智能联网搜索增强。                                                                        |
-| chentyjpm/ncnn_llm-android-ctl-mcp     |      14 | 尝试作为手机助手植入到手机内运行的 ncnn llm                                                                                                                                       |
+| Topos-Labs/infiniloom                  |      14 | High-performance repository context generator for LLMs - Transform codebases into optimized formats for Claude, GPT-4/5, Gemini, and other LLMs                  |
 | thebabush/llvm-jutsu                   |      14 | Advanced anti-LLM obfuscation                                                                                                                                    |
-| Topos-Labs/infiniloom                  |      11 | High-performance repository context generator for LLMs - Transform codebases into optimized formats for Claude, GPT-4/5, Gemini, and other LLMs                  |
+| vagos/llm-grep                         |      12 | Match lines using both classic and semantic regular expressions with LLM.                                                                                        |
+| 0din-ai/sidekick                       |       9 | 0DIN Sidekick is a Firefox/Chromium Add-on/Extension for AI security researchers that streamlines LLM jailbreak testing and vulnerability discovery across mult… |
 | SihaoLiu/claude-code-gaac              |       9 | Claude Code Methodology | GAAC=Github-as-a-Context | LLM IS AS GOOD AS YOUR ARE | 胸有成码                                                                           |
-| jesseduffield/ai-battlegrounds         |       9 | It's about time we put LLM's in an ACTUAL arena                                                                                                                  |
-| 0din-ai/sidekick                       |       8 | 0DIN Sidekick is a Firefox/Chromium Add-on/Extension for AI security researchers that streamlines LLM jailbreak testing and vulnerability discovery across mult… |
+| Drenches/gov-doc-formatter             |       8 | 基于 LLM agent 的党政机关公文自动排版工具                                                                                                                                       |
+| X1AOX1A/Word2World                     |       8 | From Word to World: Can Large Language Models be Implicit Text-based World Models?                                                                               |
 | lansespirit/Clipal                     |       8 | Minimal LLM API reverse proxy for Claude Code, Codex CLI & Gemini CLI — YAML routing, hot reload, and automatic provider failover.  极简 LLM API 反向代理：面向 Claude C… |
-| JoeCastrom/mcp-chat-studio             |       7 | A powerful MCP testing tool with multi-provider LLM support (Ollama, OpenAI, Claude, Gemini). Test, debug, and develop MCP servers with a modern UI.             |
 | alexfazio/artificial-analysis-compare  |       7 | LLM model comparison skill using Artificial Analysis API - benchmarks, pricing, and performance metrics                                                          |
-| cipher-attack/cipher-osint             |       7 | CIPHER-OSINT is a high-performance information gathering framework built with Golang. It leverages LLM integration for automated data analysis and utilizes Tor… |
+| andybhall/llm-council-governance       |       6 | Testing different group governance models for Karpathy's llm-council                                                                                             |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -279,27 +281,26 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Rob Pike got spammed with an AI slop "act of kindness"](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/) — 267 points
-- [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/) — 101 points
-- [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/) — 80 points
-- [The AI bubble is all over now, baby blue](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby) — 30 points
-- [Show HN: Domain Search MCP – AI-powered domain availability checker](https://github.com/dorukardahan/domain-search-mcp) — 4 points
+- [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp) — 370 points
+- [More than 20% of videos shown to new YouTube users are 'AI slop', study finds](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) — 60 points
+- [C –> Java != Java –> LLM](http://www.observationalhazard.com/2025/12/c-java-java-llm.html) — 5 points
+- [Linux kernel community discussion on ML/LLM tools in kernel development](https://lwn.net/Articles/1050355/) — 4 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                                                                                      |
-|---------------------|--------|----------------------------------------------------------------------------------------------|
-| GHSA-58jc-rcg5-95f3 |      0 | n8n's Possible Stored XSS in "Respond to Webhook" Node May Execute Outside iframe Sandbox    |
-| GHSA-9pf3-7rrr-x5jh |      0 | lmdeploy vulnerable to Arbitrary Code Execution via Insecure Deserialization in torch.load() |
-| GHSA-62r4-hw23-cc8v |      0 | n8n Vulnerable to Arbitrary Command Execution in Pyodide based Python Code Node              |
-| GHSA-j4p8-h8mh-rh8q |      0 | Self-hosted n8n has Legacy Code node that enables arbitrary file read/write                  |
-| GHSA-g5p6-3j82-xfm4 |      0 | Croogo CMS has a path traversal vulnerability                                                |
-| CVE-2025-68668      |      0 |                                                                                              |
-| CVE-2025-68697      |      0 |                                                                                              |
-| GHSA-rcfx-77hg-w2wv |      0 | FastMCP updated to MCP 1.23+ due to CVE-2025-66416                                           |
-| CVE-2025-66203      |      0 |                                                                                              |
-| CVE-2025-68148      |      0 |                                                                                              |
+| CVE                 |   CVSS | Summary                                   |
+|---------------------|--------|-------------------------------------------|
+| CVE-2025-14965      |      0 |                                           |
+| GHSA-rvwq-p5fc-r88c |      0 |                                           |
+| GHSA-wf3v-cq62-6r54 |      0 |                                           |
+| GHSA-5639-746g-v626 |      0 |                                           |
+| CVE-2025-14177      |      0 |                                           |
+| CVE-2025-14178      |      0 |                                           |
+| CVE-2025-14180      |      0 |                                           |
+| CVE-2025-15110      |      0 |                                           |
+| MAL-2025-192952     |      0 | Malicious code in eslint-config-sdk (npm) |
+| GHSA-f342-w736-j52r |      0 |                                           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

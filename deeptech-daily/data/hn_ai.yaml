@@ -1,30 +1,25 @@
-fetched_at: '2025-12-27T05:35:08Z'
-generated_at: '2025-12-27T05:35:08Z'
-hash: 7e10e0fe753cb6c641b695ba6521a960313f63e8c61fc7857ed82e0458135589
+fetched_at: '2025-12-28T05:37:38Z'
+generated_at: '2025-12-28T05:37:38Z'
+hash: eaaea18e70242794c011fb9131a051f9128d6f6dc8c2513044a05c5c13bbb25b
 items:
-- id: 46394867
-  score: 267
-  time: '2025-12-26T18:42:13Z'
-  title: Rob Pike got spammed with an AI slop "act of kindness"
-  url: https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/
-- id: 46390055
-  score: 101
-  time: '2025-12-26T07:35:15Z'
-  title: Building an AI agent inside a 7-year-old Rails monolith
-  url: https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/
-- id: 46395292
-  score: 80
-  time: '2025-12-26T19:25:28Z'
-  title: 'Grok and the Naked King: The Ultimate Argument Against AI Alignment'
-  url: https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/
-- id: 46393081
-  score: 30
-  time: '2025-12-26T15:35:10Z'
-  title: The AI bubble is all over now, baby blue
-  url: https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby
-- id: 46390434
+- id: 46401539
+  score: 370
+  time: '2025-12-27T12:58:12Z'
+  title: Apple releases open-source model that instantly turns 2D photos into 3D views
+  url: https://github.com/apple/ml-sharp
+- id: 46403805
+  score: 60
+  time: '2025-12-27T18:10:49Z'
+  title: More than 20% of videos shown to new YouTube users are 'AI slop', study finds
+  url: https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds
+- id: 46408510
+  score: 5
+  time: '2025-12-28T04:40:56Z'
+  title: C –> Java != Java –> LLM
+  url: http://www.observationalhazard.com/2025/12/c-java-java-llm.html
+- id: 46401438
   score: 4
-  time: '2025-12-26T08:59:42Z'
-  title: 'Show HN: Domain Search MCP – AI-powered domain availability checker'
-  url: https://github.com/dorukardahan/domain-search-mcp
+  time: '2025-12-27T12:39:22Z'
+  title: Linux kernel community discussion on ML/LLM tools in kernel development
+  url: https://lwn.net/Articles/1050355/
 source_url: https://hacker-news.firebaseio.com/
