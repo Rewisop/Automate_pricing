@@ -1,45 +1,45 @@
-fetched_at: '2025-12-28T05:37:38Z'
-generated_at: '2025-12-28T05:37:38Z'
-hash: b89510b805df39a6e197e28d4fe2eef94a54943b1ce749ab3355cfeeddd9d02e
+fetched_at: '2025-12-29T05:44:44Z'
+generated_at: '2025-12-29T05:44:44Z'
+hash: c59220ee049ffa39e1286de455f1995f738bf70b03cd71de7ece9f01017eaa71
 items:
 - cvss: 0.0
-  id: CVE-2025-14965
-  published: '2025-12-19T19:15:50Z'
+  id: CVE-2025-15066
+  published: '2025-12-29T01:15:52Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-rvwq-p5fc-r88c
-  published: '2025-12-19T21:30:19Z'
+  id: CVE-2025-15067
+  published: '2025-12-29T01:15:53Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-wf3v-cq62-6r54
-  published: '2025-12-23T00:30:31Z'
+  id: CVE-2025-15163
+  published: '2025-12-29T01:15:53Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-5639-746g-v626
-  published: '2025-12-23T00:30:32Z'
+  id: CVE-2025-15164
+  published: '2025-12-29T01:15:53Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-14177
-  published: '2025-12-27T20:15:40Z'
+  id: CVE-2025-15165
+  published: '2025-12-29T01:15:53Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-14178
-  published: '2025-12-27T20:15:40Z'
+  id: CVE-2025-15166
+  published: '2025-12-29T02:15:42Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-14180
-  published: '2025-12-27T20:15:40Z'
+  id: GHSA-69jh-5qjp-fcx9
+  published: '2025-12-29T03:30:24Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-15110
-  published: '2025-12-27T20:15:41Z'
+  id: GHSA-h867-r9h7-gw3j
+  published: '2025-12-29T03:30:24Z'
   summary: ''
 - cvss: 0.0
-  id: MAL-2025-192952
-  published: '2025-12-27T20:20:29Z'
-  summary: Malicious code in eslint-config-sdk (npm)
+  id: GHSA-rpm9-rv74-f53f
+  published: '2025-12-29T03:30:24Z'
+  summary: ''
 - cvss: 0.0
-  id: GHSA-f342-w736-j52r
-  published: '2025-12-27T21:30:12Z'
+  id: GHSA-89fx-3w93-77f2
+  published: '2025-12-29T03:30:25Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

@@ -75,6 +75,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -86,6 +87,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -206,23 +208,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [BitRL-Light: 1-bit LLM Agents with Deep Reinforcement Learning for Energy-Efficient Smart Home Lighting Optimization](https://arxiv.org/abs/2512.20623) — arXiv:2512.20623v1 Announce Type: new  Abstract: Smart home lighting systems consume 15-20% of residential energy but lack adaptive intelligence to optimize fo…
-- [Quantum-Inspired Multi Agent Reinforcement Learning for Exploration Exploitation Optimization in UAV-Assisted 6G Network Deployment](https://arxiv.org/abs/2512.20624) — arXiv:2512.20624v1 Announce Type: new  Abstract: This study introduces a quantum inspired framework for optimizing the exploration exploitation tradeoff in mul…
-- [MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation](https://arxiv.org/abs/2512.20626) — arXiv:2512.20626v1 Announce Type: new  Abstract: Retrieval-augmented generation (RAG) enables large language models (LLMs) to dynamically access external infor…
-- [Proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025)](https://arxiv.org/abs/2512.20628) — arXiv:2512.20628v1 Announce Type: new  Abstract: This volume presents the proceedings of the 20th International Conference on Knowledge, Information and Creati…
-- [MicroProbe: Efficient Reliability Assessment for Foundation Models with Minimal Data](https://arxiv.org/abs/2512.20630) — arXiv:2512.20630v1 Announce Type: new  Abstract: Foundation model reliability assessment typically requires thousands of evaluation examples, making it computa…
-- [Erkang-Diagnosis-1.1 Technical Report](https://arxiv.org/abs/2512.20632) — arXiv:2512.20632v1 Announce Type: new  Abstract: This report provides a detailed introduction to Erkang-Diagnosis-1.1 model, our AI healthcare consulting assis…
-- [Reasoning Relay: Evaluating Stability and Interchangeability of Large Language Models in Mathematical Reasoning](https://arxiv.org/abs/2512.20647) — arXiv:2512.20647v1 Announce Type: new  Abstract: Chain-of-Thought (CoT) prompting has significantly advanced the reasoning capabilities of large language model…
-- [AIAuditTrack: A Framework for AI Security system](https://arxiv.org/abs/2512.20649) — arXiv:2512.20649v1 Announce Type: new  Abstract: The rapid expansion of AI-driven applications powered by large language models has led to a surge in AI intera…
-- [Mixture of Attention Schemes (MoAS): Learning to Route Between MHA, GQA, and MQA](https://arxiv.org/abs/2512.20650) — arXiv:2512.20650v1 Announce Type: new  Abstract: The choice of attention mechanism in Transformer models involves a critical trade-off between modeling quality…
-- [Memory Bear AI A Breakthrough from Memory to Cognition Toward Artificial General Intelligence](https://arxiv.org/abs/2512.20651) — arXiv:2512.20651v1 Announce Type: new  Abstract: Large language models (LLMs) face inherent limitations in memory, including restricted context windows, long-t…
-- [AI-Driven Decision-Making System for Hiring Process](https://arxiv.org/abs/2512.20652) — arXiv:2512.20652v1 Announce Type: new  Abstract: Early-stage candidate validation is a major bottleneck in hiring, because recruiters must reconcile heterogene…
-- [From Fake Focus to Real Precision: Confusion-Driven Adversarial Attention Learning in Transformers](https://arxiv.org/abs/2512.20661) — arXiv:2512.20661v1 Announce Type: new  Abstract: Transformer-based models have been widely adopted for sentiment analysis tasks due to their exceptional abilit…
-- [Quantifying Laziness, Decoding Suboptimality, and Context Degradation in Large Language Models](https://arxiv.org/abs/2512.20662) — arXiv:2512.20662v1 Announce Type: new  Abstract: Large Language Models (LLMs) often exhibit behavioral artifacts such as laziness (premature truncation of resp…
-- [Eidoku: A Neuro-Symbolic Verification Gate for LLM Reasoning via Structural Constraint Satisfaction](https://arxiv.org/abs/2512.20664) — arXiv:2512.20664v1 Announce Type: new  Abstract: Large Language Models (LLMs) frequently produce hallucinated statements that are assigned high likelihood by t…
-- [Bridging the AI Trustworthiness Gap between Functions and Norms](https://arxiv.org/abs/2512.20671) — arXiv:2512.20671v1 Announce Type: new  Abstract: Trustworthy Artificial Intelligence (TAI) is gaining traction due to regulations and functional benefits. Whil…
-
-_Showing cached data from 2025-12-26T05:35:52Z. Refresh failed: no arXiv entries retrieved._
+- [From Visual Perception to Deep Empathy: An Automated Assessment Framework for House-Tree-Person Drawings Using Multimodal LLMs and Multi-Agent Collaboration](https://arxiv.org/abs/2512.21360) — arXiv:2512.21360v1 Announce Type: new  Abstract: Background: The House-Tree-Person (HTP) drawing test, introduced by John Buck in 1948, remains a widely used p…
+- [A Study of Solving Life-and-Death Problems in Go Using Relevance-Zone Based Solvers](https://arxiv.org/abs/2512.21365) — arXiv:2512.21365v1 Announce Type: new  Abstract: This paper analyzes the behavior of solving Life-and-Death (L&amp;D) problems in the game of Go using current…
+- [Three-way conflict analysis based on alliance and conflict functions](https://arxiv.org/abs/2512.21419) — arXiv:2512.21419v1 Announce Type: new  Abstract: Trisecting agents, issues, and agent pairs are essential topics of three-way conflict analysis. They have been…
+- [Feasible strategies in three-way conflict analysis with three-valued ratings](https://arxiv.org/abs/2512.21420) — arXiv:2512.21420v1 Announce Type: new  Abstract: Most existing work on three-way conflict analysis has focused on trisecting agent pairs, agents, or issues, wh…
+- [Three-way decision with incomplete information based on similarity and satisfiability](https://arxiv.org/abs/2512.21421) — arXiv:2512.21421v1 Announce Type: new  Abstract: Three-way decision is widely applied with rough set theory to learn classification or decision rules. The appr…
+- [LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis](https://arxiv.org/abs/2512.21482) — arXiv:2512.21482v1 Announce Type: new  Abstract: Sophisticated text-centric forgeries, fueled by rapid AIGC advancements, pose a significant threat to societal…
+- [Leash: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning Model](https://arxiv.org/abs/2512.21540) — arXiv:2512.21540v1 Announce Type: new  Abstract: Existing approaches typically rely on fixed length penalties, but such penalties are hard to tune and fail to…
+- [NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent](https://arxiv.org/abs/2512.21578) — arXiv:2512.21578v1 Announce Type: new  Abstract: We present the development and optimization of PayPal's Commerce Agent, powered by NEMO-4-PAYPAL, a multi-agen…
+- [A Medical Multimodal Diagnostic Framework Integrating Vision-Language Models and Logic Tree Reasoning](https://arxiv.org/abs/2512.21583) — arXiv:2512.21583v1 Announce Type: new  Abstract: With the rapid growth of large language models (LLMs) and vision-language models (VLMs) in medicine, simply in…
+- [AMS-IO-Bench and AMS-IO-Agent: Benchmarking and Structured Reasoning for Analog and Mixed-Signal Integrated Circuit Input/Output Design](https://arxiv.org/abs/2512.21613) — arXiv:2512.21613v1 Announce Type: new  Abstract: In this paper, we propose AMS-IO-Agent, a domain-specialized LLM-based agent for structure-aware input/output…
+- [Democratizing Drug Discovery with an Orchestrated, Knowledge-Driven Multi-Agent Team for User-Guided Therapeutic Design](https://arxiv.org/abs/2512.21623) — arXiv:2512.21623v1 Announce Type: new  Abstract: Therapeutic discovery remains a formidable challenge, impeded by the fragmentation of specialized domains and…
+- [Multiple-play Stochastic Bandits with Prioritized Arm Capacity Sharing](https://arxiv.org/abs/2512.21626) — arXiv:2512.21626v1 Announce Type: new  Abstract: This paper proposes a variant of multiple-play stochastic bandits tailored to resource allocation problems ari…
+- [Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning](https://arxiv.org/abs/2512.21699) — arXiv:2512.21699v1 Announce Type: new  Abstract: Agentic AI represents a major shift in how autonomous systems reason, plan, and execute multi-step tasks throu…
+- [Compliance Rating Scheme: A Data Provenance Framework for Generative AI Datasets](https://arxiv.org/abs/2512.21775) — arXiv:2512.21775v1 Announce Type: new  Abstract: Generative Artificial Intelligence (GAI) has experienced exponential growth in recent years, partly facilitate…
+- [Accelerating Scientific Discovery with Autonomous Goal-evolving Agents](https://arxiv.org/abs/2512.21782) — arXiv:2512.21782v1 Announce Type: new  Abstract: There has been unprecedented interest in developing agents that expand the boundary of scientific discovery, p…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -272,6 +272,8 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 | lansespirit/Clipal                     |       8 | Minimal LLM API reverse proxy for Claude Code, Codex CLI & Gemini CLI — YAML routing, hot reload, and automatic provider failover.  极简 LLM API 反向代理：面向 Claude C… |
 | alexfazio/artificial-analysis-compare  |       7 | LLM model comparison skill using Artificial Analysis API - benchmarks, pricing, and performance metrics                                                          |
 | andybhall/llm-council-governance       |       6 | Testing different group governance models for Karpathy's llm-council                                                                                             |
+
+_Showing cached data from 2025-12-28T05:37:38Z. Refresh failed: 504 Server Error: Gateway Time-out for url: https://api.github.com/search/repositories?q=%28LLM+OR+%22large+language+mo…._
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -281,26 +283,26 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp) — 370 points
-- [More than 20% of videos shown to new YouTube users are 'AI slop', study finds](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) — 60 points
-- [C –> Java != Java –> LLM](http://www.observationalhazard.com/2025/12/c-java-java-llm.html) — 5 points
-- [Linux kernel community discussion on ML/LLM tools in kernel development](https://lwn.net/Articles/1050355/) — 4 points
+- [Rich Hickey: Thanks AI](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f) — 123 points
+- [As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram) — 100 points
+- [Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080) — 55 points
+- [Show HN: AI 3D Model Generator](https://3d-generator.com) — 3 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                                   |
-|---------------------|--------|-------------------------------------------|
-| CVE-2025-14965      |      0 |                                           |
-| GHSA-rvwq-p5fc-r88c |      0 |                                           |
-| GHSA-wf3v-cq62-6r54 |      0 |                                           |
-| GHSA-5639-746g-v626 |      0 |                                           |
-| CVE-2025-14177      |      0 |                                           |
-| CVE-2025-14178      |      0 |                                           |
-| CVE-2025-14180      |      0 |                                           |
-| CVE-2025-15110      |      0 |                                           |
-| MAL-2025-192952     |      0 | Malicious code in eslint-config-sdk (npm) |
-| GHSA-f342-w736-j52r |      0 |                                           |
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| CVE-2025-15066      |      0 |           |
+| CVE-2025-15067      |      0 |           |
+| CVE-2025-15163      |      0 |           |
+| CVE-2025-15164      |      0 |           |
+| CVE-2025-15165      |      0 |           |
+| CVE-2025-15166      |      0 |           |
+| GHSA-69jh-5qjp-fcx9 |      0 |           |
+| GHSA-h867-r9h7-gw3j |      0 |           |
+| GHSA-rpm9-rv74-f53f |      0 |           |
+| GHSA-89fx-3w93-77f2 |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

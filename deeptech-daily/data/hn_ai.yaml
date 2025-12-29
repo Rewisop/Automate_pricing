@@ -1,25 +1,25 @@
-fetched_at: '2025-12-28T05:37:38Z'
-generated_at: '2025-12-28T05:37:38Z'
-hash: eaaea18e70242794c011fb9131a051f9128d6f6dc8c2513044a05c5c13bbb25b
+fetched_at: '2025-12-29T05:44:44Z'
+generated_at: '2025-12-29T05:44:44Z'
+hash: 7bcd1ee93365feb08978264a7ae75ee111ba6075336ac5cc69c93494a6436eb7
 items:
-- id: 46401539
-  score: 370
-  time: '2025-12-27T12:58:12Z'
-  title: Apple releases open-source model that instantly turns 2D photos into 3D views
-  url: https://github.com/apple/ml-sharp
-- id: 46403805
-  score: 60
-  time: '2025-12-27T18:10:49Z'
-  title: More than 20% of videos shown to new YouTube users are 'AI slop', study finds
-  url: https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds
-- id: 46408510
-  score: 5
-  time: '2025-12-28T04:40:56Z'
-  title: C –> Java != Java –> LLM
-  url: http://www.observationalhazard.com/2025/12/c-java-java-llm.html
-- id: 46401438
-  score: 4
-  time: '2025-12-27T12:39:22Z'
-  title: Linux kernel community discussion on ML/LLM tools in kernel development
-  url: https://lwn.net/Articles/1050355/
+- id: 46415945
+  score: 123
+  time: '2025-12-29T00:20:00Z'
+  title: 'Rich Hickey: Thanks AI'
+  url: https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f
+- id: 46415338
+  score: 100
+  time: '2025-12-28T22:52:21Z'
+  title: As AI gobbles up chips, prices for devices may rise
+  url: https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram
+- id: 46411539
+  score: 55
+  time: '2025-12-28T15:02:07Z'
+  title: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee
+  url: https://arxiv.org/abs/2512.02080
+- id: 46412915
+  score: 3
+  time: '2025-12-28T17:51:09Z'
+  title: 'Show HN: AI 3D Model Generator'
+  url: https://3d-generator.com
 source_url: https://hacker-news.firebaseio.com/
