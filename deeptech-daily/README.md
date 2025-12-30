@@ -76,6 +76,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -87,6 +88,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -211,7 +213,7 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [From Visual Perception to Deep Empathy: An Automated Assessment Framework for House-Tree-Person Drawings Using Multimodal LLMs and Multi-Agent Collaboration](https://arxiv.org/abs/2512.21360) — arXiv:2512.21360v1 Announce Type: new  Abstract: Background: The House-Tree-Person (HTP) drawing test, introduced by John Buck in 1948, remains a widely used p…
 - [A Study of Solving Life-and-Death Problems in Go Using Relevance-Zone Based Solvers](https://arxiv.org/abs/2512.21365) — arXiv:2512.21365v1 Announce Type: new  Abstract: This paper analyzes the behavior of solving Life-and-Death (L&amp;D) problems in the game of Go using current…
 - [Three-way conflict analysis based on alliance and conflict functions](https://arxiv.org/abs/2512.21419) — arXiv:2512.21419v1 Announce Type: new  Abstract: Trisecting agents, issues, and agent pairs are essential topics of three-way conflict analysis. They have been…
-- [Feasible strategies in three-way conflict analysis with three-valued ratings](https://arxiv.org/abs/2512.21420) — arXiv:2512.21420v1 Announce Type: new  Abstract: Most existing work on three-way conflict analysis has focused on trisecting agent pairs, agents, or issues, wh…
+- [Feasible strategies in three-way conflict analysis with three-valued ratings](https://arxiv.org/abs/2512.21420) — arXiv:2512.21420v2 Announce Type: new  Abstract: Most existing work on three-way conflict analysis has focused on trisecting agent pairs, agents, or issues, wh…
 - [Three-way decision with incomplete information based on similarity and satisfiability](https://arxiv.org/abs/2512.21421) — arXiv:2512.21421v1 Announce Type: new  Abstract: Three-way decision is widely applied with rough set theory to learn classification or decision rules. The appr…
 - [LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis](https://arxiv.org/abs/2512.21482) — arXiv:2512.21482v1 Announce Type: new  Abstract: Sophisticated text-centric forgeries, fueled by rapid AIGC advancements, pose a significant threat to societal…
 - [Leash: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning Model](https://arxiv.org/abs/2512.21540) — arXiv:2512.21540v1 Announce Type: new  Abstract: Existing approaches typically rely on fixed length penalties, but such penalties are hard to tune and fail to…
@@ -250,30 +252,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                             |   Stars | Description                                                                                                                                                      |
-|----------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| simondaubner/LiveStreamTranslateV3     |     105 | Uses LLM APIs to translate an audio source live. Perfect for live streaming with OBS.                                                                            |
-| davidfowl/tally                        |     102 | LLM-powered spending categorization. Let AI classify your bank transactions.                                                                                     |
-| deftydude/Freedom-LLM                  |      41 | Free Uncensored LLM Client with proxy support, web development mod and many other features.                                                                      |
-| IncomeStreamSurfer/AI-DESIGN-BENCHMARK |      28 | AI-powered UI component generator - Compare design outputs from multiple LLMs in real-time                                                                       |
-| lee-lou2/distill                       |      23 | 고성능 Rust 기반 웹 스크래퍼 & LLM 분석 API 서버                                                                                                                               |
-| languse-ai/android-use                 |      21 | 豆包手机开源版，基于LLM的手机自动化操作                                                                                                                                            |
-| XRDS76354/SUMO-MCP-Server              |      20 | SUMO-MCP 是一个连接大语言模型 (LLM) 与 Eclipse SUMO 交通仿真的中间件。通过 Model Context Protocol (MCP)，它允许 AI 智能体（如 Claude, Cursor, TRAE等）直接调用 SUMO 的核心功能，实现从OpenStreetMap 数据获取、路网生成… |
-| wangzhaode/tokenizer.cpp               |      18 | A lightweight, production-ready C++ library for LLM tokenization, fully compatible with HuggingFace tokenizer.json.                                              |
-| amlkiller/llm_answerer                 |      17 | 适用于OCS网课助手的基于大语言模型（LLM）的AI智能答题题库，支持单选、多选、判断、填空等多种题型。提供 HTTP API 接口、本地缓存功能、置信度评估和智能联网搜索增强。                                                                        |
-| Shaivpidadi/refrag                     |      16 | REFRAG: LLM-powered representations for better RAG retrieval. Improve precision, reduce context size, same speed.                                                |
-| Topos-Labs/infiniloom                  |      14 | High-performance repository context generator for LLMs - Transform codebases into optimized formats for Claude, GPT-4/5, Gemini, and other LLMs                  |
-| thebabush/llvm-jutsu                   |      14 | Advanced anti-LLM obfuscation                                                                                                                                    |
-| vagos/llm-grep                         |      12 | Match lines using both classic and semantic regular expressions with LLM.                                                                                        |
-| 0din-ai/sidekick                       |       9 | 0DIN Sidekick is a Firefox/Chromium Add-on/Extension for AI security researchers that streamlines LLM jailbreak testing and vulnerability discovery across mult… |
-| SihaoLiu/claude-code-gaac              |       9 | Claude Code Methodology | GAAC=Github-as-a-Context | LLM IS AS GOOD AS YOUR ARE | 胸有成码                                                                           |
-| Drenches/gov-doc-formatter             |       8 | 基于 LLM agent 的党政机关公文自动排版工具                                                                                                                                       |
-| X1AOX1A/Word2World                     |       8 | From Word to World: Can Large Language Models be Implicit Text-based World Models?                                                                               |
-| lansespirit/Clipal                     |       8 | Minimal LLM API reverse proxy for Claude Code, Codex CLI & Gemini CLI — YAML routing, hot reload, and automatic provider failover.  极简 LLM API 反向代理：面向 Claude C… |
-| alexfazio/artificial-analysis-compare  |       7 | LLM model comparison skill using Artificial Analysis API - benchmarks, pricing, and performance metrics                                                          |
-| andybhall/llm-council-governance       |       6 | Testing different group governance models for Karpathy's llm-council                                                                                             |
-
-_Showing cached data from 2025-12-28T05:37:38Z. Refresh failed: 504 Server Error: Gateway Time-out for url: https://api.github.com/search/repositories?q=%28LLM+OR+%22large+language+mo…._
+| Repository                                         |   Stars | Description                                                                                                                                                      |
+|----------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| deftydude/Freedom-LLM                              |      41 | Free Uncensored LLM Client with proxy support, web development mod and many other features.                                                                      |
+| languse-ai/android-use                             |      30 | 豆包手机开源版，基于LLM的手机自动化操作                                                                                                                                            |
+| XRDS76354/SUMO-MCP-Server                          |      21 | SUMO-MCP 是一个连接大语言模型 (LLM) 与 Eclipse SUMO 交通仿真的中间件。通过 Model Context Protocol (MCP)，它允许 AI 智能体（如 Claude, Cursor, TRAE等）直接调用 SUMO 的核心功能，实现从OpenStreetMap 数据获取、路网生成… |
+| 0din-ai/sidekick                                   |      16 | 0DIN Sidekick is a Firefox/Chromium Add-on/Extension for AI security researchers that streamlines LLM jailbreak testing and vulnerability discovery across mult… |
+| lzjever/lexilux                                    |      16 | Unified LLM API client library for Python. Simple function-like API for Chat, Embedding, Rerank, and Tokenizer. OpenAI-compatible with streaming support and un… |
+| SPACESODA/epub2txt                                 |      14 | A robust, efficient Python script to convert EPUB files to plain text files. Great for LLMs to read. You can also convert files online!                          |
+| nightwhite/any-api                                 |      12 | AI 多模型 API 聚合与协议转换网关：统一调用并互转 OpenAI Chat/Responses、Claude、Gemini 等格式，Provider 仅需实现原生协议。Multi-LLM gateway & protocol transformer: unify and convert OpenAI Chat/… |
+| roman-ryzenadvanced/PromptArch-the-prompt-enhancer |      10 | Web based LLM/AI/VibeCoders Prompt Enhancer forked from ClavixDev/Clavix                                                                                         |
+| Drenches/gov-doc-formatter                         |       9 | 基于 LLM agent 的党政机关公文自动排版工具                                                                                                                                       |
+| X1AOX1A/Word2World                                 |       9 | From Word to World: Can Large Language Models be Implicit Text-based World Models?                                                                               |
+| advent259141/LLM_MC                                |       8 | 基于Mineflayer，用fastapi作为后端的让LLM可以玩MC的小项目                                                                                                                          |
+| zzyt6/Self-Translation                             |       8 | Self Translation 是一款开源的基于大语言模型（LLM）的 Chrome 浏览器沉浸式翻译扩展。它打破了传统机翻的生硬感，利用 DeepSeek 等先进 AI 模型的理解能力，为您提供准确、流畅且保留原文排版的翻译体验。                                            |
+| solnera/esp32-mcpserver                            |       6 | A lightweight Model Context Protocol (MCP) server framework for ESP32. Seamlessly connect embedded devices to LLMs.                                              |
+| GustyCube/ERR-EVAL                                 |       5 | Benchmark for evaluating AI epistemic reliability - testing how well LLMs handle uncertainty, avoid hallucinations, and acknowledge what they don't know.        |
+| Prateekkp/SnapBase                                 |       5 | A production-grade, terminal-based AI SQL assistant using NVIDIA LLM, with schema awareness, safety guardrails, and persistent configuration.                    |
+| PreziosiRaffaele/markdown-llm.nvim                 |       5 | MarkdownLLM is a Neovim plugin that provides a simple, markdown-driven interface for interacting with LLM providers.                                             |
+| Privatris/AgentLeak                                |       5 | AgentLeak: Open benchmark for privacy leakage in LLM agents — 7 channels, multi-agent, multi-framework.                                                          |
+| dahlia/vertana                                     |       5 | LLM-powered agentic translation library for JavaScript/TypeScript                                                                                                |
+| sarva-20/LLM-Observability-FOSS                    |       5 | 🧠 Learn LLM Observability step-by-step using FOSS tools. From zero visibility to full monitoring with Langtrace, OpenTelemetry, and Jaeger. Demo from FOSS Unit… |
+| lxltx2025/LXLTX-LLRG                               |       4 | A lightweight tool for academic review writing, powered by locally deployed large language models (Ollama supported). Offline-first, privacy-focused, and tailo… |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -283,26 +283,31 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Rich Hickey: Thanks AI](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f) — 123 points
-- [As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram) — 100 points
-- [Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080) — 55 points
-- [Show HN: AI 3D Model Generator](https://3d-generator.com) — 3 points
+- [Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://github.com/HarryR/z80ai) — 476 points
+- [UK accounting body to halt remote exams amid AI cheating](https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca) — 175 points
+- [Meta's ads tools started switching out top-performing ads with AI-generated ones](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10) — 128 points
+- [AI is forcing us to write good code](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code) — 122 points
+- [Show HN: Evidex – AI Clinical Search (RAG over PubMed/OpenAlex and SOAP Notes)](https://www.getevidex.com) — 33 points
+- [AI Chatbots Linked to Psychosis, Say Doctors](https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57) — 8 points
+- [Shipping at Inference Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) — 7 points
+- [Red Flags in HIPAA-Compliant AI](https://guardianhealth.dev/blog/hipaa-ai-red-flags/) — 4 points
+- [With the rise of AI, web crawlers are suddenly controversial](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders) — 4 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
 | CVE                 |   CVSS | Summary   |
 |---------------------|--------|-----------|
-| CVE-2025-15066      |      0 |           |
-| CVE-2025-15067      |      0 |           |
-| CVE-2025-15163      |      0 |           |
-| CVE-2025-15164      |      0 |           |
-| CVE-2025-15165      |      0 |           |
-| CVE-2025-15166      |      0 |           |
-| GHSA-69jh-5qjp-fcx9 |      0 |           |
-| GHSA-h867-r9h7-gw3j |      0 |           |
-| GHSA-rpm9-rv74-f53f |      0 |           |
-| GHSA-89fx-3w93-77f2 |      0 |           |
+| CVE-2025-15213      |      0 |           |
+| CVE-2025-69217      |      0 |           |
+| CVE-2025-15214      |      0 |           |
+| CVE-2025-69234      |      0 |           |
+| CVE-2025-69235      |      0 |           |
+| GHSA-5x99-r8pc-wjj3 |      0 |           |
+| GHSA-6mjf-xww7-46hq |      0 |           |
+| GHSA-8x7h-9qhv-w654 |      0 |           |
+| GHSA-cf34-5r96-m2mj |      0 |           |
+| GHSA-rhh9-qf7p-wfgf |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

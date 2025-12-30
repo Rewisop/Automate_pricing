@@ -1,17 +1,17 @@
-fetched_at: '2025-12-29T05:44:44Z'
-generated_at: '2025-12-29T05:44:44Z'
-hash: b55d9d2246fcd547fc3a32ef5953b3d61caab2293faf3da5000e5f700425d4b7
+fetched_at: '2025-12-30T05:37:40Z'
+generated_at: '2025-12-30T05:37:40Z'
+hash: dc0a77b619cb786d0a5cd06d6eee5e163cf59886eb804ca4eeb7d6ddf519b82b
 items:
 - id: oai:arXiv.org:2512.21360v1
   link: https://arxiv.org/abs/2512.21360
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21360v1 Announce Type: new  Abstract: Background: The House-Tree-Person
     (HTP) drawing test, introduced by John Buck in 1948, remains a widely used p…'
   title: 'From Visual Perception to Deep Empathy: An Automated Assessment Framework
     for House-Tree-Person Drawings Using Multimodal LLMs and Multi-Agent Collaboration'
 - id: oai:arXiv.org:2512.21365v1
   link: https://arxiv.org/abs/2512.21365
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21365v1 Announce Type: new  Abstract: This paper analyzes the
     behavior of solving Life-and-Death (L&amp;D) problems in the game of Go using
     current…'
@@ -19,48 +19,48 @@ items:
     Solvers
 - id: oai:arXiv.org:2512.21419v1
   link: https://arxiv.org/abs/2512.21419
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21419v1 Announce Type: new  Abstract: Trisecting agents, issues,
     and agent pairs are essential topics of three-way conflict analysis. They have
     been…'
   title: Three-way conflict analysis based on alliance and conflict functions
-- id: oai:arXiv.org:2512.21420v1
+- id: oai:arXiv.org:2512.21420v2
   link: https://arxiv.org/abs/2512.21420
-  published: '2025-12-29T05:00:00Z'
-  summary: 'arXiv:2512.21420v1 Announce Type: new  Abstract: Most existing work on
+  published: '2025-12-30T05:00:00Z'
+  summary: 'arXiv:2512.21420v2 Announce Type: new  Abstract: Most existing work on
     three-way conflict analysis has focused on trisecting agent pairs, agents, or
     issues, wh…'
   title: Feasible strategies in three-way conflict analysis with three-valued ratings
 - id: oai:arXiv.org:2512.21421v1
   link: https://arxiv.org/abs/2512.21421
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21421v1 Announce Type: new  Abstract: Three-way decision is
     widely applied with rough set theory to learn classification or decision rules.
     The appr…'
   title: Three-way decision with incomplete information based on similarity and satisfiability
 - id: oai:arXiv.org:2512.21482v1
   link: https://arxiv.org/abs/2512.21482
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21482v1 Announce Type: new  Abstract: Sophisticated text-centric
     forgeries, fueled by rapid AIGC advancements, pose a significant threat to societal…'
   title: 'LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis'
 - id: oai:arXiv.org:2512.21540v1
   link: https://arxiv.org/abs/2512.21540
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21540v1 Announce Type: new  Abstract: Existing approaches typically
     rely on fixed length penalties, but such penalties are hard to tune and fail to…'
   title: 'Leash: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning
     Model'
 - id: oai:arXiv.org:2512.21578v1
   link: https://arxiv.org/abs/2512.21578
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21578v1 Announce Type: new  Abstract: We present the development
     and optimization of PayPal''s Commerce Agent, powered by NEMO-4-PAYPAL, a multi-agen…'
   title: 'NEMO-4-PAYPAL: Leveraging NVIDIA''s Nemo Framework for empowering PayPal''s
     Commerce Agent'
 - id: oai:arXiv.org:2512.21583v1
   link: https://arxiv.org/abs/2512.21583
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21583v1 Announce Type: new  Abstract: With the rapid growth
     of large language models (LLMs) and vision-language models (VLMs) in medicine,
     simply in…'
@@ -68,14 +68,14 @@ items:
     and Logic Tree Reasoning
 - id: oai:arXiv.org:2512.21613v1
   link: https://arxiv.org/abs/2512.21613
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21613v1 Announce Type: new  Abstract: In this paper, we propose
     AMS-IO-Agent, a domain-specialized LLM-based agent for structure-aware input/output…'
   title: 'AMS-IO-Bench and AMS-IO-Agent: Benchmarking and Structured Reasoning for
     Analog and Mixed-Signal Integrated Circuit Input/Output Design'
 - id: oai:arXiv.org:2512.21623v1
   link: https://arxiv.org/abs/2512.21623
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21623v1 Announce Type: new  Abstract: Therapeutic discovery
     remains a formidable challenge, impeded by the fragmentation of specialized domains
     and…'
@@ -83,21 +83,21 @@ items:
     Team for User-Guided Therapeutic Design
 - id: oai:arXiv.org:2512.21626v1
   link: https://arxiv.org/abs/2512.21626
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21626v1 Announce Type: new  Abstract: This paper proposes a
     variant of multiple-play stochastic bandits tailored to resource allocation problems
     ari…'
   title: Multiple-play Stochastic Bandits with Prioritized Arm Capacity Sharing
 - id: oai:arXiv.org:2512.21699v1
   link: https://arxiv.org/abs/2512.21699
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21699v1 Announce Type: new  Abstract: Agentic AI represents
     a major shift in how autonomous systems reason, plan, and execute multi-step tasks
     throu…'
   title: Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning
 - id: oai:arXiv.org:2512.21775v1
   link: https://arxiv.org/abs/2512.21775
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21775v1 Announce Type: new  Abstract: Generative Artificial
     Intelligence (GAI) has experienced exponential growth in recent years, partly
     facilitate…'
@@ -105,7 +105,7 @@ items:
     Datasets'
 - id: oai:arXiv.org:2512.21782v1
   link: https://arxiv.org/abs/2512.21782
-  published: '2025-12-29T05:00:00Z'
+  published: '2025-12-30T05:00:00Z'
   summary: 'arXiv:2512.21782v1 Announce Type: new  Abstract: There has been unprecedented
     interest in developing agents that expand the boundary of scientific discovery,
     p…'

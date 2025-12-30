@@ -1,121 +1,126 @@
-fetched_at: '2025-12-28T05:37:38Z'
-generated_at: '2025-12-28T05:37:38Z'
-hash: 1eb36fc1d04c44ec6e02b58fd7676c49888329d33abaa90325956a7bd46a75cc
+fetched_at: '2025-12-30T05:37:40Z'
+generated_at: '2025-12-30T05:37:40Z'
+hash: d52653163222448a5ded6805637da9320138cb8428f727151bcf841dd15d642b
 items:
-- created_at: '2025-12-27T10:17:35Z'
-  description: Uses LLM APIs to translate an audio source live. Perfect for live streaming
-    with OBS.
-  full_name: simondaubner/LiveStreamTranslateV3
-  html_url: https://github.com/simondaubner/LiveStreamTranslateV3
-  stargazers_count: 105
-- created_at: '2025-12-26T18:43:19Z'
-  description: LLM-powered spending categorization. Let AI classify your bank transactions.
-  full_name: davidfowl/tally
-  html_url: https://github.com/davidfowl/tally
-  stargazers_count: 102
 - created_at: '2025-12-26T06:14:33Z'
   description: Free Uncensored LLM Client with proxy support, web development mod
     and many other features.
   full_name: deftydude/Freedom-LLM
   html_url: https://github.com/deftydude/Freedom-LLM
   stargazers_count: 41
-- created_at: '2025-12-23T07:39:07Z'
-  description: AI-powered UI component generator - Compare design outputs from multiple
-    LLMs in real-time
-  full_name: IncomeStreamSurfer/AI-DESIGN-BENCHMARK
-  html_url: https://github.com/IncomeStreamSurfer/AI-DESIGN-BENCHMARK
-  stargazers_count: 28
-- created_at: '2025-12-23T23:06:14Z'
-  description: 고성능 Rust 기반 웹 스크래퍼 & LLM 분석 API 서버
-  full_name: lee-lou2/distill
-  html_url: https://github.com/lee-lou2/distill
-  stargazers_count: 23
 - created_at: '2025-12-24T11:23:12Z'
   description: 豆包手机开源版，基于LLM的手机自动化操作
   full_name: languse-ai/android-use
   html_url: https://github.com/languse-ai/android-use
-  stargazers_count: 21
+  stargazers_count: 30
 - created_at: '2025-12-24T07:26:21Z'
   description: SUMO-MCP 是一个连接大语言模型 (LLM) 与 Eclipse SUMO 交通仿真的中间件。通过 Model Context
     Protocol (MCP)，它允许 AI 智能体（如 Claude, Cursor, TRAE等）直接调用 SUMO 的核心功能，实现从OpenStreetMap
     数据获取、路网生成…
   full_name: XRDS76354/SUMO-MCP-Server
   html_url: https://github.com/XRDS76354/SUMO-MCP-Server
-  stargazers_count: 20
-- created_at: '2025-12-23T07:53:03Z'
-  description: A lightweight, production-ready C++ library for LLM tokenization, fully
-    compatible with HuggingFace tokenizer.json.
-  full_name: wangzhaode/tokenizer.cpp
-  html_url: https://github.com/wangzhaode/tokenizer.cpp
-  stargazers_count: 18
-- created_at: '2025-12-23T16:11:46Z'
-  description: 适用于OCS网课助手的基于大语言模型（LLM）的AI智能答题题库，支持单选、多选、判断、填空等多种题型。提供 HTTP API 接口、本地缓存功能、置信度评估和智能联网搜索增强。
-  full_name: amlkiller/llm_answerer
-  html_url: https://github.com/amlkiller/llm_answerer
-  stargazers_count: 17
-- created_at: '2025-12-22T00:47:03Z'
-  description: 'REFRAG: LLM-powered representations for better RAG retrieval. Improve
-    precision, reduce context size, same speed.'
-  full_name: Shaivpidadi/refrag
-  html_url: https://github.com/Shaivpidadi/refrag
-  stargazers_count: 16
-- created_at: '2025-12-23T04:01:00Z'
-  description: High-performance repository context generator for LLMs - Transform
-    codebases into optimized formats for Claude, GPT-4/5, Gemini, and other LLMs
-  full_name: Topos-Labs/infiniloom
-  html_url: https://github.com/Topos-Labs/infiniloom
-  stargazers_count: 14
-- created_at: '2025-12-22T19:51:07Z'
-  description: Advanced anti-LLM obfuscation
-  full_name: thebabush/llvm-jutsu
-  html_url: https://github.com/thebabush/llvm-jutsu
-  stargazers_count: 14
-- created_at: '2025-12-22T05:01:01Z'
-  description: Match lines using both classic and semantic regular expressions with
-    LLM.
-  full_name: vagos/llm-grep
-  html_url: https://github.com/vagos/llm-grep
-  stargazers_count: 12
+  stargazers_count: 21
 - created_at: '2025-12-24T16:54:44Z'
   description: 0DIN Sidekick is a Firefox/Chromium Add-on/Extension for AI security
     researchers that streamlines LLM jailbreak testing and vulnerability discovery
     across mult…
   full_name: 0din-ai/sidekick
   html_url: https://github.com/0din-ai/sidekick
-  stargazers_count: 9
-- created_at: '2025-12-22T19:44:06Z'
-  description: Claude Code Methodology | GAAC=Github-as-a-Context | LLM IS AS GOOD
-    AS YOUR ARE | 胸有成码
-  full_name: SihaoLiu/claude-code-gaac
-  html_url: https://github.com/SihaoLiu/claude-code-gaac
-  stargazers_count: 9
+  stargazers_count: 16
+- created_at: '2025-12-29T05:30:20Z'
+  description: Unified LLM API client library for Python. Simple function-like API
+    for Chat, Embedding, Rerank, and Tokenizer. OpenAI-compatible with streaming support
+    and un…
+  full_name: lzjever/lexilux
+  html_url: https://github.com/lzjever/lexilux
+  stargazers_count: 16
+- created_at: '2025-12-28T23:13:28Z'
+  description: A robust, efficient Python script to convert EPUB files to plain text
+    files. Great for LLMs to read. You can also convert files online!
+  full_name: SPACESODA/epub2txt
+  html_url: https://github.com/SPACESODA/epub2txt
+  stargazers_count: 14
+- created_at: '2025-12-28T15:18:02Z'
+  description: 'AI 多模型 API 聚合与协议转换网关：统一调用并互转 OpenAI Chat/Responses、Claude、Gemini 等格式，Provider
+    仅需实现原生协议。Multi-LLM gateway & protocol transformer: unify and convert OpenAI Chat/…'
+  full_name: nightwhite/any-api
+  html_url: https://github.com/nightwhite/any-api
+  stargazers_count: 12
+- created_at: '2025-12-25T12:57:13Z'
+  description: Web based LLM/AI/VibeCoders Prompt Enhancer forked from ClavixDev/Clavix
+  full_name: roman-ryzenadvanced/PromptArch-the-prompt-enhancer
+  html_url: https://github.com/roman-ryzenadvanced/PromptArch-the-prompt-enhancer
+  stargazers_count: 10
 - created_at: '2025-12-26T00:48:46Z'
   description: 基于 LLM agent 的党政机关公文自动排版工具
   full_name: Drenches/gov-doc-formatter
   html_url: https://github.com/Drenches/gov-doc-formatter
-  stargazers_count: 8
+  stargazers_count: 9
 - created_at: '2025-12-24T00:13:39Z'
   description: 'From Word to World: Can Large Language Models be Implicit Text-based
     World Models?'
   full_name: X1AOX1A/Word2World
   html_url: https://github.com/X1AOX1A/Word2World
+  stargazers_count: 9
+- created_at: '2025-12-29T04:09:16Z'
+  description: 基于Mineflayer，用fastapi作为后端的让LLM可以玩MC的小项目
+  full_name: advent259141/LLM_MC
+  html_url: https://github.com/advent259141/LLM_MC
   stargazers_count: 8
-- created_at: '2025-12-22T05:17:05Z'
-  description: Minimal LLM API reverse proxy for Claude Code, Codex CLI & Gemini CLI
-    — YAML routing, hot reload, and automatic provider failover.  极简 LLM API 反向代理：面向
-    Claude C…
-  full_name: lansespirit/Clipal
-  html_url: https://github.com/lansespirit/Clipal
+- created_at: '2025-12-27T00:02:07Z'
+  description: Self Translation 是一款开源的基于大语言模型（LLM）的 Chrome 浏览器沉浸式翻译扩展。它打破了传统机翻的生硬感，利用
+    DeepSeek 等先进 AI 模型的理解能力，为您提供准确、流畅且保留原文排版的翻译体验。
+  full_name: zzyt6/Self-Translation
+  html_url: https://github.com/zzyt6/Self-Translation
   stargazers_count: 8
-- created_at: '2025-12-22T12:12:18Z'
-  description: LLM model comparison skill using Artificial Analysis API - benchmarks,
-    pricing, and performance metrics
-  full_name: alexfazio/artificial-analysis-compare
-  html_url: https://github.com/alexfazio/artificial-analysis-compare
-  stargazers_count: 7
-- created_at: '2025-12-22T16:21:54Z'
-  description: Testing different group governance models for Karpathy's llm-council
-  full_name: andybhall/llm-council-governance
-  html_url: https://github.com/andybhall/llm-council-governance
+- created_at: '2025-12-26T16:39:50Z'
+  description: A lightweight Model Context Protocol (MCP) server framework for ESP32.
+    Seamlessly connect embedded devices to LLMs.
+  full_name: solnera/esp32-mcpserver
+  html_url: https://github.com/solnera/esp32-mcpserver
   stargazers_count: 6
+- created_at: '2025-12-24T23:07:58Z'
+  description: Benchmark for evaluating AI epistemic reliability - testing how well
+    LLMs handle uncertainty, avoid hallucinations, and acknowledge what they don't
+    know.
+  full_name: GustyCube/ERR-EVAL
+  html_url: https://github.com/GustyCube/ERR-EVAL
+  stargazers_count: 5
+- created_at: '2025-12-24T08:07:19Z'
+  description: A production-grade, terminal-based AI SQL assistant using NVIDIA LLM,
+    with schema awareness, safety guardrails, and persistent configuration.
+  full_name: Prateekkp/SnapBase
+  html_url: https://github.com/Prateekkp/SnapBase
+  stargazers_count: 5
+- created_at: '2025-12-25T19:03:48Z'
+  description: MarkdownLLM is a Neovim plugin that provides a simple, markdown-driven
+    interface for interacting with LLM providers.
+  full_name: PreziosiRaffaele/markdown-llm.nvim
+  html_url: https://github.com/PreziosiRaffaele/markdown-llm.nvim
+  stargazers_count: 5
+- created_at: '2025-12-24T19:18:23Z'
+  description: 'AgentLeak: Open benchmark for privacy leakage in LLM agents — 7 channels,
+    multi-agent, multi-framework.'
+  full_name: Privatris/AgentLeak
+  html_url: https://github.com/Privatris/AgentLeak
+  stargazers_count: 5
+- created_at: '2025-12-30T00:43:15Z'
+  description: LLM-powered agentic translation library for JavaScript/TypeScript
+  full_name: dahlia/vertana
+  html_url: https://github.com/dahlia/vertana
+  stargazers_count: 5
+- created_at: '2025-12-24T07:20:04Z'
+  description: 🧠 Learn LLM Observability step-by-step using FOSS tools. From zero
+    visibility to full monitoring with Langtrace, OpenTelemetry, and Jaeger. Demo
+    from FOSS Unit…
+  full_name: sarva-20/LLM-Observability-FOSS
+  html_url: https://github.com/sarva-20/LLM-Observability-FOSS
+  stargazers_count: 5
+- created_at: '2025-12-26T03:46:09Z'
+  description: A lightweight tool for academic review writing, powered by locally
+    deployed large language models (Ollama supported). Offline-first, privacy-focused,
+    and tailo…
+  full_name: lxltx2025/LXLTX-LLRG
+  html_url: https://github.com/lxltx2025/LXLTX-LLRG
+  stargazers_count: 4
 source_url: https://api.github.com/search/repositories
