@@ -1,45 +1,45 @@
-fetched_at: '2025-12-30T05:37:40Z'
-generated_at: '2025-12-30T05:37:40Z'
-hash: 403f2065f993d3a99d8fd493f146e2ea61239e5f8822d4be872c7f0f16406813
+fetched_at: '2025-12-31T05:39:23Z'
+generated_at: '2025-12-31T05:39:23Z'
+hash: 9f8b1ea859cfcea50584aff3cd7ac7d9b78f908110cb6210e4496f2d821b8a4d
 items:
 - cvss: 0.0
-  id: CVE-2025-15213
-  published: '2025-12-30T01:15:41Z'
+  id: GHSA-5rp3-83j5-w2g4
+  published: '2023-12-07T06:30:18Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-69217
-  published: '2025-12-30T01:15:41Z'
+  id: GHSA-4425-3v92-m6q6
+  published: '2024-01-23T06:30:21Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-15214
-  published: '2025-12-30T02:16:16Z'
+  id: GHSA-7695-f938-c2jf
+  published: '2024-01-23T06:30:21Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-69234
-  published: '2025-12-30T02:16:16Z'
+  id: GHSA-98h2-7j4h-7xc5
+  published: '2024-01-23T06:30:21Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-69235
-  published: '2025-12-30T02:16:16Z'
+  id: GHSA-crvx-w25m-8x7c
+  published: '2024-01-23T06:30:21Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-5x99-r8pc-wjj3
-  published: '2025-12-30T03:30:16Z'
+  id: GHSA-f282-55f7-242h
+  published: '2024-01-23T06:30:21Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-6mjf-xww7-46hq
-  published: '2025-12-30T03:30:16Z'
+  id: GHSA-78cp-c4p5-694f
+  published: '2024-01-23T06:30:22Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-8x7h-9qhv-w654
-  published: '2025-12-30T03:30:16Z'
+  id: GHSA-3j8r-26jq-jj7w
+  published: '2024-03-18T00:30:44Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-cf34-5r96-m2mj
-  published: '2025-12-30T03:30:16Z'
-  summary: ''
+  id: MAL-2025-989
+  published: '2024-08-23T22:55:41Z'
+  summary: Malicious code in swapoc (PyPI)
 - cvss: 0.0
-  id: GHSA-rhh9-qf7p-wfgf
-  published: '2025-12-30T03:30:16Z'
-  summary: ''
+  id: MAL-2025-990
+  published: '2024-12-26T12:24:34Z'
+  summary: Malicious code in syscontrol (PyPI)
 source_url: https://cve.circl.lu/api/last
