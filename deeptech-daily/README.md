@@ -78,6 +78,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -89,6 +90,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -212,21 +214,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [Bidirectional RAG: Safe Self-Improving Retrieval-Augmented Generation Through Multi-Stage Validation](https://arxiv.org/abs/2512.22199) — arXiv:2512.22199v1 Announce Type: new  Abstract: Retrieval-Augmented Generation RAG systems enhance large language models by grounding responses in external kn…
-- [Emergent Persuasion: Will LLMs Persuade Without Being Prompted?](https://arxiv.org/abs/2512.22201) — arXiv:2512.22201v1 Announce Type: new  Abstract: With the wide-scale adoption of conversational AI systems, AI are now able to exert unprecedented influence on…
-- [GamiBench: Evaluating Spatial Reasoning and 2D-to-3D Planning Capabilities of MLLMs with Origami Folding Tasks](https://arxiv.org/abs/2512.22207) — arXiv:2512.22207v1 Announce Type: new  Abstract: Multimodal large language models (MLLMs) are proficient in perception and instruction-following, but they stil…
-- [Toward Equitable Recovery: A Fairness-Aware AI Framework for Prioritizing Post-Flood Aid in Bangladesh](https://arxiv.org/abs/2512.22210) — arXiv:2512.22210v1 Announce Type: new  Abstract: Post-disaster aid allocation in developing nations often suffers from systematic biases that disadvantage vuln…
-- [With Great Capabilities Come Great Responsibilities: Introducing the Agentic Risk & Capability Framework for Governing Agentic AI Systems](https://arxiv.org/abs/2512.22211) — arXiv:2512.22211v1 Announce Type: new  Abstract: Agentic AI systems present both significant opportunities and novel risks due to their capacity for autonomous…
-- [We are not able to identify AI-generated images](https://arxiv.org/abs/2512.22236) — arXiv:2512.22236v1 Announce Type: new  Abstract: AI-generated images are now pervasive online, yet many people believe they can easily tell them apart from rea…
-- [Shape of Thought: When Distribution Matters More than Correctness in Reasoning Tasks](https://arxiv.org/abs/2512.22255) — arXiv:2512.22255v1 Announce Type: new  Abstract: We present the surprising finding that a language model's reasoning capabilities can be improved by training o…
-- [Logic Sketch Prompting (LSP): A Deterministic and Interpretable Prompting Method](https://arxiv.org/abs/2512.22258) — arXiv:2512.22258v1 Announce Type: new  Abstract: Large language models (LLMs) excel at natural language reasoning but remain unreliable on tasks requiring stri…
-- [SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence](https://arxiv.org/abs/2512.22334) — arXiv:2512.22334v1 Announce Type: new  Abstract: We introduce SciEvalKit, a unified benchmarking toolkit designed to evaluate AI models for science across a br…
-- [Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback](https://arxiv.org/abs/2512.22336) — arXiv:2512.22336v1 Announce Type: new  Abstract: Symbolic world models (e.g., PDDL domains or executable simulators) are central to model-based planning, but t…
-- [Subgoaling Relaxation-based Heuristics for Numeric Planning with Infinite Actions](https://arxiv.org/abs/2512.22367) — arXiv:2512.22367v1 Announce Type: new  Abstract: Numeric planning with control parameters extends the standard numeric planning model by introducing action par…
-- [HalluMat: Detecting Hallucinations in LLM-Generated Materials Science Content Through Multi-Stage Verification](https://arxiv.org/abs/2512.22396) — arXiv:2512.22396v1 Announce Type: new  Abstract: Artificial Intelligence (AI), particularly Large Language Models (LLMs), is transforming scientific discovery,…
-- [Lightweight Inference-Time Personalization for Frozen Knowledge Graph Embeddings](https://arxiv.org/abs/2512.22398) — arXiv:2512.22398v1 Announce Type: new  Abstract: Foundation models for knowledge graphs (KGs) achieve strong cohort-level performance in link prediction, yet f…
-- [Monadic Context Engineering](https://arxiv.org/abs/2512.22431) — arXiv:2512.22431v1 Announce Type: new  Abstract: The proliferation of Large Language Models (LLMs) has catalyzed a shift towards autonomous agents capable of c…
-- [DarkPatterns-LLM: A Multi-Layer Benchmark for Detecting Manipulative and Harmful AI Behavior](https://arxiv.org/abs/2512.22470) — arXiv:2512.22470v1 Announce Type: new  Abstract: The proliferation of Large Language Models (LLMs) has intensified concerns about manipulative or deceptive beh…
+- [The Drill-Down and Fabricate Test (DDFT): A Protocol for Measuring Epistemic Robustness in Language Models](https://arxiv.org/abs/2512.23850) — arXiv:2512.23850v1 Announce Type: new  Abstract: Current language model evaluations measure what models know under ideal conditions but not how robustly they k…
+- [CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution](https://arxiv.org/abs/2512.23880) — arXiv:2512.23880v1 Announce Type: new  Abstract: Large language model (LLM) agents currently depend on predefined tools or brittle tool generation, constrainin…
+- [A Proof-of-Concept for Explainable Disease Diagnosis Using Large Language Models and Answer Set Programming](https://arxiv.org/abs/2512.23932) — arXiv:2512.23932v1 Announce Type: new  Abstract: Accurate disease prediction is vital for timely intervention, effective treatment, and reducing medical compli…
+- [SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing](https://arxiv.org/abs/2512.24008) — arXiv:2512.24008v1 Announce Type: new  Abstract: Personalized search demands the ability to model users' evolving, multi-dimensional information needs; a chall…
+- [ROAD: Reflective Optimization via Automated Debugging for Zero-Shot Agent Alignment](https://arxiv.org/abs/2512.24040) — arXiv:2512.24040v1 Announce Type: new  Abstract: Automatic Prompt Optimization (APO) has emerged as a critical technique for enhancing Large Language Model (LL…
+- [LoongFlow: Directed Evolutionary Search via a Cognitive Plan-Execute-Summarize Paradigm](https://arxiv.org/abs/2512.24077) — arXiv:2512.24077v1 Announce Type: new  Abstract: The transition from static Large Language Models (LLMs) to self-improving agents is hindered by the lack of st…
+- [CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar for Explainable Recommendation](https://arxiv.org/abs/2512.24113) — arXiv:2512.24113v1 Announce Type: new  Abstract: Large Language Models (LLMs) have demonstrated a remarkable capacity in understanding user preferences for rec…
+- [Graph-Based Exploration for ARC-AGI-3 Interactive Reasoning Tasks](https://arxiv.org/abs/2512.24156) — arXiv:2512.24156v1 Announce Type: new  Abstract: We present a training-free graph-based approach for solving interactive reasoning tasks in the ARC-AGI-3 bench…
+- [SCP: Accelerating Discovery with a Global Web of Autonomous Scientific Agents](https://arxiv.org/abs/2512.24189) — arXiv:2512.24189v1 Announce Type: new  Abstract: We introduce SCP: the Science Context Protocol, an open-source standard designed to accelerate discovery by en…
+- [Deep Reinforcement Learning for Solving the Fleet Size and Mix Vehicle Routing Problem](https://arxiv.org/abs/2512.24251) — arXiv:2512.24251v1 Announce Type: new  Abstract: The Fleet Size and Mix Vehicle Routing Problem (FSMVRP) is a prominent variant of the Vehicle Routing Problem…
+- [Constrained Language Model Policy Optimization via Risk-aware Stepwise Alignment](https://arxiv.org/abs/2512.24263) — arXiv:2512.24263v1 Announce Type: new  Abstract: When fine-tuning pre-trained Language Models (LMs) to exhibit desired behaviors, maintaining control over risk…
+- [Align While Search: Belief-Guided Exploratory Inference for World-Grounded Embodied Agents](https://arxiv.org/abs/2512.24461) — arXiv:2512.24461v1 Announce Type: new  Abstract: In this paper, we propose a test-time adaptive agent that performs exploratory inference through posterior-gui…
+- [What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?](https://arxiv.org/abs/2512.24497) — arXiv:2512.24497v1 Announce Type: new  Abstract: A long-standing challenge in AI is to develop agents capable of solving a wide range of physical tasks and gen…
+- [Thinking on Maps: How Foundation Model Agents Explore, Remember, and Reason Map Environments](https://arxiv.org/abs/2512.24504) — arXiv:2512.24504v1 Announce Type: new  Abstract: Map environments provide a fundamental medium for representing spatial structure. Understanding how foundation…
+- [Evaluating the Reasoning Abilities of LLMs on Underrepresented Mathematics Competition Problems](https://arxiv.org/abs/2512.24505) — arXiv:2512.24505v1 Announce Type: new  Abstract: Understanding the limitations of Large Language Models, or LLMs, in mathematical reasoning has been the focus…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -254,28 +256,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                         |   Stars | Description                                                                                                                                                      |
-|----------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| deftydude/Freedom-LLM                              |      39 | Free Uncensored LLM Client with proxy support, web development mod and many other features.                                                                      |
-| SPACESODA/epub2txt                                 |      21 | A robust, efficient Python script to convert EPUB files to plain text files. Great for LLMs to read. You can also convert files online!                          |
-| lzjever/lexilux                                    |      21 | Unified LLM API client library for Python. Simple function-like API for Chat, Embedding, Rerank, and Tokenizer. OpenAI-compatible with streaming support and un… |
-| dahlia/vertana                                     |      15 | LLM-powered agentic translation library for JavaScript/TypeScript                                                                                                |
-| mprajyothreddy/brainkernel                         |      14 | Replacing the OS process scheduler with an LLM                                                                                                                   |
-| nightwhite/any-api                                 |      12 | AI 多模型 API 聚合与协议转换网关：统一调用并互转 OpenAI Chat/Responses、Claude、Gemini 等格式，Provider 仅需实现原生协议。Multi-LLM gateway & protocol transformer: unify and convert OpenAI Chat/… |
-| roman-ryzenadvanced/PromptArch-the-prompt-enhancer |      10 | Web based LLM/AI/VibeCoders Prompt Enhancer forked from ClavixDev/Clavix                                                                                         |
-| Drenches/gov-doc-formatter                         |       9 | 基于 LLM agent 的党政机关公文自动排版工具                                                                                                                                       |
-| advent259141/LLM_MC                                |       8 | 基于Mineflayer，用fastapi作为后端的让LLM可以玩MC的小项目                                                                                                                          |
-| solnera/esp32-mcpserver                            |       8 | A lightweight Model Context Protocol (MCP) server framework for ESP32. Seamlessly connect embedded devices to LLMs.                                              |
-| zzyt6/Self-Translation                             |       8 | Self Translation 是一款开源的基于大语言模型（LLM）的 Chrome 浏览器沉浸式翻译扩展。它打破了传统机翻的生硬感，利用 DeepSeek 等先进 AI 模型的理解能力，为您提供准确、流畅且保留原文排版的翻译体验。                                            |
-| 0xJaeg3r/backdoorsandbreaches-socinvader           |       7 | 🎮 AI-powered solo mode for Backdoors & Breaches. Train incident response skills anytime with an LLM Incident Master. Arcade-themed fork of BHIS's tabletop IR g… |
-| lxltx2025/LXLTX-LLRG                               |       7 | A lightweight tool for academic review writing, powered by locally deployed large language models (Ollama supported). Offline-first, privacy-focused, and tailo… |
-| PreziosiRaffaele/markdown-llm.nvim                 |       6 | MarkdownLLM is a Neovim plugin that provides a simple, markdown-driven interface for interacting with LLM providers.                                             |
-| hack-umbrella/LLM-Security-Toolkit                 |       5 | 把AI安全从"艺术"变成"科学" - 全面的LLM安全工具包                                                                                                                                   |
-| DorsaRoh/cadence                                   |       4 | Make LLMs create music                                                                                                                                           |
-| YASSERRMD/lutmac                                   |       4 | Ultra-Low-Bit LLM Inference Engine with Bit-Serial LUT Kernels                                                                                                   |
-| huytd/reddit-with-agents                           |       4 | Reddit but you are talking to LLM agents                                                                                                                         |
-| jswysnemc/mtrans                                   |       4 | LLM-based command-line translation tool written in Rust                                                                                                          |
-| zekunlou/zotero_llm                                |       4 | Zotero paper analyzer based on LLMs, code maintained by LLMs                                                                                                     |
+| Repository                               |   Stars | Description                                                                                                                                                      |
+|------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SPACESODA/epub2txt                       |      40 | A robust, efficient Python script to convert EPUB files to plain text files. Great for LLMs to read. You can also convert files online!                          |
+| deftydude/Freedom-LLM                    |      39 | Free Uncensored LLM Client with proxy support, web development mod and many other features.                                                                      |
+| lzjever/lexilux                          |      21 | Unified LLM API client library for Python. Simple function-like API for Chat, Embedding, Rerank, and Tokenizer. OpenAI-compatible with streaming support and un… |
+| mprajyothreddy/brainkernel               |      20 | Replacing the OS process scheduler with an LLM                                                                                                                   |
+| DorsaRoh/audial                          |      19 | LLM-written music                                                                                                                                                |
+| 0xJaeg3r/backdoorsandbreaches-socinvader |      17 | 🎮 AI-powered solo mode for Backdoors & Breaches. Train incident response skills anytime with an LLM Incident Master. Arcade-themed fork of BHIS's tabletop IR g… |
+| dahlia/vertana                           |      16 | LLM-powered agentic translation library for JavaScript/TypeScript                                                                                                |
+| JiangZhihao123/llmalpha                  |      13 | LLM-driven autonomous cryptocurrency trading strategy research framework                                                                                         |
+| nightwhite/any-api                       |      12 | AI 多模型 API 聚合与协议转换网关：统一调用并互转 OpenAI Chat/Responses、Claude、Gemini 等格式，Provider 仅需实现原生协议。Multi-LLM gateway & protocol transformer: unify and convert OpenAI Chat/… |
+| Drenches/gov-doc-formatter               |       9 | 基于 LLM agent 的党政机关公文自动排版工具                                                                                                                                       |
+| eL1fe/Cogitator                          |       9 | 🤖 Kubernetes for AI Agents. Self-hosted, production-grade runtime for orchestrating LLM swarms and autonomous agents. TypeScript-native.                         |
+| advent259141/LLM_MC                      |       8 | 基于Mineflayer，用fastapi作为后端的让LLM可以玩MC的小项目                                                                                                                          |
+| solnera/esp32-mcpserver                  |       8 | A lightweight Model Context Protocol (MCP) server framework for ESP32. Seamlessly connect embedded devices to LLMs.                                              |
+| zzyt6/Self-Translation                   |       8 | Self Translation 是一款开源的基于大语言模型（LLM）的 Chrome 浏览器沉浸式翻译扩展。它打破了传统机翻的生硬感，利用 DeepSeek 等先进 AI 模型的理解能力，为您提供准确、流畅且保留原文排版的翻译体验。                                            |
+| lxltx2025/LXLTX-LLRG                     |       7 | A lightweight tool for academic review writing, powered by locally deployed large language models (Ollama supported). Offline-first, privacy-focused, and tailo… |
+| chethanreddy1/infer                      |       6 | A minimal CLI tool for piping anything into an LLM.                                                                                                              |
+| grammyjs/stream                          |       6 | Stream long text messages to Telegram, such as LLM output                                                                                                        |
+| ElSnacko/llm-steering                    |       5 | Statistical toolkit for LLM refusal steering. Uses judge scores to weight training data, correlation analysis to identify effective layers, and automated alpha… |
+| hack-umbrella/LLM-Security-Toolkit       |       5 | 把AI安全从"艺术"变成"科学" - 全面的LLM安全工具包                                                                                                                                   |
+| zekunlou/zotero_llm                      |       4 | Zotero paper analyzer based on LLMs, code maintained by LLMs                                                                                                     |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -285,29 +287,28 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026) — 274 points
-- [LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159) — 145 points
-- [The 70% AI productivity myth: why most companies aren't seeing the gains](https://sderosiaux.substack.com/p/the-70-ai-productivity-myth-why-most) — 76 points
-- [Show HN: Replacing my OS process scheduler with an LLM](https://github.com/mprajyothreddy/brainkernel) — 16 points
-- [AI code analysis is getting good](https://hachyderm.io/@mitchellh/115810614410324976) — 13 points
-- [Attention Is Bayesian Inference](https://medium.com/@vishalmisra/attention-is-bayesian-inference-578c25db4501) — 8 points
-- [Stable-Pretraining-v1: Foundation Model Research Made Simple](https://arxiv.org/abs/2511.19484) — 5 points
+- [How AI labs are solving the power problem](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power) — 138 points
+- [OpenAI is paying employees more than any major tech startup in history](https://www.wsj.com/tech/ai/openai-is-paying-employees-more-than-any-major-tech-startup-in-history-23472527) — 79 points
+- [Why C++ programmers keep growing fast despite competition, safety, and AI](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/) — 47 points
+- [Laptops are about to become a casualty of the AI grift](https://www.theblaze.com/columns/opinion/your-laptop-is-about-to-become-a-casualty-of-the-ai-grift) — 22 points
+- [Zara uses AI to dress models virtually rather than book new photo shoots](https://www.cityam.com/zara-turns-to-ai-edited-models-amid-shop-closures/) — 6 points
+- [Ask HN: What is the best microVMs for AI agents?](https://news.ycombinator.com/item?id=46450931) — 3 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                             |
-|---------------------|--------|-------------------------------------|
-| GHSA-5rp3-83j5-w2g4 |      0 |                                     |
-| GHSA-4425-3v92-m6q6 |      0 |                                     |
-| GHSA-7695-f938-c2jf |      0 |                                     |
-| GHSA-98h2-7j4h-7xc5 |      0 |                                     |
-| GHSA-crvx-w25m-8x7c |      0 |                                     |
-| GHSA-f282-55f7-242h |      0 |                                     |
-| GHSA-78cp-c4p5-694f |      0 |                                     |
-| GHSA-3j8r-26jq-jj7w |      0 |                                     |
-| MAL-2025-989        |      0 | Malicious code in swapoc (PyPI)     |
-| MAL-2025-990        |      0 | Malicious code in syscontrol (PyPI) |
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| GHSA-8c8m-9q8w-x9qv |      0 |           |
+| GHSA-955v-fhgv-r5mc |      0 |           |
+| GHSA-9cr2-mcww-ph38 |      0 |           |
+| GHSA-9pqg-5fj8-q9hp |      0 |           |
+| GHSA-c3pq-8g5g-cppr |      0 |           |
+| GHSA-gr46-whc3-j78v |      0 |           |
+| GHSA-mqxx-jgfc-rwj6 |      0 |           |
+| GHSA-q8mx-26vf-pwm7 |      0 |           |
+| GHSA-v2pw-fhhq-h8hr |      0 |           |
+| GHSA-v6h4-h294-v39r |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

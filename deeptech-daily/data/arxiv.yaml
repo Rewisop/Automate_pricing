@@ -1,118 +1,117 @@
-fetched_at: '2025-12-31T05:39:23Z'
-generated_at: '2025-12-31T05:39:23Z'
-hash: 511cf48a3f75d9dde774afbb82b4fc14912c383c664794d67e1b39905e745cf9
+fetched_at: '2026-01-01T05:42:42Z'
+generated_at: '2026-01-01T05:42:42Z'
+hash: d0ca069c83acc6b59d7a01ffa9a01242c536988eeba546c95f5e20028958539a
 items:
-- id: oai:arXiv.org:2512.22199v1
-  link: https://arxiv.org/abs/2512.22199
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22199v1 Announce Type: new  Abstract: Retrieval-Augmented Generation
-    RAG systems enhance large language models by grounding responses in external kn…'
-  title: 'Bidirectional RAG: Safe Self-Improving Retrieval-Augmented Generation Through
-    Multi-Stage Validation'
-- id: oai:arXiv.org:2512.22201v1
-  link: https://arxiv.org/abs/2512.22201
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22201v1 Announce Type: new  Abstract: With the wide-scale adoption
-    of conversational AI systems, AI are now able to exert unprecedented influence
-    on…'
-  title: 'Emergent Persuasion: Will LLMs Persuade Without Being Prompted?'
-- id: oai:arXiv.org:2512.22207v1
-  link: https://arxiv.org/abs/2512.22207
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22207v1 Announce Type: new  Abstract: Multimodal large language
-    models (MLLMs) are proficient in perception and instruction-following, but they
-    stil…'
-  title: 'GamiBench: Evaluating Spatial Reasoning and 2D-to-3D Planning Capabilities
-    of MLLMs with Origami Folding Tasks'
-- id: oai:arXiv.org:2512.22210v1
-  link: https://arxiv.org/abs/2512.22210
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22210v1 Announce Type: new  Abstract: Post-disaster aid allocation
-    in developing nations often suffers from systematic biases that disadvantage vuln…'
-  title: 'Toward Equitable Recovery: A Fairness-Aware AI Framework for Prioritizing
-    Post-Flood Aid in Bangladesh'
-- id: oai:arXiv.org:2512.22211v1
-  link: https://arxiv.org/abs/2512.22211
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22211v1 Announce Type: new  Abstract: Agentic AI systems present
-    both significant opportunities and novel risks due to their capacity for autonomous…'
-  title: 'With Great Capabilities Come Great Responsibilities: Introducing the Agentic
-    Risk & Capability Framework for Governing Agentic AI Systems'
-- id: oai:arXiv.org:2512.22236v1
-  link: https://arxiv.org/abs/2512.22236
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22236v1 Announce Type: new  Abstract: AI-generated images are
-    now pervasive online, yet many people believe they can easily tell them apart
-    from rea…'
-  title: We are not able to identify AI-generated images
-- id: oai:arXiv.org:2512.22255v1
-  link: https://arxiv.org/abs/2512.22255
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22255v1 Announce Type: new  Abstract: We present the surprising
-    finding that a language model''s reasoning capabilities can be improved by training
-    o…'
-  title: 'Shape of Thought: When Distribution Matters More than Correctness in Reasoning
-    Tasks'
-- id: oai:arXiv.org:2512.22258v1
-  link: https://arxiv.org/abs/2512.22258
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22258v1 Announce Type: new  Abstract: Large language models
-    (LLMs) excel at natural language reasoning but remain unreliable on tasks requiring
-    stri…'
-  title: 'Logic Sketch Prompting (LSP): A Deterministic and Interpretable Prompting
-    Method'
-- id: oai:arXiv.org:2512.22334v1
-  link: https://arxiv.org/abs/2512.22334
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22334v1 Announce Type: new  Abstract: We introduce SciEvalKit,
-    a unified benchmarking toolkit designed to evaluate AI models for science across
-    a br…'
-  title: 'SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence'
-- id: oai:arXiv.org:2512.22336v1
-  link: https://arxiv.org/abs/2512.22336
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22336v1 Announce Type: new  Abstract: Symbolic world models
-    (e.g., PDDL domains or executable simulators) are central to model-based planning,
-    but t…'
-  title: 'Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent
-    Feedback'
-- id: oai:arXiv.org:2512.22367v1
-  link: https://arxiv.org/abs/2512.22367
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22367v1 Announce Type: new  Abstract: Numeric planning with
-    control parameters extends the standard numeric planning model by introducing
-    action par…'
-  title: Subgoaling Relaxation-based Heuristics for Numeric Planning with Infinite
-    Actions
-- id: oai:arXiv.org:2512.22396v1
-  link: https://arxiv.org/abs/2512.22396
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22396v1 Announce Type: new  Abstract: Artificial Intelligence
-    (AI), particularly Large Language Models (LLMs), is transforming scientific discovery,…'
-  title: 'HalluMat: Detecting Hallucinations in LLM-Generated Materials Science Content
-    Through Multi-Stage Verification'
-- id: oai:arXiv.org:2512.22398v1
-  link: https://arxiv.org/abs/2512.22398
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22398v1 Announce Type: new  Abstract: Foundation models for
-    knowledge graphs (KGs) achieve strong cohort-level performance in link prediction,
-    yet f…'
-  title: Lightweight Inference-Time Personalization for Frozen Knowledge Graph Embeddings
-- id: oai:arXiv.org:2512.22431v1
-  link: https://arxiv.org/abs/2512.22431
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22431v1 Announce Type: new  Abstract: The proliferation of
-    Large Language Models (LLMs) has catalyzed a shift towards autonomous agents capable
-    of c…'
-  title: Monadic Context Engineering
-- id: oai:arXiv.org:2512.22470v1
-  link: https://arxiv.org/abs/2512.22470
-  published: '2025-12-31T05:00:00Z'
-  summary: 'arXiv:2512.22470v1 Announce Type: new  Abstract: The proliferation of
-    Large Language Models (LLMs) has intensified concerns about manipulative or deceptive
-    beh…'
-  title: 'DarkPatterns-LLM: A Multi-Layer Benchmark for Detecting Manipulative and
-    Harmful AI Behavior'
+- id: oai:arXiv.org:2512.23850v1
+  link: https://arxiv.org/abs/2512.23850
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.23850v1 Announce Type: new  Abstract: Current language model
+    evaluations measure what models know under ideal conditions but not how robustly
+    they k…'
+  title: 'The Drill-Down and Fabricate Test (DDFT): A Protocol for Measuring Epistemic
+    Robustness in Language Models'
+- id: oai:arXiv.org:2512.23880v1
+  link: https://arxiv.org/abs/2512.23880
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.23880v1 Announce Type: new  Abstract: Large language model
+    (LLM) agents currently depend on predefined tools or brittle tool generation,
+    constrainin…'
+  title: 'CASCADE: Cumulative Agentic Skill Creation through Autonomous Development
+    and Evolution'
+- id: oai:arXiv.org:2512.23932v1
+  link: https://arxiv.org/abs/2512.23932
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.23932v1 Announce Type: new  Abstract: Accurate disease prediction
+    is vital for timely intervention, effective treatment, and reducing medical compli…'
+  title: A Proof-of-Concept for Explainable Disease Diagnosis Using Large Language
+    Models and Answer Set Programming
+- id: oai:arXiv.org:2512.24008v1
+  link: https://arxiv.org/abs/2512.24008
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.24008v1 Announce Type: new  Abstract: Personalized search demands
+    the ability to model users'' evolving, multi-dimensional information needs; a
+    chall…'
+  title: 'SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing'
+- id: oai:arXiv.org:2512.24040v1
+  link: https://arxiv.org/abs/2512.24040
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.24040v1 Announce Type: new  Abstract: Automatic Prompt Optimization
+    (APO) has emerged as a critical technique for enhancing Large Language Model (LL…'
+  title: 'ROAD: Reflective Optimization via Automated Debugging for Zero-Shot Agent
+    Alignment'
+- id: oai:arXiv.org:2512.24077v1
+  link: https://arxiv.org/abs/2512.24077
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.24077v1 Announce Type: new  Abstract: The transition from static
+    Large Language Models (LLMs) to self-improving agents is hindered by the lack
+    of st…'
+  title: 'LoongFlow: Directed Evolutionary Search via a Cognitive Plan-Execute-Summarize
+    Paradigm'
+- id: oai:arXiv.org:2512.24113v1
+  link: https://arxiv.org/abs/2512.24113
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.24113v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) have demonstrated a remarkable capacity in understanding user preferences
+    for rec…'
+  title: 'CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar
+    for Explainable Recommendation'
+- id: oai:arXiv.org:2512.24156v1
+  link: https://arxiv.org/abs/2512.24156
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.24156v1 Announce Type: new  Abstract: We present a training-free
+    graph-based approach for solving interactive reasoning tasks in the ARC-AGI-3
+    bench…'
+  title: Graph-Based Exploration for ARC-AGI-3 Interactive Reasoning Tasks
+- id: oai:arXiv.org:2512.24189v1
+  link: https://arxiv.org/abs/2512.24189
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.24189v1 Announce Type: new  Abstract: We introduce SCP: the
+    Science Context Protocol, an open-source standard designed to accelerate discovery
+    by en…'
+  title: 'SCP: Accelerating Discovery with a Global Web of Autonomous Scientific Agents'
+- id: oai:arXiv.org:2512.24251v1
+  link: https://arxiv.org/abs/2512.24251
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.24251v1 Announce Type: new  Abstract: The Fleet Size and Mix
+    Vehicle Routing Problem (FSMVRP) is a prominent variant of the Vehicle Routing
+    Problem…'
+  title: Deep Reinforcement Learning for Solving the Fleet Size and Mix Vehicle Routing
+    Problem
+- id: oai:arXiv.org:2512.24263v1
+  link: https://arxiv.org/abs/2512.24263
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.24263v1 Announce Type: new  Abstract: When fine-tuning pre-trained
+    Language Models (LMs) to exhibit desired behaviors, maintaining control over risk…'
+  title: Constrained Language Model Policy Optimization via Risk-aware Stepwise Alignment
+- id: oai:arXiv.org:2512.24461v1
+  link: https://arxiv.org/abs/2512.24461
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.24461v1 Announce Type: new  Abstract: In this paper, we propose
+    a test-time adaptive agent that performs exploratory inference through posterior-gui…'
+  title: 'Align While Search: Belief-Guided Exploratory Inference for World-Grounded
+    Embodied Agents'
+- id: oai:arXiv.org:2512.24497v1
+  link: https://arxiv.org/abs/2512.24497
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.24497v1 Announce Type: new  Abstract: A long-standing challenge
+    in AI is to develop agents capable of solving a wide range of physical tasks and
+    gen…'
+  title: What Drives Success in Physical Planning with Joint-Embedding Predictive
+    World Models?
+- id: oai:arXiv.org:2512.24504v1
+  link: https://arxiv.org/abs/2512.24504
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.24504v1 Announce Type: new  Abstract: Map environments provide
+    a fundamental medium for representing spatial structure. Understanding how foundation…'
+  title: 'Thinking on Maps: How Foundation Model Agents Explore, Remember, and Reason
+    Map Environments'
+- id: oai:arXiv.org:2512.24505v1
+  link: https://arxiv.org/abs/2512.24505
+  published: '2026-01-01T05:00:00Z'
+  summary: 'arXiv:2512.24505v1 Announce Type: new  Abstract: Understanding the limitations
+    of Large Language Models, or LLMs, in mathematical reasoning has been the focus…'
+  title: Evaluating the Reasoning Abilities of LLMs on Underrepresented Mathematics
+    Competition Problems
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

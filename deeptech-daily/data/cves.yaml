@@ -1,45 +1,45 @@
-fetched_at: '2025-12-31T05:39:23Z'
-generated_at: '2025-12-31T05:39:23Z'
-hash: 9f8b1ea859cfcea50584aff3cd7ac7d9b78f908110cb6210e4496f2d821b8a4d
+fetched_at: '2026-01-01T05:42:42Z'
+generated_at: '2026-01-01T05:42:42Z'
+hash: a76f598e94f1c21182f1b62a48780e94cac797cc239ea4c4d375b5a8c8de28dd
 items:
 - cvss: 0.0
-  id: GHSA-5rp3-83j5-w2g4
-  published: '2023-12-07T06:30:18Z'
+  id: GHSA-8c8m-9q8w-x9qv
+  published: '2026-01-01T03:30:25Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-4425-3v92-m6q6
-  published: '2024-01-23T06:30:21Z'
+  id: GHSA-955v-fhgv-r5mc
+  published: '2026-01-01T03:30:25Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-7695-f938-c2jf
-  published: '2024-01-23T06:30:21Z'
+  id: GHSA-9cr2-mcww-ph38
+  published: '2026-01-01T03:30:25Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-98h2-7j4h-7xc5
-  published: '2024-01-23T06:30:21Z'
+  id: GHSA-9pqg-5fj8-q9hp
+  published: '2026-01-01T03:30:25Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-crvx-w25m-8x7c
-  published: '2024-01-23T06:30:21Z'
+  id: GHSA-c3pq-8g5g-cppr
+  published: '2026-01-01T03:30:25Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-f282-55f7-242h
-  published: '2024-01-23T06:30:21Z'
+  id: GHSA-gr46-whc3-j78v
+  published: '2026-01-01T03:30:25Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-78cp-c4p5-694f
-  published: '2024-01-23T06:30:22Z'
+  id: GHSA-mqxx-jgfc-rwj6
+  published: '2026-01-01T03:30:25Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-3j8r-26jq-jj7w
-  published: '2024-03-18T00:30:44Z'
+  id: GHSA-q8mx-26vf-pwm7
+  published: '2026-01-01T03:30:25Z'
   summary: ''
 - cvss: 0.0
-  id: MAL-2025-989
-  published: '2024-08-23T22:55:41Z'
-  summary: Malicious code in swapoc (PyPI)
+  id: GHSA-v2pw-fhhq-h8hr
+  published: '2026-01-01T03:30:25Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-990
-  published: '2024-12-26T12:24:34Z'
-  summary: Malicious code in syscontrol (PyPI)
+  id: GHSA-v6h4-h294-v39r
+  published: '2026-01-01T03:30:25Z'
+  summary: ''
 source_url: https://cve.circl.lu/api/last

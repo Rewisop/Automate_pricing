@@ -1,19 +1,19 @@
-fetched_at: '2025-12-31T05:39:23Z'
-generated_at: '2025-12-31T05:39:23Z'
-hash: b538588cb0b2de0a5c07f15c007c0a224d002f42c6c6dd179c1809d6e93bbb9b
+fetched_at: '2026-01-01T05:42:42Z'
+generated_at: '2026-01-01T05:42:42Z'
+hash: eb746e7125e6662c03bd6bf5223534aef49786c0946887559c36009e56315313
 items:
+- created_at: '2025-12-28T23:13:28Z'
+  description: A robust, efficient Python script to convert EPUB files to plain text
+    files. Great for LLMs to read. You can also convert files online!
+  full_name: SPACESODA/epub2txt
+  html_url: https://github.com/SPACESODA/epub2txt
+  stargazers_count: 40
 - created_at: '2025-12-26T06:14:33Z'
   description: Free Uncensored LLM Client with proxy support, web development mod
     and many other features.
   full_name: deftydude/Freedom-LLM
   html_url: https://github.com/deftydude/Freedom-LLM
   stargazers_count: 39
-- created_at: '2025-12-28T23:13:28Z'
-  description: A robust, efficient Python script to convert EPUB files to plain text
-    files. Great for LLMs to read. You can also convert files online!
-  full_name: SPACESODA/epub2txt
-  html_url: https://github.com/SPACESODA/epub2txt
-  stargazers_count: 21
 - created_at: '2025-12-29T05:30:20Z'
   description: Unified LLM API client library for Python. Simple function-like API
     for Chat, Embedding, Rerank, and Tokenizer. OpenAI-compatible with streaming support
@@ -21,31 +21,49 @@ items:
   full_name: lzjever/lexilux
   html_url: https://github.com/lzjever/lexilux
   stargazers_count: 21
-- created_at: '2025-12-30T00:43:15Z'
-  description: LLM-powered agentic translation library for JavaScript/TypeScript
-  full_name: dahlia/vertana
-  html_url: https://github.com/dahlia/vertana
-  stargazers_count: 15
 - created_at: '2025-12-30T16:23:06Z'
   description: Replacing the OS process scheduler with an LLM
   full_name: mprajyothreddy/brainkernel
   html_url: https://github.com/mprajyothreddy/brainkernel
-  stargazers_count: 14
+  stargazers_count: 20
+- created_at: '2025-12-29T22:50:05Z'
+  description: LLM-written music
+  full_name: DorsaRoh/audial
+  html_url: https://github.com/DorsaRoh/audial
+  stargazers_count: 19
+- created_at: '2025-12-27T08:53:55Z'
+  description: 🎮 AI-powered solo mode for Backdoors & Breaches. Train incident response
+    skills anytime with an LLM Incident Master. Arcade-themed fork of BHIS's tabletop
+    IR g…
+  full_name: 0xJaeg3r/backdoorsandbreaches-socinvader
+  html_url: https://github.com/0xJaeg3r/backdoorsandbreaches-socinvader
+  stargazers_count: 17
+- created_at: '2025-12-30T00:43:15Z'
+  description: LLM-powered agentic translation library for JavaScript/TypeScript
+  full_name: dahlia/vertana
+  html_url: https://github.com/dahlia/vertana
+  stargazers_count: 16
+- created_at: '2025-12-27T19:40:30Z'
+  description: LLM-driven autonomous cryptocurrency trading strategy research framework
+  full_name: JiangZhihao123/llmalpha
+  html_url: https://github.com/JiangZhihao123/llmalpha
+  stargazers_count: 13
 - created_at: '2025-12-28T15:18:02Z'
   description: 'AI 多模型 API 聚合与协议转换网关：统一调用并互转 OpenAI Chat/Responses、Claude、Gemini 等格式，Provider
     仅需实现原生协议。Multi-LLM gateway & protocol transformer: unify and convert OpenAI Chat/…'
   full_name: nightwhite/any-api
   html_url: https://github.com/nightwhite/any-api
   stargazers_count: 12
-- created_at: '2025-12-25T12:57:13Z'
-  description: Web based LLM/AI/VibeCoders Prompt Enhancer forked from ClavixDev/Clavix
-  full_name: roman-ryzenadvanced/PromptArch-the-prompt-enhancer
-  html_url: https://github.com/roman-ryzenadvanced/PromptArch-the-prompt-enhancer
-  stargazers_count: 10
 - created_at: '2025-12-26T00:48:46Z'
   description: 基于 LLM agent 的党政机关公文自动排版工具
   full_name: Drenches/gov-doc-formatter
   html_url: https://github.com/Drenches/gov-doc-formatter
+  stargazers_count: 9
+- created_at: '2025-12-29T22:04:18Z'
+  description: 🤖 Kubernetes for AI Agents. Self-hosted, production-grade runtime for
+    orchestrating LLM swarms and autonomous agents. TypeScript-native.
+  full_name: eL1fe/Cogitator
+  html_url: https://github.com/eL1fe/Cogitator
   stargazers_count: 9
 - created_at: '2025-12-29T04:09:16Z'
   description: 基于Mineflayer，用fastapi作为后端的让LLM可以玩MC的小项目
@@ -64,13 +82,6 @@ items:
   full_name: zzyt6/Self-Translation
   html_url: https://github.com/zzyt6/Self-Translation
   stargazers_count: 8
-- created_at: '2025-12-27T08:53:55Z'
-  description: 🎮 AI-powered solo mode for Backdoors & Breaches. Train incident response
-    skills anytime with an LLM Incident Master. Arcade-themed fork of BHIS's tabletop
-    IR g…
-  full_name: 0xJaeg3r/backdoorsandbreaches-socinvader
-  html_url: https://github.com/0xJaeg3r/backdoorsandbreaches-socinvader
-  stargazers_count: 7
 - created_at: '2025-12-26T03:46:09Z'
   description: A lightweight tool for academic review writing, powered by locally
     deployed large language models (Ollama supported). Offline-first, privacy-focused,
@@ -78,37 +89,28 @@ items:
   full_name: lxltx2025/LXLTX-LLRG
   html_url: https://github.com/lxltx2025/LXLTX-LLRG
   stargazers_count: 7
-- created_at: '2025-12-25T19:03:48Z'
-  description: MarkdownLLM is a Neovim plugin that provides a simple, markdown-driven
-    interface for interacting with LLM providers.
-  full_name: PreziosiRaffaele/markdown-llm.nvim
-  html_url: https://github.com/PreziosiRaffaele/markdown-llm.nvim
+- created_at: '2025-12-31T18:32:26Z'
+  description: A minimal CLI tool for piping anything into an LLM.
+  full_name: chethanreddy1/infer
+  html_url: https://github.com/chethanreddy1/infer
   stargazers_count: 6
+- created_at: '2025-12-31T12:31:11Z'
+  description: Stream long text messages to Telegram, such as LLM output
+  full_name: grammyjs/stream
+  html_url: https://github.com/grammyjs/stream
+  stargazers_count: 6
+- created_at: '2025-12-30T02:22:45Z'
+  description: Statistical toolkit for LLM refusal steering. Uses judge scores to
+    weight training data, correlation analysis to identify effective layers, and automated
+    alpha…
+  full_name: ElSnacko/llm-steering
+  html_url: https://github.com/ElSnacko/llm-steering
+  stargazers_count: 5
 - created_at: '2025-12-28T10:42:03Z'
   description: 把AI安全从"艺术"变成"科学" - 全面的LLM安全工具包
   full_name: hack-umbrella/LLM-Security-Toolkit
   html_url: https://github.com/hack-umbrella/LLM-Security-Toolkit
   stargazers_count: 5
-- created_at: '2025-12-29T22:50:05Z'
-  description: Make LLMs create music
-  full_name: DorsaRoh/cadence
-  html_url: https://github.com/DorsaRoh/cadence
-  stargazers_count: 4
-- created_at: '2025-12-27T16:22:04Z'
-  description: Ultra-Low-Bit LLM Inference Engine with Bit-Serial LUT Kernels
-  full_name: YASSERRMD/lutmac
-  html_url: https://github.com/YASSERRMD/lutmac
-  stargazers_count: 4
-- created_at: '2025-12-29T04:04:07Z'
-  description: Reddit but you are talking to LLM agents
-  full_name: huytd/reddit-with-agents
-  html_url: https://github.com/huytd/reddit-with-agents
-  stargazers_count: 4
-- created_at: '2025-12-26T12:23:05Z'
-  description: LLM-based command-line translation tool written in Rust
-  full_name: jswysnemc/mtrans
-  html_url: https://github.com/jswysnemc/mtrans
-  stargazers_count: 4
 - created_at: '2025-12-29T23:42:32Z'
   description: Zotero paper analyzer based on LLMs, code maintained by LLMs
   full_name: zekunlou/zotero_llm
