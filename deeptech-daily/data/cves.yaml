@@ -1,45 +1,45 @@
-fetched_at: '2026-01-01T05:42:42Z'
-generated_at: '2026-01-01T05:42:42Z'
-hash: a76f598e94f1c21182f1b62a48780e94cac797cc239ea4c4d375b5a8c8de28dd
+fetched_at: '2026-01-02T05:40:23Z'
+generated_at: '2026-01-02T05:40:23Z'
+hash: 8a78efb282aa2627b7419aa2cfaf1c5a1497987e53da8c067db6cd39b74d57c1
 items:
 - cvss: 0.0
-  id: GHSA-8c8m-9q8w-x9qv
-  published: '2026-01-01T03:30:25Z'
+  id: GHSA-p5wf-p25w-3c2h
+  published: '2026-01-02T00:30:25Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-955v-fhgv-r5mc
-  published: '2026-01-01T03:30:25Z'
+  id: GHSA-rm9v-363r-mcp3
+  published: '2026-01-02T00:30:25Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-9cr2-mcww-ph38
-  published: '2026-01-01T03:30:25Z'
+  id: GHSA-wcrf-5vr8-vwjp
+  published: '2026-01-02T00:30:25Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-9pqg-5fj8-q9hp
-  published: '2026-01-01T03:30:25Z'
+  id: CVE-2025-15419
+  published: '2026-01-02T01:15:50Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-c3pq-8g5g-cppr
-  published: '2026-01-01T03:30:25Z'
+  id: CVE-2025-15420
+  published: '2026-01-02T01:15:50Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-gr46-whc3-j78v
-  published: '2026-01-01T03:30:25Z'
+  id: CVE-2025-15421
+  published: '2026-01-02T01:15:50Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-mqxx-jgfc-rwj6
-  published: '2026-01-01T03:30:25Z'
+  id: CVE-2025-15422
+  published: '2026-01-02T02:15:39Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-q8mx-26vf-pwm7
-  published: '2026-01-01T03:30:25Z'
+  id: GHSA-2223-q26h-rqmg
+  published: '2026-01-02T03:30:22Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-v2pw-fhhq-h8hr
-  published: '2026-01-01T03:30:25Z'
+  id: GHSA-5wxx-mj5q-83hp
+  published: '2026-01-02T03:30:22Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-v6h4-h294-v39r
-  published: '2026-01-01T03:30:25Z'
+  id: GHSA-6w8g-45hg-7r2c
+  published: '2026-01-02T03:30:22Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

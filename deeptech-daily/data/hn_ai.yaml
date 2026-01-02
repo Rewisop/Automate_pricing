@@ -1,35 +1,26 @@
-fetched_at: '2026-01-01T05:42:42Z'
-generated_at: '2026-01-01T05:42:42Z'
-hash: 4d4b473a11b4c423c1341d18e9eb5e0307873f142098a2104a7dcd305bf12fa8
+fetched_at: '2026-01-02T05:40:23Z'
+generated_at: '2026-01-02T05:40:23Z'
+hash: 34cad9ddc6906ea77e6c569b50cad826655e6cb3af443c3ee9307be640f467ba
 items:
-- id: 46444020
-  score: 138
-  time: '2025-12-31T13:50:41Z'
-  title: How AI labs are solving the power problem
-  url: https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power
-- id: 46444367
-  score: 79
-  time: '2025-12-31T14:33:40Z'
-  title: OpenAI is paying employees more than any major tech startup in history
-  url: https://www.wsj.com/tech/ai/openai-is-paying-employees-more-than-any-major-tech-startup-in-history-23472527
-- id: 46442015
-  score: 47
-  time: '2025-12-31T06:49:21Z'
-  title: Why C++ programmers keep growing fast despite competition, safety, and AI
-  url: https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/
-- id: 46447162
+- id: 46456682
+  score: 58
+  time: '2026-01-01T18:34:25Z'
+  title: 'Building an internal agent: Code-driven vs. LLM-driven workflows'
+  url: https://lethain.com/agents-coordinators/
+- id: 46456400
+  score: 32
+  time: '2026-01-01T18:09:31Z'
+  title: 'Ask HN: When do we expose "Humans as Tools" so LLM agents can call us on
+    demand?'
+  url: https://news.ycombinator.com/item?id=46456400
+- id: 46458194
   score: 22
-  time: '2025-12-31T19:02:42Z'
-  title: Laptops are about to become a casualty of the AI grift
-  url: https://www.theblaze.com/columns/opinion/your-laptop-is-about-to-become-a-casualty-of-the-ai-grift
-- id: 46450433
-  score: 6
-  time: '2026-01-01T01:43:57Z'
-  title: Zara uses AI to dress models virtually rather than book new photo shoots
-  url: https://www.cityam.com/zara-turns-to-ai-edited-models-amid-shop-closures/
-- id: 46450931
-  score: 3
-  time: '2026-01-01T03:10:20Z'
-  title: 'Ask HN: What is the best microVMs for AI agents?'
-  url: https://news.ycombinator.com/item?id=46450931
+  time: '2026-01-01T21:26:49Z'
+  title: A silly diffuse shading model
+  url: https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html
+- id: 46460496
+  score: 15
+  time: '2026-01-02T01:51:20Z'
+  title: 'AI Futures Model: Dec 2025 Update'
+  url: https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update
 source_url: https://hacker-news.firebaseio.com/

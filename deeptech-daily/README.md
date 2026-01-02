@@ -79,6 +79,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -90,6 +91,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -229,6 +231,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?](https://arxiv.org/abs/2512.24497) — arXiv:2512.24497v1 Announce Type: new  Abstract: A long-standing challenge in AI is to develop agents capable of solving a wide range of physical tasks and gen…
 - [Thinking on Maps: How Foundation Model Agents Explore, Remember, and Reason Map Environments](https://arxiv.org/abs/2512.24504) — arXiv:2512.24504v1 Announce Type: new  Abstract: Map environments provide a fundamental medium for representing spatial structure. Understanding how foundation…
 - [Evaluating the Reasoning Abilities of LLMs on Underrepresented Mathematics Competition Problems](https://arxiv.org/abs/2512.24505) — arXiv:2512.24505v1 Announce Type: new  Abstract: Understanding the limitations of Large Language Models, or LLMs, in mathematical reasoning has been the focus…
+
+_Showing cached data from 2026-01-01T05:42:42Z. Refresh failed: no arXiv entries retrieved._
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -258,26 +262,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                               |   Stars | Description                                                                                                                                                      |
 |------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| SPACESODA/epub2txt                       |      40 | A robust, efficient Python script to convert EPUB files to plain text files. Great for LLMs to read. You can also convert files online!                          |
-| deftydude/Freedom-LLM                    |      39 | Free Uncensored LLM Client with proxy support, web development mod and many other features.                                                                      |
+| DorsaRoh/audial                          |     102 | LLM-written music                                                                                                                                                |
+| SPACESODA/epub2txt                       |      49 | A robust, efficient Python script to convert EPUB files to plain text files. Great for LLMs to read. You can also convert files online!                          |
+| mprajyothreddy/brainkernel               |      25 | Replacing the OS process scheduler with an LLM                                                                                                                   |
 | lzjever/lexilux                          |      21 | Unified LLM API client library for Python. Simple function-like API for Chat, Embedding, Rerank, and Tokenizer. OpenAI-compatible with streaming support and un… |
-| mprajyothreddy/brainkernel               |      20 | Replacing the OS process scheduler with an LLM                                                                                                                   |
-| DorsaRoh/audial                          |      19 | LLM-written music                                                                                                                                                |
-| 0xJaeg3r/backdoorsandbreaches-socinvader |      17 | 🎮 AI-powered solo mode for Backdoors & Breaches. Train incident response skills anytime with an LLM Incident Master. Arcade-themed fork of BHIS's tabletop IR g… |
-| dahlia/vertana                           |      16 | LLM-powered agentic translation library for JavaScript/TypeScript                                                                                                |
-| JiangZhihao123/llmalpha                  |      13 | LLM-driven autonomous cryptocurrency trading strategy research framework                                                                                         |
+| dahlia/vertana                           |      20 | LLM-powered agentic translation library for JavaScript/TypeScript                                                                                                |
+| 0xJaeg3r/backdoorsandbreaches-socinvader |      18 | 🎮 AI-powered solo mode for Backdoors & Breaches. Train incident response skills anytime with an LLM Incident Master. Arcade-themed fork of BHIS's tabletop IR g… |
+| JiangZhihao123/llmalpha                  |      18 | LLM-driven autonomous cryptocurrency trading strategy research framework                                                                                         |
+| eL1fe/Cogitator                          |      12 | 🤖 Kubernetes for AI Agents. Self-hosted, production-grade runtime for orchestrating LLM swarms and autonomous agents. TypeScript-native.                         |
 | nightwhite/any-api                       |      12 | AI 多模型 API 聚合与协议转换网关：统一调用并互转 OpenAI Chat/Responses、Claude、Gemini 等格式，Provider 仅需实现原生协议。Multi-LLM gateway & protocol transformer: unify and convert OpenAI Chat/… |
-| Drenches/gov-doc-formatter               |       9 | 基于 LLM agent 的党政机关公文自动排版工具                                                                                                                                       |
-| eL1fe/Cogitator                          |       9 | 🤖 Kubernetes for AI Agents. Self-hosted, production-grade runtime for orchestrating LLM swarms and autonomous agents. TypeScript-native.                         |
+| 238469/burp-ai-fuzzer                    |      11 | 一个基于 AI 驱动的 Burp Suite 渗透测试辅助插件，旨在利用大语言模型（LLM）的上下文理解能力，为复杂的 HTTP 请求自动生成针对性的 Fuzz 字典。                                                                             |
+| chethanreddy1/infer                      |      10 | A minimal CLI tool for piping anything into an LLM.                                                                                                              |
+| georgejeffers/uk-case-law-mcp-server     |       9 | MCP server for UK case law using The National Archives API. Enables LLMs to search, retrieve, and cite UK legal judgments.                                       |
+| zzyt6/Self-Translation                   |       9 | Self Translation 是一款开源的基于大语言模型（LLM）的 Chrome 浏览器沉浸式翻译扩展。它打破了传统机翻的生硬感，利用 DeepSeek 等先进 AI 模型的理解能力，为您提供准确、流畅且保留原文排版的翻译体验。                                            |
 | advent259141/LLM_MC                      |       8 | 基于Mineflayer，用fastapi作为后端的让LLM可以玩MC的小项目                                                                                                                          |
-| solnera/esp32-mcpserver                  |       8 | A lightweight Model Context Protocol (MCP) server framework for ESP32. Seamlessly connect embedded devices to LLMs.                                              |
-| zzyt6/Self-Translation                   |       8 | Self Translation 是一款开源的基于大语言模型（LLM）的 Chrome 浏览器沉浸式翻译扩展。它打破了传统机翻的生硬感，利用 DeepSeek 等先进 AI 模型的理解能力，为您提供准确、流畅且保留原文排版的翻译体验。                                            |
-| lxltx2025/LXLTX-LLRG                     |       7 | A lightweight tool for academic review writing, powered by locally deployed large language models (Ollama supported). Offline-first, privacy-focused, and tailo… |
-| chethanreddy1/infer                      |       6 | A minimal CLI tool for piping anything into an LLM.                                                                                                              |
-| grammyjs/stream                          |       6 | Stream long text messages to Telegram, such as LLM output                                                                                                        |
+| grammyjs/stream                          |       8 | Stream long text messages to Telegram, such as LLM output                                                                                                        |
+| roomkangali/droid-llm-hunter             |       7 | Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language Models (LLMs).                                               |
+| CrawlScript/GhostCoT                     |       5 | A decorator to enable Chain-of-Thought (CoT) reasoning for non-thinking LLMs (e.g. gpt-4o-mini and deepseek-chat).                                               |
 | ElSnacko/llm-steering                    |       5 | Statistical toolkit for LLM refusal steering. Uses judge scores to weight training data, correlation analysis to identify effective layers, and automated alpha… |
+| YASSERRMD/lutmac                         |       5 | Ultra-Low-Bit LLM Inference Engine with Bit-Serial LUT Kernels                                                                                                   |
 | hack-umbrella/LLM-Security-Toolkit       |       5 | 把AI安全从"艺术"变成"科学" - 全面的LLM安全工具包                                                                                                                                   |
-| zekunlou/zotero_llm                      |       4 | Zotero paper analyzer based on LLMs, code maintained by LLMs                                                                                                     |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -287,28 +291,26 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [How AI labs are solving the power problem](https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power) — 138 points
-- [OpenAI is paying employees more than any major tech startup in history](https://www.wsj.com/tech/ai/openai-is-paying-employees-more-than-any-major-tech-startup-in-history-23472527) — 79 points
-- [Why C++ programmers keep growing fast despite competition, safety, and AI](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/) — 47 points
-- [Laptops are about to become a casualty of the AI grift](https://www.theblaze.com/columns/opinion/your-laptop-is-about-to-become-a-casualty-of-the-ai-grift) — 22 points
-- [Zara uses AI to dress models virtually rather than book new photo shoots](https://www.cityam.com/zara-turns-to-ai-edited-models-amid-shop-closures/) — 6 points
-- [Ask HN: What is the best microVMs for AI agents?](https://news.ycombinator.com/item?id=46450931) — 3 points
+- [Building an internal agent: Code-driven vs. LLM-driven workflows](https://lethain.com/agents-coordinators/) — 58 points
+- [Ask HN: When do we expose "Humans as Tools" so LLM agents can call us on demand?](https://news.ycombinator.com/item?id=46456400) — 32 points
+- [A silly diffuse shading model](https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html) — 22 points
+- [AI Futures Model: Dec 2025 Update](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update) — 15 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
 | CVE                 |   CVSS | Summary   |
 |---------------------|--------|-----------|
-| GHSA-8c8m-9q8w-x9qv |      0 |           |
-| GHSA-955v-fhgv-r5mc |      0 |           |
-| GHSA-9cr2-mcww-ph38 |      0 |           |
-| GHSA-9pqg-5fj8-q9hp |      0 |           |
-| GHSA-c3pq-8g5g-cppr |      0 |           |
-| GHSA-gr46-whc3-j78v |      0 |           |
-| GHSA-mqxx-jgfc-rwj6 |      0 |           |
-| GHSA-q8mx-26vf-pwm7 |      0 |           |
-| GHSA-v2pw-fhhq-h8hr |      0 |           |
-| GHSA-v6h4-h294-v39r |      0 |           |
+| GHSA-p5wf-p25w-3c2h |      0 |           |
+| GHSA-rm9v-363r-mcp3 |      0 |           |
+| GHSA-wcrf-5vr8-vwjp |      0 |           |
+| CVE-2025-15419      |      0 |           |
+| CVE-2025-15420      |      0 |           |
+| CVE-2025-15421      |      0 |           |
+| CVE-2025-15422      |      0 |           |
+| GHSA-2223-q26h-rqmg |      0 |           |
+| GHSA-5wxx-mj5q-83hp |      0 |           |
+| GHSA-6w8g-45hg-7r2c |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
