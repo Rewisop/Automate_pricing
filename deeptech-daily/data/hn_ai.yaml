@@ -1,26 +1,37 @@
-fetched_at: '2026-01-02T05:40:23Z'
-generated_at: '2026-01-02T05:40:23Z'
-hash: 34cad9ddc6906ea77e6c569b50cad826655e6cb3af443c3ee9307be640f467ba
+fetched_at: '2026-01-03T05:35:50Z'
+generated_at: '2026-01-03T05:35:50Z'
+hash: fac28ad1dc87246b4c5e9d007f7f81154424febdef5cef9aac27aa7f60d2f6cb
 items:
-- id: 46456682
-  score: 58
-  time: '2026-01-01T18:34:25Z'
-  title: 'Building an internal agent: Code-driven vs. LLM-driven workflows'
-  url: https://lethain.com/agents-coordinators/
-- id: 46456400
-  score: 32
-  time: '2026-01-01T18:09:31Z'
-  title: 'Ask HN: When do we expose "Humans as Tools" so LLM agents can call us on
-    demand?'
-  url: https://news.ycombinator.com/item?id=46456400
-- id: 46458194
-  score: 22
-  time: '2026-01-01T21:26:49Z'
-  title: A silly diffuse shading model
-  url: https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html
-- id: 46460496
-  score: 15
-  time: '2026-01-02T01:51:20Z'
-  title: 'AI Futures Model: Dec 2025 Update'
-  url: https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update
+- id: 46468579
+  score: 41
+  time: '2026-01-02T19:46:01Z'
+  title: Everyone's Watching Stocks. The Real Bubble Is AI Debt
+  url: https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt
+- id: 46471527
+  score: 28
+  time: '2026-01-03T00:53:22Z'
+  title: Google AI Overviews put people at risk of harm with misleading health advice
+  url: https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information
+- id: 46470578
+  score: 11
+  time: '2026-01-02T23:02:09Z'
+  title: California lawmaker wants to ban AI from children's toys
+  url: https://www.fastcompany.com/91468728/california-lawmaker-ban-ai-toys
+- id: 46469568
+  score: 8
+  time: '2026-01-02T21:26:59Z'
+  title: Child abuse images found in AI training data [2023]
+  url: https://www.axios.com/2023/12/20/ai-training-data-child-abuse-images-stanford
+- id: 46471389
+  score: 6
+  time: '2026-01-03T00:38:21Z'
+  title: Grok Blames 'Lapses in Safeguards' After AI Chatbot Posts Sexual Images of
+    Kids
+  url: https://www.forbes.com/sites/tylerroush/2026/01/02/grok-blames-lapses-in-safeguards-after-ai-chatbot-posts-sexual-images-of-children/
+- id: 46472667
+  score: 6
+  time: '2026-01-03T04:01:03Z'
+  title: 'IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT
+    5.1 [pdf]'
+  url: https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf
 source_url: https://hacker-news.firebaseio.com/

@@ -1,23 +1,35 @@
-fetched_at: '2026-01-02T05:40:23Z'
-generated_at: '2026-01-02T05:40:23Z'
-hash: bbcb5cf89fa8b0fbc095bf6bc047782448486076fe376318fdf7f51a0b22420c
+fetched_at: '2026-01-03T05:35:50Z'
+generated_at: '2026-01-03T05:35:50Z'
+hash: 7199a49fe473376178b7f1ce06b004765fe3b122590dae21d843582150ed0025
 items:
+- created_at: '2026-01-02T15:36:46Z'
+  description: ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude
+    Code (ProxyLLM is a local Electron application that captures browser sessions
+    to…
+  full_name: zhalice2011/ProxyLLM
+  html_url: https://github.com/zhalice2011/ProxyLLM
+  stargazers_count: 127
 - created_at: '2025-12-29T22:50:05Z'
   description: LLM-written music
   full_name: DorsaRoh/audial
   html_url: https://github.com/DorsaRoh/audial
-  stargazers_count: 102
+  stargazers_count: 113
 - created_at: '2025-12-28T23:13:28Z'
   description: A robust, efficient Python script to convert EPUB files to plain text
     files. Great for LLMs to read. You can also convert files online!
   full_name: SPACESODA/epub2txt
   html_url: https://github.com/SPACESODA/epub2txt
-  stargazers_count: 49
+  stargazers_count: 51
 - created_at: '2025-12-30T16:23:06Z'
   description: Replacing the OS process scheduler with an LLM
   full_name: mprajyothreddy/brainkernel
   html_url: https://github.com/mprajyothreddy/brainkernel
   stargazers_count: 25
+- created_at: '2025-12-30T00:43:15Z'
+  description: LLM-powered agentic translation library for JavaScript/TypeScript
+  full_name: dahlia/vertana
+  html_url: https://github.com/dahlia/vertana
+  stargazers_count: 21
 - created_at: '2025-12-29T05:30:20Z'
   description: Unified LLM API client library for Python. Simple function-like API
     for Chat, Embedding, Rerank, and Tokenizer. OpenAI-compatible with streaming support
@@ -25,28 +37,28 @@ items:
   full_name: lzjever/lexilux
   html_url: https://github.com/lzjever/lexilux
   stargazers_count: 21
-- created_at: '2025-12-30T00:43:15Z'
-  description: LLM-powered agentic translation library for JavaScript/TypeScript
-  full_name: dahlia/vertana
-  html_url: https://github.com/dahlia/vertana
-  stargazers_count: 20
-- created_at: '2025-12-27T08:53:55Z'
-  description: 🎮 AI-powered solo mode for Backdoors & Breaches. Train incident response
-    skills anytime with an LLM Incident Master. Arcade-themed fork of BHIS's tabletop
-    IR g…
-  full_name: 0xJaeg3r/backdoorsandbreaches-socinvader
-  html_url: https://github.com/0xJaeg3r/backdoorsandbreaches-socinvader
+- created_at: '2025-12-31T17:16:14Z'
+  description: A reliability layer for LLM context. Deterministic deduplication that
+    removes redundancy before it reaches your model.
+  full_name: Siddhant-K-code/distill
+  html_url: https://github.com/Siddhant-K-code/distill
   stargazers_count: 18
-- created_at: '2025-12-27T19:40:30Z'
-  description: LLM-driven autonomous cryptocurrency trading strategy research framework
-  full_name: JiangZhihao123/llmalpha
-  html_url: https://github.com/JiangZhihao123/llmalpha
-  stargazers_count: 18
+- created_at: '2026-01-01T03:56:06Z'
+  description: Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications
+    using Large Language Models (LLMs).
+  full_name: roomkangali/droid-llm-hunter
+  html_url: https://github.com/roomkangali/droid-llm-hunter
+  stargazers_count: 14
 - created_at: '2025-12-29T22:04:18Z'
   description: 🤖 Kubernetes for AI Agents. Self-hosted, production-grade runtime for
     orchestrating LLM swarms and autonomous agents. TypeScript-native.
   full_name: eL1fe/Cogitator
   html_url: https://github.com/eL1fe/Cogitator
+  stargazers_count: 13
+- created_at: '2025-12-31T18:32:26Z'
+  description: A minimal CLI tool for piping anything into an LLM.
+  full_name: chethanreddy1/infer
+  html_url: https://github.com/chethanreddy1/infer
   stargazers_count: 12
 - created_at: '2025-12-28T15:18:02Z'
   description: 'AI 多模型 API 聚合与协议转换网关：统一调用并互转 OpenAI Chat/Responses、Claude、Gemini 等格式，Provider
@@ -60,60 +72,48 @@ items:
   full_name: 238469/burp-ai-fuzzer
   html_url: https://github.com/238469/burp-ai-fuzzer
   stargazers_count: 11
-- created_at: '2025-12-31T18:32:26Z'
-  description: A minimal CLI tool for piping anything into an LLM.
-  full_name: chethanreddy1/infer
-  html_url: https://github.com/chethanreddy1/infer
-  stargazers_count: 10
 - created_at: '2025-12-28T10:21:21Z'
   description: MCP server for UK case law using The National Archives API. Enables
     LLMs to search, retrieve, and cite UK legal judgments.
   full_name: georgejeffers/uk-case-law-mcp-server
   html_url: https://github.com/georgejeffers/uk-case-law-mcp-server
+  stargazers_count: 10
+- created_at: '2025-12-31T06:54:17Z'
+  description: BreadFree-Simu 是一个基于大语言模型（LLM）的 A 股智能量化交易系统。它利用多智能体协作（Multi-Agent）架构，模拟机构投资者的决策流程（分析-风控-决策），旨在探索
+    AI 在中国特色金融市场（T+1、涨跌停板）中的应用潜力。
+  full_name: FeiCoder/BreadFree-Simu
+  html_url: https://github.com/FeiCoder/BreadFree-Simu
   stargazers_count: 9
-- created_at: '2025-12-27T00:02:07Z'
-  description: Self Translation 是一款开源的基于大语言模型（LLM）的 Chrome 浏览器沉浸式翻译扩展。它打破了传统机翻的生硬感，利用
-    DeepSeek 等先进 AI 模型的理解能力，为您提供准确、流畅且保留原文排版的翻译体验。
-  full_name: zzyt6/Self-Translation
-  html_url: https://github.com/zzyt6/Self-Translation
+- created_at: '2025-12-31T23:30:03Z'
+  description: This is the **AIDAChip GenAI Workshop for Silicon Engineers** - a self-guided
+    workshop designed to teach semiconductor professionals how to leverage Large Lang…
+  full_name: aidachip/AIDAChip_Workshop_01
+  html_url: https://github.com/aidachip/AIDAChip_Workshop_01
   stargazers_count: 9
+- created_at: '2025-12-31T12:31:11Z'
+  description: Stream long text messages to Telegram, such as LLM output
+  full_name: grammyjs/stream
+  html_url: https://github.com/grammyjs/stream
+  stargazers_count: 9
+- created_at: '2025-12-31T13:42:17Z'
+  description: The High Performance LLM Native Mock Server
+  full_name: vidaiUK/VidaiMock
+  html_url: https://github.com/vidaiUK/VidaiMock
+  stargazers_count: 9
+- created_at: '2025-12-31T01:07:37Z'
+  description: Use llm to help complete terminal command
+  full_name: SamSaffron/term-llm
+  html_url: https://github.com/SamSaffron/term-llm
+  stargazers_count: 8
 - created_at: '2025-12-29T04:09:16Z'
   description: 基于Mineflayer，用fastapi作为后端的让LLM可以玩MC的小项目
   full_name: advent259141/LLM_MC
   html_url: https://github.com/advent259141/LLM_MC
   stargazers_count: 8
-- created_at: '2025-12-31T12:31:11Z'
-  description: Stream long text messages to Telegram, such as LLM output
-  full_name: grammyjs/stream
-  html_url: https://github.com/grammyjs/stream
-  stargazers_count: 8
-- created_at: '2026-01-01T03:56:06Z'
-  description: Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications
-    using Large Language Models (LLMs).
-  full_name: roomkangali/droid-llm-hunter
-  html_url: https://github.com/roomkangali/droid-llm-hunter
-  stargazers_count: 7
-- created_at: '2026-01-01T14:42:45Z'
-  description: A decorator to enable Chain-of-Thought (CoT) reasoning for non-thinking
-    LLMs (e.g. gpt-4o-mini and deepseek-chat).
-  full_name: CrawlScript/GhostCoT
-  html_url: https://github.com/CrawlScript/GhostCoT
-  stargazers_count: 5
-- created_at: '2025-12-30T02:22:45Z'
-  description: Statistical toolkit for LLM refusal steering. Uses judge scores to
-    weight training data, correlation analysis to identify effective layers, and automated
-    alpha…
-  full_name: ElSnacko/llm-steering
-  html_url: https://github.com/ElSnacko/llm-steering
-  stargazers_count: 5
-- created_at: '2025-12-27T16:22:04Z'
-  description: Ultra-Low-Bit LLM Inference Engine with Bit-Serial LUT Kernels
-  full_name: YASSERRMD/lutmac
-  html_url: https://github.com/YASSERRMD/lutmac
-  stargazers_count: 5
-- created_at: '2025-12-28T10:42:03Z'
-  description: 把AI安全从"艺术"变成"科学" - 全面的LLM安全工具包
-  full_name: hack-umbrella/LLM-Security-Toolkit
-  html_url: https://github.com/hack-umbrella/LLM-Security-Toolkit
+- created_at: '2025-12-31T14:01:28Z'
+  description: 'AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI
+    libraries'
+  full_name: can1357/oh-my-pi
+  html_url: https://github.com/can1357/oh-my-pi
   stargazers_count: 5
 source_url: https://api.github.com/search/repositories
