@@ -1,45 +1,45 @@
-fetched_at: '2026-01-03T05:35:50Z'
-generated_at: '2026-01-03T05:35:50Z'
-hash: 72924bc6f84b79f3a4320a8e0c63871e73765d9fe7c59328f47c5c231d3728d7
+fetched_at: '2026-01-04T05:40:14Z'
+generated_at: '2026-01-04T05:40:14Z'
+hash: 571e6fd7abbfc1334497097b5ef23352a15591467410bd710a7db7baa5e7ebb9
 items:
 - cvss: 0.0
-  id: GHSA-gvq6-hvvp-h34h
-  published: '2026-01-02T18:58:32Z'
-  summary: AdonisJS Path Traversal in Multipart File Handling
-- cvss: 0.0
-  id: GHSA-c5cp-vx83-jhqx
-  published: '2026-01-02T21:11:50Z'
-  summary: Langflow Missing Authentication on Critical API Endpoints
-- cvss: 0.0
-  id: GHSA-6h7w-v2xr-mqvw
-  published: '2026-01-02T21:14:06Z'
-  summary: Bagisto Missing Authentication on Installer API Endpoints
-- cvss: 0.0
-  id: GHSA-2mwc-h2mg-v6p8
-  published: '2026-01-02T21:16:23Z'
-  summary: Bagisto has HTML Filter Bypass that Enables Stored XSS
-- cvss: 0.0
-  id: CVE-2025-64123
-  published: '2026-01-02T22:15:44Z'
+  id: CVE-2025-34449
+  published: '2025-12-18T22:15:56Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-2hrm-3727-3mc5
-  published: '2026-01-03T00:31:26Z'
+  id: GHSA-wvmf-999m-w27j
+  published: '2025-12-19T00:31:41Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-757q-w8xv-793g
-  published: '2026-01-03T00:31:26Z'
+  id: CVE-2023-53973
+  published: '2025-12-22T22:16:02Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-fwx4-5874-4gvg
-  published: '2026-01-03T00:31:26Z'
+  id: CVE-2025-34171
+  published: '2026-01-02T17:15:45Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-rw75-27g5-4c67
-  published: '2026-01-03T00:31:26Z'
+  id: GHSA-9w9c-6cc9-mc59
+  published: '2026-01-02T18:30:33Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-v668-5qxg-qhjh
-  published: '2026-01-03T00:31:26Z'
+  id: CVE-2025-15115
+  published: '2026-01-04T00:15:43Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-3646
+  published: '2026-01-04T00:15:43Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-3652
+  published: '2026-01-04T00:15:43Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-3653
+  published: '2026-01-04T00:15:44Z'
+  summary: ''
+- cvss: 0.0
+  id: CVE-2025-3654
+  published: '2026-01-04T00:15:44Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

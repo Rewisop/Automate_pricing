@@ -81,6 +81,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -92,6 +93,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -262,28 +264,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                           |   Stars | Description                                                                                                                                                      |
-|--------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| zhalice2011/ProxyLLM                 |     127 | ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to…  |
-| DorsaRoh/audial                      |     113 | LLM-written music                                                                                                                                                |
-| SPACESODA/epub2txt                   |      51 | A robust, efficient Python script to convert EPUB files to plain text files. Great for LLMs to read. You can also convert files online!                          |
-| mprajyothreddy/brainkernel           |      25 | Replacing the OS process scheduler with an LLM                                                                                                                   |
-| dahlia/vertana                       |      21 | LLM-powered agentic translation library for JavaScript/TypeScript                                                                                                |
-| lzjever/lexilux                      |      21 | Unified LLM API client library for Python. Simple function-like API for Chat, Embedding, Rerank, and Tokenizer. OpenAI-compatible with streaming support and un… |
-| Siddhant-K-code/distill              |      18 | A reliability layer for LLM context. Deterministic deduplication that removes redundancy before it reaches your model.                                           |
-| roomkangali/droid-llm-hunter         |      14 | Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language Models (LLMs).                                               |
-| eL1fe/Cogitator                      |      13 | 🤖 Kubernetes for AI Agents. Self-hosted, production-grade runtime for orchestrating LLM swarms and autonomous agents. TypeScript-native.                         |
-| chethanreddy1/infer                  |      12 | A minimal CLI tool for piping anything into an LLM.                                                                                                              |
-| nightwhite/any-api                   |      12 | AI 多模型 API 聚合与协议转换网关：统一调用并互转 OpenAI Chat/Responses、Claude、Gemini 等格式，Provider 仅需实现原生协议。Multi-LLM gateway & protocol transformer: unify and convert OpenAI Chat/… |
-| 238469/burp-ai-fuzzer                |      11 | 一个基于 AI 驱动的 Burp Suite 渗透测试辅助插件，旨在利用大语言模型（LLM）的上下文理解能力，为复杂的 HTTP 请求自动生成针对性的 Fuzz 字典。                                                                             |
-| georgejeffers/uk-case-law-mcp-server |      10 | MCP server for UK case law using The National Archives API. Enables LLMs to search, retrieve, and cite UK legal judgments.                                       |
-| FeiCoder/BreadFree-Simu              |       9 | BreadFree-Simu 是一个基于大语言模型（LLM）的 A 股智能量化交易系统。它利用多智能体协作（Multi-Agent）架构，模拟机构投资者的决策流程（分析-风控-决策），旨在探索 AI 在中国特色金融市场（T+1、涨跌停板）中的应用潜力。                                   |
-| aidachip/AIDAChip_Workshop_01        |       9 | This is the **AIDAChip GenAI Workshop for Silicon Engineers** - a self-guided workshop designed to teach semiconductor professionals how to leverage Large Lang… |
-| grammyjs/stream                      |       9 | Stream long text messages to Telegram, such as LLM output                                                                                                        |
-| vidaiUK/VidaiMock                    |       9 | The High Performance LLM Native Mock Server                                                                                                                      |
-| SamSaffron/term-llm                  |       8 | Use llm to help complete terminal command                                                                                                                        |
-| advent259141/LLM_MC                  |       8 | 基于Mineflayer，用fastapi作为后端的让LLM可以玩MC的小项目                                                                                                                          |
-| can1357/oh-my-pi                     |       5 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries                                                                                      |
+| Repository                         |   Stars | Description                                                                                                                                                      |
+|------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| zhalice2011/ProxyLLM               |     208 | ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to…  |
+| DorsaRoh/audial                    |     118 | LLM-written music                                                                                                                                                |
+| AliyahZombie/AnyToolCall           |      35 | A llm api midware offering prompt-based function call ability.                                                                                                   |
+| mprajyothreddy/brainkernel         |      25 | Replacing the OS process scheduler with an LLM                                                                                                                   |
+| dahlia/vertana                     |      23 | LLM-powered agentic translation library for JavaScript/TypeScript                                                                                                |
+| lzjever/lexilux                    |      21 | Unified LLM API client library for Python. Simple function-like API for Chat, Embedding, Rerank, and Tokenizer. OpenAI-compatible with streaming support and un… |
+| Siddhant-K-code/distill            |      20 | A reliability layer for LLM context. Deterministic deduplication that removes redundancy before it reaches your model.                                           |
+| roomkangali/droid-llm-hunter       |      15 | Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language Models (LLMs).                                               |
+| unkarelian/Aventura                |      15 | A frontend for LLM-based text adventure                                                                                                                          |
+| can1357/oh-my-pi                   |      14 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries                                                                                      |
+| chethanreddy1/infer                |      14 | A minimal CLI tool for piping anything into an LLM.                                                                                                              |
+| eL1fe/Cogitator                    |      14 | 🤖 Kubernetes for AI Agents. Self-hosted, production-grade runtime for orchestrating LLM swarms and autonomous agents. TypeScript-native.                         |
+| 238469/burp-ai-fuzzer              |      12 | 一个基于 AI 驱动的 Burp Suite 渗透测试辅助插件，旨在利用大语言模型（LLM）的上下文理解能力，为复杂的 HTTP 请求自动生成针对性的 Fuzz 字典。                                                                             |
+| FeiCoder/BreadFree-Simu            |      10 | BreadFree-Simu 是一个基于大语言模型（LLM）的 A 股智能量化交易系统。它利用多智能体协作（Multi-Agent）架构，模拟机构投资者的决策流程（分析-风控-决策），旨在探索 AI 在中国特色金融市场（T+1、涨跌停板）中的应用潜力。                                   |
+| SamSaffron/term-llm                |      10 | Use llm to help complete terminal command                                                                                                                        |
+| aidachip/AIDAChip_Workshop_01      |      10 | This is the **AIDAChip GenAI Workshop for Silicon Engineers** - a self-guided workshop designed to teach semiconductor professionals how to leverage Large Lang… |
+| vidaiUK/VidaiMock                  |      10 | The High Performance LLM Native Mock Server                                                                                                                      |
+| grammyjs/stream                    |       9 | Stream long text messages to Telegram, such as LLM output                                                                                                        |
+| tvlnsiva/graphrag-engineering-pdfs |       9 | Ontology, and Knowledge graph based RAG that uses local LLM.                                                                                                     |
+| advent259141/LLM_MC                |       8 | 基于Mineflayer，用fastapi作为后端的让LLM可以玩MC的小项目                                                                                                                          |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -293,28 +295,23 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Everyone's Watching Stocks. The Real Bubble Is AI Debt](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt) — 41 points
-- [Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information) — 28 points
-- [California lawmaker wants to ban AI from children's toys](https://www.fastcompany.com/91468728/california-lawmaker-ban-ai-toys) — 11 points
-- [Child abuse images found in AI training data [2023]](https://www.axios.com/2023/12/20/ai-training-data-child-abuse-images-stanford) — 8 points
-- [Grok Blames 'Lapses in Safeguards' After AI Chatbot Posts Sexual Images of Kids](https://www.forbes.com/sites/tylerroush/2026/01/02/grok-blames-lapses-in-safeguards-after-ai-chatbot-posts-sexual-images-of-children/) — 6 points
-- [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf) — 6 points
+- [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf) — 25 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                                                   |
-|---------------------|--------|-----------------------------------------------------------|
-| GHSA-gvq6-hvvp-h34h |      0 | AdonisJS Path Traversal in Multipart File Handling        |
-| GHSA-c5cp-vx83-jhqx |      0 | Langflow Missing Authentication on Critical API Endpoints |
-| GHSA-6h7w-v2xr-mqvw |      0 | Bagisto Missing Authentication on Installer API Endpoints |
-| GHSA-2mwc-h2mg-v6p8 |      0 | Bagisto has HTML Filter Bypass that Enables Stored XSS    |
-| CVE-2025-64123      |      0 |                                                           |
-| GHSA-2hrm-3727-3mc5 |      0 |                                                           |
-| GHSA-757q-w8xv-793g |      0 |                                                           |
-| GHSA-fwx4-5874-4gvg |      0 |                                                           |
-| GHSA-rw75-27g5-4c67 |      0 |                                                           |
-| GHSA-v668-5qxg-qhjh |      0 |                                                           |
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| CVE-2025-34449      |      0 |           |
+| GHSA-wvmf-999m-w27j |      0 |           |
+| CVE-2023-53973      |      0 |           |
+| CVE-2025-34171      |      0 |           |
+| GHSA-9w9c-6cc9-mc59 |      0 |           |
+| CVE-2025-15115      |      0 |           |
+| CVE-2025-3646       |      0 |           |
+| CVE-2025-3652       |      0 |           |
+| CVE-2025-3653       |      0 |           |
+| CVE-2025-3654       |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

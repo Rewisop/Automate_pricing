@@ -1,37 +1,10 @@
-fetched_at: '2026-01-03T05:35:50Z'
-generated_at: '2026-01-03T05:35:50Z'
-hash: fac28ad1dc87246b4c5e9d007f7f81154424febdef5cef9aac27aa7f60d2f6cb
+fetched_at: '2026-01-04T05:40:14Z'
+generated_at: '2026-01-04T05:40:14Z'
+hash: 135860e1eba1f05b90f6d55095759593fba76eb14b7926b335e4989f5bdbff8f
 items:
-- id: 46468579
-  score: 41
-  time: '2026-01-02T19:46:01Z'
-  title: Everyone's Watching Stocks. The Real Bubble Is AI Debt
-  url: https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt
-- id: 46471527
-  score: 28
-  time: '2026-01-03T00:53:22Z'
-  title: Google AI Overviews put people at risk of harm with misleading health advice
-  url: https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information
-- id: 46470578
-  score: 11
-  time: '2026-01-02T23:02:09Z'
-  title: California lawmaker wants to ban AI from children's toys
-  url: https://www.fastcompany.com/91468728/california-lawmaker-ban-ai-toys
-- id: 46469568
-  score: 8
-  time: '2026-01-02T21:26:59Z'
-  title: Child abuse images found in AI training data [2023]
-  url: https://www.axios.com/2023/12/20/ai-training-data-child-abuse-images-stanford
-- id: 46471389
-  score: 6
-  time: '2026-01-03T00:38:21Z'
-  title: Grok Blames 'Lapses in Safeguards' After AI Chatbot Posts Sexual Images of
-    Kids
-  url: https://www.forbes.com/sites/tylerroush/2026/01/02/grok-blames-lapses-in-safeguards-after-ai-chatbot-posts-sexual-images-of-children/
-- id: 46472667
-  score: 6
-  time: '2026-01-03T04:01:03Z'
-  title: 'IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT
-    5.1 [pdf]'
-  url: https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf
+- id: 46483811
+  score: 25
+  time: '2026-01-04T01:26:39Z'
+  title: Developing a BLAS Library for the AMD AI Engine [pdf]
+  url: https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf
 source_url: https://hacker-news.firebaseio.com/
