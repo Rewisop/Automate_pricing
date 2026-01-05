@@ -1,6 +1,6 @@
-fetched_at: '2026-01-04T05:40:14Z'
-generated_at: '2026-01-04T05:40:14Z'
-hash: 8e2a9cc0f8e455b528dd75d2d0df0eba58b819263f3fbbace4f40c762302bbc4
+fetched_at: '2026-01-05T05:49:47Z'
+generated_at: '2026-01-05T05:49:47Z'
+hash: ae9d951a8d2f544a229183e123f14ec7e53dbc22e03c9cf14852bedac44e19ba
 items:
 - created_at: '2026-01-02T15:36:46Z'
   description: ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude
@@ -8,109 +8,108 @@ items:
     to…
   full_name: zhalice2011/ProxyLLM
   html_url: https://github.com/zhalice2011/ProxyLLM
-  stargazers_count: 208
-- created_at: '2025-12-29T22:50:05Z'
-  description: LLM-written music
-  full_name: DorsaRoh/audial
-  html_url: https://github.com/DorsaRoh/audial
-  stargazers_count: 118
-- created_at: '2026-01-03T05:54:58Z'
-  description: A llm api midware offering prompt-based function call ability.
-  full_name: AliyahZombie/AnyToolCall
-  html_url: https://github.com/AliyahZombie/AnyToolCall
-  stargazers_count: 35
+  stargazers_count: 232
 - created_at: '2025-12-30T16:23:06Z'
   description: Replacing the OS process scheduler with an LLM
   full_name: mprajyothreddy/brainkernel
   html_url: https://github.com/mprajyothreddy/brainkernel
-  stargazers_count: 25
+  stargazers_count: 77
+- created_at: '2026-01-04T04:25:09Z'
+  description: 📚 2025 AI Engineering Reading List - 120+ curated AI research papers
+    covering LLMs, Multimodal, RAG, Agents, Diffusion Models and more
+  full_name: joeseesun/AI_Papers_2025
+  html_url: https://github.com/joeseesun/AI_Papers_2025
+  stargazers_count: 53
+- created_at: '2026-01-03T05:54:58Z'
+  description: A llm api midware offering prompt-based function call ability.
+  full_name: AliyahZombie/AnyToolCall
+  html_url: https://github.com/AliyahZombie/AnyToolCall
+  stargazers_count: 38
+- created_at: '2026-01-01T15:03:20Z'
+  description: A frontend for LLM-based text adventure
+  full_name: unkarelian/Aventura
+  html_url: https://github.com/unkarelian/Aventura
+  stargazers_count: 26
 - created_at: '2025-12-30T00:43:15Z'
   description: LLM-powered agentic translation library for JavaScript/TypeScript
   full_name: dahlia/vertana
   html_url: https://github.com/dahlia/vertana
-  stargazers_count: 23
-- created_at: '2025-12-29T05:30:20Z'
-  description: Unified LLM API client library for Python. Simple function-like API
-    for Chat, Embedding, Rerank, and Tokenizer. OpenAI-compatible with streaming support
-    and un…
-  full_name: lzjever/lexilux
-  html_url: https://github.com/lzjever/lexilux
-  stargazers_count: 21
+  stargazers_count: 24
 - created_at: '2025-12-31T17:16:14Z'
   description: A reliability layer for LLM context. Deterministic deduplication that
     removes redundancy before it reaches your model.
   full_name: Siddhant-K-code/distill
   html_url: https://github.com/Siddhant-K-code/distill
-  stargazers_count: 20
+  stargazers_count: 23
+- created_at: '2026-01-03T13:59:34Z'
+  description: Ontology, and Knowledge graph based RAG that uses local LLM.
+  full_name: tvlnsiva/graphrag-engineering-pdfs
+  html_url: https://github.com/tvlnsiva/graphrag-engineering-pdfs
+  stargazers_count: 21
 - created_at: '2026-01-01T03:56:06Z'
   description: Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications
     using Large Language Models (LLMs).
   full_name: roomkangali/droid-llm-hunter
   html_url: https://github.com/roomkangali/droid-llm-hunter
-  stargazers_count: 15
-- created_at: '2026-01-01T15:03:20Z'
-  description: A frontend for LLM-based text adventure
-  full_name: unkarelian/Aventura
-  html_url: https://github.com/unkarelian/Aventura
-  stargazers_count: 15
+  stargazers_count: 17
 - created_at: '2025-12-31T14:01:28Z'
   description: 'AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI
     libraries'
   full_name: can1357/oh-my-pi
   html_url: https://github.com/can1357/oh-my-pi
-  stargazers_count: 14
+  stargazers_count: 15
 - created_at: '2025-12-31T18:32:26Z'
   description: A minimal CLI tool for piping anything into an LLM.
   full_name: chethanreddy1/infer
   html_url: https://github.com/chethanreddy1/infer
   stargazers_count: 14
-- created_at: '2025-12-29T22:04:18Z'
-  description: 🤖 Kubernetes for AI Agents. Self-hosted, production-grade runtime for
-    orchestrating LLM swarms and autonomous agents. TypeScript-native.
-  full_name: eL1fe/Cogitator
-  html_url: https://github.com/eL1fe/Cogitator
+- created_at: '2026-01-01T17:57:33Z'
+  description: Add AI capabilities to your app in seconds. The ultimate UI component
+    for managing LLM providers and models. 快速为你的应用接入 AI 能力。通用 AI 模型配置组件。支持 React &
+    Vue，内置 20+…
+  full_name: tombcato/ai-selector
+  html_url: https://github.com/tombcato/ai-selector
   stargazers_count: 14
-- created_at: '2025-12-29T06:25:27Z'
-  description: 一个基于 AI 驱动的 Burp Suite 渗透测试辅助插件，旨在利用大语言模型（LLM）的上下文理解能力，为复杂的 HTTP 请求自动生成针对性的
-    Fuzz 字典。
-  full_name: 238469/burp-ai-fuzzer
-  html_url: https://github.com/238469/burp-ai-fuzzer
-  stargazers_count: 12
 - created_at: '2025-12-31T06:54:17Z'
   description: BreadFree-Simu 是一个基于大语言模型（LLM）的 A 股智能量化交易系统。它利用多智能体协作（Multi-Agent）架构，模拟机构投资者的决策流程（分析-风控-决策），旨在探索
     AI 在中国特色金融市场（T+1、涨跌停板）中的应用潜力。
   full_name: FeiCoder/BreadFree-Simu
   html_url: https://github.com/FeiCoder/BreadFree-Simu
-  stargazers_count: 10
+  stargazers_count: 11
+- created_at: '2025-12-31T07:31:23Z'
+  description: MiniMax LLM + Pi05 VLA Robot Agent Demo
+  full_name: MiniMax-OpenPlatform/MiniMax-Agent-VLA-Demo
+  html_url: https://github.com/MiniMax-OpenPlatform/MiniMax-Agent-VLA-Demo
+  stargazers_count: 11
 - created_at: '2025-12-31T01:07:37Z'
   description: Use llm to help complete terminal command
   full_name: SamSaffron/term-llm
   html_url: https://github.com/SamSaffron/term-llm
-  stargazers_count: 10
+  stargazers_count: 11
 - created_at: '2025-12-31T23:30:03Z'
   description: This is the **AIDAChip GenAI Workshop for Silicon Engineers** - a self-guided
     workshop designed to teach semiconductor professionals how to leverage Large Lang…
   full_name: aidachip/AIDAChip_Workshop_01
   html_url: https://github.com/aidachip/AIDAChip_Workshop_01
+  stargazers_count: 11
+- created_at: '2026-01-01T01:59:53Z'
+  description: Generate LLM finetuning data from any document.
+  full_name: velocitybolt/synkro
+  html_url: https://github.com/velocitybolt/synkro
   stargazers_count: 10
 - created_at: '2025-12-31T13:42:17Z'
   description: The High Performance LLM Native Mock Server
   full_name: vidaiUK/VidaiMock
   html_url: https://github.com/vidaiUK/VidaiMock
   stargazers_count: 10
+- created_at: '2025-12-31T03:57:21Z'
+  description: 轻量级 LLM API 代理与负载均衡，支持加权轮询、故障转移、熔断与流式转发。
+  full_name: aiqinxuancai/AviSwitch
+  html_url: https://github.com/aiqinxuancai/AviSwitch
+  stargazers_count: 9
 - created_at: '2025-12-31T12:31:11Z'
   description: Stream long text messages to Telegram, such as LLM output
   full_name: grammyjs/stream
   html_url: https://github.com/grammyjs/stream
   stargazers_count: 9
-- created_at: '2026-01-03T13:59:34Z'
-  description: Ontology, and Knowledge graph based RAG that uses local LLM.
-  full_name: tvlnsiva/graphrag-engineering-pdfs
-  html_url: https://github.com/tvlnsiva/graphrag-engineering-pdfs
-  stargazers_count: 9
-- created_at: '2025-12-29T04:09:16Z'
-  description: 基于Mineflayer，用fastapi作为后端的让LLM可以玩MC的小项目
-  full_name: advent259141/LLM_MC
-  html_url: https://github.com/advent259141/LLM_MC
-  stargazers_count: 8
 source_url: https://api.github.com/search/repositories

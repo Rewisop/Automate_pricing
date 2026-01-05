@@ -1,45 +1,45 @@
-fetched_at: '2026-01-04T05:40:14Z'
-generated_at: '2026-01-04T05:40:14Z'
-hash: 571e6fd7abbfc1334497097b5ef23352a15591467410bd710a7db7baa5e7ebb9
+fetched_at: '2026-01-05T05:49:47Z'
+generated_at: '2026-01-05T05:49:47Z'
+hash: 6ee8fbff2871f67f0abc9e1765fd6f8eb4e932be6bc5f224d35ad86ebd41ca51
 items:
 - cvss: 0.0
-  id: CVE-2025-34449
-  published: '2025-12-18T22:15:56Z'
+  id: GHSA-v676-f8gm-92r9
+  published: '2025-09-12T06:30:26Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-wvmf-999m-w27j
-  published: '2025-12-19T00:31:41Z'
-  summary: ''
+  id: MAL-2025-192688
+  published: '2025-12-22T13:51:05Z'
+  summary: Malicious code in utif-updated (npm)
 - cvss: 0.0
-  id: CVE-2023-53973
-  published: '2025-12-22T22:16:02Z'
-  summary: ''
+  id: MAL-2025-192926
+  published: '2025-12-24T12:20:46Z'
+  summary: Malicious code in @airtel-web/clickstream (npm)
 - cvss: 0.0
-  id: CVE-2025-34171
-  published: '2026-01-02T17:15:45Z'
-  summary: ''
+  id: null
+  published: '2026-01-05T03:10:13Z'
+  summary: Malware in @signify/vue-components
 - cvss: 0.0
-  id: GHSA-9w9c-6cc9-mc59
-  published: '2026-01-02T18:30:33Z'
-  summary: ''
+  id: MAL-2026-44
+  published: '2026-01-05T03:10:13Z'
+  summary: Malicious code in @airtel-web/legos (npm)
 - cvss: 0.0
-  id: CVE-2025-15115
-  published: '2026-01-04T00:15:43Z'
-  summary: ''
+  id: MAL-2026-45
+  published: '2026-01-05T03:10:13Z'
+  summary: Malicious code in @signify/vue-components (npm)
 - cvss: 0.0
-  id: CVE-2025-3646
-  published: '2026-01-04T00:15:43Z'
-  summary: ''
+  id: null
+  published: '2026-01-05T03:12:24Z'
+  summary: Malware in utif-updated
 - cvss: 0.0
-  id: CVE-2025-3652
-  published: '2026-01-04T00:15:43Z'
-  summary: ''
+  id: null
+  published: '2026-01-05T03:15:19Z'
+  summary: Malware in github-badge-bot
 - cvss: 0.0
-  id: CVE-2025-3653
-  published: '2026-01-04T00:15:44Z'
-  summary: ''
+  id: null
+  published: '2026-01-05T03:15:19Z'
+  summary: Malware in tiny-model-update
 - cvss: 0.0
-  id: CVE-2025-3654
-  published: '2026-01-04T00:15:44Z'
-  summary: ''
+  id: MAL-2026-46
+  published: '2026-01-05T03:15:19Z'
+  summary: Malicious code in github-badge-bot (npm)
 source_url: https://cve.circl.lu/api/last

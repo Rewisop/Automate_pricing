@@ -1,10 +1,46 @@
-fetched_at: '2026-01-04T05:40:14Z'
-generated_at: '2026-01-04T05:40:14Z'
-hash: 135860e1eba1f05b90f6d55095759593fba76eb14b7926b335e4989f5bdbff8f
+fetched_at: '2026-01-05T05:49:47Z'
+generated_at: '2026-01-05T05:49:47Z'
+hash: ef500a0311ff06c852fce621a5c820b061d4e335e9ef468c605545b2897a494f
 items:
-- id: 46483811
-  score: 25
-  time: '2026-01-04T01:26:39Z'
-  title: Developing a BLAS Library for the AMD AI Engine [pdf]
-  url: https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf
+- id: 46492063
+  score: 112
+  time: '2026-01-04T20:52:52Z'
+  title: 'Eurostar AI vulnerability: When a chatbot goes off the rails'
+  url: https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/
+- id: 46488396
+  score: 46
+  time: '2026-01-04T14:41:28Z'
+  title: AI sycophancy panic
+  url: https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md
+- id: 46492601
+  score: 39
+  time: '2026-01-04T21:43:26Z'
+  title: 'Show HN: An LLM-Powered PCB Schematic Checker (Major Update)'
+  url: https://traceformer.io/
+- id: 46492617
+  score: 11
+  time: '2026-01-04T21:46:34Z'
+  title: 'C-Sentinel: System prober that captures “system fingerprints” for AI analysis'
+  url: https://github.com/williamofai/c-sentinel
+- id: 46492188
+  score: 7
+  time: '2026-01-04T21:03:41Z'
+  title: OpenAI Board Member Zico Kolter's Modern AI Course
+  url: https://modernaicourse.org/
+- id: 46495147
+  score: 6
+  time: '2026-01-05T03:44:08Z'
+  title: '''Big Short'' investor accuses AI hyperscalers of artificially boosting
+    earnings (2025)'
+  url: https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html
+- id: 46494822
+  score: 5
+  time: '2026-01-05T02:54:20Z'
+  title: They Said AI Would Replace You by Now
+  url: https://www.youtube.com/watch?v=dH_UvWmvny0
+- id: 46493464
+  score: 4
+  time: '2026-01-04T23:22:15Z'
+  title: Clear the impression that Mistral AI is on par with OpenAI and ChatGPT
+  url: https://www.lemonde.fr/en/opinion/article/2025/09/09/it-would-be-best-to-steer-clear-of-the-impression-that-mistral-ai-is-on-par-with-openai-and-chatgpt_6745208_23.html
 source_url: https://hacker-news.firebaseio.com/

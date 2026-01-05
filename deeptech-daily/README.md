@@ -82,6 +82,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -93,6 +94,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -220,23 +222,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [The Drill-Down and Fabricate Test (DDFT): A Protocol for Measuring Epistemic Robustness in Language Models](https://arxiv.org/abs/2512.23850) — arXiv:2512.23850v1 Announce Type: new  Abstract: Current language model evaluations measure what models know under ideal conditions but not how robustly they k…
-- [CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution](https://arxiv.org/abs/2512.23880) — arXiv:2512.23880v1 Announce Type: new  Abstract: Large language model (LLM) agents currently depend on predefined tools or brittle tool generation, constrainin…
-- [A Proof-of-Concept for Explainable Disease Diagnosis Using Large Language Models and Answer Set Programming](https://arxiv.org/abs/2512.23932) — arXiv:2512.23932v1 Announce Type: new  Abstract: Accurate disease prediction is vital for timely intervention, effective treatment, and reducing medical compli…
-- [SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing](https://arxiv.org/abs/2512.24008) — arXiv:2512.24008v1 Announce Type: new  Abstract: Personalized search demands the ability to model users' evolving, multi-dimensional information needs; a chall…
-- [ROAD: Reflective Optimization via Automated Debugging for Zero-Shot Agent Alignment](https://arxiv.org/abs/2512.24040) — arXiv:2512.24040v1 Announce Type: new  Abstract: Automatic Prompt Optimization (APO) has emerged as a critical technique for enhancing Large Language Model (LL…
-- [LoongFlow: Directed Evolutionary Search via a Cognitive Plan-Execute-Summarize Paradigm](https://arxiv.org/abs/2512.24077) — arXiv:2512.24077v1 Announce Type: new  Abstract: The transition from static Large Language Models (LLMs) to self-improving agents is hindered by the lack of st…
-- [CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar for Explainable Recommendation](https://arxiv.org/abs/2512.24113) — arXiv:2512.24113v1 Announce Type: new  Abstract: Large Language Models (LLMs) have demonstrated a remarkable capacity in understanding user preferences for rec…
-- [Graph-Based Exploration for ARC-AGI-3 Interactive Reasoning Tasks](https://arxiv.org/abs/2512.24156) — arXiv:2512.24156v1 Announce Type: new  Abstract: We present a training-free graph-based approach for solving interactive reasoning tasks in the ARC-AGI-3 bench…
-- [SCP: Accelerating Discovery with a Global Web of Autonomous Scientific Agents](https://arxiv.org/abs/2512.24189) — arXiv:2512.24189v1 Announce Type: new  Abstract: We introduce SCP: the Science Context Protocol, an open-source standard designed to accelerate discovery by en…
-- [Deep Reinforcement Learning for Solving the Fleet Size and Mix Vehicle Routing Problem](https://arxiv.org/abs/2512.24251) — arXiv:2512.24251v1 Announce Type: new  Abstract: The Fleet Size and Mix Vehicle Routing Problem (FSMVRP) is a prominent variant of the Vehicle Routing Problem…
-- [Constrained Language Model Policy Optimization via Risk-aware Stepwise Alignment](https://arxiv.org/abs/2512.24263) — arXiv:2512.24263v1 Announce Type: new  Abstract: When fine-tuning pre-trained Language Models (LMs) to exhibit desired behaviors, maintaining control over risk…
-- [Align While Search: Belief-Guided Exploratory Inference for World-Grounded Embodied Agents](https://arxiv.org/abs/2512.24461) — arXiv:2512.24461v1 Announce Type: new  Abstract: In this paper, we propose a test-time adaptive agent that performs exploratory inference through posterior-gui…
-- [What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?](https://arxiv.org/abs/2512.24497) — arXiv:2512.24497v1 Announce Type: new  Abstract: A long-standing challenge in AI is to develop agents capable of solving a wide range of physical tasks and gen…
-- [Thinking on Maps: How Foundation Model Agents Explore, Remember, and Reason Map Environments](https://arxiv.org/abs/2512.24504) — arXiv:2512.24504v1 Announce Type: new  Abstract: Map environments provide a fundamental medium for representing spatial structure. Understanding how foundation…
-- [Evaluating the Reasoning Abilities of LLMs on Underrepresented Mathematics Competition Problems](https://arxiv.org/abs/2512.24505) — arXiv:2512.24505v1 Announce Type: new  Abstract: Understanding the limitations of Large Language Models, or LLMs, in mathematical reasoning has been the focus…
-
-_Showing cached data from 2026-01-01T05:42:42Z. Refresh failed: no arXiv entries retrieved._
+- [Reasoning in Action: MCTS-Driven Knowledge Retrieval for Large Language Models](https://arxiv.org/abs/2601.00003) — arXiv:2601.00003v1 Announce Type: new  Abstract: Large language models (LLMs) typically enhance their performance through either the retrieval of semantically…
+- [Finetuning Large Language Models for Automated Depression Screening in Nigerian Pidgin English: GENSCORE Pilot Study](https://arxiv.org/abs/2601.00004) — arXiv:2601.00004v1 Announce Type: new  Abstract: Depression is a major contributor to the mental-health burden in Nigeria, yet screening coverage remains limit…
+- [Toward a Physical Theory of Intelligence](https://arxiv.org/abs/2601.00021) — arXiv:2601.00021v1 Announce Type: new  Abstract: We present a physical theory of intelligence grounded in irreversible information processing in systems constr…
+- [A multi-algorithm approach for operational human resources workload balancing in a last mile urban delivery system](https://arxiv.org/abs/2601.00023) — arXiv:2601.00023v1 Announce Type: new  Abstract: Efficient workload assignment to the workforce is critical in last-mile package delivery systems. In this cont…
+- [Quantitative Rule-Based Strategy modeling in Classic Indian Rummy: A Metric Optimization Approach](https://arxiv.org/abs/2601.00024) — arXiv:2601.00024v1 Announce Type: new  Abstract: The 13-card variant of Classic Indian Rummy is a sequential game of incomplete information that requires proba…
+- [From Clay to Code: Typological and Material Reasoning in AI Interpretations of Iranian Pigeon Towers](https://arxiv.org/abs/2601.00029) — arXiv:2601.00029v1 Announce Type: new  Abstract: This study investigates how generative AI systems interpret the architectural intelligence embedded in vernacu…
+- [The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs](https://arxiv.org/abs/2601.00097) — arXiv:2601.00097v1 Announce Type: new  Abstract: We design a large-language-model (LLM) agent that extracts causal feedback fuzzy cognitive maps (FCMs) from ra…
+- [Mortar: Evolving Mechanics for Automatic Game Design](https://arxiv.org/abs/2601.00105) — arXiv:2601.00105v1 Announce Type: new  Abstract: We present Mortar, a system for autonomously evolving game mechanics for automatic game design. Game mechanics…
+- [Ask, Clarify, Optimize: Human-LLM Agent Collaboration for Smarter Inventory Control](https://arxiv.org/abs/2601.00121) — arXiv:2601.00121v1 Announce Type: new  Abstract: Inventory management remains a challenge for many small and medium-sized businesses that lack the expertise to…
+- [Constructing a Neuro-Symbolic Mathematician from First Principles](https://arxiv.org/abs/2601.00125) — arXiv:2601.00125v1 Announce Type: new  Abstract: Large Language Models (LLMs) exhibit persistent logical failures in complex reasoning due to the lack of an in…
+- [Explicit Abstention Knobs for Predictable Reliability in Video Question Answering](https://arxiv.org/abs/2601.00138) — arXiv:2601.00138v1 Announce Type: new  Abstract: High-stakes deployment of vision-language models (VLMs) requires selective prediction, where systems abstain w…
+- [An AI Monkey Gets Grapes for Sure -- Sphere Neural Networks for Reliable Decision-Making](https://arxiv.org/abs/2601.00142) — arXiv:2601.00142v1 Announce Type: new  Abstract: This paper compares three methodological categories of neural reasoning: LLM reasoning, supervised learning-ba…
+- [FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems](https://arxiv.org/abs/2601.00227) — arXiv:2601.00227v1 Announce Type: new  Abstract: Recent advances show that large language models (LLMs) can act as autonomous agents capable of generating GPU…
+- [Will LLM-powered Agents Bias Against Humans? Exploring the Belief-Dependent Vulnerability](https://arxiv.org/abs/2601.00240) — arXiv:2601.00240v1 Announce Type: new  Abstract: LLM-empowered agents can exhibit not only demographic bias (e.g., gender, religion) but also intergroup bias t…
+- [ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization](https://arxiv.org/abs/2601.00290) — arXiv:2601.00290v1 Announce Type: new  Abstract: Clinical trial failure remains a central bottleneck in drug development, where minor protocol design flaws can…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -264,28 +264,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                         |   Stars | Description                                                                                                                                                      |
-|------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| zhalice2011/ProxyLLM               |     208 | ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to…  |
-| DorsaRoh/audial                    |     118 | LLM-written music                                                                                                                                                |
-| AliyahZombie/AnyToolCall           |      35 | A llm api midware offering prompt-based function call ability.                                                                                                   |
-| mprajyothreddy/brainkernel         |      25 | Replacing the OS process scheduler with an LLM                                                                                                                   |
-| dahlia/vertana                     |      23 | LLM-powered agentic translation library for JavaScript/TypeScript                                                                                                |
-| lzjever/lexilux                    |      21 | Unified LLM API client library for Python. Simple function-like API for Chat, Embedding, Rerank, and Tokenizer. OpenAI-compatible with streaming support and un… |
-| Siddhant-K-code/distill            |      20 | A reliability layer for LLM context. Deterministic deduplication that removes redundancy before it reaches your model.                                           |
-| roomkangali/droid-llm-hunter       |      15 | Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language Models (LLMs).                                               |
-| unkarelian/Aventura                |      15 | A frontend for LLM-based text adventure                                                                                                                          |
-| can1357/oh-my-pi                   |      14 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries                                                                                      |
-| chethanreddy1/infer                |      14 | A minimal CLI tool for piping anything into an LLM.                                                                                                              |
-| eL1fe/Cogitator                    |      14 | 🤖 Kubernetes for AI Agents. Self-hosted, production-grade runtime for orchestrating LLM swarms and autonomous agents. TypeScript-native.                         |
-| 238469/burp-ai-fuzzer              |      12 | 一个基于 AI 驱动的 Burp Suite 渗透测试辅助插件，旨在利用大语言模型（LLM）的上下文理解能力，为复杂的 HTTP 请求自动生成针对性的 Fuzz 字典。                                                                             |
-| FeiCoder/BreadFree-Simu            |      10 | BreadFree-Simu 是一个基于大语言模型（LLM）的 A 股智能量化交易系统。它利用多智能体协作（Multi-Agent）架构，模拟机构投资者的决策流程（分析-风控-决策），旨在探索 AI 在中国特色金融市场（T+1、涨跌停板）中的应用潜力。                                   |
-| SamSaffron/term-llm                |      10 | Use llm to help complete terminal command                                                                                                                        |
-| aidachip/AIDAChip_Workshop_01      |      10 | This is the **AIDAChip GenAI Workshop for Silicon Engineers** - a self-guided workshop designed to teach semiconductor professionals how to leverage Large Lang… |
-| vidaiUK/VidaiMock                  |      10 | The High Performance LLM Native Mock Server                                                                                                                      |
-| grammyjs/stream                    |       9 | Stream long text messages to Telegram, such as LLM output                                                                                                        |
-| tvlnsiva/graphrag-engineering-pdfs |       9 | Ontology, and Knowledge graph based RAG that uses local LLM.                                                                                                     |
-| advent259141/LLM_MC                |       8 | 基于Mineflayer，用fastapi作为后端的让LLM可以玩MC的小项目                                                                                                                          |
+| Repository                                  |   Stars | Description                                                                                                                                                      |
+|---------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| zhalice2011/ProxyLLM                        |     232 | ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to…  |
+| mprajyothreddy/brainkernel                  |      77 | Replacing the OS process scheduler with an LLM                                                                                                                   |
+| joeseesun/AI_Papers_2025                    |      53 | 📚 2025 AI Engineering Reading List - 120+ curated AI research papers covering LLMs, Multimodal, RAG, Agents, Diffusion Models and more                           |
+| AliyahZombie/AnyToolCall                    |      38 | A llm api midware offering prompt-based function call ability.                                                                                                   |
+| unkarelian/Aventura                         |      26 | A frontend for LLM-based text adventure                                                                                                                          |
+| dahlia/vertana                              |      24 | LLM-powered agentic translation library for JavaScript/TypeScript                                                                                                |
+| Siddhant-K-code/distill                     |      23 | A reliability layer for LLM context. Deterministic deduplication that removes redundancy before it reaches your model.                                           |
+| tvlnsiva/graphrag-engineering-pdfs          |      21 | Ontology, and Knowledge graph based RAG that uses local LLM.                                                                                                     |
+| roomkangali/droid-llm-hunter                |      17 | Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language Models (LLMs).                                               |
+| can1357/oh-my-pi                            |      15 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries                                                                                      |
+| chethanreddy1/infer                         |      14 | A minimal CLI tool for piping anything into an LLM.                                                                                                              |
+| tombcato/ai-selector                        |      14 | Add AI capabilities to your app in seconds. The ultimate UI component for managing LLM providers and models. 快速为你的应用接入 AI 能力。通用 AI 模型配置组件。支持 React & Vue，内置 20+… |
+| FeiCoder/BreadFree-Simu                     |      11 | BreadFree-Simu 是一个基于大语言模型（LLM）的 A 股智能量化交易系统。它利用多智能体协作（Multi-Agent）架构，模拟机构投资者的决策流程（分析-风控-决策），旨在探索 AI 在中国特色金融市场（T+1、涨跌停板）中的应用潜力。                                   |
+| MiniMax-OpenPlatform/MiniMax-Agent-VLA-Demo |      11 | MiniMax LLM + Pi05 VLA Robot Agent Demo                                                                                                                          |
+| SamSaffron/term-llm                         |      11 | Use llm to help complete terminal command                                                                                                                        |
+| aidachip/AIDAChip_Workshop_01               |      11 | This is the **AIDAChip GenAI Workshop for Silicon Engineers** - a self-guided workshop designed to teach semiconductor professionals how to leverage Large Lang… |
+| velocitybolt/synkro                         |      10 | Generate LLM finetuning data from any document.                                                                                                                  |
+| vidaiUK/VidaiMock                           |      10 | The High Performance LLM Native Mock Server                                                                                                                      |
+| aiqinxuancai/AviSwitch                      |       9 | 轻量级 LLM API 代理与负载均衡，支持加权轮询、故障转移、熔断与流式转发。                                                                                                                         |
+| grammyjs/stream                             |       9 | Stream long text messages to Telegram, such as LLM output                                                                                                        |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -295,23 +295,30 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf) — 25 points
+- [Eurostar AI vulnerability: When a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/) — 112 points
+- [AI sycophancy panic](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md) — 46 points
+- [Show HN: An LLM-Powered PCB Schematic Checker (Major Update)](https://traceformer.io/) — 39 points
+- [C-Sentinel: System prober that captures “system fingerprints” for AI analysis](https://github.com/williamofai/c-sentinel) — 11 points
+- [OpenAI Board Member Zico Kolter's Modern AI Course](https://modernaicourse.org/) — 7 points
+- ['Big Short' investor accuses AI hyperscalers of artificially boosting earnings (2025)](https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html) — 6 points
+- [They Said AI Would Replace You by Now](https://www.youtube.com/watch?v=dH_UvWmvny0) — 5 points
+- [Clear the impression that Mistral AI is on par with OpenAI and ChatGPT](https://www.lemonde.fr/en/opinion/article/2025/09/09/it-would-be-best-to-steer-clear-of-the-impression-that-mistral-ai-is-on-par-with-openai-and-chatgpt_6745208_23.html) — 4 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary   |
-|---------------------|--------|-----------|
-| CVE-2025-34449      |      0 |           |
-| GHSA-wvmf-999m-w27j |      0 |           |
-| CVE-2023-53973      |      0 |           |
-| CVE-2025-34171      |      0 |           |
-| GHSA-9w9c-6cc9-mc59 |      0 |           |
-| CVE-2025-15115      |      0 |           |
-| CVE-2025-3646       |      0 |           |
-| CVE-2025-3652       |      0 |           |
-| CVE-2025-3653       |      0 |           |
-| CVE-2025-3654       |      0 |           |
+| CVE                 |   CVSS | Summary                                         |
+|---------------------|--------|-------------------------------------------------|
+| GHSA-v676-f8gm-92r9 |      0 |                                                 |
+| MAL-2025-192688     |      0 | Malicious code in utif-updated (npm)            |
+| MAL-2025-192926     |      0 | Malicious code in @airtel-web/clickstream (npm) |
+|                     |      0 | Malware in @signify/vue-components              |
+| MAL-2026-44         |      0 | Malicious code in @airtel-web/legos (npm)       |
+| MAL-2026-45         |      0 | Malicious code in @signify/vue-components (npm) |
+|                     |      0 | Malware in utif-updated                         |
+|                     |      0 | Malware in github-badge-bot                     |
+|                     |      0 | Malware in tiny-model-update                    |
+| MAL-2026-46         |      0 | Malicious code in github-badge-bot (npm)        |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
