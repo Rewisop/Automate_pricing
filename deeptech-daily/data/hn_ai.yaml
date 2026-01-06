@@ -1,46 +1,51 @@
-fetched_at: '2026-01-05T05:49:47Z'
-generated_at: '2026-01-05T05:49:47Z'
-hash: ef500a0311ff06c852fce621a5c820b061d4e335e9ef468c605545b2897a494f
+fetched_at: '2026-01-06T05:39:52Z'
+generated_at: '2026-01-06T05:39:52Z'
+hash: da194b2685275845e54fb9f9a87a501c99476d201652c11b773e2c7d2897e05c
 items:
-- id: 46492063
-  score: 112
-  time: '2026-01-04T20:52:52Z'
-  title: 'Eurostar AI vulnerability: When a chatbot goes off the rails'
-  url: https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/
-- id: 46488396
-  score: 46
-  time: '2026-01-04T14:41:28Z'
-  title: AI sycophancy panic
-  url: https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md
-- id: 46492601
-  score: 39
-  time: '2026-01-04T21:43:26Z'
-  title: 'Show HN: An LLM-Powered PCB Schematic Checker (Major Update)'
-  url: https://traceformer.io/
-- id: 46492617
+- id: 46499983
+  score: 453
+  time: '2026-01-05T15:34:40Z'
+  title: Murder-suicide case shows OpenAI selectively hides data after users die
+  url: https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/
+- id: 46498651
+  score: 294
+  time: '2026-01-05T13:44:59Z'
+  title: All AI Videos Are Harmful (2025)
+  url: https://idiallo.com/blog/all-ai-videos-are-harmful
+- id: 46505735
+  score: 91
+  time: '2026-01-05T22:10:15Z'
+  title: Why didn't AI “join the workforce” in 2025?
+  url: https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/
+- id: 46504966
+  score: 78
+  time: '2026-01-05T21:06:13Z'
+  title: Boston Dynamics and DeepMind form new AI partnership
+  url: https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/
+- id: 46503492
+  score: 29
+  time: '2026-01-05T19:27:49Z'
+  title: That viral Reddit post about food delivery apps was an AI scam
+  url: https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam
+- id: 46508324
+  score: 24
+  time: '2026-01-06T03:12:05Z'
+  title: Amazon Prime AI overviews can't even get the basics right
+  url: https://news.ycombinator.com/item?id=46508324
+- id: 46505976
   score: 11
-  time: '2026-01-04T21:46:34Z'
-  title: 'C-Sentinel: System prober that captures “system fingerprints” for AI analysis'
-  url: https://github.com/williamofai/c-sentinel
-- id: 46492188
-  score: 7
-  time: '2026-01-04T21:03:41Z'
-  title: OpenAI Board Member Zico Kolter's Modern AI Course
-  url: https://modernaicourse.org/
-- id: 46495147
-  score: 6
-  time: '2026-01-05T03:44:08Z'
-  title: '''Big Short'' investor accuses AI hyperscalers of artificially boosting
-    earnings (2025)'
-  url: https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html
-- id: 46494822
-  score: 5
-  time: '2026-01-05T02:54:20Z'
-  title: They Said AI Would Replace You by Now
-  url: https://www.youtube.com/watch?v=dH_UvWmvny0
-- id: 46493464
-  score: 4
-  time: '2026-01-04T23:22:15Z'
-  title: Clear the impression that Mistral AI is on par with OpenAI and ChatGPT
-  url: https://www.lemonde.fr/en/opinion/article/2025/09/09/it-would-be-best-to-steer-clear-of-the-impression-that-mistral-ai-is-on-par-with-openai-and-chatgpt_6745208_23.html
+  time: '2026-01-05T22:28:47Z'
+  title: AI programs used by Heber City police claim officer turned into a frog
+  url: https://www.fox13now.com/news/local-news/summit-county/how-utah-police-departments-are-using-ai-to-keep-streets-safer
+- id: 46507227
+  score: 11
+  time: '2026-01-06T00:31:51Z'
+  title: Nvidia Kicks Off the Next Generation of AI with Rubin – Six New Chips
+  url: https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer
+- id: 46506902
+  score: 10
+  time: '2026-01-05T23:51:27Z'
+  title: Lego announces Smart Brick, the 'most significant evolution' in 50 years,
+    no AI
+  url: https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years
 source_url: https://hacker-news.firebaseio.com/
