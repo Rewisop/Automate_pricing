@@ -1,10 +1,10 @@
-fetched_at: '2026-01-06T05:39:52Z'
-generated_at: '2026-01-06T05:39:52Z'
-hash: d60b4209c1d64630426d9363f766199f3c788ab3342834b9208116acf4646cc7
+fetched_at: '2026-01-07T05:40:30Z'
+generated_at: '2026-01-07T05:40:30Z'
+hash: 3c3461bcdf1c794d60e256f6c44d77c9ae67e806956b7e8262201b8503830ef6
 items:
 - id: oai:arXiv.org:2601.00814v1
   link: https://arxiv.org/abs/2601.00814
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00814v1 Announce Type: new  Abstract: The paper presents our
     work on cross-lingual ontology alignment system which uses embedding based cosine
     simil…'
@@ -12,35 +12,34 @@ items:
     Projections
 - id: oai:arXiv.org:2601.00816v1
   link: https://arxiv.org/abs/2601.00816
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00816v1 Announce Type: new  Abstract: Contemporary AI systems
     achieve extraordinary performance yet remain opaque and non-verifiable, creating
     a cri…'
   title: 'MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback'
 - id: oai:arXiv.org:2601.00818v1
   link: https://arxiv.org/abs/2601.00818
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00818v1 Announce Type: new  Abstract: Significant digitalization
     of financial services in a short period of time has led to an urgent demand to
     have…'
   title: Agentic AI for Autonomous, Explainable, and Real-Time Credit Risk Decision-Making
-- id: oai:arXiv.org:2601.00821v1
+- id: oai:arXiv.org:2601.00821v2
   link: https://arxiv.org/abs/2601.00821
-  published: '2026-01-06T05:00:00Z'
-  summary: 'arXiv:2601.00821v1 Announce Type: new  Abstract: Large language models
-    face a fundamental tension between context window limits and information fidelity
-    in lon…'
-  title: 'CogCanvas: Compression-Resistant Cognitive Artifacts for Long LLM Conversations'
+  published: '2026-01-07T05:00:00Z'
+  summary: 'arXiv:2601.00821v2 Announce Type: new  Abstract: Conversation summarization
+    loses nuanced details: when asked about coding preferences after 40 turns, summariz…'
+  title: 'CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations'
 - id: oai:arXiv.org:2601.00823v1
   link: https://arxiv.org/abs/2601.00823
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00823v1 Announce Type: new  Abstract: Large reasoning models
     (LRMs) have heterogeneous inference energy costs based on which model is used
     and how m…'
   title: Energy-Aware Routing to Large Reasoning Models
 - id: oai:arXiv.org:2601.00828v1
   link: https://arxiv.org/abs/2601.00828
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00828v1 Announce Type: new  Abstract: Large Language Models
     (LLMs) are widely believed to possess self-correction capabilities, yet recent
     studies s…'
@@ -48,7 +47,7 @@ items:
     Depth Hypothesis'
 - id: oai:arXiv.org:2601.00830v1
   link: https://arxiv.org/abs/2601.00830
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00830v1 Announce Type: new  Abstract: When AI systems explain
     their reasoning step-by-step, practitioners often assume these explanations reveal
     wha…'
@@ -56,7 +55,7 @@ items:
     Reasoning
 - id: oai:arXiv.org:2601.00843v1
   link: https://arxiv.org/abs/2601.00843
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00843v1 Announce Type: new  Abstract: While Deep Learning has
     improved Brain-Computer Interface (BCI) decoding accuracy, clinical adoption is
     hinder…'
@@ -64,14 +63,14 @@ items:
     AI and Sonification'
 - id: oai:arXiv.org:2601.00845v1
   link: https://arxiv.org/abs/2601.00845
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00845v1 Announce Type: new  Abstract: Temporal point processes
     (TPPs) are crucial for analyzing events over time and are widely used in fields
     such…'
   title: Enhancing Temporal Awareness in LLMs for Temporal Point Processes
 - id: oai:arXiv.org:2601.00848v1
   link: https://arxiv.org/abs/2601.00848
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00848v1 Announce Type: new  Abstract: We present an openly
     documented methodology for fine-tuning language models to detect temporal attack
     patterns…'
@@ -79,7 +78,7 @@ items:
     for Training Trace-Based Security Models'
 - id: oai:arXiv.org:2601.00856v1
   link: https://arxiv.org/abs/2601.00856
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00856v1 Announce Type: new  Abstract: Recently published work
     titled Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI
     Assistan…'
@@ -87,21 +86,21 @@ items:
     an AI Assistant for Essay Writing Tasks'
 - id: oai:arXiv.org:2601.00869v1
   link: https://arxiv.org/abs/2601.00869
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00869v1 Announce Type: new  Abstract: As artificial intelligence
     systems increasingly mediate consumer information discovery,   brands face algorith…'
   title: 'Cultural Encoding in Large Language Models: The Existence Gap in AI-Mediated
     Brand Discovery'
 - id: oai:arXiv.org:2601.00880v1
   link: https://arxiv.org/abs/2601.00880
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00880v1 Announce Type: new  Abstract: We present Universal
     Conditional Logic (UCL), a mathematical framework for prompt optimization that
     transforms…'
   title: 'Universal Conditional Logic: A Formal Language for Prompt Engineering'
 - id: oai:arXiv.org:2601.00885v1
   link: https://arxiv.org/abs/2601.00885
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00885v1 Announce Type: new  Abstract: Recent work on language
     model self-improvement shows that models can refine their own reasoning through
     reflec…'
@@ -109,7 +108,7 @@ items:
     Models
 - id: oai:arXiv.org:2601.00923v1
   link: https://arxiv.org/abs/2601.00923
-  published: '2026-01-06T05:00:00Z'
+  published: '2026-01-07T05:00:00Z'
   summary: 'arXiv:2601.00923v1 Announce Type: new  Abstract: This thesis investigates
     two key phenomena in large language models (LLMs): in-context learning (ICL) and
     mode…'

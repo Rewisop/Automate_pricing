@@ -84,6 +84,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -95,6 +96,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -227,7 +229,7 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [Semantic Alignment of Multilingual Knowledge Graphs via Contextualized Vector Projections](https://arxiv.org/abs/2601.00814) — arXiv:2601.00814v1 Announce Type: new  Abstract: The paper presents our work on cross-lingual ontology alignment system which uses embedding based cosine simil…
 - [MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback](https://arxiv.org/abs/2601.00816) — arXiv:2601.00816v1 Announce Type: new  Abstract: Contemporary AI systems achieve extraordinary performance yet remain opaque and non-verifiable, creating a cri…
 - [Agentic AI for Autonomous, Explainable, and Real-Time Credit Risk Decision-Making](https://arxiv.org/abs/2601.00818) — arXiv:2601.00818v1 Announce Type: new  Abstract: Significant digitalization of financial services in a short period of time has led to an urgent demand to have…
-- [CogCanvas: Compression-Resistant Cognitive Artifacts for Long LLM Conversations](https://arxiv.org/abs/2601.00821) — arXiv:2601.00821v1 Announce Type: new  Abstract: Large language models face a fundamental tension between context window limits and information fidelity in lon…
+- [CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations](https://arxiv.org/abs/2601.00821) — arXiv:2601.00821v2 Announce Type: new  Abstract: Conversation summarization loses nuanced details: when asked about coding preferences after 40 turns, summariz…
 - [Energy-Aware Routing to Large Reasoning Models](https://arxiv.org/abs/2601.00823) — arXiv:2601.00823v1 Announce Type: new  Abstract: Large reasoning models (LRMs) have heterogeneous inference energy costs based on which model is used and how m…
 - [Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis](https://arxiv.org/abs/2601.00828) — arXiv:2601.00828v1 Announce Type: new  Abstract: Large Language Models (LLMs) are widely believed to possess self-correction capabilities, yet recent studies s…
 - [Can We Trust AI Explanations? Evidence of Systematic Underreporting in Chain-of-Thought Reasoning](https://arxiv.org/abs/2601.00830) — arXiv:2601.00830v1 Announce Type: new  Abstract: When AI systems explain their reasoning step-by-step, practitioners often assume these explanations reveal wha…
@@ -266,30 +268,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                  |   Stars | Description                                                                                                                                                      |
-|---------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| zhalice2011/ProxyLLM                        |     232 | ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to…  |
-| mprajyothreddy/brainkernel                  |      77 | Replacing the OS process scheduler with an LLM                                                                                                                   |
-| joeseesun/AI_Papers_2025                    |      53 | 📚 2025 AI Engineering Reading List - 120+ curated AI research papers covering LLMs, Multimodal, RAG, Agents, Diffusion Models and more                           |
-| AliyahZombie/AnyToolCall                    |      38 | A llm api midware offering prompt-based function call ability.                                                                                                   |
-| unkarelian/Aventura                         |      26 | A frontend for LLM-based text adventure                                                                                                                          |
-| dahlia/vertana                              |      24 | LLM-powered agentic translation library for JavaScript/TypeScript                                                                                                |
-| Siddhant-K-code/distill                     |      23 | A reliability layer for LLM context. Deterministic deduplication that removes redundancy before it reaches your model.                                           |
-| tvlnsiva/graphrag-engineering-pdfs          |      21 | Ontology, and Knowledge graph based RAG that uses local LLM.                                                                                                     |
-| roomkangali/droid-llm-hunter                |      17 | Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language Models (LLMs).                                               |
-| can1357/oh-my-pi                            |      15 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries                                                                                      |
-| chethanreddy1/infer                         |      14 | A minimal CLI tool for piping anything into an LLM.                                                                                                              |
-| tombcato/ai-selector                        |      14 | Add AI capabilities to your app in seconds. The ultimate UI component for managing LLM providers and models. 快速为你的应用接入 AI 能力。通用 AI 模型配置组件。支持 React & Vue，内置 20+… |
-| FeiCoder/BreadFree-Simu                     |      11 | BreadFree-Simu 是一个基于大语言模型（LLM）的 A 股智能量化交易系统。它利用多智能体协作（Multi-Agent）架构，模拟机构投资者的决策流程（分析-风控-决策），旨在探索 AI 在中国特色金融市场（T+1、涨跌停板）中的应用潜力。                                   |
-| MiniMax-OpenPlatform/MiniMax-Agent-VLA-Demo |      11 | MiniMax LLM + Pi05 VLA Robot Agent Demo                                                                                                                          |
-| SamSaffron/term-llm                         |      11 | Use llm to help complete terminal command                                                                                                                        |
-| aidachip/AIDAChip_Workshop_01               |      11 | This is the **AIDAChip GenAI Workshop for Silicon Engineers** - a self-guided workshop designed to teach semiconductor professionals how to leverage Large Lang… |
-| velocitybolt/synkro                         |      10 | Generate LLM finetuning data from any document.                                                                                                                  |
-| vidaiUK/VidaiMock                           |      10 | The High Performance LLM Native Mock Server                                                                                                                      |
-| aiqinxuancai/AviSwitch                      |       9 | 轻量级 LLM API 代理与负载均衡，支持加权轮询、故障转移、熔断与流式转发。                                                                                                                         |
-| grammyjs/stream                             |       9 | Stream long text messages to Telegram, such as LLM output                                                                                                        |
-
-_Showing cached data from 2026-01-05T05:49:47Z. Refresh failed: GitHub API limit 403._
+| Repository                              |   Stars | Description                                                                                                                                                      |
+|-----------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| zhalice2011/ProxyLLM                    |     236 | ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to…  |
+| joeseesun/AI_Papers_2025                |      88 | 📚 2025 AI Engineering Reading List - 120+ curated AI research papers covering LLMs, Multimodal, RAG, Agents, Diffusion Models and more                           |
+| liangdabiao/XHS_Business_Idea_Validator |      47 | 小红书收集和分析数据来解析市场需求用户痛点及竞争格局 - 📊 **小红书数据抓取**: 自动抓取相关笔记和评论数据  - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告                                      |
+| AliyahZombie/AnyToolCall                |      42 | A llm api midware offering prompt-based function call ability.                                                                                                   |
+| unkarelian/Aventura                     |      31 | A frontend for LLM-based text adventure                                                                                                                          |
+| roomkangali/droid-llm-hunter            |      23 | Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language Models (LLMs).                                               |
+| tvlnsiva/graphrag-engineering-pdfs      |      23 | Ontology, and Knowledge graph based RAG that uses local LLM.                                                                                                     |
+| YinBo0927/RePro                         |      22 | The official code of Refinement Provenance Inference: Detecting LLM-Refined Training Prompts from Model Behavior                                                 |
+| tombcato/ai-selector                    |      15 | Add AI capabilities to your app in seconds. The ultimate UI component for managing LLM providers and models. 快速为你的应用接入 AI 能力。通用 AI 模型配置组件。支持 React & Vue，内置 20+… |
+| aiming-lab/SimpleMem                    |      14 | SimpleMem: Efficient Lifelong Memory for LLM Agents                                                                                                              |
+| velocitybolt/synkro                     |      13 | Generate LLM finetuning data from any document.                                                                                                                  |
+| itsmostafa/llm-engineering-skills       |      10 | LLM Engineering Claude Skills                                                                                                                                    |
+| truefire/delta                          |      10 | A minimal, robust LLM-powered code editor designed for experienced engineers.                                                                                    |
+| Kazuhito00/Multimodal-Node-Editor       |       9 | 画像、オーディオ、テキスト、LLM/VLM のマルチモーダル パイプラインを実験するためのノードエディター（Node-based editor to compose and experiment with multimodal pipelines across image, audio, text, and LLM/… |
+| Lpzhan931/llm-debugger                  |       9 | An interactive attention visualization and intervention tool for LLM Decode Stage.                                                                               |
+| NeoVertex1/context-field                |       8 | Experimental research on context field prompts and cognitive regime shifts in large language models.                                                             |
+| SKT-AI/A.X-K1                           |       8 | SKT A.X LLM K1                                                                                                                                                   |
+| advent259141/astrbot_plugin_debounce    |       8 | 利用微调模型实现消息防抖，判断用户在分段发送消息的情况下是否说完一句话，合并后调用LLM                                                                                                                     |
+| invergent-ai/surogate                   |       8 | Insanely fast LLM pre-training and fine-tuning for modern NVIDIA GPUs.                                                                                           |
+| EZ-Api/tokenest                         |       7 | A zero-dependency Go library for coarse and fine-grained LLM token estimation.                                                                                   |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -299,33 +299,33 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Murder-suicide case shows OpenAI selectively hides data after users die](https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/) — 453 points
-- [All AI Videos Are Harmful (2025)](https://idiallo.com/blog/all-ai-videos-are-harmful) — 294 points
-- [Why didn't AI “join the workforce” in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/) — 91 points
-- [Boston Dynamics and DeepMind form new AI partnership](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/) — 78 points
-- [That viral Reddit post about food delivery apps was an AI scam](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam) — 29 points
-- [Amazon Prime AI overviews can't even get the basics right](https://news.ycombinator.com/item?id=46508324) — 24 points
-- [AI programs used by Heber City police claim officer turned into a frog](https://www.fox13now.com/news/local-news/summit-county/how-utah-police-departments-are-using-ai-to-keep-streets-safer) — 11 points
-- [Nvidia Kicks Off the Next Generation of AI with Rubin – Six New Chips](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer) — 11 points
-- [Lego announces Smart Brick, the 'most significant evolution' in 50 years, no AI](https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years) — 10 points
+- [Opus 4.5 is not the normal AI agent experience that I have had thus far](https://burkeholland.github.io/posts/opus-4-5-change-everything/) — 437 points
+- [A 30B Qwen model walks into a Raspberry Pi and runs in real time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/) — 180 points
+- [Comparing AI agents to cybersecurity professionals in real-world pen testing](https://arxiv.org/abs/2512.09882) — 81 points
+- [The skill of the future is not 'AI', but 'Focus' (2025)](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/) — 61 points
+- [Show HN: Mantic.sh – A structural code search engine for AI agents](https://github.com/marcoaapfortes/Mantic.sh) — 58 points
+- [Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777) — 58 points
+- [OpenAI Must Turn over 20M ChatGPT Logs, Judge Affirms](https://news.bloomberglaw.com/ip-law/openai-must-turn-over-20-million-chatgpt-logs-judge-affirms) — 32 points
+- [Show HN: Symbolic Circuit Distillation: prove program to LLM circuit equivalence](https://github.com/neelsomani/symbolic-circuit-distillation) — 14 points
+- [Tech AI godfather says Meta's new 29-year-old AI boss is 'inexperienced'](https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html) — 9 points
+- [Show HN: Sidestream – an AI chat app with a side of insight](https://github.com/ericbrandon/sidestream) — 5 points
+- ['Whata Bod': An AI-generated NWS map invented fake towns in Idaho](https://www.washingtonpost.com/weather/2026/01/06/nws-ai-map-fake-names/) — 5 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                                         |
-|---------------------|--------|-------------------------------------------------|
-| GHSA-v676-f8gm-92r9 |      0 |                                                 |
-| MAL-2025-192688     |      0 | Malicious code in utif-updated (npm)            |
-| MAL-2025-192926     |      0 | Malicious code in @airtel-web/clickstream (npm) |
-|                     |      0 | Malware in @signify/vue-components              |
-| MAL-2026-44         |      0 | Malicious code in @airtel-web/legos (npm)       |
-| MAL-2026-45         |      0 | Malicious code in @signify/vue-components (npm) |
-|                     |      0 | Malware in utif-updated                         |
-|                     |      0 | Malware in github-badge-bot                     |
-|                     |      0 | Malware in tiny-model-update                    |
-| MAL-2026-46         |      0 | Malicious code in github-badge-bot (npm)        |
-
-_Showing cached data from 2026-01-05T05:49:47Z. Refresh failed: 502 Server Error: Proxy Error for url: https://cve.circl.lu/api/last._
+| CVE                 |   CVSS | Summary   |
+|---------------------|--------|-----------|
+| GHSA-8pp7-gcvr-f245 |      0 |           |
+| GHSA-f659-j5v8-73v6 |      0 |           |
+| GHSA-gg9r-qr35-cfrw |      0 |           |
+| GHSA-m5m3-wp89-4x7q |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
+|                     |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

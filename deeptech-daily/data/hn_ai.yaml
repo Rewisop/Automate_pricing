@@ -1,51 +1,60 @@
-fetched_at: '2026-01-06T05:39:52Z'
-generated_at: '2026-01-06T05:39:52Z'
-hash: da194b2685275845e54fb9f9a87a501c99476d201652c11b773e2c7d2897e05c
+fetched_at: '2026-01-07T05:40:30Z'
+generated_at: '2026-01-07T05:40:30Z'
+hash: d62f1386636939af7d9aa8f84101ab2abf8f39e8311724f2555a1194ce059744
 items:
-- id: 46499983
-  score: 453
-  time: '2026-01-05T15:34:40Z'
-  title: Murder-suicide case shows OpenAI selectively hides data after users die
-  url: https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/
-- id: 46498651
-  score: 294
-  time: '2026-01-05T13:44:59Z'
-  title: All AI Videos Are Harmful (2025)
-  url: https://idiallo.com/blog/all-ai-videos-are-harmful
-- id: 46505735
-  score: 91
-  time: '2026-01-05T22:10:15Z'
-  title: Why didn't AI “join the workforce” in 2025?
-  url: https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/
-- id: 46504966
-  score: 78
-  time: '2026-01-05T21:06:13Z'
-  title: Boston Dynamics and DeepMind form new AI partnership
-  url: https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/
-- id: 46503492
-  score: 29
-  time: '2026-01-05T19:27:49Z'
-  title: That viral Reddit post about food delivery apps was an AI scam
-  url: https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam
-- id: 46508324
-  score: 24
-  time: '2026-01-06T03:12:05Z'
-  title: Amazon Prime AI overviews can't even get the basics right
-  url: https://news.ycombinator.com/item?id=46508324
-- id: 46505976
-  score: 11
-  time: '2026-01-05T22:28:47Z'
-  title: AI programs used by Heber City police claim officer turned into a frog
-  url: https://www.fox13now.com/news/local-news/summit-county/how-utah-police-departments-are-using-ai-to-keep-streets-safer
-- id: 46507227
-  score: 11
-  time: '2026-01-06T00:31:51Z'
-  title: Nvidia Kicks Off the Next Generation of AI with Rubin – Six New Chips
-  url: https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer
-- id: 46506902
-  score: 10
-  time: '2026-01-05T23:51:27Z'
-  title: Lego announces Smart Brick, the 'most significant evolution' in 50 years,
-    no AI
-  url: https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years
+- id: 46515696
+  score: 437
+  time: '2026-01-06T17:45:37Z'
+  title: Opus 4.5 is not the normal AI agent experience that I have had thus far
+  url: https://burkeholland.github.io/posts/opus-4-5-change-everything/
+- id: 46518573
+  score: 180
+  time: '2026-01-06T20:55:01Z'
+  title: A 30B Qwen model walks into a Raspberry Pi and runs in real time
+  url: https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/
+- id: 46518996
+  score: 81
+  time: '2026-01-06T21:23:07Z'
+  title: Comparing AI agents to cybersecurity professionals in real-world pen testing
+  url: https://arxiv.org/abs/2512.09882
+- id: 46513728
+  score: 61
+  time: '2026-01-06T15:44:44Z'
+  title: The skill of the future is not 'AI', but 'Focus' (2025)
+  url: https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/
+- id: 46512182
+  score: 58
+  time: '2026-01-06T13:48:27Z'
+  title: 'Show HN: Mantic.sh – A structural code search engine for AI agents'
+  url: https://github.com/marcoaapfortes/Mantic.sh
+- id: 46515777
+  score: 58
+  time: '2026-01-06T17:49:56Z'
+  title: 'Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery'
+  url: https://news.ycombinator.com/item?id=46515777
+- id: 46517836
+  score: 32
+  time: '2026-01-06T20:03:10Z'
+  title: OpenAI Must Turn over 20M ChatGPT Logs, Judge Affirms
+  url: https://news.bloomberglaw.com/ip-law/openai-must-turn-over-20-million-chatgpt-logs-judge-affirms
+- id: 46518608
+  score: 14
+  time: '2026-01-06T20:57:06Z'
+  title: 'Show HN: Symbolic Circuit Distillation: prove program to LLM circuit equivalence'
+  url: https://github.com/neelsomani/symbolic-circuit-distillation
+- id: 46521543
+  score: 9
+  time: '2026-01-07T01:52:29Z'
+  title: Tech AI godfather says Meta's new 29-year-old AI boss is 'inexperienced'
+  url: https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html
+- id: 46518415
+  score: 5
+  time: '2026-01-06T20:44:26Z'
+  title: 'Show HN: Sidestream – an AI chat app with a side of insight'
+  url: https://github.com/ericbrandon/sidestream
+- id: 46520699
+  score: 5
+  time: '2026-01-07T00:00:11Z'
+  title: '''Whata Bod'': An AI-generated NWS map invented fake towns in Idaho'
+  url: https://www.washingtonpost.com/weather/2026/01/06/nws-ai-map-fake-names/
 source_url: https://hacker-news.firebaseio.com/

@@ -1,45 +1,45 @@
-fetched_at: '2026-01-05T05:49:47Z'
-generated_at: '2026-01-05T05:49:47Z'
-hash: 6ee8fbff2871f67f0abc9e1765fd6f8eb4e932be6bc5f224d35ad86ebd41ca51
+fetched_at: '2026-01-07T05:40:30Z'
+generated_at: '2026-01-07T05:40:30Z'
+hash: 184294cbfd11ae552398d9601013a33237b2297b902db9ecae6b00c58aa2000a
 items:
 - cvss: 0.0
-  id: GHSA-v676-f8gm-92r9
-  published: '2025-09-12T06:30:26Z'
+  id: GHSA-8pp7-gcvr-f245
+  published: '2026-01-07T03:30:26Z'
   summary: ''
 - cvss: 0.0
-  id: MAL-2025-192688
-  published: '2025-12-22T13:51:05Z'
-  summary: Malicious code in utif-updated (npm)
+  id: GHSA-f659-j5v8-73v6
+  published: '2026-01-07T03:30:26Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2025-192926
-  published: '2025-12-24T12:20:46Z'
-  summary: Malicious code in @airtel-web/clickstream (npm)
+  id: GHSA-gg9r-qr35-cfrw
+  published: '2026-01-07T03:30:26Z'
+  summary: ''
 - cvss: 0.0
-  id: null
-  published: '2026-01-05T03:10:13Z'
-  summary: Malware in @signify/vue-components
-- cvss: 0.0
-  id: MAL-2026-44
-  published: '2026-01-05T03:10:13Z'
-  summary: Malicious code in @airtel-web/legos (npm)
-- cvss: 0.0
-  id: MAL-2026-45
-  published: '2026-01-05T03:10:13Z'
-  summary: Malicious code in @signify/vue-components (npm)
+  id: GHSA-m5m3-wp89-4x7q
+  published: '2026-01-07T03:30:26Z'
+  summary: ''
 - cvss: 0.0
   id: null
-  published: '2026-01-05T03:12:24Z'
-  summary: Malware in utif-updated
+  published: '2026-01-07T05:40:30Z'
+  summary: ''
 - cvss: 0.0
   id: null
-  published: '2026-01-05T03:15:19Z'
-  summary: Malware in github-badge-bot
+  published: '2026-01-07T05:40:30Z'
+  summary: ''
 - cvss: 0.0
   id: null
-  published: '2026-01-05T03:15:19Z'
-  summary: Malware in tiny-model-update
+  published: '2026-01-07T05:40:30Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2026-46
-  published: '2026-01-05T03:15:19Z'
-  summary: Malicious code in github-badge-bot (npm)
+  id: null
+  published: '2026-01-07T05:40:30Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2026-01-07T05:40:30Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2026-01-07T05:40:30Z'
+  summary: ''
 source_url: https://cve.circl.lu/api/last
