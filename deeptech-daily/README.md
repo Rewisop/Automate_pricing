@@ -85,6 +85,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -96,6 +97,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -226,21 +228,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [Semantic Alignment of Multilingual Knowledge Graphs via Contextualized Vector Projections](https://arxiv.org/abs/2601.00814) — arXiv:2601.00814v1 Announce Type: new  Abstract: The paper presents our work on cross-lingual ontology alignment system which uses embedding based cosine simil…
-- [MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback](https://arxiv.org/abs/2601.00816) — arXiv:2601.00816v1 Announce Type: new  Abstract: Contemporary AI systems achieve extraordinary performance yet remain opaque and non-verifiable, creating a cri…
-- [Agentic AI for Autonomous, Explainable, and Real-Time Credit Risk Decision-Making](https://arxiv.org/abs/2601.00818) — arXiv:2601.00818v1 Announce Type: new  Abstract: Significant digitalization of financial services in a short period of time has led to an urgent demand to have…
-- [CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations](https://arxiv.org/abs/2601.00821) — arXiv:2601.00821v2 Announce Type: new  Abstract: Conversation summarization loses nuanced details: when asked about coding preferences after 40 turns, summariz…
-- [Energy-Aware Routing to Large Reasoning Models](https://arxiv.org/abs/2601.00823) — arXiv:2601.00823v1 Announce Type: new  Abstract: Large reasoning models (LRMs) have heterogeneous inference energy costs based on which model is used and how m…
-- [Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis](https://arxiv.org/abs/2601.00828) — arXiv:2601.00828v1 Announce Type: new  Abstract: Large Language Models (LLMs) are widely believed to possess self-correction capabilities, yet recent studies s…
-- [Can We Trust AI Explanations? Evidence of Systematic Underreporting in Chain-of-Thought Reasoning](https://arxiv.org/abs/2601.00830) — arXiv:2601.00830v1 Announce Type: new  Abstract: When AI systems explain their reasoning step-by-step, practitioners often assume these explanations reveal wha…
-- [OmniNeuro: A Multimodal HCI Framework for Explainable BCI Feedback via Generative AI and Sonification](https://arxiv.org/abs/2601.00843) — arXiv:2601.00843v1 Announce Type: new  Abstract: While Deep Learning has improved Brain-Computer Interface (BCI) decoding accuracy, clinical adoption is hinder…
-- [Enhancing Temporal Awareness in LLMs for Temporal Point Processes](https://arxiv.org/abs/2601.00845) — arXiv:2601.00845v1 Announce Type: new  Abstract: Temporal point processes (TPPs) are crucial for analyzing events over time and are widely used in fields such…
-- [Temporal Attack Pattern Detection in Multi-Agent AI Workflows: An Open Framework for Training Trace-Based Security Models](https://arxiv.org/abs/2601.00848) — arXiv:2601.00848v1 Announce Type: new  Abstract: We present an openly documented methodology for fine-tuning language models to detect temporal attack patterns…
-- [Comment on: Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Tasks](https://arxiv.org/abs/2601.00856) — arXiv:2601.00856v1 Announce Type: new  Abstract: Recently published work titled Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistan…
-- [Cultural Encoding in Large Language Models: The Existence Gap in AI-Mediated Brand Discovery](https://arxiv.org/abs/2601.00869) — arXiv:2601.00869v1 Announce Type: new  Abstract: As artificial intelligence systems increasingly mediate consumer information discovery,   brands face algorith…
-- [Universal Conditional Logic: A Formal Language for Prompt Engineering](https://arxiv.org/abs/2601.00880) — arXiv:2601.00880v1 Announce Type: new  Abstract: We present Universal Conditional Logic (UCL), a mathematical framework for prompt optimization that transforms…
-- [Counterfactual Self-Questioning for Stable Policy Optimization in Language Models](https://arxiv.org/abs/2601.00885) — arXiv:2601.00885v1 Announce Type: new  Abstract: Recent work on language model self-improvement shows that models can refine their own reasoning through reflec…
-- [Context Collapse: In-Context Learning and Model Collapse](https://arxiv.org/abs/2601.00923) — arXiv:2601.00923v1 Announce Type: new  Abstract: This thesis investigates two key phenomena in large language models (LLMs): in-context learning (ICL) and mode…
+- [Mastering the Game of Go with Self-play Experience Replay](https://arxiv.org/abs/2601.03306) — arXiv:2601.03306v1 Announce Type: new  Abstract: The game of Go has long served as a benchmark for artificial intelligence, demanding sophisticated strategic r…
+- [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://arxiv.org/abs/2601.03335) — arXiv:2601.03335v1 Announce Type: new  Abstract: Large language models (LLMs) are increasingly being used to evolve solutions to problems in many domains, in a…
+- [Enhancing LLM Instruction Following: An Evaluation-Driven Multi-Agentic Workflow for Prompt Instructions Optimization](https://arxiv.org/abs/2601.03359) — arXiv:2601.03359v1 Announce Type: new  Abstract: Large Language Models (LLMs) often generate substantively relevant content but fail to adhere to formal constr…
+- [Exploration Through Introspection: A Self-Aware Reward Model](https://arxiv.org/abs/2601.03389) — arXiv:2601.03389v1 Announce Type: new  Abstract: Understanding how artificial agents model internal mental states is central to advancing Theory of Mind in AI.…
+- [Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness Through Measurement Mechanisms](https://arxiv.org/abs/2601.03470) — arXiv:2601.03470v1 Announce Type: new  Abstract: We propose a maturity-based framework for certifying embodied AI systems through explicit measurement mechanis…
+- [CPGPrompt: Translating Clinical Guidelines into LLM-Executable Decision Support](https://arxiv.org/abs/2601.03475) — arXiv:2601.03475v1 Announce Type: new  Abstract: Clinical practice guidelines (CPGs) provide evidence-based recommendations for patient care; however, integrat…
+- [Personalization of Large Foundation Models for Health Interventions](https://arxiv.org/abs/2601.03482) — arXiv:2601.03482v1 Announce Type: new  Abstract: Large foundation models (LFMs) transform healthcare AI in prevention, diagnostics, and treatment. However, whe…
+- [Evolving Programmatic Skill Networks](https://arxiv.org/abs/2601.03509) — arXiv:2601.03509v1 Announce Type: new  Abstract: We study continual skill acquisition in open-ended embodied environments where an agent must construct, refine…
+- [Variance Computation for Weighted Model Counting with Knowledge Compilation Approach](https://arxiv.org/abs/2601.03523) — arXiv:2601.03523v1 Announce Type: new  Abstract: One of the most important queries in knowledge compilation is weighted model counting (WMC), which has been ap…
+- [STAR-S: Improving Safety Alignment through Self-Taught Reasoning on Safety Rules](https://arxiv.org/abs/2601.03537) — arXiv:2601.03537v1 Announce Type: new  Abstract: Defending against jailbreak attacks is crucial for the safe deployment of Large Language Models (LLMs). Recent…
+- [ReEfBench: Quantifying the Reasoning Efficiency of LLMs](https://arxiv.org/abs/2601.03550) — arXiv:2601.03550v1 Announce Type: new  Abstract: Test-time scaling has enabled Large Language Models (LLMs) to tackle complex reasoning, yet the limitations of…
+- [SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models](https://arxiv.org/abs/2601.03555) — arXiv:2601.03555v1 Announce Type: new  Abstract: Training reliable tool-augmented agents remains a significant challenge, largely due to the difficulty of cred…
+- [Controllable LLM Reasoning via Sparse Autoencoder-Based Steering](https://arxiv.org/abs/2601.03595) — arXiv:2601.03595v1 Announce Type: new  Abstract: Large Reasoning Models (LRMs) exhibit human-like cognitive reasoning strategies (e.g. backtracking, cross-veri…
+- [Interleaved Tool-Call Reasoning for Protein Function Understanding](https://arxiv.org/abs/2601.03604) — arXiv:2601.03604v1 Announce Type: new  Abstract: Recent advances in large language models (LLMs) have highlighted the effectiveness of chain-of-thought reasoni…
+- [Architecting Agentic Communities using Design Patterns](https://arxiv.org/abs/2601.03624) — arXiv:2601.03624v1 Announce Type: new  Abstract: The rapid evolution of Large Language Models (LLM) and subsequent Agentic AI technologies requires systematic…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -268,28 +270,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                              |   Stars | Description                                                                                                                                                      |
-|-----------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| zhalice2011/ProxyLLM                    |     236 | ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to…  |
-| joeseesun/AI_Papers_2025                |      88 | 📚 2025 AI Engineering Reading List - 120+ curated AI research papers covering LLMs, Multimodal, RAG, Agents, Diffusion Models and more                           |
-| liangdabiao/XHS_Business_Idea_Validator |      47 | 小红书收集和分析数据来解析市场需求用户痛点及竞争格局 - 📊 **小红书数据抓取**: 自动抓取相关笔记和评论数据  - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告                                      |
-| AliyahZombie/AnyToolCall                |      42 | A llm api midware offering prompt-based function call ability.                                                                                                   |
-| unkarelian/Aventura                     |      31 | A frontend for LLM-based text adventure                                                                                                                          |
-| roomkangali/droid-llm-hunter            |      23 | Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language Models (LLMs).                                               |
-| tvlnsiva/graphrag-engineering-pdfs      |      23 | Ontology, and Knowledge graph based RAG that uses local LLM.                                                                                                     |
-| YinBo0927/RePro                         |      22 | The official code of Refinement Provenance Inference: Detecting LLM-Refined Training Prompts from Model Behavior                                                 |
-| tombcato/ai-selector                    |      15 | Add AI capabilities to your app in seconds. The ultimate UI component for managing LLM providers and models. 快速为你的应用接入 AI 能力。通用 AI 模型配置组件。支持 React & Vue，内置 20+… |
-| aiming-lab/SimpleMem                    |      14 | SimpleMem: Efficient Lifelong Memory for LLM Agents                                                                                                              |
-| velocitybolt/synkro                     |      13 | Generate LLM finetuning data from any document.                                                                                                                  |
-| itsmostafa/llm-engineering-skills       |      10 | LLM Engineering Claude Skills                                                                                                                                    |
-| truefire/delta                          |      10 | A minimal, robust LLM-powered code editor designed for experienced engineers.                                                                                    |
-| Kazuhito00/Multimodal-Node-Editor       |       9 | 画像、オーディオ、テキスト、LLM/VLM のマルチモーダル パイプラインを実験するためのノードエディター（Node-based editor to compose and experiment with multimodal pipelines across image, audio, text, and LLM/… |
-| Lpzhan931/llm-debugger                  |       9 | An interactive attention visualization and intervention tool for LLM Decode Stage.                                                                               |
-| NeoVertex1/context-field                |       8 | Experimental research on context field prompts and cognitive regime shifts in large language models.                                                             |
-| SKT-AI/A.X-K1                           |       8 | SKT A.X LLM K1                                                                                                                                                   |
-| advent259141/astrbot_plugin_debounce    |       8 | 利用微调模型实现消息防抖，判断用户在分段发送消息的情况下是否说完一句话，合并后调用LLM                                                                                                                     |
-| invergent-ai/surogate                   |       8 | Insanely fast LLM pre-training and fine-tuning for modern NVIDIA GPUs.                                                                                           |
-| EZ-Api/tokenest                         |       7 | A zero-dependency Go library for coarse and fine-grained LLM token estimation.                                                                                   |
+| Repository                                     |   Stars | Description                                                                                                                                                      |
+|------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| zhalice2011/ProxyLLM                           |     238 | ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to…  |
+| joeseesun/AI_Papers_2025                       |      90 | 📚 2025 AI Engineering Reading List - 120+ curated AI research papers covering LLMs, Multimodal, RAG, Agents, Diffusion Models and more                           |
+| liangdabiao/XHS_Business_Idea_Validator        |      56 | 小红书收集和分析数据来解析市场需求用户痛点及竞争格局 - 📊 **小红书数据抓取**: 自动抓取相关笔记和评论数据  - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告                                      |
+| AliyahZombie/AnyToolCall                       |      42 | A llm api midware offering prompt-based function call ability.                                                                                                   |
+| tvlnsiva/graphrag-engineering-pdfs             |      23 | Ontology, and Knowledge graph based RAG that uses local LLM.                                                                                                     |
+| Lpzhan931/llm-debugger                         |      18 | An interactive attention visualization and intervention tool for LLM Decode Stage.                                                                               |
+| hoangnv170752/StudyNest                        |      18 | Local PC app for everyone to use LLM locally 🫡                                                                                                                   |
+| liangdabiao/Reddit_Business_Idea_Validator     |      15 | Reddit 生意调研Agent:收集和分析数据来解析市场需求、用户痛点及竞争格局.- 📊 **Reddit 数据抓取**: 自动抓取相关帖子和评论数据（使用用户输入作为搜索关键词） - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告     |
+| flagos-ai/awesome-LLM-driven-kernel-generation |      13 | Review automated kernel generation in the era of LLMs                                                                                                            |
+| nitinvetcha/DeGAML-LLM                         |      13 | DeGAML-LLM: Decoupling Generalization and Adaptation in Meta-Learning for Large Language Models                                                                  |
+| Kazuhito00/Multimodal-Node-Editor              |      12 | 画像、オーディオ、テキスト、LLM/VLM のマルチモーダル パイプラインを実験するためのノードエディター（Node-based editor to compose and experiment with multimodal pipelines across image, audio, text, and LLM/… |
+| SKT-AI/A.X-K1                                  |      11 | SKT A.X LLM K1                                                                                                                                                   |
+| NeoVertex1/context-field                       |      10 | Experimental research on context field prompts and cognitive regime shifts in large language models.                                                             |
+| itsmostafa/llm-engineering-skills              |      10 | LLM Engineering Claude Skills                                                                                                                                    |
+| advent259141/astrbot_plugin_debounce           |       9 | 利用微调模型实现消息防抖，判断用户在分段发送消息的情况下是否说完一句话，合并后调用LLM                                                                                                                     |
+| invergent-ai/surogate                          |       9 | Insanely fast LLM pre-training and fine-tuning for modern NVIDIA GPUs.                                                                                           |
+| tgllsy/SecAuditAI                              |       8 | 一款集成 CodeQL 静态分析和 LLM (大语言模型) 智能验证的半自动化代码审计工具                                                                                                                    |
+| EZ-Api/tokenest                                |       7 | A zero-dependency Go library for coarse and fine-grained LLM token estimation.                                                                                   |
+| cloud-atlas-ai/ba                              |       7 | Lightweight task management for LLMs                                                                                                                             |
+| delirehberi/journal-guardian                   |       7 | JournalCTL Watcher with local LLM explanations for errors                                                                                                        |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -299,33 +301,30 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Opus 4.5 is not the normal AI agent experience that I have had thus far](https://burkeholland.github.io/posts/opus-4-5-change-everything/) — 437 points
-- [A 30B Qwen model walks into a Raspberry Pi and runs in real time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/) — 180 points
-- [Comparing AI agents to cybersecurity professionals in real-world pen testing](https://arxiv.org/abs/2512.09882) — 81 points
-- [The skill of the future is not 'AI', but 'Focus' (2025)](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/) — 61 points
-- [Show HN: Mantic.sh – A structural code search engine for AI agents](https://github.com/marcoaapfortes/Mantic.sh) — 58 points
-- [Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777) — 58 points
-- [OpenAI Must Turn over 20M ChatGPT Logs, Judge Affirms](https://news.bloomberglaw.com/ip-law/openai-must-turn-over-20-million-chatgpt-logs-judge-affirms) — 32 points
-- [Show HN: Symbolic Circuit Distillation: prove program to LLM circuit equivalence](https://github.com/neelsomani/symbolic-circuit-distillation) — 14 points
-- [Tech AI godfather says Meta's new 29-year-old AI boss is 'inexperienced'](https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html) — 9 points
-- [Show HN: Sidestream – an AI chat app with a side of insight](https://github.com/ericbrandon/sidestream) — 5 points
-- ['Whata Bod': An AI-generated NWS map invented fake towns in Idaho](https://www.washingtonpost.com/weather/2026/01/06/nws-ai-map-fake-names/) — 5 points
+- [Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5 years](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/) — 164 points
+- [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration) — 140 points
+- [How Google got its groove back and edged ahead of OpenAI](https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160) — 94 points
+- [Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery](https://keelcode.dev/keeltest) — 27 points
+- [Anthropic Raising $10B at $350B Value](https://www.wsj.com/tech/ai/anthropic-raising-10-billion-at-350-billion-value-62af49f4) — 19 points
+- [AI Psychosis, AI Apotheosis](https://www.oblomovka.com/wp/2026/01/07/ai-psychosis-ai-apotheosis/) — 15 points
+- [Show HN: An LLM response cache that's aware of dynamic data](https://blog.butter.dev/on-automatic-template-induction-for-response-caching) — 12 points
+- [OpenAI Would Like You to Share Your Health Data with ChatGPT](https://www.scientificamerican.com/article/openai-would-like-you-to-share-your-health-data-with-its-chatgpt/) — 5 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary   |
-|---------------------|--------|-----------|
-| GHSA-8pp7-gcvr-f245 |      0 |           |
-| GHSA-f659-j5v8-73v6 |      0 |           |
-| GHSA-gg9r-qr35-cfrw |      0 |           |
-| GHSA-m5m3-wp89-4x7q |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
-|                     |      0 |           |
+| CVE             |   CVSS | Summary                                               |
+|-----------------|--------|-------------------------------------------------------|
+| MAL-2024-3834   |      0 | Malicious code in vscode-ui5-language-assistant (npm) |
+| CVE-2025-7365   |      0 |                                                       |
+| CVE-2025-8419   |      0 |                                                       |
+| MAL-2025-192677 |      0 | Malicious code in shakti20261 (npm)                   |
+| MAL-2025-192939 |      0 | Malicious code in magic-poc (npm)                     |
+| MAL-2025-192944 |      0 | Malicious code in backstage-plugin-glean (npm)        |
+| MAL-2025-192960 |      0 | Malicious code in kcheck (npm)                        |
+| CVE-2026-0707   |      0 |                                                       |
+| CVE-2026-21427  |      0 |                                                       |
+| CVE-2026-22577  |      0 |                                                       |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

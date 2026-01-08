@@ -1,60 +1,46 @@
-fetched_at: '2026-01-07T05:40:30Z'
-generated_at: '2026-01-07T05:40:30Z'
-hash: d62f1386636939af7d9aa8f84101ab2abf8f39e8311724f2555a1194ce059744
+fetched_at: '2026-01-08T05:39:49Z'
+generated_at: '2026-01-08T05:39:49Z'
+hash: 608767d123d3193e536121e6fc9ac0d9bf4e019c7ab659a8315baa5c21a4a90a
 items:
-- id: 46515696
-  score: 437
-  time: '2026-01-06T17:45:37Z'
-  title: Opus 4.5 is not the normal AI agent experience that I have had thus far
-  url: https://burkeholland.github.io/posts/opus-4-5-change-everything/
-- id: 46518573
-  score: 180
-  time: '2026-01-06T20:55:01Z'
-  title: A 30B Qwen model walks into a Raspberry Pi and runs in real time
-  url: https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/
-- id: 46518996
-  score: 81
-  time: '2026-01-06T21:23:07Z'
-  title: Comparing AI agents to cybersecurity professionals in real-world pen testing
-  url: https://arxiv.org/abs/2512.09882
-- id: 46513728
-  score: 61
-  time: '2026-01-06T15:44:44Z'
-  title: The skill of the future is not 'AI', but 'Focus' (2025)
-  url: https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/
-- id: 46512182
-  score: 58
-  time: '2026-01-06T13:48:27Z'
-  title: 'Show HN: Mantic.sh – A structural code search engine for AI agents'
-  url: https://github.com/marcoaapfortes/Mantic.sh
-- id: 46515777
-  score: 58
-  time: '2026-01-06T17:49:56Z'
-  title: 'Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery'
-  url: https://news.ycombinator.com/item?id=46515777
-- id: 46517836
-  score: 32
-  time: '2026-01-06T20:03:10Z'
-  title: OpenAI Must Turn over 20M ChatGPT Logs, Judge Affirms
-  url: https://news.bloomberglaw.com/ip-law/openai-must-turn-over-20-million-chatgpt-logs-judge-affirms
-- id: 46518608
-  score: 14
-  time: '2026-01-06T20:57:06Z'
-  title: 'Show HN: Symbolic Circuit Distillation: prove program to LLM circuit equivalence'
-  url: https://github.com/neelsomani/symbolic-circuit-distillation
-- id: 46521543
-  score: 9
-  time: '2026-01-07T01:52:29Z'
-  title: Tech AI godfather says Meta's new 29-year-old AI boss is 'inexperienced'
-  url: https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html
-- id: 46518415
+- id: 46527706
+  score: 164
+  time: '2026-01-07T15:46:07Z'
+  title: Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5
+    years
+  url: https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/
+- id: 46531565
+  score: 140
+  time: '2026-01-07T19:49:54Z'
+  title: 'Notion AI: Unpatched data exfiltration'
+  url: https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration
+- id: 46528389
+  score: 94
+  time: '2026-01-07T16:29:41Z'
+  title: How Google got its groove back and edged ahead of OpenAI
+  url: https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160
+- id: 46526088
+  score: 27
+  time: '2026-01-07T13:22:35Z'
+  title: 'Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery'
+  url: https://keelcode.dev/keeltest
+- id: 46533805
+  score: 19
+  time: '2026-01-07T22:10:36Z'
+  title: Anthropic Raising $10B at $350B Value
+  url: https://www.wsj.com/tech/ai/anthropic-raising-10-billion-at-350-billion-value-62af49f4
+- id: 46526083
+  score: 15
+  time: '2026-01-07T13:21:22Z'
+  title: AI Psychosis, AI Apotheosis
+  url: https://www.oblomovka.com/wp/2026/01/07/ai-psychosis-ai-apotheosis/
+- id: 46532755
+  score: 12
+  time: '2026-01-07T21:04:58Z'
+  title: 'Show HN: An LLM response cache that''s aware of dynamic data'
+  url: https://blog.butter.dev/on-automatic-template-induction-for-response-caching
+- id: 46536123
   score: 5
-  time: '2026-01-06T20:44:26Z'
-  title: 'Show HN: Sidestream – an AI chat app with a side of insight'
-  url: https://github.com/ericbrandon/sidestream
-- id: 46520699
-  score: 5
-  time: '2026-01-07T00:00:11Z'
-  title: '''Whata Bod'': An AI-generated NWS map invented fake towns in Idaho'
-  url: https://www.washingtonpost.com/weather/2026/01/06/nws-ai-map-fake-names/
+  time: '2026-01-08T01:55:02Z'
+  title: OpenAI Would Like You to Share Your Health Data with ChatGPT
+  url: https://www.scientificamerican.com/article/openai-would-like-you-to-share-your-health-data-with-its-chatgpt/
 source_url: https://hacker-news.firebaseio.com/

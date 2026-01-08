@@ -1,45 +1,45 @@
-fetched_at: '2026-01-07T05:40:30Z'
-generated_at: '2026-01-07T05:40:30Z'
-hash: 184294cbfd11ae552398d9601013a33237b2297b902db9ecae6b00c58aa2000a
+fetched_at: '2026-01-08T05:39:49Z'
+generated_at: '2026-01-08T05:39:49Z'
+hash: 2ad720c22715210a5bc640e563f2d6155fd0241b650545b6c4086e5a50f66a5e
 items:
 - cvss: 0.0
-  id: GHSA-8pp7-gcvr-f245
-  published: '2026-01-07T03:30:26Z'
+  id: MAL-2024-3834
+  published: '2024-06-25T13:19:26Z'
+  summary: Malicious code in vscode-ui5-language-assistant (npm)
+- cvss: 0.0
+  id: CVE-2025-7365
+  published: '2025-07-10T15:15:30Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-f659-j5v8-73v6
-  published: '2026-01-07T03:30:26Z'
+  id: CVE-2025-8419
+  published: '2025-08-06T17:15:38Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-gg9r-qr35-cfrw
-  published: '2026-01-07T03:30:26Z'
+  id: MAL-2025-192677
+  published: '2025-12-19T20:30:42Z'
+  summary: Malicious code in shakti20261 (npm)
+- cvss: 0.0
+  id: MAL-2025-192939
+  published: '2025-12-26T03:35:35Z'
+  summary: Malicious code in magic-poc (npm)
+- cvss: 0.0
+  id: MAL-2025-192944
+  published: '2025-12-27T02:51:04Z'
+  summary: Malicious code in backstage-plugin-glean (npm)
+- cvss: 0.0
+  id: MAL-2025-192960
+  published: '2025-12-29T15:45:39Z'
+  summary: Malicious code in kcheck (npm)
+- cvss: 0.0
+  id: CVE-2026-0707
+  published: '2026-01-08T04:15:56Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-m5m3-wp89-4x7q
-  published: '2026-01-07T03:30:26Z'
+  id: CVE-2026-21427
+  published: '2026-01-08T04:15:56Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2026-01-07T05:40:30Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2026-01-07T05:40:30Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2026-01-07T05:40:30Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2026-01-07T05:40:30Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2026-01-07T05:40:30Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2026-01-07T05:40:30Z'
+  id: CVE-2026-22577
+  published: '2026-01-08T04:15:56Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

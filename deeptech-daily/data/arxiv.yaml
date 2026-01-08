@@ -1,118 +1,111 @@
-fetched_at: '2026-01-07T05:40:30Z'
-generated_at: '2026-01-07T05:40:30Z'
-hash: 3c3461bcdf1c794d60e256f6c44d77c9ae67e806956b7e8262201b8503830ef6
+fetched_at: '2026-01-08T05:39:49Z'
+generated_at: '2026-01-08T05:39:49Z'
+hash: 62ed980f51a08ee68ba2aaecec3aa86cf970c0c15328639db26e19adb75701e6
 items:
-- id: oai:arXiv.org:2601.00814v1
-  link: https://arxiv.org/abs/2601.00814
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00814v1 Announce Type: new  Abstract: The paper presents our
-    work on cross-lingual ontology alignment system which uses embedding based cosine
-    simil…'
-  title: Semantic Alignment of Multilingual Knowledge Graphs via Contextualized Vector
-    Projections
-- id: oai:arXiv.org:2601.00816v1
-  link: https://arxiv.org/abs/2601.00816
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00816v1 Announce Type: new  Abstract: Contemporary AI systems
-    achieve extraordinary performance yet remain opaque and non-verifiable, creating
-    a cri…'
-  title: 'MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback'
-- id: oai:arXiv.org:2601.00818v1
-  link: https://arxiv.org/abs/2601.00818
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00818v1 Announce Type: new  Abstract: Significant digitalization
-    of financial services in a short period of time has led to an urgent demand to
-    have…'
-  title: Agentic AI for Autonomous, Explainable, and Real-Time Credit Risk Decision-Making
-- id: oai:arXiv.org:2601.00821v2
-  link: https://arxiv.org/abs/2601.00821
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00821v2 Announce Type: new  Abstract: Conversation summarization
-    loses nuanced details: when asked about coding preferences after 40 turns, summariz…'
-  title: 'CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations'
-- id: oai:arXiv.org:2601.00823v1
-  link: https://arxiv.org/abs/2601.00823
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00823v1 Announce Type: new  Abstract: Large reasoning models
-    (LRMs) have heterogeneous inference energy costs based on which model is used
-    and how m…'
-  title: Energy-Aware Routing to Large Reasoning Models
-- id: oai:arXiv.org:2601.00828v1
-  link: https://arxiv.org/abs/2601.00828
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00828v1 Announce Type: new  Abstract: Large Language Models
-    (LLMs) are widely believed to possess self-correction capabilities, yet recent
-    studies s…'
-  title: 'Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error
-    Depth Hypothesis'
-- id: oai:arXiv.org:2601.00830v1
-  link: https://arxiv.org/abs/2601.00830
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00830v1 Announce Type: new  Abstract: When AI systems explain
-    their reasoning step-by-step, practitioners often assume these explanations reveal
-    wha…'
-  title: Can We Trust AI Explanations? Evidence of Systematic Underreporting in Chain-of-Thought
-    Reasoning
-- id: oai:arXiv.org:2601.00843v1
-  link: https://arxiv.org/abs/2601.00843
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00843v1 Announce Type: new  Abstract: While Deep Learning has
-    improved Brain-Computer Interface (BCI) decoding accuracy, clinical adoption is
-    hinder…'
-  title: 'OmniNeuro: A Multimodal HCI Framework for Explainable BCI Feedback via Generative
-    AI and Sonification'
-- id: oai:arXiv.org:2601.00845v1
-  link: https://arxiv.org/abs/2601.00845
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00845v1 Announce Type: new  Abstract: Temporal point processes
-    (TPPs) are crucial for analyzing events over time and are widely used in fields
-    such…'
-  title: Enhancing Temporal Awareness in LLMs for Temporal Point Processes
-- id: oai:arXiv.org:2601.00848v1
-  link: https://arxiv.org/abs/2601.00848
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00848v1 Announce Type: new  Abstract: We present an openly
-    documented methodology for fine-tuning language models to detect temporal attack
-    patterns…'
-  title: 'Temporal Attack Pattern Detection in Multi-Agent AI Workflows: An Open Framework
-    for Training Trace-Based Security Models'
-- id: oai:arXiv.org:2601.00856v1
-  link: https://arxiv.org/abs/2601.00856
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00856v1 Announce Type: new  Abstract: Recently published work
-    titled Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI
-    Assistan…'
-  title: 'Comment on: Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using
-    an AI Assistant for Essay Writing Tasks'
-- id: oai:arXiv.org:2601.00869v1
-  link: https://arxiv.org/abs/2601.00869
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00869v1 Announce Type: new  Abstract: As artificial intelligence
-    systems increasingly mediate consumer information discovery,   brands face algorith…'
-  title: 'Cultural Encoding in Large Language Models: The Existence Gap in AI-Mediated
-    Brand Discovery'
-- id: oai:arXiv.org:2601.00880v1
-  link: https://arxiv.org/abs/2601.00880
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00880v1 Announce Type: new  Abstract: We present Universal
-    Conditional Logic (UCL), a mathematical framework for prompt optimization that
-    transforms…'
-  title: 'Universal Conditional Logic: A Formal Language for Prompt Engineering'
-- id: oai:arXiv.org:2601.00885v1
-  link: https://arxiv.org/abs/2601.00885
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00885v1 Announce Type: new  Abstract: Recent work on language
-    model self-improvement shows that models can refine their own reasoning through
-    reflec…'
-  title: Counterfactual Self-Questioning for Stable Policy Optimization in Language
-    Models
-- id: oai:arXiv.org:2601.00923v1
-  link: https://arxiv.org/abs/2601.00923
-  published: '2026-01-07T05:00:00Z'
-  summary: 'arXiv:2601.00923v1 Announce Type: new  Abstract: This thesis investigates
-    two key phenomena in large language models (LLMs): in-context learning (ICL) and
-    mode…'
-  title: 'Context Collapse: In-Context Learning and Model Collapse'
+- id: oai:arXiv.org:2601.03306v1
+  link: https://arxiv.org/abs/2601.03306
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03306v1 Announce Type: new  Abstract: The game of Go has long
+    served as a benchmark for artificial intelligence, demanding sophisticated strategic
+    r…'
+  title: Mastering the Game of Go with Self-play Experience Replay
+- id: oai:arXiv.org:2601.03335v1
+  link: https://arxiv.org/abs/2601.03335
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03335v1 Announce Type: new  Abstract: Large language models
+    (LLMs) are increasingly being used to evolve solutions to problems in many domains,
+    in a…'
+  title: 'Digital Red Queen: Adversarial Program Evolution in Core War with LLMs'
+- id: oai:arXiv.org:2601.03359v1
+  link: https://arxiv.org/abs/2601.03359
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03359v1 Announce Type: new  Abstract: Large Language Models
+    (LLMs) often generate substantively relevant content but fail to adhere to formal
+    constr…'
+  title: 'Enhancing LLM Instruction Following: An Evaluation-Driven Multi-Agentic
+    Workflow for Prompt Instructions Optimization'
+- id: oai:arXiv.org:2601.03389v1
+  link: https://arxiv.org/abs/2601.03389
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03389v1 Announce Type: new  Abstract: Understanding how artificial
+    agents model internal mental states is central to advancing Theory of Mind in
+    AI.…'
+  title: 'Exploration Through Introspection: A Self-Aware Reward Model'
+- id: oai:arXiv.org:2601.03470v1
+  link: https://arxiv.org/abs/2601.03470
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03470v1 Announce Type: new  Abstract: We propose a maturity-based
+    framework for certifying embodied AI systems through explicit measurement mechanis…'
+  title: 'Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness
+    Through Measurement Mechanisms'
+- id: oai:arXiv.org:2601.03475v1
+  link: https://arxiv.org/abs/2601.03475
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03475v1 Announce Type: new  Abstract: Clinical practice guidelines
+    (CPGs) provide evidence-based recommendations for patient care; however, integrat…'
+  title: 'CPGPrompt: Translating Clinical Guidelines into LLM-Executable Decision
+    Support'
+- id: oai:arXiv.org:2601.03482v1
+  link: https://arxiv.org/abs/2601.03482
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03482v1 Announce Type: new  Abstract: Large foundation models
+    (LFMs) transform healthcare AI in prevention, diagnostics, and treatment. However,
+    whe…'
+  title: Personalization of Large Foundation Models for Health Interventions
+- id: oai:arXiv.org:2601.03509v1
+  link: https://arxiv.org/abs/2601.03509
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03509v1 Announce Type: new  Abstract: We study continual skill
+    acquisition in open-ended embodied environments where an agent must construct,
+    refine…'
+  title: Evolving Programmatic Skill Networks
+- id: oai:arXiv.org:2601.03523v1
+  link: https://arxiv.org/abs/2601.03523
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03523v1 Announce Type: new  Abstract: One of the most important
+    queries in knowledge compilation is weighted model counting (WMC), which has been
+    ap…'
+  title: Variance Computation for Weighted Model Counting with Knowledge Compilation
+    Approach
+- id: oai:arXiv.org:2601.03537v1
+  link: https://arxiv.org/abs/2601.03537
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03537v1 Announce Type: new  Abstract: Defending against jailbreak
+    attacks is crucial for the safe deployment of Large Language Models (LLMs). Recent…'
+  title: 'STAR-S: Improving Safety Alignment through Self-Taught Reasoning on Safety
+    Rules'
+- id: oai:arXiv.org:2601.03550v1
+  link: https://arxiv.org/abs/2601.03550
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03550v1 Announce Type: new  Abstract: Test-time scaling has
+    enabled Large Language Models (LLMs) to tackle complex reasoning, yet the limitations
+    of…'
+  title: 'ReEfBench: Quantifying the Reasoning Efficiency of LLMs'
+- id: oai:arXiv.org:2601.03555v1
+  link: https://arxiv.org/abs/2601.03555
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03555v1 Announce Type: new  Abstract: Training reliable tool-augmented
+    agents remains a significant challenge, largely due to the difficulty of cred…'
+  title: 'SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models'
+- id: oai:arXiv.org:2601.03595v1
+  link: https://arxiv.org/abs/2601.03595
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03595v1 Announce Type: new  Abstract: Large Reasoning Models
+    (LRMs) exhibit human-like cognitive reasoning strategies (e.g. backtracking, cross-veri…'
+  title: Controllable LLM Reasoning via Sparse Autoencoder-Based Steering
+- id: oai:arXiv.org:2601.03604v1
+  link: https://arxiv.org/abs/2601.03604
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03604v1 Announce Type: new  Abstract: Recent advances in large
+    language models (LLMs) have highlighted the effectiveness of chain-of-thought
+    reasoni…'
+  title: Interleaved Tool-Call Reasoning for Protein Function Understanding
+- id: oai:arXiv.org:2601.03624v1
+  link: https://arxiv.org/abs/2601.03624
+  published: '2026-01-08T05:00:00Z'
+  summary: 'arXiv:2601.03624v1 Announce Type: new  Abstract: The rapid evolution of
+    Large Language Models (LLM) and subsequent Agentic AI technologies requires systematic…'
+  title: Architecting Agentic Communities using Design Patterns
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

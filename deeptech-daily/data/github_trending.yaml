@@ -1,6 +1,6 @@
-fetched_at: '2026-01-07T05:40:30Z'
-generated_at: '2026-01-07T05:40:30Z'
-hash: 77689b768ea5d23206e812800d4d8bb1d2b348b7e95231679fce3633f289da4a
+fetched_at: '2026-01-08T05:39:49Z'
+generated_at: '2026-01-08T05:39:49Z'
+hash: a57e453bf1fd5c15046ef0f04288fdbebf8edfb7834a1f5928628361f8494c5c
 items:
 - created_at: '2026-01-02T15:36:46Z'
   description: ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude
@@ -8,112 +8,109 @@ items:
     to…
   full_name: zhalice2011/ProxyLLM
   html_url: https://github.com/zhalice2011/ProxyLLM
-  stargazers_count: 236
+  stargazers_count: 238
 - created_at: '2026-01-04T04:25:09Z'
   description: 📚 2025 AI Engineering Reading List - 120+ curated AI research papers
     covering LLMs, Multimodal, RAG, Agents, Diffusion Models and more
   full_name: joeseesun/AI_Papers_2025
   html_url: https://github.com/joeseesun/AI_Papers_2025
-  stargazers_count: 88
+  stargazers_count: 90
 - created_at: '2026-01-05T15:17:08Z'
   description: '小红书收集和分析数据来解析市场需求用户痛点及竞争格局 - 📊 **小红书数据抓取**: 自动抓取相关笔记和评论数据  - 🤖 **AI
     内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告'
   full_name: liangdabiao/XHS_Business_Idea_Validator
   html_url: https://github.com/liangdabiao/XHS_Business_Idea_Validator
-  stargazers_count: 47
+  stargazers_count: 56
 - created_at: '2026-01-03T05:54:58Z'
   description: A llm api midware offering prompt-based function call ability.
   full_name: AliyahZombie/AnyToolCall
   html_url: https://github.com/AliyahZombie/AnyToolCall
   stargazers_count: 42
-- created_at: '2026-01-01T15:03:20Z'
-  description: A frontend for LLM-based text adventure
-  full_name: unkarelian/Aventura
-  html_url: https://github.com/unkarelian/Aventura
-  stargazers_count: 31
-- created_at: '2026-01-01T03:56:06Z'
-  description: Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications
-    using Large Language Models (LLMs).
-  full_name: roomkangali/droid-llm-hunter
-  html_url: https://github.com/roomkangali/droid-llm-hunter
-  stargazers_count: 23
 - created_at: '2026-01-03T13:59:34Z'
   description: Ontology, and Knowledge graph based RAG that uses local LLM.
   full_name: tvlnsiva/graphrag-engineering-pdfs
   html_url: https://github.com/tvlnsiva/graphrag-engineering-pdfs
   stargazers_count: 23
-- created_at: '2026-01-01T16:16:41Z'
-  description: 'The official code of Refinement Provenance Inference: Detecting LLM-Refined
-    Training Prompts from Model Behavior'
-  full_name: YinBo0927/RePro
-  html_url: https://github.com/YinBo0927/RePro
-  stargazers_count: 22
-- created_at: '2026-01-01T17:57:33Z'
-  description: Add AI capabilities to your app in seconds. The ultimate UI component
-    for managing LLM providers and models. 快速为你的应用接入 AI 能力。通用 AI 模型配置组件。支持 React &
-    Vue，内置 20+…
-  full_name: tombcato/ai-selector
-  html_url: https://github.com/tombcato/ai-selector
+- created_at: '2026-01-06T12:54:10Z'
+  description: An interactive attention visualization and intervention tool for LLM
+    Decode Stage.
+  full_name: Lpzhan931/llm-debugger
+  html_url: https://github.com/Lpzhan931/llm-debugger
+  stargazers_count: 18
+- created_at: '2026-01-05T15:52:59Z'
+  description: Local PC app for everyone to use LLM locally 🫡
+  full_name: hoangnv170752/StudyNest
+  html_url: https://github.com/hoangnv170752/StudyNest
+  stargazers_count: 18
+- created_at: '2026-01-07T14:47:00Z'
+  description: 'Reddit 生意调研Agent:收集和分析数据来解析市场需求、用户痛点及竞争格局.- 📊 **Reddit 数据抓取**: 自动抓取相关帖子和评论数据（使用用户输入作为搜索关键词）
+    - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告'
+  full_name: liangdabiao/Reddit_Business_Idea_Validator
+  html_url: https://github.com/liangdabiao/Reddit_Business_Idea_Validator
   stargazers_count: 15
-- created_at: '2026-01-01T23:53:40Z'
-  description: 'SimpleMem: Efficient Lifelong Memory for LLM Agents'
-  full_name: aiming-lab/SimpleMem
-  html_url: https://github.com/aiming-lab/SimpleMem
-  stargazers_count: 14
-- created_at: '2026-01-01T01:59:53Z'
-  description: Generate LLM finetuning data from any document.
-  full_name: velocitybolt/synkro
-  html_url: https://github.com/velocitybolt/synkro
+- created_at: '2026-01-05T03:33:31Z'
+  description: Review automated kernel generation in the era of LLMs
+  full_name: flagos-ai/awesome-LLM-driven-kernel-generation
+  html_url: https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation
   stargazers_count: 13
-- created_at: '2026-01-05T00:58:54Z'
-  description: LLM Engineering Claude Skills
-  full_name: itsmostafa/llm-engineering-skills
-  html_url: https://github.com/itsmostafa/llm-engineering-skills
-  stargazers_count: 10
-- created_at: '2026-01-01T01:20:11Z'
-  description: A minimal, robust LLM-powered code editor designed for experienced
-    engineers.
-  full_name: truefire/delta
-  html_url: https://github.com/truefire/delta
-  stargazers_count: 10
+- created_at: '2026-01-07T15:54:25Z'
+  description: 'DeGAML-LLM: Decoupling Generalization and Adaptation in Meta-Learning
+    for Large Language Models'
+  full_name: nitinvetcha/DeGAML-LLM
+  html_url: https://github.com/nitinvetcha/DeGAML-LLM
+  stargazers_count: 13
 - created_at: '2026-01-02T00:39:10Z'
   description: 画像、オーディオ、テキスト、LLM/VLM のマルチモーダル パイプラインを実験するためのノードエディター（Node-based editor
     to compose and experiment with multimodal pipelines across image, audio, text,
     and LLM/…
   full_name: Kazuhito00/Multimodal-Node-Editor
   html_url: https://github.com/Kazuhito00/Multimodal-Node-Editor
-  stargazers_count: 9
-- created_at: '2026-01-06T12:54:10Z'
-  description: An interactive attention visualization and intervention tool for LLM
-    Decode Stage.
-  full_name: Lpzhan931/llm-debugger
-  html_url: https://github.com/Lpzhan931/llm-debugger
-  stargazers_count: 9
+  stargazers_count: 12
+- created_at: '2026-01-06T05:28:26Z'
+  description: SKT A.X LLM K1
+  full_name: SKT-AI/A.X-K1
+  html_url: https://github.com/SKT-AI/A.X-K1
+  stargazers_count: 11
 - created_at: '2026-01-06T23:58:22Z'
   description: Experimental research on context field prompts and cognitive regime
     shifts in large language models.
   full_name: NeoVertex1/context-field
   html_url: https://github.com/NeoVertex1/context-field
-  stargazers_count: 8
-- created_at: '2026-01-06T05:28:26Z'
-  description: SKT A.X LLM K1
-  full_name: SKT-AI/A.X-K1
-  html_url: https://github.com/SKT-AI/A.X-K1
-  stargazers_count: 8
+  stargazers_count: 10
+- created_at: '2026-01-05T00:58:54Z'
+  description: LLM Engineering Claude Skills
+  full_name: itsmostafa/llm-engineering-skills
+  html_url: https://github.com/itsmostafa/llm-engineering-skills
+  stargazers_count: 10
 - created_at: '2026-01-03T12:06:39Z'
   description: 利用微调模型实现消息防抖，判断用户在分段发送消息的情况下是否说完一句话，合并后调用LLM
   full_name: advent259141/astrbot_plugin_debounce
   html_url: https://github.com/advent259141/astrbot_plugin_debounce
-  stargazers_count: 8
+  stargazers_count: 9
 - created_at: '2026-01-02T06:32:04Z'
   description: Insanely fast LLM pre-training and fine-tuning for modern NVIDIA GPUs.
   full_name: invergent-ai/surogate
   html_url: https://github.com/invergent-ai/surogate
+  stargazers_count: 9
+- created_at: '2026-01-06T07:50:29Z'
+  description: 一款集成 CodeQL 静态分析和 LLM (大语言模型) 智能验证的半自动化代码审计工具
+  full_name: tgllsy/SecAuditAI
+  html_url: https://github.com/tgllsy/SecAuditAI
   stargazers_count: 8
 - created_at: '2026-01-05T13:03:43Z'
   description: A zero-dependency Go library for coarse and fine-grained LLM token
     estimation.
   full_name: EZ-Api/tokenest
   html_url: https://github.com/EZ-Api/tokenest
+  stargazers_count: 7
+- created_at: '2026-01-03T13:16:42Z'
+  description: Lightweight task management for LLMs
+  full_name: cloud-atlas-ai/ba
+  html_url: https://github.com/cloud-atlas-ai/ba
+  stargazers_count: 7
+- created_at: '2026-01-05T11:41:55Z'
+  description: JournalCTL Watcher with local LLM explanations for errors
+  full_name: delirehberi/journal-guardian
+  html_url: https://github.com/delirehberi/journal-guardian
   stargazers_count: 7
 source_url: https://api.github.com/search/repositories
