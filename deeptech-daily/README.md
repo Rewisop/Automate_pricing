@@ -86,6 +86,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -97,6 +98,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -232,7 +234,7 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://arxiv.org/abs/2601.03335) — arXiv:2601.03335v1 Announce Type: new  Abstract: Large language models (LLMs) are increasingly being used to evolve solutions to problems in many domains, in a…
 - [Enhancing LLM Instruction Following: An Evaluation-Driven Multi-Agentic Workflow for Prompt Instructions Optimization](https://arxiv.org/abs/2601.03359) — arXiv:2601.03359v1 Announce Type: new  Abstract: Large Language Models (LLMs) often generate substantively relevant content but fail to adhere to formal constr…
 - [Exploration Through Introspection: A Self-Aware Reward Model](https://arxiv.org/abs/2601.03389) — arXiv:2601.03389v1 Announce Type: new  Abstract: Understanding how artificial agents model internal mental states is central to advancing Theory of Mind in AI.…
-- [Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness Through Measurement Mechanisms](https://arxiv.org/abs/2601.03470) — arXiv:2601.03470v1 Announce Type: new  Abstract: We propose a maturity-based framework for certifying embodied AI systems through explicit measurement mechanis…
+- [Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness Through Measurement Mechanisms](https://arxiv.org/abs/2601.03470) — arXiv:2601.03470v2 Announce Type: new  Abstract: We propose a maturity-based framework for certifying embodied AI systems through explicit measurement mechanis…
 - [CPGPrompt: Translating Clinical Guidelines into LLM-Executable Decision Support](https://arxiv.org/abs/2601.03475) — arXiv:2601.03475v1 Announce Type: new  Abstract: Clinical practice guidelines (CPGs) provide evidence-based recommendations for patient care; however, integrat…
 - [Personalization of Large Foundation Models for Health Interventions](https://arxiv.org/abs/2601.03482) — arXiv:2601.03482v1 Announce Type: new  Abstract: Large foundation models (LFMs) transform healthcare AI in prevention, diagnostics, and treatment. However, whe…
 - [Evolving Programmatic Skill Networks](https://arxiv.org/abs/2601.03509) — arXiv:2601.03509v1 Announce Type: new  Abstract: We study continual skill acquisition in open-ended embodied environments where an agent must construct, refine…
@@ -272,26 +274,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                     |   Stars | Description                                                                                                                                                      |
 |------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| zhalice2011/ProxyLLM                           |     238 | ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to…  |
-| joeseesun/AI_Papers_2025                       |      90 | 📚 2025 AI Engineering Reading List - 120+ curated AI research papers covering LLMs, Multimodal, RAG, Agents, Diffusion Models and more                           |
-| liangdabiao/XHS_Business_Idea_Validator        |      56 | 小红书收集和分析数据来解析市场需求用户痛点及竞争格局 - 📊 **小红书数据抓取**: 自动抓取相关笔记和评论数据  - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告                                      |
-| AliyahZombie/AnyToolCall                       |      42 | A llm api midware offering prompt-based function call ability.                                                                                                   |
+| sgasser/llm-shield                             |     123 | Privacy proxy for LLMs. Masks PII before sending to your provider or routes sensitive requests to local LLM.                                                     |
+| joeseesun/AI_Papers_2025                       |      91 | 📚 2025 AI Engineering Reading List - 120+ curated AI research papers covering LLMs, Multimodal, RAG, Agents, Diffusion Models and more                           |
+| liangdabiao/XHS_Business_Idea_Validator        |      62 | 小红书收集和分析数据来解析市场需求用户痛点及竞争格局 - 📊 **小红书数据抓取**: 自动抓取相关笔记和评论数据  - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告                                      |
+| AliyahZombie/AnyToolCall                       |      43 | A llm api midware offering prompt-based function call ability.                                                                                                   |
+| flagos-ai/awesome-LLM-driven-kernel-generation |      41 | Review automated kernel generation in the era of LLMs                                                                                                            |
+| naklecha/simple-llm                            |      39 | ~950 line, minimal, extensible LLM inference engine built from scratch.                                                                                          |
+| vapering/SRE-Agent                             |      27 | Deep SRE Agent is a cutting-edge intelligent SRE (Site Reliability Engineering) experimental platform designed to explore the application of LLMs (Large Langua… |
 | tvlnsiva/graphrag-engineering-pdfs             |      23 | Ontology, and Knowledge graph based RAG that uses local LLM.                                                                                                     |
-| Lpzhan931/llm-debugger                         |      18 | An interactive attention visualization and intervention tool for LLM Decode Stage.                                                                               |
-| hoangnv170752/StudyNest                        |      18 | Local PC app for everyone to use LLM locally 🫡                                                                                                                   |
-| liangdabiao/Reddit_Business_Idea_Validator     |      15 | Reddit 生意调研Agent:收集和分析数据来解析市场需求、用户痛点及竞争格局.- 📊 **Reddit 数据抓取**: 自动抓取相关帖子和评论数据（使用用户输入作为搜索关键词） - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告     |
-| flagos-ai/awesome-LLM-driven-kernel-generation |      13 | Review automated kernel generation in the era of LLMs                                                                                                            |
-| nitinvetcha/DeGAML-LLM                         |      13 | DeGAML-LLM: Decoupling Generalization and Adaptation in Meta-Learning for Large Language Models                                                                  |
-| Kazuhito00/Multimodal-Node-Editor              |      12 | 画像、オーディオ、テキスト、LLM/VLM のマルチモーダル パイプラインを実験するためのノードエディター（Node-based editor to compose and experiment with multimodal pipelines across image, audio, text, and LLM/… |
-| SKT-AI/A.X-K1                                  |      11 | SKT A.X LLM K1                                                                                                                                                   |
+| Lpzhan931/llm-debugger                         |      22 | An interactive attention visualization and intervention tool for LLM Decode Stage.                                                                               |
+| hoangnv170752/StudyNest                        |      21 | Local PC app for everyone to use LLM locally 🫡                                                                                                                   |
+| liangdabiao/Reddit_Business_Idea_Validator     |      21 | Reddit 生意调研Agent:收集和分析数据来解析市场需求、用户痛点及竞争格局.- 📊 **Reddit 数据抓取**: 自动抓取相关帖子和评论数据（使用用户输入作为搜索关键词） - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告     |
+| SKT-AI/A.X-K1                                  |      16 | SKT A.X LLM K1                                                                                                                                                   |
+| nitinvetcha/DeGAML-LLM                         |      15 | DeGAML-LLM: Decoupling Generalization and Adaptation in Meta-Learning for Large Language Models                                                                  |
+| advent259141/astrbot_plugin_debounce           |      13 | 利用微调模型实现消息防抖，判断用户在分段发送消息的情况下是否说完一句话，合并后调用LLM                                                                                                                     |
+| Riddhish1/CogniScrape                          |      12 | Intelligent Web Scraping Library with LLMs                                                                                                                       |
 | NeoVertex1/context-field                       |      10 | Experimental research on context field prompts and cognitive regime shifts in large language models.                                                             |
 | itsmostafa/llm-engineering-skills              |      10 | LLM Engineering Claude Skills                                                                                                                                    |
-| advent259141/astrbot_plugin_debounce           |       9 | 利用微调模型实现消息防抖，判断用户在分段发送消息的情况下是否说完一句话，合并后调用LLM                                                                                                                     |
-| invergent-ai/surogate                          |       9 | Insanely fast LLM pre-training and fine-tuning for modern NVIDIA GPUs.                                                                                           |
-| tgllsy/SecAuditAI                              |       8 | 一款集成 CodeQL 静态分析和 LLM (大语言模型) 智能验证的半自动化代码审计工具                                                                                                                    |
-| EZ-Api/tokenest                                |       7 | A zero-dependency Go library for coarse and fine-grained LLM token estimation.                                                                                   |
-| cloud-atlas-ai/ba                              |       7 | Lightweight task management for LLMs                                                                                                                             |
-| delirehberi/journal-guardian                   |       7 | JournalCTL Watcher with local LLM explanations for errors                                                                                                        |
+| AI4SS/Logical-Phase-Transitions                |       9 | This repository contains the official implementation for the paper "Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning"                  |
+| antonsegeler/xai4llms                          |       9 | Opening the Black Box with LRP: A Hands-on Guide to Explainable AI for LLMs                                                                                      |
+| tgllsy/SecAuditAI                              |       9 | 一款集成 CodeQL 静态分析和 LLM (大语言模型) 智能验证的半自动化代码审计工具                                                                                                                    |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -301,30 +303,34 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5 years](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/) — 164 points
-- [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration) — 140 points
-- [How Google got its groove back and edged ahead of OpenAI](https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160) — 94 points
-- [Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery](https://keelcode.dev/keeltest) — 27 points
-- [Anthropic Raising $10B at $350B Value](https://www.wsj.com/tech/ai/anthropic-raising-10-billion-at-350-billion-value-62af49f4) — 19 points
-- [AI Psychosis, AI Apotheosis](https://www.oblomovka.com/wp/2026/01/07/ai-psychosis-ai-apotheosis/) — 15 points
-- [Show HN: An LLM response cache that's aware of dynamic data](https://blog.butter.dev/on-automatic-template-induction-for-response-caching) — 12 points
-- [OpenAI Would Like You to Share Your Health Data with ChatGPT](https://www.scientificamerican.com/article/openai-would-like-you-to-share-your-health-data-with-its-chatgpt/) — 5 points
+- [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902) — 560 points
+- [AI coding assistants are getting worse?](https://spectrum.ieee.org/ai-coding-degrades) — 269 points
+- [IBM AI ('Bob') Downloads and Executes Malware](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware) — 237 points
+- [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410) — 191 points
+- [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro) — 184 points
+- [AI misses nearly one-third of breast cancers, study finds](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/) — 150 points
+- [He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/) — 130 points
+- [Support for the TSO memory model on Arm CPUs (2024)](https://lwn.net/Articles/970907/) — 30 points
+- [Why AI is pushing developers toward typed languages](https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/) — 19 points
+- [Distinct AI Models Seem to Converge on How They Encode Reality](https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/) — 17 points
+- [OpenAI API and ChatGPT are down](https://news.ycombinator.com/item?id=46548162) — 11 points
+- [Microsoft is losing the AI race, Copilot stuck at 1% market share (on web)](https://www.windowslatest.com/2026/01/09/is-microsoft-losing-the-ai-race-copilot-web-is-still-stuck-at-1-market-share-we-dont-know-how-popular-it-is-on-windows-11/) — 7 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE             |   CVSS | Summary                                               |
-|-----------------|--------|-------------------------------------------------------|
-| MAL-2024-3834   |      0 | Malicious code in vscode-ui5-language-assistant (npm) |
-| CVE-2025-7365   |      0 |                                                       |
-| CVE-2025-8419   |      0 |                                                       |
-| MAL-2025-192677 |      0 | Malicious code in shakti20261 (npm)                   |
-| MAL-2025-192939 |      0 | Malicious code in magic-poc (npm)                     |
-| MAL-2025-192944 |      0 | Malicious code in backstage-plugin-glean (npm)        |
-| MAL-2025-192960 |      0 | Malicious code in kcheck (npm)                        |
-| CVE-2026-0707   |      0 |                                                       |
-| CVE-2026-21427  |      0 |                                                       |
-| CVE-2026-22577  |      0 |                                                       |
+| CVE            |   CVSS | Summary   |
+|----------------|--------|-----------|
+| CVE-2026-22630 |      0 |           |
+| CVE-2026-22631 |      0 |           |
+| CVE-2026-22632 |      0 |           |
+| CVE-2026-22633 |      0 |           |
+| CVE-2026-22634 |      0 |           |
+| CVE-2026-22635 |      0 |           |
+| CVE-2026-22636 |      0 |           |
+|                |      0 |           |
+|                |      0 |           |
+|                |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

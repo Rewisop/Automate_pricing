@@ -1,46 +1,66 @@
-fetched_at: '2026-01-08T05:39:49Z'
-generated_at: '2026-01-08T05:39:49Z'
-hash: 608767d123d3193e536121e6fc9ac0d9bf4e019c7ab659a8315baa5c21a4a90a
+fetched_at: '2026-01-09T05:40:45Z'
+generated_at: '2026-01-09T05:40:45Z'
+hash: adb6b970ebff53eb935e0f2ca8641423fe23f8901e4f874c0b82629b056b09ad
 items:
-- id: 46527706
-  score: 164
-  time: '2026-01-07T15:46:07Z'
-  title: Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5
-    years
-  url: https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/
-- id: 46531565
-  score: 140
-  time: '2026-01-07T19:49:54Z'
-  title: 'Notion AI: Unpatched data exfiltration'
-  url: https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration
-- id: 46528389
-  score: 94
-  time: '2026-01-07T16:29:41Z'
-  title: How Google got its groove back and edged ahead of OpenAI
-  url: https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160
-- id: 46526088
-  score: 27
-  time: '2026-01-07T13:22:35Z'
-  title: 'Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery'
-  url: https://keelcode.dev/keeltest
-- id: 46533805
+- id: 46545077
+  score: 560
+  time: '2026-01-08T19:09:23Z'
+  title: Google AI Studio is now sponsoring Tailwind CSS
+  url: https://twitter.com/OfficialLoganK/status/2009339263251566902
+- id: 46542036
+  score: 269
+  time: '2026-01-08T15:20:15Z'
+  title: AI coding assistants are getting worse?
+  url: https://spectrum.ieee.org/ai-coding-degrades
+- id: 46544454
+  score: 237
+  time: '2026-01-08T18:19:09Z'
+  title: IBM AI ('Bob') Downloads and Executes Malware
+  url: https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware
+- id: 46549823
+  score: 191
+  time: '2026-01-09T03:44:35Z'
+  title: Anthropic blocks third-party use of Claude Code subscriptions
+  url: https://github.com/anomalyco/opencode/issues/7410
+- id: 46546113
+  score: 184
+  time: '2026-01-08T20:37:07Z'
+  title: 'Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU'
+  url: https://github.com/samuel-vitorino/sopro
+- id: 46537983
+  score: 150
+  time: '2026-01-08T06:43:07Z'
+  title: AI misses nearly one-third of breast cancers, study finds
+  url: https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/
+- id: 46544276
+  score: 130
+  time: '2026-01-08T18:05:02Z'
+  title: He was called a 'terrorist sympathizer.' Now his AI company is valued at
+    $3B
+  url: https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/
+- id: 46546322
+  score: 30
+  time: '2026-01-08T20:54:30Z'
+  title: Support for the TSO memory model on Arm CPUs (2024)
+  url: https://lwn.net/Articles/970907/
+- id: 46547981
   score: 19
-  time: '2026-01-07T22:10:36Z'
-  title: Anthropic Raising $10B at $350B Value
-  url: https://www.wsj.com/tech/ai/anthropic-raising-10-billion-at-350-billion-value-62af49f4
-- id: 46526083
-  score: 15
-  time: '2026-01-07T13:21:22Z'
-  title: AI Psychosis, AI Apotheosis
-  url: https://www.oblomovka.com/wp/2026/01/07/ai-psychosis-ai-apotheosis/
-- id: 46532755
-  score: 12
-  time: '2026-01-07T21:04:58Z'
-  title: 'Show HN: An LLM response cache that''s aware of dynamic data'
-  url: https://blog.butter.dev/on-automatic-template-induction-for-response-caching
-- id: 46536123
-  score: 5
-  time: '2026-01-08T01:55:02Z'
-  title: OpenAI Would Like You to Share Your Health Data with ChatGPT
-  url: https://www.scientificamerican.com/article/openai-would-like-you-to-share-your-health-data-with-its-chatgpt/
+  time: '2026-01-08T23:25:58Z'
+  title: Why AI is pushing developers toward typed languages
+  url: https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/
+- id: 46539423
+  score: 17
+  time: '2026-01-08T10:26:29Z'
+  title: Distinct AI Models Seem to Converge on How They Encode Reality
+  url: https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/
+- id: 46548162
+  score: 11
+  time: '2026-01-08T23:47:24Z'
+  title: OpenAI API and ChatGPT are down
+  url: https://news.ycombinator.com/item?id=46548162
+- id: 46548179
+  score: 7
+  time: '2026-01-08T23:49:00Z'
+  title: Microsoft is losing the AI race, Copilot stuck at 1% market share (on web)
+  url: https://www.windowslatest.com/2026/01/09/is-microsoft-losing-the-ai-race-copilot-web-is-still-stuck-at-1-market-share-we-dont-know-how-popular-it-is-on-windows-11/
 source_url: https://hacker-news.firebaseio.com/
