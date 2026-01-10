@@ -87,6 +87,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -98,6 +99,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -245,6 +247,8 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 - [Controllable LLM Reasoning via Sparse Autoencoder-Based Steering](https://arxiv.org/abs/2601.03595) — arXiv:2601.03595v1 Announce Type: new  Abstract: Large Reasoning Models (LRMs) exhibit human-like cognitive reasoning strategies (e.g. backtracking, cross-veri…
 - [Interleaved Tool-Call Reasoning for Protein Function Understanding](https://arxiv.org/abs/2601.03604) — arXiv:2601.03604v1 Announce Type: new  Abstract: Recent advances in large language models (LLMs) have highlighted the effectiveness of chain-of-thought reasoni…
 - [Architecting Agentic Communities using Design Patterns](https://arxiv.org/abs/2601.03624) — arXiv:2601.03624v1 Announce Type: new  Abstract: The rapid evolution of Large Language Models (LLM) and subsequent Agentic AI technologies requires systematic…
+
+_Showing cached data from 2026-01-09T05:40:45Z. Refresh failed: no arXiv entries retrieved._
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -294,6 +298,8 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 | AI4SS/Logical-Phase-Transitions                |       9 | This repository contains the official implementation for the paper "Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning"                  |
 | antonsegeler/xai4llms                          |       9 | Opening the Black Box with LRP: A Hands-on Guide to Explainable AI for LLMs                                                                                      |
 | tgllsy/SecAuditAI                              |       9 | 一款集成 CodeQL 静态分析和 LLM (大语言模型) 智能验证的半自动化代码审计工具                                                                                                                    |
+
+_Showing cached data from 2026-01-09T05:40:45Z. Refresh failed: 504 Server Error: Gateway Time-out for url: https://api.github.com/search/repositories?q=%28LLM+OR+%22large+language+mo…._
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -303,32 +309,25 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902) — 560 points
-- [AI coding assistants are getting worse?](https://spectrum.ieee.org/ai-coding-degrades) — 269 points
-- [IBM AI ('Bob') Downloads and Executes Malware](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware) — 237 points
-- [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410) — 191 points
-- [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro) — 184 points
-- [AI misses nearly one-third of breast cancers, study finds](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/) — 150 points
-- [He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/) — 130 points
-- [Support for the TSO memory model on Arm CPUs (2024)](https://lwn.net/Articles/970907/) — 30 points
-- [Why AI is pushing developers toward typed languages](https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/) — 19 points
-- [Distinct AI Models Seem to Converge on How They Encode Reality](https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/) — 17 points
-- [OpenAI API and ChatGPT are down](https://news.ycombinator.com/item?id=46548162) — 11 points
-- [Microsoft is losing the AI race, Copilot stuck at 1% market share (on web)](https://www.windowslatest.com/2026/01/09/is-microsoft-losing-the-ai-race-copilot-web-is-still-stuck-at-1-market-share-we-dont-know-how-popular-it-is-on-windows-11/) — 7 points
+- [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103) — 336 points
+- [My article on why AI is great (or terrible) or how to use it](https://matthewrocklin.com/ai-zealotry/) — 94 points
+- [Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)](https://github.com/Hiepler/EuConform) — 57 points
+- [A lawsuit says Workday's AI shut out applicants over 40](https://san.com/cc/workday-hires-for-millions-a-lawsuit-seeking-plaintiffs-says-its-ai-shut-out-applicants-over-40/) — 25 points
+- [OpenAI is allowing 3rd-party coding agents to use Codex API keys](https://twitter.com/thdxr/status/2009742070471082006) — 14 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
 | CVE            |   CVSS | Summary   |
 |----------------|--------|-----------|
-| CVE-2026-22630 |      0 |           |
-| CVE-2026-22631 |      0 |           |
-| CVE-2026-22632 |      0 |           |
-| CVE-2026-22633 |      0 |           |
-| CVE-2026-22634 |      0 |           |
-| CVE-2026-22635 |      0 |           |
-| CVE-2026-22636 |      0 |           |
-|                |      0 |           |
+| CVE-2025-61674 |      0 |           |
+| CVE-2025-61676 |      0 |           |
+| CVE-2025-65090 |      0 |           |
+| CVE-2025-65091 |      0 |           |
+| CVE-2026-22589 |      0 |           |
+| CVE-2026-22610 |      0 |           |
+| CVE-2026-22687 |      0 |           |
+| CVE-2026-22688 |      0 |           |
 |                |      0 |           |
 |                |      0 |           |
 <!--CVE:END-->

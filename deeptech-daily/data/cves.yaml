@@ -1,45 +1,45 @@
-fetched_at: '2026-01-09T05:40:45Z'
-generated_at: '2026-01-09T05:40:45Z'
-hash: a9a1d1b38909f695927ccdadd9804e5733d892c11d6441e8dce71fc7dd05b864
+fetched_at: '2026-01-10T05:35:02Z'
+generated_at: '2026-01-10T05:35:02Z'
+hash: 46c3a963bdf0660fb175c29ccfad16f742514b8d4da33954435b59c2eb9921dd
 items:
 - cvss: 0.0
-  id: CVE-2026-22630
-  published: '2026-01-09T04:15:44Z'
+  id: CVE-2025-61674
+  published: '2026-01-10T04:16:00Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22631
-  published: '2026-01-09T04:15:44Z'
+  id: CVE-2025-61676
+  published: '2026-01-10T04:16:00Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22632
-  published: '2026-01-09T04:15:44Z'
+  id: CVE-2025-65090
+  published: '2026-01-10T04:16:01Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22633
-  published: '2026-01-09T04:15:44Z'
+  id: CVE-2025-65091
+  published: '2026-01-10T04:16:01Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22634
-  published: '2026-01-09T04:15:44Z'
+  id: CVE-2026-22589
+  published: '2026-01-10T04:16:01Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22635
-  published: '2026-01-09T04:15:44Z'
+  id: CVE-2026-22610
+  published: '2026-01-10T04:16:01Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22636
-  published: '2026-01-09T04:15:44Z'
+  id: CVE-2026-22687
+  published: '2026-01-10T04:16:01Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2026-01-09T05:40:45Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2026-01-09T05:40:45Z'
+  id: CVE-2026-22688
+  published: '2026-01-10T04:16:01Z'
   summary: ''
 - cvss: 0.0
   id: null
-  published: '2026-01-09T05:40:45Z'
+  published: '2026-01-10T05:35:02Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2026-01-10T05:35:02Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

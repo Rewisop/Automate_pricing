@@ -1,66 +1,30 @@
-fetched_at: '2026-01-09T05:40:45Z'
-generated_at: '2026-01-09T05:40:45Z'
-hash: adb6b970ebff53eb935e0f2ca8641423fe23f8901e4f874c0b82629b056b09ad
+fetched_at: '2026-01-10T05:35:02Z'
+generated_at: '2026-01-10T05:35:02Z'
+hash: dffa772e8ab62b83e6037a6fb5eee013b00fbaf05bda3916cc49eeb116099ff8
 items:
-- id: 46545077
-  score: 560
-  time: '2026-01-08T19:09:23Z'
-  title: Google AI Studio is now sponsoring Tailwind CSS
-  url: https://twitter.com/OfficialLoganK/status/2009339263251566902
-- id: 46542036
-  score: 269
-  time: '2026-01-08T15:20:15Z'
-  title: AI coding assistants are getting worse?
-  url: https://spectrum.ieee.org/ai-coding-degrades
-- id: 46544454
-  score: 237
-  time: '2026-01-08T18:19:09Z'
-  title: IBM AI ('Bob') Downloads and Executes Malware
-  url: https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware
-- id: 46549823
-  score: 191
-  time: '2026-01-09T03:44:35Z'
-  title: Anthropic blocks third-party use of Claude Code subscriptions
-  url: https://github.com/anomalyco/opencode/issues/7410
-- id: 46546113
-  score: 184
-  time: '2026-01-08T20:37:07Z'
-  title: 'Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU'
-  url: https://github.com/samuel-vitorino/sopro
-- id: 46537983
-  score: 150
-  time: '2026-01-08T06:43:07Z'
-  title: AI misses nearly one-third of breast cancers, study finds
-  url: https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/
-- id: 46544276
-  score: 130
-  time: '2026-01-08T18:05:02Z'
-  title: He was called a 'terrorist sympathizer.' Now his AI company is valued at
-    $3B
-  url: https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/
-- id: 46546322
-  score: 30
-  time: '2026-01-08T20:54:30Z'
-  title: Support for the TSO memory model on Arm CPUs (2024)
-  url: https://lwn.net/Articles/970907/
-- id: 46547981
-  score: 19
-  time: '2026-01-08T23:25:58Z'
-  title: Why AI is pushing developers toward typed languages
-  url: https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/
-- id: 46539423
-  score: 17
-  time: '2026-01-08T10:26:29Z'
-  title: Distinct AI Models Seem to Converge on How They Encode Reality
-  url: https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/
-- id: 46548162
-  score: 11
-  time: '2026-01-08T23:47:24Z'
-  title: OpenAI API and ChatGPT are down
-  url: https://news.ycombinator.com/item?id=46548162
-- id: 46548179
-  score: 7
-  time: '2026-01-08T23:49:00Z'
-  title: Microsoft is losing the AI race, Copilot stuck at 1% market share (on web)
-  url: https://www.windowslatest.com/2026/01/09/is-microsoft-losing-the-ai-race-copilot-web-is-still-stuck-at-1-market-share-we-dont-know-how-popular-it-is-on-windows-11/
+- id: 46560445
+  score: 336
+  time: '2026-01-09T22:39:15Z'
+  title: '“Erdos problem #728 was solved more or less autonomously by AI”'
+  url: https://mathstodon.xyz/@tao/115855840223258103
+- id: 46557057
+  score: 94
+  time: '2026-01-09T18:17:24Z'
+  title: My article on why AI is great (or terrible) or how to use it
+  url: https://matthewrocklin.com/ai-zealotry/
+- id: 46557823
+  score: 57
+  time: '2026-01-09T19:11:57Z'
+  title: 'Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)'
+  url: https://github.com/Hiepler/EuConform
+- id: 46559995
+  score: 25
+  time: '2026-01-09T22:01:21Z'
+  title: A lawsuit says Workday's AI shut out applicants over 40
+  url: https://san.com/cc/workday-hires-for-millions-a-lawsuit-seeking-plaintiffs-says-its-ai-shut-out-applicants-over-40/
+- id: 46559996
+  score: 14
+  time: '2026-01-09T22:01:25Z'
+  title: OpenAI is allowing 3rd-party coding agents to use Codex API keys
+  url: https://twitter.com/thdxr/status/2009742070471082006
 source_url: https://hacker-news.firebaseio.com/
