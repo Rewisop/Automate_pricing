@@ -88,6 +88,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -99,6 +100,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -278,28 +280,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                     |   Stars | Description                                                                                                                                                      |
 |------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| sgasser/llm-shield                             |     123 | Privacy proxy for LLMs. Masks PII before sending to your provider or routes sensitive requests to local LLM.                                                     |
-| joeseesun/AI_Papers_2025                       |      91 | 📚 2025 AI Engineering Reading List - 120+ curated AI research papers covering LLMs, Multimodal, RAG, Agents, Diffusion Models and more                           |
-| liangdabiao/XHS_Business_Idea_Validator        |      62 | 小红书收集和分析数据来解析市场需求用户痛点及竞争格局 - 📊 **小红书数据抓取**: 自动抓取相关笔记和评论数据  - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告                                      |
-| AliyahZombie/AnyToolCall                       |      43 | A llm api midware offering prompt-based function call ability.                                                                                                   |
-| flagos-ai/awesome-LLM-driven-kernel-generation |      41 | Review automated kernel generation in the era of LLMs                                                                                                            |
-| naklecha/simple-llm                            |      39 | ~950 line, minimal, extensible LLM inference engine built from scratch.                                                                                          |
+| sgasser/pasteguard                             |     251 | Privacy proxy for LLMs - masks PII before upstream or routes to local LLM. OpenAI API compatible.                                                                |
+| naklecha/simple-llm                            |     249 | ~950 line, minimal, extensible LLM inference engine built from scratch.                                                                                          |
+| ZhuLinsen/daily_stock_analysis                 |     124 | LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行                                                                                                 |
+| parcadei/llm-tldr                              |     105 | 95% token savings. 155x faster queries. 16 languages.  LLMs can't read your entire codebase. TLDR extracts structure, traces dependencies, and gives them exact… |
+| liangdabiao/XHS_Business_Idea_Validator        |      66 | 小红书收集和分析数据来解析市场需求用户痛点及竞争格局 - 📊 **小红书数据抓取**: 自动抓取相关笔记和评论数据  - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告                                      |
+| ybeven/4D-ARE                                  |      44 | Build LLM agents that explain why, not just what. Attribution-driven agent requirements engineering framework. Based on the 4D-ARE Paper - https://arxiv.org/ab… |
+| flagos-ai/awesome-LLM-driven-kernel-generation |      43 | Review automated kernel generation in the era of LLMs                                                                                                            |
+| Riddhish1/CogniScrape                          |      39 | Intelligent Web Scraping Library with LLMs                                                                                                                       |
+| Lpzhan931/llm-debugger                         |      30 | An interactive attention visualization and intervention tool for LLM Decode Stage.                                                                               |
 | vapering/SRE-Agent                             |      27 | Deep SRE Agent is a cutting-edge intelligent SRE (Site Reliability Engineering) experimental platform designed to explore the application of LLMs (Large Langua… |
-| tvlnsiva/graphrag-engineering-pdfs             |      23 | Ontology, and Knowledge graph based RAG that uses local LLM.                                                                                                     |
-| Lpzhan931/llm-debugger                         |      22 | An interactive attention visualization and intervention tool for LLM Decode Stage.                                                                               |
 | hoangnv170752/StudyNest                        |      21 | Local PC app for everyone to use LLM locally 🫡                                                                                                                   |
 | liangdabiao/Reddit_Business_Idea_Validator     |      21 | Reddit 生意调研Agent:收集和分析数据来解析市场需求、用户痛点及竞争格局.- 📊 **Reddit 数据抓取**: 自动抓取相关帖子和评论数据（使用用户输入作为搜索关键词） - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告     |
-| SKT-AI/A.X-K1                                  |      16 | SKT A.X LLM K1                                                                                                                                                   |
-| nitinvetcha/DeGAML-LLM                         |      15 | DeGAML-LLM: Decoupling Generalization and Adaptation in Meta-Learning for Large Language Models                                                                  |
-| advent259141/astrbot_plugin_debounce           |      13 | 利用微调模型实现消息防抖，判断用户在分段发送消息的情况下是否说完一句话，合并后调用LLM                                                                                                                     |
-| Riddhish1/CogniScrape                          |      12 | Intelligent Web Scraping Library with LLMs                                                                                                                       |
+| SKT-AI/A.X-K1                                  |      19 | SKT A.X LLM K1                                                                                                                                                   |
+| nitinvetcha/DeGAML-LLM                         |      16 | DeGAML-LLM: Decoupling Generalization and Adaptation in Meta-Learning for Large Language Models                                                                  |
+| AI4SS/Logical-Phase-Transitions                |      13 | This repository contains the official implementation for the paper "Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning"                  |
+| meklon/llm_anamnesis                           |      13 | LLM system prompt to gather thorough illness anamnesis                                                                                                           |
+| waygeance/AutoATS                              |      13 | AI-powered, ATS-optimized resume builder that tailors resumes to job descriptions using local or cloud LLMs.                                                     |
 | NeoVertex1/context-field                       |      10 | Experimental research on context field prompts and cognitive regime shifts in large language models.                                                             |
+| day50-dev/llcat                                |      10 | cat for LLMs                                                                                                                                                     |
 | itsmostafa/llm-engineering-skills              |      10 | LLM Engineering Claude Skills                                                                                                                                    |
-| AI4SS/Logical-Phase-Transitions                |       9 | This repository contains the official implementation for the paper "Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning"                  |
-| antonsegeler/xai4llms                          |       9 | Opening the Black Box with LRP: A Hands-on Guide to Explainable AI for LLMs                                                                                      |
-| tgllsy/SecAuditAI                              |       9 | 一款集成 CodeQL 静态分析和 LLM (大语言模型) 智能验证的半自动化代码审计工具                                                                                                                    |
-
-_Showing cached data from 2026-01-09T05:40:45Z. Refresh failed: 504 Server Error: Gateway Time-out for url: https://api.github.com/search/repositories?q=%28LLM+OR+%22large+language+mo…._
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -309,27 +309,29 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103) — 336 points
-- [My article on why AI is great (or terrible) or how to use it](https://matthewrocklin.com/ai-zealotry/) — 94 points
-- [Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)](https://github.com/Hiepler/EuConform) — 57 points
-- [A lawsuit says Workday's AI shut out applicants over 40](https://san.com/cc/workday-hires-for-millions-a-lawsuit-seeking-plaintiffs-says-its-ai-shut-out-applicants-over-40/) — 25 points
-- [OpenAI is allowing 3rd-party coding agents to use Codex API keys](https://twitter.com/thdxr/status/2009742070471082006) — 14 points
+- [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test) — 212 points
+- [Show HN: Yuanzai World – LLM RPGs with branching world-lines](https://www.yuanzai.world/) — 28 points
+- [Ask HN: Senior engineering mngrs: how has AI changed your day-to-day work?](https://news.ycombinator.com/item?id=46565262) — 26 points
+- [OpenAI is reportedly asking contractors to upload real work from past jobs](https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/) — 25 points
+- [Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166) — 22 points
+- [LLM coding workflow going into 2026](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e) — 5 points
+- [The "Good Will Hunting" Problem in Generative AI](https://medium.com/@chipmunkworks/ai-the-will-hunting-of-our-age-59952c1744f1) — 5 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE            |   CVSS | Summary   |
-|----------------|--------|-----------|
-| CVE-2025-61674 |      0 |           |
-| CVE-2025-61676 |      0 |           |
-| CVE-2025-65090 |      0 |           |
-| CVE-2025-65091 |      0 |           |
-| CVE-2026-22589 |      0 |           |
-| CVE-2026-22610 |      0 |           |
-| CVE-2026-22687 |      0 |           |
-| CVE-2026-22688 |      0 |           |
-|                |      0 |           |
-|                |      0 |           |
+| CVE                 |   CVSS | Summary                           |
+|---------------------|--------|-----------------------------------|
+| CVE-2026-22693      |      0 |                                   |
+| GHSA-p54q-9gfq-fvp4 |      0 |                                   |
+| GHSA-mjjp-xjfg-97wg |      0 |                                   |
+| GHSA-q82x-ch97-83xv |      0 |                                   |
+| MAL-2026-189        |      0 | Malicious code in oncecall (PyPI) |
+| CVE-2025-14555      |      0 |                                   |
+| CVE-2026-0821       |      0 |                                   |
+| CVE-2025-12379      |      0 |                                   |
+| CVE-2025-13393      |      0 |                                   |
+| CVE-2026-0822       |      0 |                                   |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

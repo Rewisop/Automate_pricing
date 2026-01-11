@@ -1,45 +1,45 @@
-fetched_at: '2026-01-10T05:35:02Z'
-generated_at: '2026-01-10T05:35:02Z'
-hash: 46c3a963bdf0660fb175c29ccfad16f742514b8d4da33954435b59c2eb9921dd
+fetched_at: '2026-01-11T05:39:35Z'
+generated_at: '2026-01-11T05:39:35Z'
+hash: 90093ecdb5091e2823aefbe1ecc85aeb82783d57f4b6a0340b4b943e01118ae1
 items:
 - cvss: 0.0
-  id: CVE-2025-61674
-  published: '2026-01-10T04:16:00Z'
+  id: CVE-2026-22693
+  published: '2026-01-10T06:15:52Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-61676
-  published: '2026-01-10T04:16:00Z'
+  id: GHSA-p54q-9gfq-fvp4
+  published: '2026-01-10T12:30:15Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-65090
-  published: '2026-01-10T04:16:01Z'
+  id: GHSA-mjjp-xjfg-97wg
+  published: '2026-01-10T12:30:16Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2025-65091
-  published: '2026-01-10T04:16:01Z'
+  id: GHSA-q82x-ch97-83xv
+  published: '2026-01-10T12:30:16Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22589
-  published: '2026-01-10T04:16:01Z'
+  id: MAL-2026-189
+  published: '2026-01-10T13:00:33Z'
+  summary: Malicious code in oncecall (PyPI)
+- cvss: 0.0
+  id: CVE-2025-14555
+  published: '2026-01-10T13:15:48Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22610
-  published: '2026-01-10T04:16:01Z'
+  id: CVE-2026-0821
+  published: '2026-01-10T13:15:49Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22687
-  published: '2026-01-10T04:16:01Z'
+  id: CVE-2025-12379
+  published: '2026-01-10T14:15:49Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22688
-  published: '2026-01-10T04:16:01Z'
+  id: CVE-2025-13393
+  published: '2026-01-10T14:15:49Z'
   summary: ''
 - cvss: 0.0
-  id: null
-  published: '2026-01-10T05:35:02Z'
-  summary: ''
-- cvss: 0.0
-  id: null
-  published: '2026-01-10T05:35:02Z'
+  id: CVE-2026-0822
+  published: '2026-01-10T14:15:50Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

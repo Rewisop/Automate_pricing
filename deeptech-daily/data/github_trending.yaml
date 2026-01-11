@@ -1,40 +1,58 @@
-fetched_at: '2026-01-09T05:40:45Z'
-generated_at: '2026-01-09T05:40:45Z'
-hash: 6fce4b8e32c8137c0a095574794c00b9b548cdca870f0857fc470eda92e57d26
+fetched_at: '2026-01-11T05:39:35Z'
+generated_at: '2026-01-11T05:39:35Z'
+hash: fc16ce90db3c1e7591a1c2a36c926ba450f413de260928c48ba00feef3ed8f00
 items:
 - created_at: '2026-01-08T10:13:56Z'
-  description: Privacy proxy for LLMs. Masks PII before sending to your provider or
-    routes sensitive requests to local LLM.
-  full_name: sgasser/llm-shield
-  html_url: https://github.com/sgasser/llm-shield
-  stargazers_count: 123
-- created_at: '2026-01-04T04:25:09Z'
-  description: 📚 2025 AI Engineering Reading List - 120+ curated AI research papers
-    covering LLMs, Multimodal, RAG, Agents, Diffusion Models and more
-  full_name: joeseesun/AI_Papers_2025
-  html_url: https://github.com/joeseesun/AI_Papers_2025
-  stargazers_count: 91
+  description: Privacy proxy for LLMs - masks PII before upstream or routes to local
+    LLM. OpenAI API compatible.
+  full_name: sgasser/pasteguard
+  html_url: https://github.com/sgasser/pasteguard
+  stargazers_count: 251
+- created_at: '2026-01-08T14:20:40Z'
+  description: ~950 line, minimal, extensible LLM inference engine built from scratch.
+  full_name: naklecha/simple-llm
+  html_url: https://github.com/naklecha/simple-llm
+  stargazers_count: 249
+- created_at: '2026-01-10T06:43:20Z'
+  description: LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 微信推送，零成本，纯白嫖，定时运行
+  full_name: ZhuLinsen/daily_stock_analysis
+  html_url: https://github.com/ZhuLinsen/daily_stock_analysis
+  stargazers_count: 124
+- created_at: '2026-01-09T08:55:54Z'
+  description: 95% token savings. 155x faster queries. 16 languages.  LLMs can't read
+    your entire codebase. TLDR extracts structure, traces dependencies, and gives
+    them exact…
+  full_name: parcadei/llm-tldr
+  html_url: https://github.com/parcadei/llm-tldr
+  stargazers_count: 105
 - created_at: '2026-01-05T15:17:08Z'
   description: '小红书收集和分析数据来解析市场需求用户痛点及竞争格局 - 📊 **小红书数据抓取**: 自动抓取相关笔记和评论数据  - 🤖 **AI
     内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告'
   full_name: liangdabiao/XHS_Business_Idea_Validator
   html_url: https://github.com/liangdabiao/XHS_Business_Idea_Validator
-  stargazers_count: 62
-- created_at: '2026-01-03T05:54:58Z'
-  description: A llm api midware offering prompt-based function call ability.
-  full_name: AliyahZombie/AnyToolCall
-  html_url: https://github.com/AliyahZombie/AnyToolCall
-  stargazers_count: 43
+  stargazers_count: 66
+- created_at: '2026-01-09T04:21:03Z'
+  description: Build LLM agents that explain why, not just what. Attribution-driven
+    agent requirements engineering framework. Based on the 4D-ARE Paper - https://arxiv.org/ab…
+  full_name: ybeven/4D-ARE
+  html_url: https://github.com/ybeven/4D-ARE
+  stargazers_count: 44
 - created_at: '2026-01-05T03:33:31Z'
   description: Review automated kernel generation in the era of LLMs
   full_name: flagos-ai/awesome-LLM-driven-kernel-generation
   html_url: https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation
-  stargazers_count: 41
-- created_at: '2026-01-08T14:20:40Z'
-  description: ~950 line, minimal, extensible LLM inference engine built from scratch.
-  full_name: naklecha/simple-llm
-  html_url: https://github.com/naklecha/simple-llm
+  stargazers_count: 43
+- created_at: '2026-01-05T06:48:08Z'
+  description: Intelligent Web Scraping Library with LLMs
+  full_name: Riddhish1/CogniScrape
+  html_url: https://github.com/Riddhish1/CogniScrape
   stargazers_count: 39
+- created_at: '2026-01-06T12:54:10Z'
+  description: An interactive attention visualization and intervention tool for LLM
+    Decode Stage.
+  full_name: Lpzhan931/llm-debugger
+  html_url: https://github.com/Lpzhan931/llm-debugger
+  stargazers_count: 30
 - created_at: '2026-01-05T16:01:46Z'
   description: Deep SRE Agent is a cutting-edge intelligent SRE (Site Reliability
     Engineering) experimental platform designed to explore the application of LLMs
@@ -42,17 +60,6 @@ items:
   full_name: vapering/SRE-Agent
   html_url: https://github.com/vapering/SRE-Agent
   stargazers_count: 27
-- created_at: '2026-01-03T13:59:34Z'
-  description: Ontology, and Knowledge graph based RAG that uses local LLM.
-  full_name: tvlnsiva/graphrag-engineering-pdfs
-  html_url: https://github.com/tvlnsiva/graphrag-engineering-pdfs
-  stargazers_count: 23
-- created_at: '2026-01-06T12:54:10Z'
-  description: An interactive attention visualization and intervention tool for LLM
-    Decode Stage.
-  full_name: Lpzhan931/llm-debugger
-  html_url: https://github.com/Lpzhan931/llm-debugger
-  stargazers_count: 22
 - created_at: '2026-01-05T15:52:59Z'
   description: Local PC app for everyone to use LLM locally 🫡
   full_name: hoangnv170752/StudyNest
@@ -68,49 +75,44 @@ items:
   description: SKT A.X LLM K1
   full_name: SKT-AI/A.X-K1
   html_url: https://github.com/SKT-AI/A.X-K1
-  stargazers_count: 16
+  stargazers_count: 19
 - created_at: '2026-01-07T15:54:25Z'
   description: 'DeGAML-LLM: Decoupling Generalization and Adaptation in Meta-Learning
     for Large Language Models'
   full_name: nitinvetcha/DeGAML-LLM
   html_url: https://github.com/nitinvetcha/DeGAML-LLM
-  stargazers_count: 15
-- created_at: '2026-01-03T12:06:39Z'
-  description: 利用微调模型实现消息防抖，判断用户在分段发送消息的情况下是否说完一句话，合并后调用LLM
-  full_name: advent259141/astrbot_plugin_debounce
-  html_url: https://github.com/advent259141/astrbot_plugin_debounce
+  stargazers_count: 16
+- created_at: '2026-01-08T14:38:05Z'
+  description: 'This repository contains the official implementation for the paper
+    "Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning"'
+  full_name: AI4SS/Logical-Phase-Transitions
+  html_url: https://github.com/AI4SS/Logical-Phase-Transitions
   stargazers_count: 13
-- created_at: '2026-01-05T06:48:08Z'
-  description: Intelligent Web Scraping Library with LLMs
-  full_name: Riddhish1/CogniScrape
-  html_url: https://github.com/Riddhish1/CogniScrape
-  stargazers_count: 12
+- created_at: '2026-01-10T14:36:28Z'
+  description: LLM system prompt to gather thorough illness anamnesis
+  full_name: meklon/llm_anamnesis
+  html_url: https://github.com/meklon/llm_anamnesis
+  stargazers_count: 13
+- created_at: '2026-01-07T11:51:16Z'
+  description: AI-powered, ATS-optimized resume builder that tailors resumes to job
+    descriptions using local or cloud LLMs.
+  full_name: waygeance/AutoATS
+  html_url: https://github.com/waygeance/AutoATS
+  stargazers_count: 13
 - created_at: '2026-01-06T23:58:22Z'
   description: Experimental research on context field prompts and cognitive regime
     shifts in large language models.
   full_name: NeoVertex1/context-field
   html_url: https://github.com/NeoVertex1/context-field
   stargazers_count: 10
+- created_at: '2026-01-09T09:24:44Z'
+  description: cat for LLMs
+  full_name: day50-dev/llcat
+  html_url: https://github.com/day50-dev/llcat
+  stargazers_count: 10
 - created_at: '2026-01-05T00:58:54Z'
   description: LLM Engineering Claude Skills
   full_name: itsmostafa/llm-engineering-skills
   html_url: https://github.com/itsmostafa/llm-engineering-skills
   stargazers_count: 10
-- created_at: '2026-01-08T14:38:05Z'
-  description: 'This repository contains the official implementation for the paper
-    "Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning"'
-  full_name: AI4SS/Logical-Phase-Transitions
-  html_url: https://github.com/AI4SS/Logical-Phase-Transitions
-  stargazers_count: 9
-- created_at: '2026-01-06T12:22:06Z'
-  description: 'Opening the Black Box with LRP: A Hands-on Guide to Explainable AI
-    for LLMs'
-  full_name: antonsegeler/xai4llms
-  html_url: https://github.com/antonsegeler/xai4llms
-  stargazers_count: 9
-- created_at: '2026-01-06T07:50:29Z'
-  description: 一款集成 CodeQL 静态分析和 LLM (大语言模型) 智能验证的半自动化代码审计工具
-  full_name: tgllsy/SecAuditAI
-  html_url: https://github.com/tgllsy/SecAuditAI
-  stargazers_count: 9
 source_url: https://api.github.com/search/repositories
