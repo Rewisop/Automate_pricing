@@ -1,40 +1,40 @@
-fetched_at: '2026-01-11T05:39:35Z'
-generated_at: '2026-01-11T05:39:35Z'
-hash: bcfa02302e513cba888bd2c5f66ae2003ddd3e9a35284320e09f9f6d8f63451c
+fetched_at: '2026-01-12T05:46:03Z'
+generated_at: '2026-01-12T05:46:03Z'
+hash: c63f342f104c0c135dea23f9379ec1936be06f75f31d171a9290c4236d0954f7
 items:
-- id: 46567392
-  score: 212
-  time: '2026-01-10T16:56:34Z'
-  title: AI is a business model stress test
-  url: https://dri.es/ai-is-a-business-model-stress-test
-- id: 46565265
-  score: 28
-  time: '2026-01-10T12:48:13Z'
-  title: 'Show HN: Yuanzai World – LLM RPGs with branching world-lines'
-  url: https://www.yuanzai.world/
-- id: 46565262
-  score: 26
-  time: '2026-01-10T12:47:07Z'
-  title: 'Ask HN: Senior engineering mngrs: how has AI changed your day-to-day work?'
-  url: https://news.ycombinator.com/item?id=46565262
-- id: 46572201
-  score: 25
-  time: '2026-01-11T02:38:41Z'
-  title: OpenAI is reportedly asking contractors to upload real work from past jobs
-  url: https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/
-- id: 46571166
-  score: 22
-  time: '2026-01-10T23:46:58Z'
-  title: 'Show HN: GlyphLang – An AI-first programming language'
-  url: https://news.ycombinator.com/item?id=46571166
-- id: 46570115
+- id: 46574276
+  score: 773
+  time: '2026-01-11T10:26:18Z'
+  title: Don't fall into the anti-AI hype
+  url: https://antirez.com/news/158
+- id: 46578701
+  score: 264
+  time: '2026-01-11T19:07:08Z'
+  title: 'Anthropic: Developing a Claude Code competitor using Claude Code is banned'
+  url: https://twitter.com/SIGKITTEN/status/2009697031422652461
+- id: 46581832
+  score: 24
+  time: '2026-01-11T23:49:15Z'
+  title: 'Show HN: What if AI agents had Zodiac personalities?'
+  url: https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities
+- id: 46580300
+  score: 17
+  time: '2026-01-11T21:27:51Z'
+  title: Some of Anthropic rugpulls since August 2025
+  url: https://twitter.com/TheAhmadOsman/status/2009713388084179122
+- id: 46583581
+  score: 16
+  time: '2026-01-12T03:11:49Z'
+  title: 'Show HN: An LLM-optimized programming language'
+  url: https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md
+- id: 46583111
+  score: 12
+  time: '2026-01-12T02:16:23Z'
+  title: Anthropic bans xAI from using Claude in Cursor
+  url: https://xcancel.com/kyliebytes/status/2009686466746822731
+- id: 46583363
   score: 5
-  time: '2026-01-10T21:30:30Z'
-  title: LLM coding workflow going into 2026
-  url: https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e
-- id: 46571116
-  score: 5
-  time: '2026-01-10T23:39:24Z'
-  title: The "Good Will Hunting" Problem in Generative AI
-  url: https://medium.com/@chipmunkworks/ai-the-will-hunting-of-our-age-59952c1744f1
+  time: '2026-01-12T02:46:45Z'
+  title: 'Show HN: The Thiele Machine – Coq-Verified Computational Model Beyond Turing'
+  url: https://github.com/sethirus/The-Thiele-Machine
 source_url: https://hacker-news.firebaseio.com/

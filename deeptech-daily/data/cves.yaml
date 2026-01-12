@@ -1,45 +1,46 @@
-fetched_at: '2026-01-11T05:39:35Z'
-generated_at: '2026-01-11T05:39:35Z'
-hash: 90093ecdb5091e2823aefbe1ecc85aeb82783d57f4b6a0340b4b943e01118ae1
+fetched_at: '2026-01-12T05:46:03Z'
+generated_at: '2026-01-12T05:46:03Z'
+hash: 405d9bb34112907114763b3af47154ed5df5697eed3c430499c0f759ce73e202
 items:
 - cvss: 0.0
-  id: CVE-2026-22693
-  published: '2026-01-10T06:15:52Z'
+  id: CVE-2025-13609
+  published: '2025-11-24T18:15:49Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-p54q-9gfq-fvp4
-  published: '2026-01-10T12:30:15Z'
+  id: GHSA-xh5w-g8gq-r3v9
+  published: '2025-11-24T18:31:14Z'
+  summary: Keylime allows users to register new agents by recycling existing UUIDs
+    when using different TPM devices
+- cvss: 0.0
+  id: CVE-2025-14523
+  published: '2025-12-11T13:15:58Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-mjjp-xjfg-97wg
-  published: '2026-01-10T12:30:16Z'
+  id: GHSA-4qpp-gxm3-h9vw
+  published: '2025-12-11T15:30:32Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-q82x-ch97-83xv
-  published: '2026-01-10T12:30:16Z'
-  summary: ''
+  id: MAL-2026-223
+  published: '2026-01-12T02:02:53Z'
+  summary: Malicious code in immer-js (npm)
 - cvss: 0.0
-  id: MAL-2026-189
-  published: '2026-01-10T13:00:33Z'
-  summary: Malicious code in oncecall (PyPI)
+  id: MAL-2026-226
+  published: '2026-01-12T02:28:56Z'
+  summary: Malicious code in jz-test-npm (npm)
 - cvss: 0.0
-  id: CVE-2025-14555
-  published: '2026-01-10T13:15:48Z'
-  summary: ''
+  id: MAL-2026-213
+  published: '2026-01-12T03:12:01Z'
+  summary: Malicious code in @maxcointech/simple-string-utils (npm)
 - cvss: 0.0
-  id: CVE-2026-0821
-  published: '2026-01-10T13:15:49Z'
-  summary: ''
+  id: MAL-2026-230
+  published: '2026-01-12T03:12:01Z'
+  summary: Malicious code in passport-google-auth-token (npm)
 - cvss: 0.0
-  id: CVE-2025-12379
-  published: '2026-01-10T14:15:49Z'
-  summary: ''
+  id: MAL-2026-233
+  published: '2026-01-12T03:12:01Z'
+  summary: Malicious code in simple-string-utils3 (npm)
 - cvss: 0.0
-  id: CVE-2025-13393
-  published: '2026-01-10T14:15:49Z'
-  summary: ''
-- cvss: 0.0
-  id: CVE-2026-0822
-  published: '2026-01-10T14:15:50Z'
-  summary: ''
+  id: MAL-2026-216
+  published: '2026-01-12T03:12:02Z'
+  summary: Malicious code in cors-base (npm)
 source_url: https://cve.circl.lu/api/last
