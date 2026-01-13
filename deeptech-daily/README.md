@@ -90,6 +90,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -101,6 +102,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -280,26 +282,26 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 <!--GHTREND:START-->
 | Repository                                 |   Stars | Description                                                                                                                                                      |
 |--------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ZhuLinsen/daily_stock_analysis             |     573 | LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行                                                                                                |
-| naklecha/simple-llm                        |     289 | ~950 line, minimal, extensible LLM inference engine built from scratch.                                                                                          |
-| zscole/adversarial-spec                    |     284 | A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus.                         |
-| sgasser/pasteguard                         |     265 | Privacy proxy for LLMs - masks PII before upstream or routes to local LLM. OpenAI API compatible.                                                                |
-| parcadei/llm-tldr                          |     151 | 95% token savings. 155x faster queries. 16 languages.  LLMs can't read your entire codebase. TLDR extracts structure, traces dependencies, and gives them exact… |
-| NeoVertex1/context-field                   |      72 | Experimental research on context field prompts and cognitive regime shifts in large language models.                                                             |
-| ybeven/4D-ARE                              |      64 | Build LLM agents that explain why, not just what. Attribution-driven agent requirements engineering framework. Based on the 4D-ARE Paper - https://arxiv.org/ab… |
-| Lpzhan931/llm-debugger                     |      32 | An interactive attention visualization and intervention tool for LLM Decode Stage.                                                                               |
-| liangdabiao/Reddit_Business_Idea_Validator |      22 | Reddit 生意调研Agent:收集和分析数据来解析市场需求、用户痛点及竞争格局.- 📊 **Reddit 数据抓取**: 自动抓取相关帖子和评论数据（使用用户输入作为搜索关键词） - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告     |
-| SKT-AI/A.X-K1                              |      21 | SKT A.X LLM K1                                                                                                                                                   |
+| deepseek-ai/Engram                         |     937 | Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models                                                                         |
+| ZhuLinsen/daily_stock_analysis             |     814 | LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行                                                                                                |
+| zscole/adversarial-spec                    |     359 | A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus.                         |
+| naklecha/simple-llm                        |     316 | ~950 line, minimal, extensible LLM inference engine built from scratch.                                                                                          |
+| sgasser/pasteguard                         |     281 | Privacy proxy for LLMs - masks PII before upstream or routes to local LLM. OpenAI API compatible.                                                                |
+| parcadei/llm-tldr                          |     277 | 95% token savings. 155x faster queries. 16 languages.  LLMs can't read your entire codebase. TLDR extracts structure, traces dependencies, and gives them exact… |
+| ybeven/4D-ARE                              |      74 | Build LLM agents that explain why, not just what. Attribution-driven agent requirements engineering framework. Based on the 4D-ARE Paper - https://arxiv.org/ab… |
+| srvsngh99/genai-testing-journey            |      36 | 52-week journey from QA/SDET to GenAI Testing — learning in public with weekly mini-projects, code, and honest documentation of struggles and wins.              |
+| RUC-NLPIR/EnvScaler                        |      35 | The official implementation of  "EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis".                                     |
+| OpenBMB/AgentCPM                           |      28 | An End-to-End Infrastructure for Training and Evaluating Various LLM Agents                                                                                      |
+| liangdabiao/Reddit_Business_Idea_Validator |      23 | Reddit 生意调研Agent:收集和分析数据来解析市场需求、用户痛点及竞争格局.- 📊 **Reddit 数据抓取**: 自动抓取相关帖子和评论数据（使用用户输入作为搜索关键词） - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告     |
+| meklon/llm_anamnesis                       |      22 | LLM system prompt to gather thorough illness anamnesis                                                                                                           |
+| twwch/AI-Tracker                           |      22 | 本仓库旨在整理关于大语言模型（LLM）底层逻辑、**上下文工程 (Context Engineering)** 以及 **Model Context Protocol (MCP)** 协议的核心学习资源与实战路径。                                                      |
+| bar181/aisp-open-core                      |      19 | AISP (AI Symbolic Programming) v5.1 AI first, spec driven development. A proof-carrying protocol LLMs understand natively without instructions or training. Red… |
+| day50-dev/llcat                            |      17 | cat for LLMs                                                                                                                                                     |
 | nitinvetcha/DeGAML-LLM                     |      17 | DeGAML-LLM: Decoupling Generalization and Adaptation in Meta-Learning for Large Language Models                                                                  |
-| RUC-NLPIR/EnvScaler                        |      16 | The official implementation of  "EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis".                                     |
-| AI4SS/Logical-Phase-Transitions            |      15 | This repository contains the official implementation for the paper "Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning"                  |
-| day50-dev/llcat                            |      15 | cat for LLMs                                                                                                                                                     |
-| meklon/llm_anamnesis                       |      15 | LLM system prompt to gather thorough illness anamnesis                                                                                                           |
-| waygeance/AutoATS                          |      15 | AI-powered, ATS-optimized resume builder that tailors resumes to job descriptions using local or cloud LLMs.                                                     |
-| gyunggyung/LLM-Ko-Datasets                 |      12 | 🇰🇷 Korean LLM Datasets | Pre-training, SFT, DPO, RLHF, CoT | 한국어 LLM 데이터셋 큐레이션                                                                                   |
-| ashish141199/permem                        |      10 | Automatic long-term memory for any LLM                                                                                                                           |
-| leockl/sklearn-diagnose                    |      10 | 🔍 AI-powered diagnosis for Scikit-learn models: Detect overfitting, data leakage, class imbalance & more with LLM-generated insights                             |
-| paolobietolini/gtm-api-for-llms            |      10 | This repository contains a structured, machine-readable reference of the **Google Tag Manager API**, optimized for consumption by **Large Language Models (LLMs… |
+| waygeance/AutoATS                          |      17 | AI-powered, ATS-optimized resume builder that tailors resumes to job descriptions using local or cloud LLMs.                                                     |
+| AI4SS/Logical-Phase-Transitions            |      16 | This repository contains the official implementation for the paper "Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning"                  |
+| mullionlabs/mullion-ts                     |      13 | Type-safe LLM context management for TypeScript                                                                                                                  |
+| paolobietolini/gtm-api-for-llms            |      12 | This repository contains a structured, machine-readable reference of the **Google Tag Manager API**, optimized for consumption by **Large Language Models (LLMs… |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -309,29 +311,33 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [Don't fall into the anti-AI hype](https://antirez.com/news/158) — 773 points
-- [Anthropic: Developing a Claude Code competitor using Claude Code is banned](https://twitter.com/SIGKITTEN/status/2009697031422652461) — 264 points
-- [Show HN: What if AI agents had Zodiac personalities?](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities) — 24 points
-- [Some of Anthropic rugpulls since August 2025](https://twitter.com/TheAhmadOsman/status/2009713388084179122) — 17 points
-- [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md) — 16 points
-- [Anthropic bans xAI from using Claude in Cursor](https://xcancel.com/kyliebytes/status/2009686466746822731) — 12 points
-- [Show HN: The Thiele Machine – Coq-Verified Computational Model Beyond Turing](https://github.com/sethirus/The-Thiele-Machine) — 5 points
+- [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM) — 535 points
+- [Anthropic made a mistake in cutting off third-party clients](https://archaeologist.dev/artifacts/anthropic) — 256 points
+- [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo) — 179 points
+- [Show HN: AI in SolidWorks](https://www.trylad.com) — 144 points
+- [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/) — 126 points
+- [Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://github.com/finbarr/yolobox) — 70 points
+- [Superhuman AI exfiltrates emails](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails) — 43 points
+- [Apple picks Google's Gemini AI for its big Siri upgrade](https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization) — 16 points
+- [Malaysia and Indonesia become the first to block Grok over sexualized AI images](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225) — 9 points
+- [Show HN: AI video generator that outputs React instead of video files](https://ai.outscal.com/) — 5 points
+- [Show HN: AI Motion Control – Transfer any motion to any character with Kling AI](https://aimotioncontrol.app) — 4 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE                 |   CVSS | Summary                                                                                                  |
-|---------------------|--------|----------------------------------------------------------------------------------------------------------|
-| CVE-2025-13609      |      0 |                                                                                                          |
-| GHSA-xh5w-g8gq-r3v9 |      0 | Keylime allows users to register new agents by recycling existing UUIDs when using different TPM devices |
-| CVE-2025-14523      |      0 |                                                                                                          |
-| GHSA-4qpp-gxm3-h9vw |      0 |                                                                                                          |
-| MAL-2026-223        |      0 | Malicious code in immer-js (npm)                                                                         |
-| MAL-2026-226        |      0 | Malicious code in jz-test-npm (npm)                                                                      |
-| MAL-2026-213        |      0 | Malicious code in @maxcointech/simple-string-utils (npm)                                                 |
-| MAL-2026-230        |      0 | Malicious code in passport-google-auth-token (npm)                                                       |
-| MAL-2026-233        |      0 | Malicious code in simple-string-utils3 (npm)                                                             |
-| MAL-2026-216        |      0 | Malicious code in cors-base (npm)                                                                        |
+| CVE            |   CVSS | Summary                                       |
+|----------------|--------|-----------------------------------------------|
+| MAL-2024-3253  |      0 | Malicious code in ufo-rocks2 (npm)            |
+| MAL-2026-241   |      0 | Malicious code in francium-ui (npm)           |
+| MAL-2026-242   |      0 | Malicious code in francium-utils (npm)        |
+| MAL-2026-243   |      0 | Malicious code in francium-web-visitors (npm) |
+| MAL-2026-244   |      0 | Malicious code in helium-module (npm)         |
+| CVE-2026-22829 |      0 |                                               |
+| CVE-2026-22830 |      0 |                                               |
+| CVE-2026-22831 |      0 |                                               |
+| CVE-2026-22832 |      0 |                                               |
+| CVE-2026-22833 |      0 |                                               |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets

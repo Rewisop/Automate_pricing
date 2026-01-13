@@ -1,40 +1,63 @@
-fetched_at: '2026-01-12T05:46:03Z'
-generated_at: '2026-01-12T05:46:03Z'
-hash: c63f342f104c0c135dea23f9379ec1936be06f75f31d171a9290c4236d0954f7
+fetched_at: '2026-01-13T05:40:12Z'
+generated_at: '2026-01-13T05:40:12Z'
+hash: 058a06d3c6ae560639c22e78ebe489c04c3f539faf04f554b2995ec56a7c64f3
 items:
-- id: 46574276
-  score: 773
-  time: '2026-01-11T10:26:18Z'
-  title: Don't fall into the anti-AI hype
-  url: https://antirez.com/news/158
-- id: 46578701
-  score: 264
-  time: '2026-01-11T19:07:08Z'
-  title: 'Anthropic: Developing a Claude Code competitor using Claude Code is banned'
-  url: https://twitter.com/SIGKITTEN/status/2009697031422652461
-- id: 46581832
-  score: 24
-  time: '2026-01-11T23:49:15Z'
-  title: 'Show HN: What if AI agents had Zodiac personalities?'
-  url: https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities
-- id: 46580300
-  score: 17
-  time: '2026-01-11T21:27:51Z'
-  title: Some of Anthropic rugpulls since August 2025
-  url: https://twitter.com/TheAhmadOsman/status/2009713388084179122
-- id: 46583581
+- id: 46590280
+  score: 535
+  time: '2026-01-12T16:04:27Z'
+  title: 'TimeCapsuleLLM: LLM trained only on data from 1800-1875'
+  url: https://github.com/haykgrigo3/TimeCapsuleLLM
+- id: 46586766
+  score: 256
+  time: '2026-01-12T10:57:29Z'
+  title: Anthropic made a mistake in cutting off third-party clients
+  url: https://archaeologist.dev/artifacts/anthropic
+- id: 46585947
+  score: 179
+  time: '2026-01-12T09:10:45Z'
+  title: Ai, Japanese chimpanzee who counted and painted dies at 49
+  url: https://www.bbc.com/news/articles/cj9r3zl2ywyo
+- id: 46591100
+  score: 144
+  time: '2026-01-12T16:56:17Z'
+  title: 'Show HN: AI in SolidWorks'
+  url: https://www.trylad.com
+- id: 46595419
+  score: 126
+  time: '2026-01-12T23:05:04Z'
+  title: Google removes AI health summaries after investigation finds dangerous flaws
+  url: https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/
+- id: 46592344
+  score: 70
+  time: '2026-01-12T18:34:02Z'
+  title: 'Show HN: Yolobox – Run AI coding agents with full sudo without nuking home
+    dir'
+  url: https://github.com/finbarr/yolobox
+- id: 46592424
+  score: 43
+  time: '2026-01-12T18:38:39Z'
+  title: Superhuman AI exfiltrates emails
+  url: https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails
+- id: 46590881
   score: 16
-  time: '2026-01-12T03:11:49Z'
-  title: 'Show HN: An LLM-optimized programming language'
-  url: https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md
-- id: 46583111
-  score: 12
-  time: '2026-01-12T02:16:23Z'
-  title: Anthropic bans xAI from using Claude in Cursor
-  url: https://xcancel.com/kyliebytes/status/2009686466746822731
-- id: 46583363
+  time: '2026-01-12T16:41:52Z'
+  title: Apple picks Google's Gemini AI for its big Siri upgrade
+  url: https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization
+- id: 46589915
+  score: 9
+  time: '2026-01-12T15:40:40Z'
+  title: Malaysia and Indonesia become the first to block Grok over sexualized AI
+    images
+  url: https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225
+- id: 46592740
   score: 5
-  time: '2026-01-12T02:46:45Z'
-  title: 'Show HN: The Thiele Machine – Coq-Verified Computational Model Beyond Turing'
-  url: https://github.com/sethirus/The-Thiele-Machine
+  time: '2026-01-12T19:03:54Z'
+  title: 'Show HN: AI video generator that outputs React instead of video files'
+  url: https://ai.outscal.com/
+- id: 46590254
+  score: 4
+  time: '2026-01-12T16:03:18Z'
+  title: 'Show HN: AI Motion Control – Transfer any motion to any character with Kling
+    AI'
+  url: https://aimotioncontrol.app
 source_url: https://hacker-news.firebaseio.com/

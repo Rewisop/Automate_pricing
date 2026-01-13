@@ -1,46 +1,45 @@
-fetched_at: '2026-01-12T05:46:03Z'
-generated_at: '2026-01-12T05:46:03Z'
-hash: 405d9bb34112907114763b3af47154ed5df5697eed3c430499c0f759ce73e202
+fetched_at: '2026-01-13T05:40:12Z'
+generated_at: '2026-01-13T05:40:12Z'
+hash: ef93d4f55e5027355defb3baf216f2657e8b06d7840af5a91cb812b980bc603a
 items:
 - cvss: 0.0
-  id: CVE-2025-13609
-  published: '2025-11-24T18:15:49Z'
+  id: MAL-2024-3253
+  published: '2024-06-25T13:06:56Z'
+  summary: Malicious code in ufo-rocks2 (npm)
+- cvss: 0.0
+  id: MAL-2026-241
+  published: '2026-01-13T04:13:29Z'
+  summary: Malicious code in francium-ui (npm)
+- cvss: 0.0
+  id: MAL-2026-242
+  published: '2026-01-13T04:13:29Z'
+  summary: Malicious code in francium-utils (npm)
+- cvss: 0.0
+  id: MAL-2026-243
+  published: '2026-01-13T04:13:29Z'
+  summary: Malicious code in francium-web-visitors (npm)
+- cvss: 0.0
+  id: MAL-2026-244
+  published: '2026-01-13T04:13:30Z'
+  summary: Malicious code in helium-module (npm)
+- cvss: 0.0
+  id: CVE-2026-22829
+  published: '2026-01-13T04:15:48Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-xh5w-g8gq-r3v9
-  published: '2025-11-24T18:31:14Z'
-  summary: Keylime allows users to register new agents by recycling existing UUIDs
-    when using different TPM devices
-- cvss: 0.0
-  id: CVE-2025-14523
-  published: '2025-12-11T13:15:58Z'
+  id: CVE-2026-22830
+  published: '2026-01-13T04:15:49Z'
   summary: ''
 - cvss: 0.0
-  id: GHSA-4qpp-gxm3-h9vw
-  published: '2025-12-11T15:30:32Z'
+  id: CVE-2026-22831
+  published: '2026-01-13T04:15:49Z'
   summary: ''
 - cvss: 0.0
-  id: MAL-2026-223
-  published: '2026-01-12T02:02:53Z'
-  summary: Malicious code in immer-js (npm)
+  id: CVE-2026-22832
+  published: '2026-01-13T04:15:49Z'
+  summary: ''
 - cvss: 0.0
-  id: MAL-2026-226
-  published: '2026-01-12T02:28:56Z'
-  summary: Malicious code in jz-test-npm (npm)
-- cvss: 0.0
-  id: MAL-2026-213
-  published: '2026-01-12T03:12:01Z'
-  summary: Malicious code in @maxcointech/simple-string-utils (npm)
-- cvss: 0.0
-  id: MAL-2026-230
-  published: '2026-01-12T03:12:01Z'
-  summary: Malicious code in passport-google-auth-token (npm)
-- cvss: 0.0
-  id: MAL-2026-233
-  published: '2026-01-12T03:12:01Z'
-  summary: Malicious code in simple-string-utils3 (npm)
-- cvss: 0.0
-  id: MAL-2026-216
-  published: '2026-01-12T03:12:02Z'
-  summary: Malicious code in cors-base (npm)
+  id: CVE-2026-22833
+  published: '2026-01-13T04:15:49Z'
+  summary: ''
 source_url: https://cve.circl.lu/api/last
