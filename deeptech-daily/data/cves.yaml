@@ -1,45 +1,45 @@
-fetched_at: '2026-01-13T05:40:12Z'
-generated_at: '2026-01-13T05:40:12Z'
-hash: ef93d4f55e5027355defb3baf216f2657e8b06d7840af5a91cb812b980bc603a
+fetched_at: '2026-01-14T05:39:40Z'
+generated_at: '2026-01-14T05:39:40Z'
+hash: fcd10d7c4dc2b6267f09cdf971e979dbf78a792d00184c0f819fed207972a845
 items:
 - cvss: 0.0
-  id: MAL-2024-3253
-  published: '2024-06-25T13:06:56Z'
-  summary: Malicious code in ufo-rocks2 (npm)
-- cvss: 0.0
-  id: MAL-2026-241
-  published: '2026-01-13T04:13:29Z'
-  summary: Malicious code in francium-ui (npm)
-- cvss: 0.0
-  id: MAL-2026-242
-  published: '2026-01-13T04:13:29Z'
-  summary: Malicious code in francium-utils (npm)
-- cvss: 0.0
-  id: MAL-2026-243
-  published: '2026-01-13T04:13:29Z'
-  summary: Malicious code in francium-web-visitors (npm)
-- cvss: 0.0
-  id: MAL-2026-244
-  published: '2026-01-13T04:13:30Z'
-  summary: Malicious code in helium-module (npm)
-- cvss: 0.0
-  id: CVE-2026-22829
-  published: '2026-01-13T04:15:48Z'
+  id: null
+  published: '2026-01-14T05:39:40Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22830
-  published: '2026-01-13T04:15:49Z'
+  id: null
+  published: '2026-01-14T05:39:40Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22831
-  published: '2026-01-13T04:15:49Z'
+  id: null
+  published: '2026-01-14T05:39:40Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22832
-  published: '2026-01-13T04:15:49Z'
+  id: null
+  published: '2026-01-14T05:39:40Z'
   summary: ''
 - cvss: 0.0
-  id: CVE-2026-22833
-  published: '2026-01-13T04:15:49Z'
+  id: null
+  published: '2026-01-14T05:39:40Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2026-01-14T05:39:40Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2026-01-14T05:39:40Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2026-01-14T05:39:40Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2026-01-14T05:39:40Z'
+  summary: ''
+- cvss: 0.0
+  id: null
+  published: '2026-01-14T05:39:40Z'
   summary: ''
 source_url: https://cve.circl.lu/api/last

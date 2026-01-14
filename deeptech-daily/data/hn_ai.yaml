@@ -1,63 +1,110 @@
-fetched_at: '2026-01-13T05:40:12Z'
-generated_at: '2026-01-13T05:40:12Z'
-hash: 058a06d3c6ae560639c22e78ebe489c04c3f539faf04f554b2995ec56a7c64f3
+fetched_at: '2026-01-14T05:39:40Z'
+generated_at: '2026-01-14T05:39:40Z'
+hash: de2462877d44dca330fa982d0c990e39413b3bfdd25d565a76cfccd32a4b0a7c
 items:
-- id: 46590280
-  score: 535
-  time: '2026-01-12T16:04:27Z'
-  title: 'TimeCapsuleLLM: LLM trained only on data from 1800-1875'
-  url: https://github.com/haykgrigo3/TimeCapsuleLLM
-- id: 46586766
-  score: 256
-  time: '2026-01-12T10:57:29Z'
-  title: Anthropic made a mistake in cutting off third-party clients
-  url: https://archaeologist.dev/artifacts/anthropic
-- id: 46585947
-  score: 179
-  time: '2026-01-12T09:10:45Z'
-  title: Ai, Japanese chimpanzee who counted and painted dies at 49
-  url: https://www.bbc.com/news/articles/cj9r3zl2ywyo
-- id: 46591100
-  score: 144
-  time: '2026-01-12T16:56:17Z'
-  title: 'Show HN: AI in SolidWorks'
-  url: https://www.trylad.com
-- id: 46595419
-  score: 126
-  time: '2026-01-12T23:05:04Z'
-  title: Google removes AI health summaries after investigation finds dangerous flaws
-  url: https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/
-- id: 46592344
-  score: 70
-  time: '2026-01-12T18:34:02Z'
-  title: 'Show HN: Yolobox – Run AI coding agents with full sudo without nuking home
-    dir'
-  url: https://github.com/finbarr/yolobox
-- id: 46592424
-  score: 43
-  time: '2026-01-12T18:38:39Z'
-  title: Superhuman AI exfiltrates emails
-  url: https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails
-- id: 46590881
-  score: 16
-  time: '2026-01-12T16:41:52Z'
-  title: Apple picks Google's Gemini AI for its big Siri upgrade
-  url: https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization
-- id: 46589915
+- id: 46605490
+  score: 679
+  time: '2026-01-13T18:31:50Z'
+  title: AI generated music barred from Bandcamp
+  url: https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/
+- id: 46601902
+  score: 372
+  time: '2026-01-13T15:03:58Z'
+  title: Anthropic invests $1.5M in the Python Software Foundation
+  url: https://discuss.python.org/t/anthropic-has-made-a-large-contribution-to-the-python-software-foundation-and-open-source-security/105694
+- id: 46608840
+  score: 332
+  time: '2026-01-13T21:57:32Z'
+  title: We can't have nice things because of AI scrapers
+  url: https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/
+- id: 46605553
+  score: 325
+  time: '2026-01-13T18:35:52Z'
+  title: Signal leaders warn agentic AI is an insecure, unreliable surveillance risk
+  url: https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/
+- id: 46607681
+  score: 212
+  time: '2026-01-13T20:45:43Z'
+  title: Games Workshop bans staff from using AI
+  url: https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech
+- id: 46609591
+  score: 203
+  time: '2026-01-13T22:57:23Z'
+  title: The insecure evangelism of LLM maximalists
+  url: https://lewiscampbell.tech/blog/260114.html
+- id: 46599897
+  score: 183
+  time: '2026-01-13T12:00:12Z'
+  title: Mozilla's open source AI strategy
+  url: https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/
+- id: 46605587
+  score: 153
+  time: '2026-01-13T18:37:55Z'
+  title: Let's be honest, Generative AI isn't going all that well
+  url: https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt
+- id: 46598991
+  score: 146
+  time: '2026-01-13T09:47:59Z'
+  title: FOSS in times of war, scarcity and (adversarial) AI [video]
+  url: https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/
+- id: 46606633
+  score: 104
+  time: '2026-01-13T19:39:04Z'
+  title: Instagram AI Influencers Are Defaming Celebrities with Sex Scandals
+  url: https://www.404media.co/instagram-ai-influencers-are-defaming-celebrities-with-sex-scandals/
+- id: 46609279
+  score: 88
+  time: '2026-01-13T22:30:53Z'
+  title: Why we don’t use AI
+  url: https://yarnspinner.dev/blog/why-we-dont-use-ai/
+- id: 46600839
+  score: 82
+  time: '2026-01-13T13:45:45Z'
+  title: Confer – End to end encrypted AI chat
+  url: https://confer.to/
+- id: 46611348
+  score: 40
+  time: '2026-01-14T01:56:52Z'
+  title: 'Show HN: OSS AI agent that indexes and searches the Epstein files'
+  url: https://epstein.trynia.ai/
+- id: 46607251
+  score: 20
+  time: '2026-01-13T20:16:31Z'
+  title: AI isn't "just predicting the next word" anymore
+  url: https://stevenadler.substack.com/p/ai-isnt-just-predicting-the-next
+- id: 46612001
+  score: 15
+  time: '2026-01-14T03:35:35Z'
+  title: AI will compromise your cybersecurity posture
+  url: https://rys.io/en/181.html
+- id: 46607018
+  score: 12
+  time: '2026-01-13T20:02:44Z'
+  title: Warhammer maker Games Workshop bans staff from using AI
+  url: https://www.telegraph.co.uk/business/2026/01/13/warhammer-maker-bans-staff-from-using-ai/
+- id: 46611051
   score: 9
-  time: '2026-01-12T15:40:40Z'
-  title: Malaysia and Indonesia become the first to block Grok over sexualized AI
-    images
-  url: https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225
-- id: 46592740
+  time: '2026-01-14T01:11:43Z'
+  title: Signal creator Moxie Marlinspike wants to do for AI what he did for messaging
+  url: https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/
+- id: 46611949
+  score: 8
+  time: '2026-01-14T03:28:00Z'
+  title: Matthew McConaughey Trademarks Himself to Fight AI Misuse
+  url: https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9
+- id: 46606726
   score: 5
-  time: '2026-01-12T19:03:54Z'
-  title: 'Show HN: AI video generator that outputs React instead of video files'
-  url: https://ai.outscal.com/
-- id: 46590254
+  time: '2026-01-13T19:45:44Z'
+  title: 'SkyPilot: One system to use and manage all AI compute (K8s, 20 clouds, Slurm)'
+  url: https://github.com/skypilot-org/skypilot
+- id: 46610706
+  score: 5
+  time: '2026-01-14T00:30:54Z'
+  title: 'Show HN: Vibe scrape with AI Web Agents, prompt => get data [video]'
+  url: https://www.youtube.com/watch?v=ggLDvZKuBlU
+- id: 46609933
   score: 4
-  time: '2026-01-12T16:03:18Z'
-  title: 'Show HN: AI Motion Control – Transfer any motion to any character with Kling
-    AI'
-  url: https://aimotioncontrol.app
+  time: '2026-01-13T23:23:37Z'
+  title: 'The RAM shortage''s silver lining: Less talk about "AI PCs"'
+  url: https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/
 source_url: https://hacker-news.firebaseio.com/

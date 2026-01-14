@@ -1,115 +1,116 @@
-fetched_at: '2026-01-13T05:40:12Z'
-generated_at: '2026-01-13T05:40:12Z'
-hash: f2b87fbbd1b46a5ddcd98d9ba205cc278b684b1b9cff8ea7981fc16186a99703
+fetched_at: '2026-01-14T05:39:40Z'
+generated_at: '2026-01-14T05:39:40Z'
+hash: 7675db0897854f777afa306dc42a42cf63842f02e85ec77a87e2aeaab6f2e479
 items:
-- id: oai:arXiv.org:2601.05256v1
-  link: https://arxiv.org/abs/2601.05256
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05256v1 Announce Type: new  Abstract: Inland water monitoring
-    is vital for safeguarding public health and ecosystems, enabling timely interventions…'
-  title: 'Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring'
-- id: oai:arXiv.org:2601.05298v1
-  link: https://arxiv.org/abs/2601.05298
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05298v1 Announce Type: new  Abstract: Additive manufacturing
-    (AM) relies critically on understanding and extrapolating process-property relationship…'
-  title: Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive
-    and Reliable Additive Manufacturing
-- id: oai:arXiv.org:2601.05302v1
-  link: https://arxiv.org/abs/2601.05302
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05302v1 Announce Type: new  Abstract: Large language models
-    (LLMs) are increasingly used as autonomous agents in strategic and social interactions.…'
-  title: Effects of personality steering on cooperative behavior in Large Language
-    Model agents
-- id: oai:arXiv.org:2601.05330v1
-  link: https://arxiv.org/abs/2601.05330
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05330v1 Announce Type: new  Abstract: Predicting enzyme-substrate
-    interactions has long been a fundamental problem in biochemistry and metabolic
-    eng…'
-  title: Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-Enhanced
-    Knowledge Graph Embeddings
-- id: oai:arXiv.org:2601.05376v1
-  link: https://arxiv.org/abs/2601.05376
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05376v1 Announce Type: new  Abstract: Persona conditioning
-    can be viewed as a behavioral prior for large language models (LLMs) and is often
-    assumed…'
-  title: 'The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language
-    Models'
-- id: oai:arXiv.org:2601.05384v1
-  link: https://arxiv.org/abs/2601.05384
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05384v1 Announce Type: new  Abstract: As AI agents increasingly
-    operate in multi-agent environments, understanding their collective behavior becomes…'
-  title: Conformity and Social Impact on AI Agents
-- id: oai:arXiv.org:2601.05386v1
-  link: https://arxiv.org/abs/2601.05386
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05386v1 Announce Type: new  Abstract: Cheating in chess, by
-    using advice from powerful software, has become a major problem, reaching the
-    highest le…'
-  title: On the Effect of Cheating in Chess
-- id: oai:arXiv.org:2601.05455v1
-  link: https://arxiv.org/abs/2601.05455
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05455v1 Announce Type: new  Abstract: Large Language Models
-    (LLMs) are powerful candidates for complex decision-making, leveraging vast encoded
-    know…'
-  title: 'ART: Adaptive Reasoning Trees for Explainable Claim Verification'
-- id: oai:arXiv.org:2601.05465v1
-  link: https://arxiv.org/abs/2601.05465
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05465v1 Announce Type: new  Abstract: Answering real-world
-    open-domain multi-hop questions over massive corpora is a critical challenge in
-    Retrieval…'
-  title: 'PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent
-    Architecture for Open-Domain Multi-Hop Question Answering'
-- id: oai:arXiv.org:2601.05483v1
-  link: https://arxiv.org/abs/2601.05483
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05483v1 Announce Type: new  Abstract: Understanding urban environment
-    change is essential for sustainable development. However, current approaches,…'
-  title: 'MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal
-    Urban Environment Change Analysis'
-- id: oai:arXiv.org:2601.05500v1
-  link: https://arxiv.org/abs/2601.05500
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05500v1 Announce Type: new  Abstract: Benchmarking the relative
-    capabilities of AI systems, including Large Language Models (LLMs) and Vision
-    Models…'
-  title: 'The Evaluation Gap in Medicine, AI and LLMs: Navigating Elusive Ground Truth
-    & Uncertainty via a Probabilistic Paradigm'
-- id: oai:arXiv.org:2601.05525v1
-  link: https://arxiv.org/abs/2601.05525
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05525v1 Announce Type: new  Abstract: Artificial intelligence
-    now outperforms humans in several scientific and engineering tasks, yet its internal
-    r…'
-  title: 'Explainable AI: Learning from the Learners'
-- id: oai:arXiv.org:2601.05529v1
-  link: https://arxiv.org/abs/2601.05529
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05529v1 Announce Type: new  Abstract: One mistake by an AI
-    system in a safety-critical setting can cost lives. As Large Language Models (LLMs)
-    becom…'
-  title: 'Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making'
-- id: oai:arXiv.org:2601.05567v1
-  link: https://arxiv.org/abs/2601.05567
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05567v1 Announce Type: new  Abstract: Recent progress in large
-    language model (LLM) reasoning has focused on domains like mathematics and coding,
-    wh…'
-  title: 'WildSci: Advancing Scientific Reasoning from In-the-Wild Literature'
-- id: oai:arXiv.org:2601.05570v1
-  link: https://arxiv.org/abs/2601.05570
-  published: '2026-01-13T05:00:00Z'
-  summary: 'arXiv:2601.05570v1 Announce Type: new  Abstract: Standard safety alignment
-    optimizes Large Language Models (LLMs) for universal helpfulness and honesty,
-    effect…'
-  title: 'Crisis-Bench: Benchmarking Strategic Ambiguity and Reputation Management
-    in Large Language Models'
+- id: oai:arXiv.org:2601.07866v1
+  link: https://arxiv.org/abs/2601.07866
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.07866v1 Announce Type: new  Abstract: While machine learning
+    shows promise for maternal health risk prediction, clinical adoption in resource-constr…'
+  title: 'Bridging the Trust Gap: Clinician-Validated Hybrid Explainable AI for Maternal
+    Health Risk Assessment in Bangladesh'
+- id: oai:arXiv.org:2601.07964v1
+  link: https://arxiv.org/abs/2601.07964
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.07964v1 Announce Type: new  Abstract: This paper examines the
+    application of Executable Ontologies (EO), implemented through the boldsea framework,…'
+  title: 'Executable Ontologies in Game Development: From Algorithmic Control to Semantic
+    World Modeling'
+- id: oai:arXiv.org:2601.07965v1
+  link: https://arxiv.org/abs/2601.07965
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.07965v1 Announce Type: new  Abstract: When a model knows when
+    it does not know, many possibilities emerge. The first question is how to enable
+    a mod…'
+  title: 'When Models Know When They Do Not Know: Calibration, Cascading, and Cleaning'
+- id: oai:arXiv.org:2601.08000v1
+  link: https://arxiv.org/abs/2601.08000
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.08000v1 Announce Type: new  Abstract: Ensuring that Large Language
+    Models (LLMs) adhere to safety principles without refusing benign requests remain…'
+  title: 'Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative
+    Alignment for LLM Safety'
+- id: oai:arXiv.org:2601.08005v1
+  link: https://arxiv.org/abs/2601.08005
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.08005v1 Announce Type: new  Abstract: Frontier AI regulations
+    primarily focus on systems deployed to external users, where deployment is more
+    visibl…'
+  title: Internal Deployment Gaps in AI Regulation
+- id: oai:arXiv.org:2601.08049v1
+  link: https://arxiv.org/abs/2601.08049
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.08049v1 Announce Type: new  Abstract: The increasing adoption
+    of smart classroom technologies in higher education has mainly focused on automating
+    a…'
+  title: Integrating Attendance Tracking and Emotion Detection for Enhanced Student
+    Engagement in Smart Classrooms
+- id: oai:arXiv.org:2601.08052v1
+  link: https://arxiv.org/abs/2601.08052
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.08052v1 Announce Type: new  Abstract: Dairy farming is an energy
+    intensive sector that relies heavily on grid electricity. With increasing renewable…'
+  title: Forecast Aware Deep Reinforcement Learning for Efficient Electricity Load
+    Scheduling in Dairy Farms
+- id: oai:arXiv.org:2601.08065v1
+  link: https://arxiv.org/abs/2601.08065
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.08065v1 Announce Type: new  Abstract: Forward reachability
+    analysis is the predominant approach for verifying reach-avoid properties in neural
+    feedb…'
+  title: A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback
+    Systems
+- id: oai:arXiv.org:2601.08070v1
+  link: https://arxiv.org/abs/2601.08070
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.08070v1 Announce Type: new  Abstract: Negative constraints
+    (instructions of the form "do not use word X") represent a fundamental test of
+    instructio…'
+  title: 'Semantic Gravity Wells: Why Negative Constraints Backfire'
+- id: oai:arXiv.org:2601.08079v1
+  link: https://arxiv.org/abs/2601.08079
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.08079v1 Announce Type: new  Abstract: Complex reasoning in
+    tool-augmented agent frameworks is inherently long-horizon, causing reasoning
+    traces and…'
+  title: 'MemoBrain: Executive Memory as an Agentic Brain for Reasoning'
+- id: oai:arXiv.org:2601.08118v1
+  link: https://arxiv.org/abs/2601.08118
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.08118v1 Announce Type: new  Abstract: Large language models
+    (LLMs) are increasingly used as human simulators, both for evaluating conversational
+    sys…'
+  title: 'MirrorBench: An Extensible Framework to Evaluate User-Proxy Agents for Human-Likeness'
+- id: oai:arXiv.org:2601.08125v1
+  link: https://arxiv.org/abs/2601.08125
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.08125v1 Announce Type: new  Abstract: When a traffic crash
+    occurs, following vehicles need to change lanes to bypass the obstruction. We
+    define thes…'
+  title: 'How vehicles change lanes after encountering crashes: Empirical analysis
+    and modeling'
+- id: oai:arXiv.org:2601.08128v1
+  link: https://arxiv.org/abs/2601.08128
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.08128v1 Announce Type: new  Abstract: Computational resource
+    constraints on edge devices make it difficult to develop a fully embedded AI companion…'
+  title: Embedded AI Companion System on Edge Devices
+- id: oai:arXiv.org:2601.08156v1
+  link: https://arxiv.org/abs/2601.08156
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.08156v1 Announce Type: new  Abstract: This paper introduces
+    Project Synapse, a novel agentic framework designed for the autonomous resolution
+    of las…'
+  title: 'Project Synapse: A Hierarchical Multi-Agent Framework with Hybrid Memory
+    for Autonomous Resolution of Last-Mile Delivery Disruptions'
+- id: oai:arXiv.org:2601.08166v1
+  link: https://arxiv.org/abs/2601.08166
+  published: '2026-01-14T05:00:00Z'
+  summary: 'arXiv:2601.08166v1 Announce Type: new  Abstract: Dynamic voltage and frequency
+    scaling (DVFS) and task-to-core allocation are critical for thermal management
+    a…'
+  title: 'ZeroDVFS: Zero-Shot LLM-Guided Core and Frequency Allocation for Embedded
+    Platforms'
 source_url:
 - https://export.arxiv.org/rss/cs.AI
 - https://export.arxiv.org/rss/cs.CL

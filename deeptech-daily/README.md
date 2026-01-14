@@ -91,6 +91,7 @@ _No significant anomalies today._
 
 
 
+
 <!-- DPI:START -->
 ## DeepTech GPU Price Index (DPI)
 
@@ -102,6 +103,7 @@ _No significant anomalies today._
 
 <sub>DPI is TFLOPS-per-$/hr (higher is better). Computed from daily minimum observed prices per GPU.</sub>
 <!-- DPI:END -->
+
 
 
 
@@ -238,21 +240,21 @@ _Warnings: Vast.ai: 404 Client Error: Not Found for url: https://console.vast.ai
 
 ## arXiv Digest
 <!--ARXIV:START-->
-- [Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring](https://arxiv.org/abs/2601.05256) — arXiv:2601.05256v1 Announce Type: new  Abstract: Inland water monitoring is vital for safeguarding public health and ecosystems, enabling timely interventions…
-- [Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing](https://arxiv.org/abs/2601.05298) — arXiv:2601.05298v1 Announce Type: new  Abstract: Additive manufacturing (AM) relies critically on understanding and extrapolating process-property relationship…
-- [Effects of personality steering on cooperative behavior in Large Language Model agents](https://arxiv.org/abs/2601.05302) — arXiv:2601.05302v1 Announce Type: new  Abstract: Large language models (LLMs) are increasingly used as autonomous agents in strategic and social interactions.…
-- [Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-Enhanced Knowledge Graph Embeddings](https://arxiv.org/abs/2601.05330) — arXiv:2601.05330v1 Announce Type: new  Abstract: Predicting enzyme-substrate interactions has long been a fundamental problem in biochemistry and metabolic eng…
-- [The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models](https://arxiv.org/abs/2601.05376) — arXiv:2601.05376v1 Announce Type: new  Abstract: Persona conditioning can be viewed as a behavioral prior for large language models (LLMs) and is often assumed…
-- [Conformity and Social Impact on AI Agents](https://arxiv.org/abs/2601.05384) — arXiv:2601.05384v1 Announce Type: new  Abstract: As AI agents increasingly operate in multi-agent environments, understanding their collective behavior becomes…
-- [On the Effect of Cheating in Chess](https://arxiv.org/abs/2601.05386) — arXiv:2601.05386v1 Announce Type: new  Abstract: Cheating in chess, by using advice from powerful software, has become a major problem, reaching the highest le…
-- [ART: Adaptive Reasoning Trees for Explainable Claim Verification](https://arxiv.org/abs/2601.05455) — arXiv:2601.05455v1 Announce Type: new  Abstract: Large Language Models (LLMs) are powerful candidates for complex decision-making, leveraging vast encoded know…
-- [PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop Question Answering](https://arxiv.org/abs/2601.05465) — arXiv:2601.05465v1 Announce Type: new  Abstract: Answering real-world open-domain multi-hop questions over massive corpora is a critical challenge in Retrieval…
-- [MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urban Environment Change Analysis](https://arxiv.org/abs/2601.05483) — arXiv:2601.05483v1 Announce Type: new  Abstract: Understanding urban environment change is essential for sustainable development. However, current approaches,…
-- [The Evaluation Gap in Medicine, AI and LLMs: Navigating Elusive Ground Truth & Uncertainty via a Probabilistic Paradigm](https://arxiv.org/abs/2601.05500) — arXiv:2601.05500v1 Announce Type: new  Abstract: Benchmarking the relative capabilities of AI systems, including Large Language Models (LLMs) and Vision Models…
-- [Explainable AI: Learning from the Learners](https://arxiv.org/abs/2601.05525) — arXiv:2601.05525v1 Announce Type: new  Abstract: Artificial intelligence now outperforms humans in several scientific and engineering tasks, yet its internal r…
-- [Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making](https://arxiv.org/abs/2601.05529) — arXiv:2601.05529v1 Announce Type: new  Abstract: One mistake by an AI system in a safety-critical setting can cost lives. As Large Language Models (LLMs) becom…
-- [WildSci: Advancing Scientific Reasoning from In-the-Wild Literature](https://arxiv.org/abs/2601.05567) — arXiv:2601.05567v1 Announce Type: new  Abstract: Recent progress in large language model (LLM) reasoning has focused on domains like mathematics and coding, wh…
-- [Crisis-Bench: Benchmarking Strategic Ambiguity and Reputation Management in Large Language Models](https://arxiv.org/abs/2601.05570) — arXiv:2601.05570v1 Announce Type: new  Abstract: Standard safety alignment optimizes Large Language Models (LLMs) for universal helpfulness and honesty, effect…
+- [Bridging the Trust Gap: Clinician-Validated Hybrid Explainable AI for Maternal Health Risk Assessment in Bangladesh](https://arxiv.org/abs/2601.07866) — arXiv:2601.07866v1 Announce Type: new  Abstract: While machine learning shows promise for maternal health risk prediction, clinical adoption in resource-constr…
+- [Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling](https://arxiv.org/abs/2601.07964) — arXiv:2601.07964v1 Announce Type: new  Abstract: This paper examines the application of Executable Ontologies (EO), implemented through the boldsea framework,…
+- [When Models Know When They Do Not Know: Calibration, Cascading, and Cleaning](https://arxiv.org/abs/2601.07965) — arXiv:2601.07965v1 Announce Type: new  Abstract: When a model knows when it does not know, many possibilities emerge. The first question is how to enable a mod…
+- [Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety](https://arxiv.org/abs/2601.08000) — arXiv:2601.08000v1 Announce Type: new  Abstract: Ensuring that Large Language Models (LLMs) adhere to safety principles without refusing benign requests remain…
+- [Internal Deployment Gaps in AI Regulation](https://arxiv.org/abs/2601.08005) — arXiv:2601.08005v1 Announce Type: new  Abstract: Frontier AI regulations primarily focus on systems deployed to external users, where deployment is more visibl…
+- [Integrating Attendance Tracking and Emotion Detection for Enhanced Student Engagement in Smart Classrooms](https://arxiv.org/abs/2601.08049) — arXiv:2601.08049v1 Announce Type: new  Abstract: The increasing adoption of smart classroom technologies in higher education has mainly focused on automating a…
+- [Forecast Aware Deep Reinforcement Learning for Efficient Electricity Load Scheduling in Dairy Farms](https://arxiv.org/abs/2601.08052) — arXiv:2601.08052v1 Announce Type: new  Abstract: Dairy farming is an energy intensive sector that relies heavily on grid electricity. With increasing renewable…
+- [A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems](https://arxiv.org/abs/2601.08065) — arXiv:2601.08065v1 Announce Type: new  Abstract: Forward reachability analysis is the predominant approach for verifying reach-avoid properties in neural feedb…
+- [Semantic Gravity Wells: Why Negative Constraints Backfire](https://arxiv.org/abs/2601.08070) — arXiv:2601.08070v1 Announce Type: new  Abstract: Negative constraints (instructions of the form "do not use word X") represent a fundamental test of instructio…
+- [MemoBrain: Executive Memory as an Agentic Brain for Reasoning](https://arxiv.org/abs/2601.08079) — arXiv:2601.08079v1 Announce Type: new  Abstract: Complex reasoning in tool-augmented agent frameworks is inherently long-horizon, causing reasoning traces and…
+- [MirrorBench: An Extensible Framework to Evaluate User-Proxy Agents for Human-Likeness](https://arxiv.org/abs/2601.08118) — arXiv:2601.08118v1 Announce Type: new  Abstract: Large language models (LLMs) are increasingly used as human simulators, both for evaluating conversational sys…
+- [How vehicles change lanes after encountering crashes: Empirical analysis and modeling](https://arxiv.org/abs/2601.08125) — arXiv:2601.08125v1 Announce Type: new  Abstract: When a traffic crash occurs, following vehicles need to change lanes to bypass the obstruction. We define thes…
+- [Embedded AI Companion System on Edge Devices](https://arxiv.org/abs/2601.08128) — arXiv:2601.08128v1 Announce Type: new  Abstract: Computational resource constraints on edge devices make it difficult to develop a fully embedded AI companion…
+- [Project Synapse: A Hierarchical Multi-Agent Framework with Hybrid Memory for Autonomous Resolution of Last-Mile Delivery Disruptions](https://arxiv.org/abs/2601.08156) — arXiv:2601.08156v1 Announce Type: new  Abstract: This paper introduces Project Synapse, a novel agentic framework designed for the autonomous resolution of las…
+- [ZeroDVFS: Zero-Shot LLM-Guided Core and Frequency Allocation for Embedded Platforms](https://arxiv.org/abs/2601.08166) — arXiv:2601.08166v1 Announce Type: new  Abstract: Dynamic voltage and frequency scaling (DVFS) and task-to-core allocation are critical for thermal management a…
 <!--ARXIV:END-->
 
 ## Hugging Face Trending Models
@@ -280,28 +282,28 @@ _Showing cached data from 2025-10-16T23:53:44Z. Refresh failed: Illegal header v
 
 ## GitHub Trending AI/LLM Repos
 <!--GHTREND:START-->
-| Repository                                 |   Stars | Description                                                                                                                                                      |
-|--------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| deepseek-ai/Engram                         |     937 | Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models                                                                         |
-| ZhuLinsen/daily_stock_analysis             |     814 | LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行                                                                                                |
-| zscole/adversarial-spec                    |     359 | A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus.                         |
-| naklecha/simple-llm                        |     316 | ~950 line, minimal, extensible LLM inference engine built from scratch.                                                                                          |
-| sgasser/pasteguard                         |     281 | Privacy proxy for LLMs - masks PII before upstream or routes to local LLM. OpenAI API compatible.                                                                |
-| parcadei/llm-tldr                          |     277 | 95% token savings. 155x faster queries. 16 languages.  LLMs can't read your entire codebase. TLDR extracts structure, traces dependencies, and gives them exact… |
-| ybeven/4D-ARE                              |      74 | Build LLM agents that explain why, not just what. Attribution-driven agent requirements engineering framework. Based on the 4D-ARE Paper - https://arxiv.org/ab… |
-| srvsngh99/genai-testing-journey            |      36 | 52-week journey from QA/SDET to GenAI Testing — learning in public with weekly mini-projects, code, and honest documentation of struggles and wins.              |
-| RUC-NLPIR/EnvScaler                        |      35 | The official implementation of  "EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis".                                     |
-| OpenBMB/AgentCPM                           |      28 | An End-to-End Infrastructure for Training and Evaluating Various LLM Agents                                                                                      |
-| liangdabiao/Reddit_Business_Idea_Validator |      23 | Reddit 生意调研Agent:收集和分析数据来解析市场需求、用户痛点及竞争格局.- 📊 **Reddit 数据抓取**: 自动抓取相关帖子和评论数据（使用用户输入作为搜索关键词） - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告     |
-| meklon/llm_anamnesis                       |      22 | LLM system prompt to gather thorough illness anamnesis                                                                                                           |
-| twwch/AI-Tracker                           |      22 | 本仓库旨在整理关于大语言模型（LLM）底层逻辑、**上下文工程 (Context Engineering)** 以及 **Model Context Protocol (MCP)** 协议的核心学习资源与实战路径。                                                      |
-| bar181/aisp-open-core                      |      19 | AISP (AI Symbolic Programming) v5.1 AI first, spec driven development. A proof-carrying protocol LLMs understand natively without instructions or training. Red… |
-| day50-dev/llcat                            |      17 | cat for LLMs                                                                                                                                                     |
-| nitinvetcha/DeGAML-LLM                     |      17 | DeGAML-LLM: Decoupling Generalization and Adaptation in Meta-Learning for Large Language Models                                                                  |
-| waygeance/AutoATS                          |      17 | AI-powered, ATS-optimized resume builder that tailors resumes to job descriptions using local or cloud LLMs.                                                     |
-| AI4SS/Logical-Phase-Transitions            |      16 | This repository contains the official implementation for the paper "Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning"                  |
-| mullionlabs/mullion-ts                     |      13 | Type-safe LLM context management for TypeScript                                                                                                                  |
-| paolobietolini/gtm-api-for-llms            |      12 | This repository contains a structured, machine-readable reference of the **Google Tag Manager API**, optimized for consumption by **Large Language Models (LLMs… |
+| Repository                                |   Stars | Description                                                                                                                                                      |
+|-------------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| deepseek-ai/Engram                        |    1814 | Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models                                                                         |
+| ZhuLinsen/daily_stock_analysis            |    1189 | LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行                                                                                                |
+| parcadei/llm-tldr                         |     420 | 95% token savings. 155x faster queries. 16 languages.  LLMs can't read your entire codebase. TLDR extracts structure, traces dependencies, and gives them exact… |
+| zscole/adversarial-spec                   |     384 | A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus.                         |
+| naklecha/simple-llm                       |     338 | ~950 line, minimal, extensible LLM inference engine built from scratch.                                                                                          |
+| sgasser/pasteguard                        |     291 | Privacy proxy for LLMs - masks PII before upstream or routes to local LLM. OpenAI API compatible.                                                                |
+| OpenBMB/AgentCPM                          |     134 | An End-to-End Infrastructure for Training and Evaluating Various LLM Agents                                                                                      |
+| ybeven/4D-ARE                             |      91 | Build LLM agents that explain why, not just what. Attribution-driven agent requirements engineering framework. Based on the 4D-ARE Paper - https://arxiv.org/ab… |
+| RUC-NLPIR/EnvScaler                       |      51 | The official implementation of  "EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis".                                     |
+| bar181/aisp-open-core                     |      35 | AISP (AI Symbolic Programming) v5.1 AI first, spec driven development. A proof-carrying protocol LLMs understand natively without instructions or training. Red… |
+| twwch/AI-Tracker                          |      25 | 本仓库旨在整理关于大语言模型（LLM）底层逻辑、**上下文工程 (Context Engineering)** 以及 **Model Context Protocol (MCP)** 协议的核心学习资源与实战路径。                                                      |
+| meklon/llm_anamnesis                      |      22 | LLM system prompt to gather thorough illness anamnesis                                                                                                           |
+| gyunggyung/LLM-Ko-Datasets                |      19 | 🇰🇷 Korean LLM Datasets | Pre-training, SFT, DPO, RLHF, CoT | 한국어 LLM 데이터셋 큐레이션                                                                                   |
+| day50-dev/llcat                           |      18 | cat for LLMs                                                                                                                                                     |
+| AI4SS/Logical-Phase-Transitions           |      17 | This repository contains the official implementation for the paper "Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning"                  |
+| Yorkson-huang/awesome-affective-computing |      14 | A curated list of Affective Computing & Emotion AI: Papers, datasets, and toolkits for Multimodal Emotion Recognition, Emotional Reasoning, and Empathetic LLMs… |
+| ashish141199/permem                       |      14 | Automatic long-term memory for any LLM                                                                                                                           |
+| paolobietolini/gtm-api-for-llms           |      14 | This repository contains a structured, machine-readable reference of the **Google Tag Manager API**, optimized for consumption by **Large Language Models (LLMs… |
+| midnightnow/simplellms                    |      11 | SimpleLLMs - Simple LLM Suite: Five specialized agents for Claude Code (R.A.L.P.H., B.A.R.T., L.I.S.A., M.A.R.G.E., H.O.M.E.R.)                                  |
+| mordechaipotash/brain-canvas              |      10 | Give any LLM its own display. Send JSON, get beautiful interactive UI.                                                                                           |
 <!--GHTREND:END-->
 
 ## Papers with Code — LLM & GenAI
@@ -311,33 +313,37 @@ _Showing cached data from 2025-10-17T00:47:37Z. Refresh failed: Expecting value:
 
 ## Hacker News — AI Highlights
 <!--HN:START-->
-- [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM) — 535 points
-- [Anthropic made a mistake in cutting off third-party clients](https://archaeologist.dev/artifacts/anthropic) — 256 points
-- [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo) — 179 points
-- [Show HN: AI in SolidWorks](https://www.trylad.com) — 144 points
-- [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/) — 126 points
-- [Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://github.com/finbarr/yolobox) — 70 points
-- [Superhuman AI exfiltrates emails](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails) — 43 points
-- [Apple picks Google's Gemini AI for its big Siri upgrade](https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization) — 16 points
-- [Malaysia and Indonesia become the first to block Grok over sexualized AI images](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225) — 9 points
-- [Show HN: AI video generator that outputs React instead of video files](https://ai.outscal.com/) — 5 points
-- [Show HN: AI Motion Control – Transfer any motion to any character with Kling AI](https://aimotioncontrol.app) — 4 points
+- [AI generated music barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/) — 679 points
+- [Anthropic invests $1.5M in the Python Software Foundation](https://discuss.python.org/t/anthropic-has-made-a-large-contribution-to-the-python-software-foundation-and-open-source-security/105694) — 372 points
+- [We can't have nice things because of AI scrapers](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/) — 332 points
+- [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/) — 325 points
+- [Games Workshop bans staff from using AI](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech) — 212 points
+- [The insecure evangelism of LLM maximalists](https://lewiscampbell.tech/blog/260114.html) — 203 points
+- [Mozilla's open source AI strategy](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/) — 183 points
+- [Let's be honest, Generative AI isn't going all that well](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt) — 153 points
+- [FOSS in times of war, scarcity and (adversarial) AI [video]](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/) — 146 points
+- [Instagram AI Influencers Are Defaming Celebrities with Sex Scandals](https://www.404media.co/instagram-ai-influencers-are-defaming-celebrities-with-sex-scandals/) — 104 points
+- [Why we don’t use AI](https://yarnspinner.dev/blog/why-we-dont-use-ai/) — 88 points
+- [Confer – End to end encrypted AI chat](https://confer.to/) — 82 points
+- [Show HN: OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/) — 40 points
+- [AI isn't "just predicting the next word" anymore](https://stevenadler.substack.com/p/ai-isnt-just-predicting-the-next) — 20 points
+- [AI will compromise your cybersecurity posture](https://rys.io/en/181.html) — 15 points
 <!--HN:END-->
 
 ## Latest CVEs (48h)
 <!--CVE:START-->
-| CVE            |   CVSS | Summary                                       |
-|----------------|--------|-----------------------------------------------|
-| MAL-2024-3253  |      0 | Malicious code in ufo-rocks2 (npm)            |
-| MAL-2026-241   |      0 | Malicious code in francium-ui (npm)           |
-| MAL-2026-242   |      0 | Malicious code in francium-utils (npm)        |
-| MAL-2026-243   |      0 | Malicious code in francium-web-visitors (npm) |
-| MAL-2026-244   |      0 | Malicious code in helium-module (npm)         |
-| CVE-2026-22829 |      0 |                                               |
-| CVE-2026-22830 |      0 |                                               |
-| CVE-2026-22831 |      0 |                                               |
-| CVE-2026-22832 |      0 |                                               |
-| CVE-2026-22833 |      0 |                                               |
+| CVE   |   CVSS | Summary   |
+|-------|--------|-----------|
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
+|       |      0 |           |
 <!--CVE:END-->
 
 ## Hugging Face Trending Datasets
